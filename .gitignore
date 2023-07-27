@@ -1,0 +1,6 @@
+elm-stuff
+# holds the colors.json file
+inputs
+
+node_modules
+.DS_Store
