@@ -32,6 +32,7 @@ jobs:
         run: pnpm review
 
       - name: Publish
+        id: publish
         uses: dillonkearns/elm-publish-action@v1
         with:
           dry-run: true
