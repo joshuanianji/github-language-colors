@@ -3,10 +3,8 @@
     "name": "joshuanianji/github-language-colors",
     "summary": "Github language colours in Elm",
     "license": "MIT",
-    "version": "0.0.0",
-    "exposed-modules": [
-        "GithubColors"
-    ],
+    "version": "1.0.0",
+    "exposed-modules": ["GithubColors"],
     "elm-version": "0.19.0 <= v < 0.20.0",
     "dependencies": {
         "avh4/elm-color": "1.0.0 <= v < 2.0.0",
