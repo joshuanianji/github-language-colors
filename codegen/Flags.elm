@@ -95,6 +95,9 @@ type alias Processed =
     { -- processed name
       name : String
 
+    -- the hex color (with default applied)
+    , hex : String
+
     -- parsed "color" information
     , rgb : ( Int, Int, Int )
     }
@@ -104,6 +107,7 @@ processNamed : WithName FlagColor -> Result Error Processed
 processNamed flag =
     Result.Ok Processed
         |> Util.resolve (processName flag.name)
+        |> Util.resolve (Ok <| Maybe.withDefault "#ccc" flag.color)
         -- for languages with no colors, Github defaults to #ccc in most cases
         |> Util.resolve (hexToColor <| Maybe.withDefault "#ccc" flag.color)
 
@@ -194,10 +198,9 @@ hexToColor hex =
 
 {-| Process a language name to be compatible with an Elm Variable
 
-1.  Replace spaces with underscores
-2.  Replace dashes with underscores
+1.  Replace space, dash, period and "'" with underscores
 3.  Convert to lowercase
-4.  If the name starts with a number, prefix it with an underscore
+4.  If the name starts with a number, prefix it with "lang_"
 
 -}
 processName : String -> Result Error String
@@ -208,7 +211,7 @@ processName name =
             case String.uncons n of
                 Just ( c, _ ) ->
                     if Char.isDigit c then
-                        Ok <| "_" ++ n
+                        Ok <| "lang_" ++ n
 
                     else
                         Ok n
@@ -217,7 +220,9 @@ processName name =
                     Err <| Error.emptyName
     in
     name
-        |> String.replace "-" "_"
         |> String.replace " " "_"
+        |> String.replace "-" "_"
+        |> String.replace "." "_"
+        |> String.replace "'" "_"
         |> String.toLower
         |> prefixIfStartsWithNumber
