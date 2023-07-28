@@ -40,9 +40,9 @@ topLevelDoc =
     Elm.comment
         """This module exposes the color values for all supported languages on Github. Color data is taken from [ozh/github-colors](https://github.com/ozh/github-colors).
 
-Each variable corresponds to a github language name, converted to lowercase and with non-alphanumeric characters replaced by underscores. For languages startng with a number (e.g. "4D"), the variable name is prepended by "lang_", to make "lang_4d". 
+Each variable corresponds to a github language name, converted to lowercase and with most non-alphanumeric characters replaced by underscores (exceptions include "c++", "c#", and "f#"). Languages starting with a number gets prefixed by "lang_". For example, "2-Dimensional Array" becomes "lang_2_dimensional_array".
 
-**Github does not have colors for all languages!** For the languages with no colors, I've defaulted to "#ccc". You can programmatically check if a language has a color by using the `.hasColor` method
+**Github does not have colors for all languages!** For the languages with no colors, I've defaulted to "#ccc". You can programmatically check if a language has a color by using the `.hasColor` method.
 
 Each color exposes the following fields:
 - `elmui` - The color as an [elm-ui](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/) `Element.Color`

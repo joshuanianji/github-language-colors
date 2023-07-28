@@ -1,7 +1,7 @@
-module GithubColors exposing (Color, abap, abap_cds, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, ags_script, aidl, al, alloy, alpine_abuild, altium_designer, ampl, angelscript, ant_build_system, antlers, antlr, apacheconf, apex, api_blueprint, apl, apollo_guidance_computer, applescript, arc, asciidoc, asl, asp_net, aspectj, assembly, astro, asymptote, ats, augeas, autohotkey, autoit, avro_idl, awk, ballerina, basic, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, boo, boogie, brainfuck, brighterscript, brightscript, browserslist, c, c#, c++, c2hs_haskell, cabal_config, cadence, cairo, cameligo, cap_cds, cap_n_proto, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clips, clojure, closure_templates, cloud_firestore_security_rules, cmake, cobol, codeql, coffeescript, coldfusion, coldfusion_cfc, collada, common_lisp, common_workflow_language, component_pascal, cool, coq, crystal, cson, csound, csound_document, csound_score, css, csv, cuda, cue, curry, cweb, cycript, cypher, cython, d, d2, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, digital_command_language, directx_3d_file, dm, dockerfile, dogescript, dotenv, dtrace, dylan, e, earthly, easybuild, ec, ecere_projects, ecl, eclipse, ecmarkup, editorconfig, eiffel, ejs, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, eq, erlang, euphoria, f#, f*, factor, fancy, fantom, faust, fennel, figlet_font, filebench_wml, filterscript, fish, fluent, flux, forth, fortran, fortran_free_form, freebasic, freemarker, frege, futhark, g_code, game_maker_language, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, gemfile_lock, gemini, genero, genero_forms, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glsl, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, grammatical_framework, graphql, graphviz_(dot), groovy, groovy_server_pages, gsc, hack, haml, handlebars, haproxy, harbour, haskell, haxe, hcl, hiveql, hlsl, hocon, holyc, hoon, hosts_file, html, html+ecr, html+eex, html+erb, html+php, html+razor, http, hxml, hy, hyphy, idl, idris, ignore_list, igor_pro, imagej_macro, imba, inform_7, ini, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, janet, jar_manifest, jasmin, java, java_properties, java_server_pages, javascript, javascript+erb, jcl, jest_snapshot, jetbrains_mps, jflex, jinja, jison, jison_lex, jolie, jq, json, json5, json_with_comments, jsoniq, jsonld, jsonnet, julia, jupyter_notebook, just, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, krl, kvlang, labview, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, lark, lasso, latte, lean, less, lex, lfe, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livescript, llvm, logos, logtalk, lolcode, lookml, loomscript, lsl, lua, m, m4, m4sugar, macaulay2, makefile, mako, markdown, marko, mask, mathematica, matlab, max, maxscript, mcfunction, mdx, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, mirc_script, mlir, modelica, modula_2, modula_3, module_management_system, monkey, monkey_c, moocode, moonscript, motoko, motorola_68k_assembly, move, mql4, mql5, mtml, muf, mupad, mustache, myghty, nanorc, nasal, nasl, ncl, nearley, nemerle, nesc, netlinx, netlinx+erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, npm_config, nsis, nu, numpy, nunjucks, nushell, nwscript, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, objective_c, objective_c++, objective_j, objectscript, ocaml, odin, omgrofl, ooc, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pddl, peg_js, pep8, perl, php, picolisp, piglatin, pike, plantuml, plpgsql, plsql, pogoscript, polar, pony, portugol, postcss, postscript, pov_ray_sdl, powerbuilder, powershell, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q, q#, qmake, qml, qt_script, quake, r, racket, ragel, raku, raml, rascal, rbs, rdoc, realbasic, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, rescript, restructuredtext, rexx, ring, riot, rmarkdown, robotframework, roff, roff_manpage, rouge, routeros_script, rpc, rpgle, ruby, runoff, rust, sage, saltstack, sas, sass, scala, scaml, scenic, scheme, scilab, scss, sed, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, smali, smalltalk, smarty, smithy, smpl, smt, snakemake, solidity, sourcepawn, sparql, sqf, sql, sqlpl, squirrel, srecode_template, stan, standard_ml, starlark, stata, stl, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, svg, sway, swift, swig, systemverilog, talon, tcl, tcsh, terra, tex, textile, textmate_properties, thrift, ti_program, tl_verilog, tla, toml, tsql, tsv, tsx, turing, twig, txl, typescript, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vala, valve_data_format, vba, vbscript, vcl, velocity_template_language, verilog, vhdl, vim_help_file, vim_script, vim_snippet, visual_basic_6_0, visual_basic__net, volt, vue, vyper, wdl, web_ontology_language, webassembly, webassembly_interface_type, webidl, wgsl, whiley, wikitext, windows_registry_entries, wisp, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xbase, xc, xml, xml_property_list, xojo, xonsh, xproc, xquery, xs, xslt, xtend, yacc, yaml, yara, yasnippet, yul, zap, zeek, zenscript, zephir, zig, zil, zimpl)
+module GithubColors exposing (Color, abap, abap_cds, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, ags_script, aidl, al, alloy, alpine_abuild, altium_designer, ampl, angelscript, ant_build_system, antlers, antlr, apacheconf, apex, api_blueprint, apl, apollo_guidance_computer, applescript, arc, asciidoc, asl, asp_net, aspectj, assembly, astro, asymptote, ats, augeas, autohotkey, autoit, avro_idl, awk, ballerina, basic, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, boo, boogie, brainfuck, brighterscript, brightscript, browserslist, c, c2hs_haskell, c_sharp, cabal_config, cadence, cairo, cameligo, cap_cds, cap_n_proto, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clips, clojure, closure_templates, cloud_firestore_security_rules, cmake, cobol, codeql, coffeescript, coldfusion, coldfusion_cfc, collada, common_lisp, common_workflow_language, component_pascal, cool, coq, cpp, crystal, cson, csound, csound_document, csound_score, css, csv, cuda, cue, curry, cweb, cycript, cypher, cython, d, d2, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, digital_command_language, directx_3d_file, dm, dockerfile, dogescript, dotenv, dtrace, dylan, e, earthly, easybuild, ec, ecere_projects, ecl, eclipse, ecmarkup, editorconfig, eiffel, ejs, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, eq, erlang, euphoria, f_sharp, f_star, factor, fancy, fantom, faust, fennel, figlet_font, filebench_wml, filterscript, fish, fluent, flux, forth, fortran, fortran_free_form, freebasic, freemarker, frege, futhark, g_code, game_maker_language, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, gemfile_lock, gemini, genero, genero_forms, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glsl, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, gsc, hack, haml, handlebars, haproxy, harbour, haskell, haxe, hcl, hiveql, hlsl, hocon, holyc, hoon, hosts_file, html, html+ecr, html+eex, html+erb, html+php, html+razor, http, hxml, hy, hyphy, idl, idris, ignore_list, igor_pro, imagej_macro, imba, inform_7, ini, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, janet, jar_manifest, jasmin, java, java_properties, java_server_pages, javascript, javascript+erb, jcl, jest_snapshot, jetbrains_mps, jflex, jinja, jison, jison_lex, jolie, jq, json, json5, json_with_comments, jsoniq, jsonld, jsonnet, julia, jupyter_notebook, just, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, krl, kvlang, labview, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, lark, lasso, latte, lean, less, lex, lfe, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livescript, llvm, logos, logtalk, lolcode, lookml, loomscript, lsl, lua, m, m4, m4sugar, macaulay2, makefile, mako, markdown, marko, mask, mathematica, matlab, max, maxscript, mcfunction, mdx, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, mirc_script, mlir, modelica, modula_2, modula_3, module_management_system, monkey, monkey_c, moocode, moonscript, motoko, motorola_68k_assembly, move, mql4, mql5, mtml, muf, mupad, mustache, myghty, nanorc, nasal, nasl, ncl, nearley, nemerle, nesc, netlinx, netlinx+erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, npm_config, nsis, nu, numpy, nunjucks, nushell, nwscript, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, objective_c, objective_cpp, objective_j, objectscript, ocaml, odin, omgrofl, ooc, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pddl, peg_js, pep8, perl, php, picolisp, piglatin, pike, plantuml, plpgsql, plsql, pogoscript, polar, pony, portugol, postcss, postscript, pov_ray_sdl, powerbuilder, powershell, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q, q_sharp, qmake, qml, qt_script, quake, r, racket, ragel, raku, raml, rascal, rbs, rdoc, realbasic, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, rescript, restructuredtext, rexx, ring, riot, rmarkdown, robotframework, roff, roff_manpage, rouge, routeros_script, rpc, rpgle, ruby, runoff, rust, sage, saltstack, sas, sass, scala, scaml, scenic, scheme, scilab, scss, sed, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, smali, smalltalk, smarty, smithy, smpl, smt, snakemake, solidity, sourcepawn, sparql, sqf, sql, sqlpl, squirrel, srecode_template, stan, standard_ml, starlark, stata, stl, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, svg, sway, swift, swig, systemverilog, talon, tcl, tcsh, terra, tex, textile, textmate_properties, thrift, ti_program, tl_verilog, tla, toml, tsql, tsv, tsx, turing, twig, txl, typescript, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vala, valve_data_format, vba, vbscript, vcl, velocity_template_language, verilog, vhdl, vim_help_file, vim_script, vim_snippet, visual_basic_6_0, visual_basic__net, volt, vue, vyper, wdl, web_ontology_language, webassembly, webassembly_interface_type, webidl, wgsl, whiley, wikitext, windows_registry_entries, wisp, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xbase, xc, xml, xml_property_list, xojo, xonsh, xproc, xquery, xs, xslt, xtend, yacc, yaml, yara, yasnippet, yul, zap, zeek, zenscript, zephir, zig, zil, zimpl)
 
 {-| 
-@docs Color, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, abap, abap_cds, ags_script, aidl, al, ampl, antlr, api_blueprint, apl, asl, asp_net, ats, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, alloy, alpine_abuild, altium_designer, angelscript, ant_build_system, antlers, apacheconf, apex, apollo_guidance_computer, applescript, arc, asciidoc, aspectj, assembly, astro, asymptote, augeas, autohotkey, autoit, avro_idl, awk, basic, ballerina, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, boo, boogie, brainfuck, brighterscript, brightscript, browserslist, c, c#, c++, c2hs_haskell, cap_cds, clips, cmake, cobol, collada, cson, css, csv, cue, cweb, cabal_config, cadence, cairo, cameligo, cap_n_proto, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clojure, closure_templates, cloud_firestore_security_rules, codeql, coffeescript, coldfusion, coldfusion_cfc, common_lisp, common_workflow_language, component_pascal, cool, coq, crystal, csound, csound_document, csound_score, cuda, curry, cycript, cypher, cython, d, d2, digital_command_language, dm, dtrace, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, directx_3d_file, dockerfile, dogescript, dotenv, dylan, e, ecl, eclipse, ejs, eq, earthly, easybuild, ecere_projects, ecmarkup, editorconfig, eiffel, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, erlang, euphoria, f#, f*, figlet_font, flux, factor, fancy, fantom, faust, fennel, filebench_wml, filterscript, fluent, forth, fortran, fortran_free_form, freebasic, freemarker, frege, futhark, g_code, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, glsl, gsc, game_maker_language, gemfile_lock, gemini, genero, genero_forms, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, grammatical_framework, graphql, graphviz_(dot), groovy, groovy_server_pages, haproxy, hcl, hlsl, hocon, html, html+ecr, html+eex, html+erb, html+php, html+razor, http, hxml, hack, haml, handlebars, harbour, haskell, haxe, hiveql, holyc, hosts_file, hy, hyphy, idl, igor_pro, ini, idris, ignore_list, imagej_macro, imba, inform_7, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, jar_manifest, jcl, jflex, json, json_with_comments, json5, jsonld, jsoniq, janet, jasmin, java, java_properties, java_server_pages, javascript, javascript+erb, jest_snapshot, jetbrains_mps, jinja, jison, jison_lex, jolie, jsonnet, julia, jupyter_notebook, just, krl, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, lfe, llvm, lolcode, lsl, labview, lark, lasso, latte, lean, less, lex, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livescript, logos, logtalk, lookml, loomscript, lua, m, m4, m4sugar, matlab, maxscript, mdx, mlir, mql4, mql5, mtml, muf, macaulay2, makefile, mako, markdown, marko, mask, mathematica, max, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, modelica, modula_2, modula_3, module_management_system, monkey, monkey_c, moocode, moonscript, motoko, motorola_68k_assembly, move, mustache, myghty, nasl, ncl, npm_config, nsis, nwscript, nasal, nearley, nemerle, netlinx, netlinx+erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, nu, numpy, nunjucks, nushell, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, ocaml, objectscript, objective_c, objective_c++, objective_j, odin, omgrofl, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pddl, peg_js, php, plsql, plpgsql, pov_ray_sdl, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pep8, perl, picolisp, piglatin, pike, plantuml, pogoscript, polar, pony, portugol, postcss, postscript, powerbuilder, powershell, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q#, qml, qmake, qt_script, quake, r, raml, rbs, rdoc, realbasic, rexx, rmarkdown, rpc, rpgle, runoff, racket, ragel, raku, rascal, rescript, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, ring, riot, robotframework, roff, roff_manpage, rouge, routeros_script, ruby, rust, sas, scss, smt, sparql, sqf, sql, sqlpl, srecode_template, stl, svg, swig, sage, saltstack, sass, scala, scaml, scenic, scheme, scilab, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, smpl, smali, smalltalk, smarty, smithy, snakemake, solidity, sourcepawn, squirrel, stan, standard_ml, starlark, stata, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, sway, swift, systemverilog, ti_program, tl_verilog, tla, toml, tsql, tsv, tsx, txl, talon, tcl, tcsh, tex, terra, textmate_properties, textile, thrift, turing, twig, typescript, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vba, vbscript, vcl, vhdl, vala, valve_data_format, velocity_template_language, verilog, vim_help_file, vim_script, vim_snippet, visual_basic__net, visual_basic_6_0, volt, vue, vyper, wdl, wgsl, web_ontology_language, webassembly, webassembly_interface_type, webidl, whiley, wikitext, windows_registry_entries, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xc, xml, xml_property_list, xproc, xquery, xs, xslt, xojo, xonsh, xtend, yaml, yara, yasnippet, yacc, yul, zap, zil, zeek, zenscript, zephir, zig, zimpl, ec, fish, hoon, jq, kvlang, mirc_script, mcfunction, mupad, nanorc, nesc, ooc, q, restructuredtext, sed, wisp, xbase
+@docs Color, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, abap, abap_cds, ags_script, aidl, al, ampl, antlr, api_blueprint, apl, asl, asp_net, ats, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, alloy, alpine_abuild, altium_designer, angelscript, ant_build_system, antlers, apacheconf, apex, apollo_guidance_computer, applescript, arc, asciidoc, aspectj, assembly, astro, asymptote, augeas, autohotkey, autoit, avro_idl, awk, basic, ballerina, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, boo, boogie, brainfuck, brighterscript, brightscript, browserslist, c, c_sharp, cpp, c2hs_haskell, cap_cds, clips, cmake, cobol, collada, cson, css, csv, cue, cweb, cabal_config, cadence, cairo, cameligo, cap_n_proto, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clojure, closure_templates, cloud_firestore_security_rules, codeql, coffeescript, coldfusion, coldfusion_cfc, common_lisp, common_workflow_language, component_pascal, cool, coq, crystal, csound, csound_document, csound_score, cuda, curry, cycript, cypher, cython, d, d2, digital_command_language, dm, dtrace, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, directx_3d_file, dockerfile, dogescript, dotenv, dylan, e, ecl, eclipse, ejs, eq, earthly, easybuild, ecere_projects, ecmarkup, editorconfig, eiffel, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, erlang, euphoria, f_sharp, f_star, figlet_font, flux, factor, fancy, fantom, faust, fennel, filebench_wml, filterscript, fluent, forth, fortran, fortran_free_form, freebasic, freemarker, frege, futhark, g_code, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, glsl, gsc, game_maker_language, gemfile_lock, gemini, genero, genero_forms, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, haproxy, hcl, hlsl, hocon, html, html+ecr, html+eex, html+erb, html+php, html+razor, http, hxml, hack, haml, handlebars, harbour, haskell, haxe, hiveql, holyc, hosts_file, hy, hyphy, idl, igor_pro, ini, idris, ignore_list, imagej_macro, imba, inform_7, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, jar_manifest, jcl, jflex, json, json_with_comments, json5, jsonld, jsoniq, janet, jasmin, java, java_properties, java_server_pages, javascript, javascript+erb, jest_snapshot, jetbrains_mps, jinja, jison, jison_lex, jolie, jsonnet, julia, jupyter_notebook, just, krl, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, lfe, llvm, lolcode, lsl, labview, lark, lasso, latte, lean, less, lex, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livescript, logos, logtalk, lookml, loomscript, lua, m, m4, m4sugar, matlab, maxscript, mdx, mlir, mql4, mql5, mtml, muf, macaulay2, makefile, mako, markdown, marko, mask, mathematica, max, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, modelica, modula_2, modula_3, module_management_system, monkey, monkey_c, moocode, moonscript, motoko, motorola_68k_assembly, move, mustache, myghty, nasl, ncl, npm_config, nsis, nwscript, nasal, nearley, nemerle, netlinx, netlinx+erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, nu, numpy, nunjucks, nushell, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, ocaml, objectscript, objective_c, objective_cpp, objective_j, odin, omgrofl, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pddl, peg_js, php, plsql, plpgsql, pov_ray_sdl, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pep8, perl, picolisp, piglatin, pike, plantuml, pogoscript, polar, pony, portugol, postcss, postscript, powerbuilder, powershell, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q_sharp, qml, qmake, qt_script, quake, r, raml, rbs, rdoc, realbasic, rexx, rmarkdown, rpc, rpgle, runoff, racket, ragel, raku, rascal, rescript, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, ring, riot, robotframework, roff, roff_manpage, rouge, routeros_script, ruby, rust, sas, scss, smt, sparql, sqf, sql, sqlpl, srecode_template, stl, svg, swig, sage, saltstack, sass, scala, scaml, scenic, scheme, scilab, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, smpl, smali, smalltalk, smarty, smithy, snakemake, solidity, sourcepawn, squirrel, stan, standard_ml, starlark, stata, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, sway, swift, systemverilog, ti_program, tl_verilog, tla, toml, tsql, tsv, tsx, txl, talon, tcl, tcsh, tex, terra, textmate_properties, textile, thrift, turing, twig, typescript, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vba, vbscript, vcl, vhdl, vala, valve_data_format, velocity_template_language, verilog, vim_help_file, vim_script, vim_snippet, visual_basic__net, visual_basic_6_0, volt, vue, vyper, wdl, wgsl, web_ontology_language, webassembly, webassembly_interface_type, webidl, whiley, wikitext, windows_registry_entries, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xc, xml, xml_property_list, xproc, xquery, xs, xslt, xojo, xonsh, xtend, yaml, yara, yasnippet, yacc, yul, zap, zil, zeek, zenscript, zephir, zig, zimpl, ec, fish, hoon, jq, kvlang, mirc_script, mcfunction, mupad, nanorc, nesc, ooc, q, restructuredtext, sed, wisp, xbase
 -}
 
 
@@ -11,9 +11,9 @@ import Element
 
 {- This module exposes the color values for all supported languages on Github. Color data is taken from [ozh/github-colors](https://github.com/ozh/github-colors).
 
-Each variable corresponds to a github language name, converted to lowercase and with non-alphanumeric characters replaced by underscores. For languages startng with a number (e.g. "4D"), the variable name is prepended by "lang_", to make "lang_4d".
+Each variable corresponds to a github language name, converted to lowercase and with most non-alphanumeric characters replaced by underscores (exceptions include "c++", "c#", and "f#"). For example, "2-Dimensional Array" becomes "lang_2_dimensional_array".
 
-**Github does not have colors for all languages!** For the languages with no colors, I've defaulted to "#ccc". 
+**Github does not have colors for all languages!** For the languages with no colors, I've defaulted to "#ccc". You can programmatically check if a language has a color by using the `.hasColor` method
 
 Each color exposes the following fields:
 - `elmui` - The color as an [elm-ui](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/) `Element.Color`
@@ -32,6 +32,7 @@ type alias Color =
     , color : Color.Color
     , hex : String
     , rgb : ( Int, Int, Int )
+    , hasColor : Bool
     }
 
 
@@ -42,6 +43,7 @@ lang_1c_enterprise =
     , color = Color.rgb255 129 76 204
     , hex = "#814CCC"
     , rgb = ( 129, 76, 204 )
+    , hasColor = True
     }
 
 
@@ -52,6 +54,7 @@ lang_2_dimensional_array =
     , color = Color.rgb255 56 118 29
     , hex = "#38761D"
     , rgb = ( 56, 118, 29 )
+    , hasColor = True
     }
 
 
@@ -62,6 +65,7 @@ lang_4d =
     , color = Color.rgb255 0 66 137
     , hex = "#004289"
     , rgb = ( 0, 66, 137 )
+    , hasColor = True
     }
 
 
@@ -72,6 +76,7 @@ abap =
     , color = Color.rgb255 232 39 75
     , hex = "#E8274B"
     , rgb = ( 232, 39, 75 )
+    , hasColor = True
     }
 
 
@@ -82,6 +87,7 @@ abap_cds =
     , color = Color.rgb255 85 94 37
     , hex = "#555e25"
     , rgb = ( 85, 94, 37 )
+    , hasColor = True
     }
 
 
@@ -92,6 +98,7 @@ ags_script =
     , color = Color.rgb255 185 217 255
     , hex = "#B9D9FF"
     , rgb = ( 185, 217, 255 )
+    , hasColor = True
     }
 
 
@@ -102,6 +109,7 @@ aidl =
     , color = Color.rgb255 52 235 107
     , hex = "#34EB6B"
     , rgb = ( 52, 235, 107 )
+    , hasColor = True
     }
 
 
@@ -112,6 +120,7 @@ al =
     , color = Color.rgb255 58 162 181
     , hex = "#3AA2B5"
     , rgb = ( 58, 162, 181 )
+    , hasColor = True
     }
 
 
@@ -122,6 +131,7 @@ ampl =
     , color = Color.rgb255 230 239 187
     , hex = "#E6EFBB"
     , rgb = ( 230, 239, 187 )
+    , hasColor = True
     }
 
 
@@ -132,6 +142,7 @@ antlr =
     , color = Color.rgb255 157 195 255
     , hex = "#9DC3FF"
     , rgb = ( 157, 195, 255 )
+    , hasColor = True
     }
 
 
@@ -142,6 +153,7 @@ api_blueprint =
     , color = Color.rgb255 42 204 168
     , hex = "#2ACCA8"
     , rgb = ( 42, 204, 168 )
+    , hasColor = True
     }
 
 
@@ -152,6 +164,7 @@ apl =
     , color = Color.rgb255 90 129 100
     , hex = "#5A8164"
     , rgb = ( 90, 129, 100 )
+    , hasColor = True
     }
 
 
@@ -162,6 +175,7 @@ asl =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -172,6 +186,7 @@ asp_net =
     , color = Color.rgb255 148 0 255
     , hex = "#9400ff"
     , rgb = ( 148, 0, 255 )
+    , hasColor = True
     }
 
 
@@ -182,6 +197,7 @@ ats =
     , color = Color.rgb255 26 198 32
     , hex = "#1ac620"
     , rgb = ( 26, 198, 32 )
+    , hasColor = True
     }
 
 
@@ -192,6 +208,7 @@ actionscript =
     , color = Color.rgb255 136 43 15
     , hex = "#882B0F"
     , rgb = ( 136, 43, 15 )
+    , hasColor = True
     }
 
 
@@ -202,6 +219,7 @@ ada =
     , color = Color.rgb255 2 248 140
     , hex = "#02f88c"
     , rgb = ( 2, 248, 140 )
+    , hasColor = True
     }
 
 
@@ -212,6 +230,7 @@ adblock_filter_list =
     , color = Color.rgb255 128 0 0
     , hex = "#800000"
     , rgb = ( 128, 0, 0 )
+    , hasColor = True
     }
 
 
@@ -222,6 +241,7 @@ adobe_font_metrics =
     , color = Color.rgb255 250 15 0
     , hex = "#fa0f00"
     , rgb = ( 250, 15, 0 )
+    , hasColor = True
     }
 
 
@@ -232,6 +252,7 @@ agda =
     , color = Color.rgb255 49 86 101
     , hex = "#315665"
     , rgb = ( 49, 86, 101 )
+    , hasColor = True
     }
 
 
@@ -242,6 +263,7 @@ alloy =
     , color = Color.rgb255 100 200 0
     , hex = "#64C800"
     , rgb = ( 100, 200, 0 )
+    , hasColor = True
     }
 
 
@@ -252,6 +274,7 @@ alpine_abuild =
     , color = Color.rgb255 13 89 127
     , hex = "#0D597F"
     , rgb = ( 13, 89, 127 )
+    , hasColor = True
     }
 
 
@@ -262,6 +285,7 @@ altium_designer =
     , color = Color.rgb255 168 150 99
     , hex = "#A89663"
     , rgb = ( 168, 150, 99 )
+    , hasColor = True
     }
 
 
@@ -272,6 +296,7 @@ angelscript =
     , color = Color.rgb255 199 215 220
     , hex = "#C7D7DC"
     , rgb = ( 199, 215, 220 )
+    , hasColor = True
     }
 
 
@@ -282,6 +307,7 @@ ant_build_system =
     , color = Color.rgb255 169 21 126
     , hex = "#A9157E"
     , rgb = ( 169, 21, 126 )
+    , hasColor = True
     }
 
 
@@ -292,6 +318,7 @@ antlers =
     , color = Color.rgb255 255 38 158
     , hex = "#ff269e"
     , rgb = ( 255, 38, 158 )
+    , hasColor = True
     }
 
 
@@ -302,6 +329,7 @@ apacheconf =
     , color = Color.rgb255 209 33 39
     , hex = "#d12127"
     , rgb = ( 209, 33, 39 )
+    , hasColor = True
     }
 
 
@@ -312,6 +340,7 @@ apex =
     , color = Color.rgb255 23 151 192
     , hex = "#1797c0"
     , rgb = ( 23, 151, 192 )
+    , hasColor = True
     }
 
 
@@ -322,6 +351,7 @@ apollo_guidance_computer =
     , color = Color.rgb255 11 61 145
     , hex = "#0B3D91"
     , rgb = ( 11, 61, 145 )
+    , hasColor = True
     }
 
 
@@ -332,6 +362,7 @@ applescript =
     , color = Color.rgb255 16 31 31
     , hex = "#101F1F"
     , rgb = ( 16, 31, 31 )
+    , hasColor = True
     }
 
 
@@ -342,6 +373,7 @@ arc =
     , color = Color.rgb255 170 42 254
     , hex = "#aa2afe"
     , rgb = ( 170, 42, 254 )
+    , hasColor = True
     }
 
 
@@ -352,6 +384,7 @@ asciidoc =
     , color = Color.rgb255 115 160 197
     , hex = "#73a0c5"
     , rgb = ( 115, 160, 197 )
+    , hasColor = True
     }
 
 
@@ -362,6 +395,7 @@ aspectj =
     , color = Color.rgb255 169 87 176
     , hex = "#a957b0"
     , rgb = ( 169, 87, 176 )
+    , hasColor = True
     }
 
 
@@ -372,6 +406,7 @@ assembly =
     , color = Color.rgb255 110 76 19
     , hex = "#6E4C13"
     , rgb = ( 110, 76, 19 )
+    , hasColor = True
     }
 
 
@@ -382,6 +417,7 @@ astro =
     , color = Color.rgb255 255 90 3
     , hex = "#ff5a03"
     , rgb = ( 255, 90, 3 )
+    , hasColor = True
     }
 
 
@@ -392,6 +428,7 @@ asymptote =
     , color = Color.rgb255 255 0 0
     , hex = "#ff0000"
     , rgb = ( 255, 0, 0 )
+    , hasColor = True
     }
 
 
@@ -402,6 +439,7 @@ augeas =
     , color = Color.rgb255 156 193 52
     , hex = "#9CC134"
     , rgb = ( 156, 193, 52 )
+    , hasColor = True
     }
 
 
@@ -412,6 +450,7 @@ autohotkey =
     , color = Color.rgb255 101 148 185
     , hex = "#6594b9"
     , rgb = ( 101, 148, 185 )
+    , hasColor = True
     }
 
 
@@ -422,6 +461,7 @@ autoit =
     , color = Color.rgb255 28 53 82
     , hex = "#1C3552"
     , rgb = ( 28, 53, 82 )
+    , hasColor = True
     }
 
 
@@ -432,6 +472,7 @@ avro_idl =
     , color = Color.rgb255 0 64 255
     , hex = "#0040FF"
     , rgb = ( 0, 64, 255 )
+    , hasColor = True
     }
 
 
@@ -442,6 +483,7 @@ awk =
     , color = Color.rgb255 195 14 155
     , hex = "#c30e9b"
     , rgb = ( 195, 14, 155 )
+    , hasColor = True
     }
 
 
@@ -452,6 +494,7 @@ basic =
     , color = Color.rgb255 255 0 0
     , hex = "#ff0000"
     , rgb = ( 255, 0, 0 )
+    , hasColor = True
     }
 
 
@@ -462,6 +505,7 @@ ballerina =
     , color = Color.rgb255 255 80 0
     , hex = "#FF5000"
     , rgb = ( 255, 80, 0 )
+    , hasColor = True
     }
 
 
@@ -472,6 +516,7 @@ batchfile =
     , color = Color.rgb255 193 241 46
     , hex = "#C1F12E"
     , rgb = ( 193, 241, 46 )
+    , hasColor = True
     }
 
 
@@ -482,6 +527,7 @@ beef =
     , color = Color.rgb255 165 47 78
     , hex = "#a52f4e"
     , rgb = ( 165, 47, 78 )
+    , hasColor = True
     }
 
 
@@ -492,6 +538,7 @@ befunge =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -502,6 +549,7 @@ berry =
     , color = Color.rgb255 21 161 60
     , hex = "#15A13C"
     , rgb = ( 21, 161, 60 )
+    , hasColor = True
     }
 
 
@@ -512,6 +560,7 @@ bibtex =
     , color = Color.rgb255 119 136 153
     , hex = "#778899"
     , rgb = ( 119, 136, 153 )
+    , hasColor = True
     }
 
 
@@ -522,6 +571,7 @@ bicep =
     , color = Color.rgb255 81 154 186
     , hex = "#519aba"
     , rgb = ( 81, 154, 186 )
+    , hasColor = True
     }
 
 
@@ -532,6 +582,7 @@ bikeshed =
     , color = Color.rgb255 85 98 172
     , hex = "#5562ac"
     , rgb = ( 85, 98, 172 )
+    , hasColor = True
     }
 
 
@@ -542,6 +593,7 @@ bison =
     , color = Color.rgb255 106 70 63
     , hex = "#6A463F"
     , rgb = ( 106, 70, 63 )
+    , hasColor = True
     }
 
 
@@ -552,6 +604,7 @@ bitbake =
     , color = Color.rgb255 0 188 228
     , hex = "#00bce4"
     , rgb = ( 0, 188, 228 )
+    , hasColor = True
     }
 
 
@@ -562,6 +615,7 @@ blade =
     , color = Color.rgb255 247 82 63
     , hex = "#f7523f"
     , rgb = ( 247, 82, 63 )
+    , hasColor = True
     }
 
 
@@ -572,6 +626,7 @@ blitzbasic =
     , color = Color.rgb255 0 255 174
     , hex = "#00FFAE"
     , rgb = ( 0, 255, 174 )
+    , hasColor = True
     }
 
 
@@ -582,6 +637,7 @@ blitzmax =
     , color = Color.rgb255 205 100 0
     , hex = "#cd6400"
     , rgb = ( 205, 100, 0 )
+    , hasColor = True
     }
 
 
@@ -592,6 +648,7 @@ bluespec =
     , color = Color.rgb255 18 34 60
     , hex = "#12223c"
     , rgb = ( 18, 34, 60 )
+    , hasColor = True
     }
 
 
@@ -602,6 +659,7 @@ boo =
     , color = Color.rgb255 212 190 193
     , hex = "#d4bec1"
     , rgb = ( 212, 190, 193 )
+    , hasColor = True
     }
 
 
@@ -612,6 +670,7 @@ boogie =
     , color = Color.rgb255 200 15 160
     , hex = "#c80fa0"
     , rgb = ( 200, 15, 160 )
+    , hasColor = True
     }
 
 
@@ -622,6 +681,7 @@ brainfuck =
     , color = Color.rgb255 47 37 48
     , hex = "#2F2530"
     , rgb = ( 47, 37, 48 )
+    , hasColor = True
     }
 
 
@@ -632,6 +692,7 @@ brighterscript =
     , color = Color.rgb255 102 170 187
     , hex = "#66AABB"
     , rgb = ( 102, 170, 187 )
+    , hasColor = True
     }
 
 
@@ -642,6 +703,7 @@ brightscript =
     , color = Color.rgb255 102 45 145
     , hex = "#662D91"
     , rgb = ( 102, 45, 145 )
+    , hasColor = True
     }
 
 
@@ -652,6 +714,7 @@ browserslist =
     , color = Color.rgb255 255 213 57
     , hex = "#ffd539"
     , rgb = ( 255, 213, 57 )
+    , hasColor = True
     }
 
 
@@ -662,26 +725,29 @@ c =
     , color = Color.rgb255 85 85 85
     , hex = "#555555"
     , rgb = ( 85, 85, 85 )
+    , hasColor = True
     }
 
 
 {-| Github language color for 'C#' -}
-c# : Color
-c# =
+c_sharp : Color
+c_sharp =
     { elmui = Element.rgb255 23 134 0
     , color = Color.rgb255 23 134 0
     , hex = "#178600"
     , rgb = ( 23, 134, 0 )
+    , hasColor = True
     }
 
 
 {-| Github language color for 'C++' -}
-c++ : Color
-c++ =
+cpp : Color
+cpp =
     { elmui = Element.rgb255 243 75 125
     , color = Color.rgb255 243 75 125
     , hex = "#f34b7d"
     , rgb = ( 243, 75, 125 )
+    , hasColor = True
     }
 
 
@@ -692,6 +758,7 @@ c2hs_haskell =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -702,6 +769,7 @@ cap_cds =
     , color = Color.rgb255 0 146 209
     , hex = "#0092d1"
     , rgb = ( 0, 146, 209 )
+    , hasColor = True
     }
 
 
@@ -712,6 +780,7 @@ clips =
     , color = Color.rgb255 0 163 0
     , hex = "#00A300"
     , rgb = ( 0, 163, 0 )
+    , hasColor = True
     }
 
 
@@ -722,6 +791,7 @@ cmake =
     , color = Color.rgb255 218 52 52
     , hex = "#DA3434"
     , rgb = ( 218, 52, 52 )
+    , hasColor = True
     }
 
 
@@ -732,6 +802,7 @@ cobol =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -742,6 +813,7 @@ collada =
     , color = Color.rgb255 241 164 43
     , hex = "#F1A42B"
     , rgb = ( 241, 164, 43 )
+    , hasColor = True
     }
 
 
@@ -752,6 +824,7 @@ cson =
     , color = Color.rgb255 36 71 118
     , hex = "#244776"
     , rgb = ( 36, 71, 118 )
+    , hasColor = True
     }
 
 
@@ -762,6 +835,7 @@ css =
     , color = Color.rgb255 86 61 124
     , hex = "#563d7c"
     , rgb = ( 86, 61, 124 )
+    , hasColor = True
     }
 
 
@@ -772,6 +846,7 @@ csv =
     , color = Color.rgb255 35 115 70
     , hex = "#237346"
     , rgb = ( 35, 115, 70 )
+    , hasColor = True
     }
 
 
@@ -782,6 +857,7 @@ cue =
     , color = Color.rgb255 88 134 225
     , hex = "#5886E1"
     , rgb = ( 88, 134, 225 )
+    , hasColor = True
     }
 
 
@@ -792,6 +868,7 @@ cweb =
     , color = Color.rgb255 0 0 122
     , hex = "#00007a"
     , rgb = ( 0, 0, 122 )
+    , hasColor = True
     }
 
 
@@ -802,6 +879,7 @@ cabal_config =
     , color = Color.rgb255 72 52 101
     , hex = "#483465"
     , rgb = ( 72, 52, 101 )
+    , hasColor = True
     }
 
 
@@ -812,6 +890,7 @@ cadence =
     , color = Color.rgb255 0 239 139
     , hex = "#00ef8b"
     , rgb = ( 0, 239, 139 )
+    , hasColor = True
     }
 
 
@@ -822,6 +901,7 @@ cairo =
     , color = Color.rgb255 255 74 72
     , hex = "#ff4a48"
     , rgb = ( 255, 74, 72 )
+    , hasColor = True
     }
 
 
@@ -832,6 +912,7 @@ cameligo =
     , color = Color.rgb255 59 225 51
     , hex = "#3be133"
     , rgb = ( 59, 225, 51 )
+    , hasColor = True
     }
 
 
@@ -842,6 +923,7 @@ cap_n_proto =
     , color = Color.rgb255 196 39 39
     , hex = "#c42727"
     , rgb = ( 196, 39, 39 )
+    , hasColor = True
     }
 
 
@@ -852,6 +934,7 @@ cartocss =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -862,6 +945,7 @@ ceylon =
     , color = Color.rgb255 223 165 53
     , hex = "#dfa535"
     , rgb = ( 223, 165, 53 )
+    , hasColor = True
     }
 
 
@@ -872,6 +956,7 @@ chapel =
     , color = Color.rgb255 141 198 63
     , hex = "#8dc63f"
     , rgb = ( 141, 198, 63 )
+    , hasColor = True
     }
 
 
@@ -882,6 +967,7 @@ charity =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -892,6 +978,7 @@ chuck =
     , color = Color.rgb255 63 128 0
     , hex = "#3f8000"
     , rgb = ( 63, 128, 0 )
+    , hasColor = True
     }
 
 
@@ -902,6 +989,7 @@ circom =
     , color = Color.rgb255 112 117 117
     , hex = "#707575"
     , rgb = ( 112, 117, 117 )
+    , hasColor = True
     }
 
 
@@ -912,6 +1000,7 @@ cirru =
     , color = Color.rgb255 204 204 255
     , hex = "#ccccff"
     , rgb = ( 204, 204, 255 )
+    , hasColor = True
     }
 
 
@@ -922,6 +1011,7 @@ clarion =
     , color = Color.rgb255 219 144 30
     , hex = "#db901e"
     , rgb = ( 219, 144, 30 )
+    , hasColor = True
     }
 
 
@@ -932,6 +1022,7 @@ clarity =
     , color = Color.rgb255 85 70 255
     , hex = "#5546ff"
     , rgb = ( 85, 70, 255 )
+    , hasColor = True
     }
 
 
@@ -942,6 +1033,7 @@ classic_asp =
     , color = Color.rgb255 106 64 253
     , hex = "#6a40fd"
     , rgb = ( 106, 64, 253 )
+    , hasColor = True
     }
 
 
@@ -952,6 +1044,7 @@ clean =
     , color = Color.rgb255 63 133 175
     , hex = "#3F85AF"
     , rgb = ( 63, 133, 175 )
+    , hasColor = True
     }
 
 
@@ -962,6 +1055,7 @@ click =
     , color = Color.rgb255 228 230 243
     , hex = "#E4E6F3"
     , rgb = ( 228, 230, 243 )
+    , hasColor = True
     }
 
 
@@ -972,6 +1066,7 @@ clojure =
     , color = Color.rgb255 219 88 85
     , hex = "#db5855"
     , rgb = ( 219, 88, 85 )
+    , hasColor = True
     }
 
 
@@ -982,6 +1077,7 @@ closure_templates =
     , color = Color.rgb255 13 148 143
     , hex = "#0d948f"
     , rgb = ( 13, 148, 143 )
+    , hasColor = True
     }
 
 
@@ -992,6 +1088,7 @@ cloud_firestore_security_rules =
     , color = Color.rgb255 255 160 0
     , hex = "#FFA000"
     , rgb = ( 255, 160, 0 )
+    , hasColor = True
     }
 
 
@@ -1002,6 +1099,7 @@ codeql =
     , color = Color.rgb255 20 15 70
     , hex = "#140f46"
     , rgb = ( 20, 15, 70 )
+    , hasColor = True
     }
 
 
@@ -1012,6 +1110,7 @@ coffeescript =
     , color = Color.rgb255 36 71 118
     , hex = "#244776"
     , rgb = ( 36, 71, 118 )
+    , hasColor = True
     }
 
 
@@ -1022,6 +1121,7 @@ coldfusion =
     , color = Color.rgb255 237 44 214
     , hex = "#ed2cd6"
     , rgb = ( 237, 44, 214 )
+    , hasColor = True
     }
 
 
@@ -1032,6 +1132,7 @@ coldfusion_cfc =
     , color = Color.rgb255 237 44 214
     , hex = "#ed2cd6"
     , rgb = ( 237, 44, 214 )
+    , hasColor = True
     }
 
 
@@ -1042,6 +1143,7 @@ common_lisp =
     , color = Color.rgb255 63 182 139
     , hex = "#3fb68b"
     , rgb = ( 63, 182, 139 )
+    , hasColor = True
     }
 
 
@@ -1052,6 +1154,7 @@ common_workflow_language =
     , color = Color.rgb255 181 49 76
     , hex = "#B5314C"
     , rgb = ( 181, 49, 76 )
+    , hasColor = True
     }
 
 
@@ -1062,6 +1165,7 @@ component_pascal =
     , color = Color.rgb255 176 206 78
     , hex = "#B0CE4E"
     , rgb = ( 176, 206, 78 )
+    , hasColor = True
     }
 
 
@@ -1072,6 +1176,7 @@ cool =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -1082,6 +1187,7 @@ coq =
     , color = Color.rgb255 208 182 140
     , hex = "#d0b68c"
     , rgb = ( 208, 182, 140 )
+    , hasColor = True
     }
 
 
@@ -1092,6 +1198,7 @@ crystal =
     , color = Color.rgb255 0 1 0
     , hex = "#000100"
     , rgb = ( 0, 1, 0 )
+    , hasColor = True
     }
 
 
@@ -1102,6 +1209,7 @@ csound =
     , color = Color.rgb255 26 26 26
     , hex = "#1a1a1a"
     , rgb = ( 26, 26, 26 )
+    , hasColor = True
     }
 
 
@@ -1112,6 +1220,7 @@ csound_document =
     , color = Color.rgb255 26 26 26
     , hex = "#1a1a1a"
     , rgb = ( 26, 26, 26 )
+    , hasColor = True
     }
 
 
@@ -1122,6 +1231,7 @@ csound_score =
     , color = Color.rgb255 26 26 26
     , hex = "#1a1a1a"
     , rgb = ( 26, 26, 26 )
+    , hasColor = True
     }
 
 
@@ -1132,6 +1242,7 @@ cuda =
     , color = Color.rgb255 58 78 58
     , hex = "#3A4E3A"
     , rgb = ( 58, 78, 58 )
+    , hasColor = True
     }
 
 
@@ -1142,6 +1253,7 @@ curry =
     , color = Color.rgb255 83 18 66
     , hex = "#531242"
     , rgb = ( 83, 18, 66 )
+    , hasColor = True
     }
 
 
@@ -1152,6 +1264,7 @@ cycript =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -1162,6 +1275,7 @@ cypher =
     , color = Color.rgb255 52 192 235
     , hex = "#34c0eb"
     , rgb = ( 52, 192, 235 )
+    , hasColor = True
     }
 
 
@@ -1172,6 +1286,7 @@ cython =
     , color = Color.rgb255 254 223 91
     , hex = "#fedf5b"
     , rgb = ( 254, 223, 91 )
+    , hasColor = True
     }
 
 
@@ -1182,6 +1297,7 @@ d =
     , color = Color.rgb255 186 89 94
     , hex = "#ba595e"
     , rgb = ( 186, 89, 94 )
+    , hasColor = True
     }
 
 
@@ -1192,6 +1308,7 @@ d2 =
     , color = Color.rgb255 82 110 232
     , hex = "#526ee8"
     , rgb = ( 82, 110, 232 )
+    , hasColor = True
     }
 
 
@@ -1202,6 +1319,7 @@ digital_command_language =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -1212,6 +1330,7 @@ dm =
     , color = Color.rgb255 68 114 101
     , hex = "#447265"
     , rgb = ( 68, 114, 101 )
+    , hasColor = True
     }
 
 
@@ -1222,6 +1341,7 @@ dtrace =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -1232,6 +1352,7 @@ dafny =
     , color = Color.rgb255 255 236 37
     , hex = "#FFEC25"
     , rgb = ( 255, 236, 37 )
+    , hasColor = True
     }
 
 
@@ -1242,6 +1363,7 @@ darcs_patch =
     , color = Color.rgb255 142 255 35
     , hex = "#8eff23"
     , rgb = ( 142, 255, 35 )
+    , hasColor = True
     }
 
 
@@ -1252,6 +1374,7 @@ dart =
     , color = Color.rgb255 0 180 171
     , hex = "#00B4AB"
     , rgb = ( 0, 180, 171 )
+    , hasColor = True
     }
 
 
@@ -1262,6 +1385,7 @@ dataweave =
     , color = Color.rgb255 0 58 82
     , hex = "#003a52"
     , rgb = ( 0, 58, 82 )
+    , hasColor = True
     }
 
 
@@ -1272,6 +1396,7 @@ debian_package_control_file =
     , color = Color.rgb255 215 7 81
     , hex = "#D70751"
     , rgb = ( 215, 7, 81 )
+    , hasColor = True
     }
 
 
@@ -1282,6 +1407,7 @@ denizenscript =
     , color = Color.rgb255 251 238 150
     , hex = "#FBEE96"
     , rgb = ( 251, 238, 150 )
+    , hasColor = True
     }
 
 
@@ -1292,6 +1418,7 @@ dhall =
     , color = Color.rgb255 223 175 255
     , hex = "#dfafff"
     , rgb = ( 223, 175, 255 )
+    , hasColor = True
     }
 
 
@@ -1302,6 +1429,7 @@ directx_3d_file =
     , color = Color.rgb255 170 206 96
     , hex = "#aace60"
     , rgb = ( 170, 206, 96 )
+    , hasColor = True
     }
 
 
@@ -1312,6 +1440,7 @@ dockerfile =
     , color = Color.rgb255 56 77 84
     , hex = "#384d54"
     , rgb = ( 56, 77, 84 )
+    , hasColor = True
     }
 
 
@@ -1322,6 +1451,7 @@ dogescript =
     , color = Color.rgb255 204 167 96
     , hex = "#cca760"
     , rgb = ( 204, 167, 96 )
+    , hasColor = True
     }
 
 
@@ -1332,6 +1462,7 @@ dotenv =
     , color = Color.rgb255 229 213 89
     , hex = "#e5d559"
     , rgb = ( 229, 213, 89 )
+    , hasColor = True
     }
 
 
@@ -1342,6 +1473,7 @@ dylan =
     , color = Color.rgb255 108 97 110
     , hex = "#6c616e"
     , rgb = ( 108, 97, 110 )
+    , hasColor = True
     }
 
 
@@ -1352,6 +1484,7 @@ e =
     , color = Color.rgb255 204 206 53
     , hex = "#ccce35"
     , rgb = ( 204, 206, 53 )
+    , hasColor = True
     }
 
 
@@ -1362,6 +1495,7 @@ ecl =
     , color = Color.rgb255 138 18 103
     , hex = "#8a1267"
     , rgb = ( 138, 18, 103 )
+    , hasColor = True
     }
 
 
@@ -1372,6 +1506,7 @@ eclipse =
     , color = Color.rgb255 0 29 157
     , hex = "#001d9d"
     , rgb = ( 0, 29, 157 )
+    , hasColor = True
     }
 
 
@@ -1382,6 +1517,7 @@ ejs =
     , color = Color.rgb255 169 30 80
     , hex = "#a91e50"
     , rgb = ( 169, 30, 80 )
+    , hasColor = True
     }
 
 
@@ -1392,6 +1528,7 @@ eq =
     , color = Color.rgb255 167 134 73
     , hex = "#a78649"
     , rgb = ( 167, 134, 73 )
+    , hasColor = True
     }
 
 
@@ -1402,6 +1539,7 @@ earthly =
     , color = Color.rgb255 42 240 255
     , hex = "#2af0ff"
     , rgb = ( 42, 240, 255 )
+    , hasColor = True
     }
 
 
@@ -1412,6 +1550,7 @@ easybuild =
     , color = Color.rgb255 6 148 6
     , hex = "#069406"
     , rgb = ( 6, 148, 6 )
+    , hasColor = True
     }
 
 
@@ -1422,6 +1561,7 @@ ecere_projects =
     , color = Color.rgb255 145 57 96
     , hex = "#913960"
     , rgb = ( 145, 57, 96 )
+    , hasColor = True
     }
 
 
@@ -1432,6 +1572,7 @@ ecmarkup =
     , color = Color.rgb255 235 129 49
     , hex = "#eb8131"
     , rgb = ( 235, 129, 49 )
+    , hasColor = True
     }
 
 
@@ -1442,6 +1583,7 @@ editorconfig =
     , color = Color.rgb255 255 241 242
     , hex = "#fff1f2"
     , rgb = ( 255, 241, 242 )
+    , hasColor = True
     }
 
 
@@ -1452,6 +1594,7 @@ eiffel =
     , color = Color.rgb255 77 105 119
     , hex = "#4d6977"
     , rgb = ( 77, 105, 119 )
+    , hasColor = True
     }
 
 
@@ -1462,6 +1605,7 @@ elixir =
     , color = Color.rgb255 110 74 126
     , hex = "#6e4a7e"
     , rgb = ( 110, 74, 126 )
+    , hasColor = True
     }
 
 
@@ -1472,6 +1616,7 @@ elm =
     , color = Color.rgb255 96 181 204
     , hex = "#60B5CC"
     , rgb = ( 96, 181, 204 )
+    , hasColor = True
     }
 
 
@@ -1482,6 +1627,7 @@ elvish =
     , color = Color.rgb255 85 187 85
     , hex = "#55BB55"
     , rgb = ( 85, 187, 85 )
+    , hasColor = True
     }
 
 
@@ -1492,6 +1638,7 @@ elvish_transcript =
     , color = Color.rgb255 85 187 85
     , hex = "#55BB55"
     , rgb = ( 85, 187, 85 )
+    , hasColor = True
     }
 
 
@@ -1502,6 +1649,7 @@ emacs_lisp =
     , color = Color.rgb255 192 101 219
     , hex = "#c065db"
     , rgb = ( 192, 101, 219 )
+    , hasColor = True
     }
 
 
@@ -1512,6 +1660,7 @@ emberscript =
     , color = Color.rgb255 255 244 243
     , hex = "#FFF4F3"
     , rgb = ( 255, 244, 243 )
+    , hasColor = True
     }
 
 
@@ -1522,6 +1671,7 @@ erlang =
     , color = Color.rgb255 184 57 152
     , hex = "#B83998"
     , rgb = ( 184, 57, 152 )
+    , hasColor = True
     }
 
 
@@ -1532,26 +1682,29 @@ euphoria =
     , color = Color.rgb255 255 121 11
     , hex = "#FF790B"
     , rgb = ( 255, 121, 11 )
+    , hasColor = True
     }
 
 
 {-| Github language color for 'F#' -}
-f# : Color
-f# =
+f_sharp : Color
+f_sharp =
     { elmui = Element.rgb255 184 69 252
     , color = Color.rgb255 184 69 252
     , hex = "#b845fc"
     , rgb = ( 184, 69, 252 )
+    , hasColor = True
     }
 
 
 {-| Github language color for 'F*' -}
-f* : Color
-f* =
+f_star : Color
+f_star =
     { elmui = Element.rgb255 87 46 48
     , color = Color.rgb255 87 46 48
     , hex = "#572e30"
     , rgb = ( 87, 46, 48 )
+    , hasColor = True
     }
 
 
@@ -1562,6 +1715,7 @@ figlet_font =
     , color = Color.rgb255 255 221 187
     , hex = "#FFDDBB"
     , rgb = ( 255, 221, 187 )
+    , hasColor = True
     }
 
 
@@ -1572,6 +1726,7 @@ flux =
     , color = Color.rgb255 136 204 255
     , hex = "#88ccff"
     , rgb = ( 136, 204, 255 )
+    , hasColor = True
     }
 
 
@@ -1582,6 +1737,7 @@ factor =
     , color = Color.rgb255 99 103 70
     , hex = "#636746"
     , rgb = ( 99, 103, 70 )
+    , hasColor = True
     }
 
 
@@ -1592,6 +1748,7 @@ fancy =
     , color = Color.rgb255 123 157 180
     , hex = "#7b9db4"
     , rgb = ( 123, 157, 180 )
+    , hasColor = True
     }
 
 
@@ -1602,6 +1759,7 @@ fantom =
     , color = Color.rgb255 20 37 60
     , hex = "#14253c"
     , rgb = ( 20, 37, 60 )
+    , hasColor = True
     }
 
 
@@ -1612,6 +1770,7 @@ faust =
     , color = Color.rgb255 195 114 64
     , hex = "#c37240"
     , rgb = ( 195, 114, 64 )
+    , hasColor = True
     }
 
 
@@ -1622,6 +1781,7 @@ fennel =
     , color = Color.rgb255 255 243 215
     , hex = "#fff3d7"
     , rgb = ( 255, 243, 215 )
+    , hasColor = True
     }
 
 
@@ -1632,6 +1792,7 @@ filebench_wml =
     , color = Color.rgb255 246 185 0
     , hex = "#F6B900"
     , rgb = ( 246, 185, 0 )
+    , hasColor = True
     }
 
 
@@ -1642,6 +1803,7 @@ filterscript =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -1652,6 +1814,7 @@ fluent =
     , color = Color.rgb255 255 204 51
     , hex = "#ffcc33"
     , rgb = ( 255, 204, 51 )
+    , hasColor = True
     }
 
 
@@ -1662,6 +1825,7 @@ forth =
     , color = Color.rgb255 52 23 8
     , hex = "#341708"
     , rgb = ( 52, 23, 8 )
+    , hasColor = True
     }
 
 
@@ -1672,6 +1836,7 @@ fortran =
     , color = Color.rgb255 77 65 177
     , hex = "#4d41b1"
     , rgb = ( 77, 65, 177 )
+    , hasColor = True
     }
 
 
@@ -1682,6 +1847,7 @@ fortran_free_form =
     , color = Color.rgb255 77 65 177
     , hex = "#4d41b1"
     , rgb = ( 77, 65, 177 )
+    , hasColor = True
     }
 
 
@@ -1692,6 +1858,7 @@ freebasic =
     , color = Color.rgb255 20 26 201
     , hex = "#141AC9"
     , rgb = ( 20, 26, 201 )
+    , hasColor = True
     }
 
 
@@ -1702,6 +1869,7 @@ freemarker =
     , color = Color.rgb255 0 80 178
     , hex = "#0050b2"
     , rgb = ( 0, 80, 178 )
+    , hasColor = True
     }
 
 
@@ -1712,6 +1880,7 @@ frege =
     , color = Color.rgb255 0 202 254
     , hex = "#00cafe"
     , rgb = ( 0, 202, 254 )
+    , hasColor = True
     }
 
 
@@ -1722,6 +1891,7 @@ futhark =
     , color = Color.rgb255 95 2 31
     , hex = "#5f021f"
     , rgb = ( 95, 2, 31 )
+    , hasColor = True
     }
 
 
@@ -1732,6 +1902,7 @@ g_code =
     , color = Color.rgb255 208 140 242
     , hex = "#D08CF2"
     , rgb = ( 208, 140, 242 )
+    , hasColor = True
     }
 
 
@@ -1742,6 +1913,7 @@ gaml =
     , color = Color.rgb255 255 199 102
     , hex = "#FFC766"
     , rgb = ( 255, 199, 102 )
+    , hasColor = True
     }
 
 
@@ -1752,6 +1924,7 @@ gams =
     , color = Color.rgb255 244 154 34
     , hex = "#f49a22"
     , rgb = ( 244, 154, 34 )
+    , hasColor = True
     }
 
 
@@ -1762,6 +1935,7 @@ gap =
     , color = Color.rgb255 0 0 204
     , hex = "#0000cc"
     , rgb = ( 0, 0, 204 )
+    , hasColor = True
     }
 
 
@@ -1772,6 +1946,7 @@ gcc_machine_description =
     , color = Color.rgb255 255 207 171
     , hex = "#FFCFAB"
     , rgb = ( 255, 207, 171 )
+    , hasColor = True
     }
 
 
@@ -1782,6 +1957,7 @@ gdb =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -1792,6 +1968,7 @@ gdscript =
     , color = Color.rgb255 53 85 112
     , hex = "#355570"
     , rgb = ( 53, 85, 112 )
+    , hasColor = True
     }
 
 
@@ -1802,6 +1979,7 @@ gedcom =
     , color = Color.rgb255 0 48 88
     , hex = "#003058"
     , rgb = ( 0, 48, 88 )
+    , hasColor = True
     }
 
 
@@ -1812,6 +1990,7 @@ glsl =
     , color = Color.rgb255 86 134 165
     , hex = "#5686a5"
     , rgb = ( 86, 134, 165 )
+    , hasColor = True
     }
 
 
@@ -1822,6 +2001,7 @@ gsc =
     , color = Color.rgb255 255 104 0
     , hex = "#FF6800"
     , rgb = ( 255, 104, 0 )
+    , hasColor = True
     }
 
 
@@ -1832,6 +2012,7 @@ game_maker_language =
     , color = Color.rgb255 113 180 23
     , hex = "#71b417"
     , rgb = ( 113, 180, 23 )
+    , hasColor = True
     }
 
 
@@ -1842,6 +2023,7 @@ gemfile_lock =
     , color = Color.rgb255 112 21 22
     , hex = "#701516"
     , rgb = ( 112, 21, 22 )
+    , hasColor = True
     }
 
 
@@ -1852,6 +2034,7 @@ gemini =
     , color = Color.rgb255 255 105 0
     , hex = "#ff6900"
     , rgb = ( 255, 105, 0 )
+    , hasColor = True
     }
 
 
@@ -1862,6 +2045,7 @@ genero =
     , color = Color.rgb255 99 64 142
     , hex = "#63408e"
     , rgb = ( 99, 64, 142 )
+    , hasColor = True
     }
 
 
@@ -1872,6 +2056,7 @@ genero_forms =
     , color = Color.rgb255 216 223 57
     , hex = "#d8df39"
     , rgb = ( 216, 223, 57 )
+    , hasColor = True
     }
 
 
@@ -1882,6 +2067,7 @@ genie =
     , color = Color.rgb255 251 133 93
     , hex = "#fb855d"
     , rgb = ( 251, 133, 93 )
+    , hasColor = True
     }
 
 
@@ -1892,6 +2078,7 @@ genshi =
     , color = Color.rgb255 149 21 49
     , hex = "#951531"
     , rgb = ( 149, 21, 49 )
+    , hasColor = True
     }
 
 
@@ -1902,6 +2089,7 @@ gentoo_ebuild =
     , color = Color.rgb255 148 0 255
     , hex = "#9400ff"
     , rgb = ( 148, 0, 255 )
+    , hasColor = True
     }
 
 
@@ -1912,6 +2100,7 @@ gentoo_eclass =
     , color = Color.rgb255 148 0 255
     , hex = "#9400ff"
     , rgb = ( 148, 0, 255 )
+    , hasColor = True
     }
 
 
@@ -1922,6 +2111,7 @@ gerber_image =
     , color = Color.rgb255 210 11 0
     , hex = "#d20b00"
     , rgb = ( 210, 11, 0 )
+    , hasColor = True
     }
 
 
@@ -1932,6 +2122,7 @@ gherkin =
     , color = Color.rgb255 91 32 99
     , hex = "#5B2063"
     , rgb = ( 91, 32, 99 )
+    , hasColor = True
     }
 
 
@@ -1942,6 +2133,7 @@ git_attributes =
     , color = Color.rgb255 244 77 39
     , hex = "#F44D27"
     , rgb = ( 244, 77, 39 )
+    , hasColor = True
     }
 
 
@@ -1952,6 +2144,7 @@ git_config =
     , color = Color.rgb255 244 77 39
     , hex = "#F44D27"
     , rgb = ( 244, 77, 39 )
+    , hasColor = True
     }
 
 
@@ -1962,6 +2155,7 @@ git_revision_list =
     , color = Color.rgb255 244 77 39
     , hex = "#F44D27"
     , rgb = ( 244, 77, 39 )
+    , hasColor = True
     }
 
 
@@ -1972,6 +2166,7 @@ gleam =
     , color = Color.rgb255 255 175 243
     , hex = "#ffaff3"
     , rgb = ( 255, 175, 243 )
+    , hasColor = True
     }
 
 
@@ -1982,6 +2177,7 @@ glyph =
     , color = Color.rgb255 193 172 127
     , hex = "#c1ac7f"
     , rgb = ( 193, 172, 127 )
+    , hasColor = True
     }
 
 
@@ -1992,6 +2188,7 @@ gnuplot =
     , color = Color.rgb255 240 169 240
     , hex = "#f0a9f0"
     , rgb = ( 240, 169, 240 )
+    , hasColor = True
     }
 
 
@@ -2002,6 +2199,7 @@ go =
     , color = Color.rgb255 0 173 216
     , hex = "#00ADD8"
     , rgb = ( 0, 173, 216 )
+    , hasColor = True
     }
 
 
@@ -2012,6 +2210,7 @@ go_checksums =
     , color = Color.rgb255 0 173 216
     , hex = "#00ADD8"
     , rgb = ( 0, 173, 216 )
+    , hasColor = True
     }
 
 
@@ -2022,6 +2221,7 @@ go_module =
     , color = Color.rgb255 0 173 216
     , hex = "#00ADD8"
     , rgb = ( 0, 173, 216 )
+    , hasColor = True
     }
 
 
@@ -2032,6 +2232,7 @@ go_workspace =
     , color = Color.rgb255 0 173 216
     , hex = "#00ADD8"
     , rgb = ( 0, 173, 216 )
+    , hasColor = True
     }
 
 
@@ -2042,6 +2243,7 @@ godot_resource =
     , color = Color.rgb255 53 85 112
     , hex = "#355570"
     , rgb = ( 53, 85, 112 )
+    , hasColor = True
     }
 
 
@@ -2052,6 +2254,7 @@ golo =
     , color = Color.rgb255 136 86 42
     , hex = "#88562A"
     , rgb = ( 136, 86, 42 )
+    , hasColor = True
     }
 
 
@@ -2062,6 +2265,7 @@ gosu =
     , color = Color.rgb255 130 147 127
     , hex = "#82937f"
     , rgb = ( 130, 147, 127 )
+    , hasColor = True
     }
 
 
@@ -2072,6 +2276,7 @@ grace =
     , color = Color.rgb255 97 95 139
     , hex = "#615f8b"
     , rgb = ( 97, 95, 139 )
+    , hasColor = True
     }
 
 
@@ -2082,6 +2287,7 @@ gradle =
     , color = Color.rgb255 2 48 58
     , hex = "#02303a"
     , rgb = ( 2, 48, 58 )
+    , hasColor = True
     }
 
 
@@ -2092,6 +2298,7 @@ grammatical_framework =
     , color = Color.rgb255 255 0 0
     , hex = "#ff0000"
     , rgb = ( 255, 0, 0 )
+    , hasColor = True
     }
 
 
@@ -2102,16 +2309,18 @@ graphql =
     , color = Color.rgb255 225 0 152
     , hex = "#e10098"
     , rgb = ( 225, 0, 152 )
+    , hasColor = True
     }
 
 
 {-| Github language color for 'Graphviz (DOT)' -}
-graphviz_(dot) : Color
-graphviz_(dot) =
+graphviz__dot_ : Color
+graphviz__dot_ =
     { elmui = Element.rgb255 37 150 190
     , color = Color.rgb255 37 150 190
     , hex = "#2596be"
     , rgb = ( 37, 150, 190 )
+    , hasColor = True
     }
 
 
@@ -2122,6 +2331,7 @@ groovy =
     , color = Color.rgb255 66 152 184
     , hex = "#4298b8"
     , rgb = ( 66, 152, 184 )
+    , hasColor = True
     }
 
 
@@ -2132,6 +2342,7 @@ groovy_server_pages =
     , color = Color.rgb255 66 152 184
     , hex = "#4298b8"
     , rgb = ( 66, 152, 184 )
+    , hasColor = True
     }
 
 
@@ -2142,6 +2353,7 @@ haproxy =
     , color = Color.rgb255 16 109 169
     , hex = "#106da9"
     , rgb = ( 16, 109, 169 )
+    , hasColor = True
     }
 
 
@@ -2152,6 +2364,7 @@ hcl =
     , color = Color.rgb255 132 79 186
     , hex = "#844FBA"
     , rgb = ( 132, 79, 186 )
+    , hasColor = True
     }
 
 
@@ -2162,6 +2375,7 @@ hlsl =
     , color = Color.rgb255 170 206 96
     , hex = "#aace60"
     , rgb = ( 170, 206, 96 )
+    , hasColor = True
     }
 
 
@@ -2172,6 +2386,7 @@ hocon =
     , color = Color.rgb255 159 248 238
     , hex = "#9ff8ee"
     , rgb = ( 159, 248, 238 )
+    , hasColor = True
     }
 
 
@@ -2182,6 +2397,7 @@ html =
     , color = Color.rgb255 227 76 38
     , hex = "#e34c26"
     , rgb = ( 227, 76, 38 )
+    , hasColor = True
     }
 
 
@@ -2192,6 +2408,7 @@ html+ecr =
     , color = Color.rgb255 46 16 82
     , hex = "#2e1052"
     , rgb = ( 46, 16, 82 )
+    , hasColor = True
     }
 
 
@@ -2202,6 +2419,7 @@ html+eex =
     , color = Color.rgb255 110 74 126
     , hex = "#6e4a7e"
     , rgb = ( 110, 74, 126 )
+    , hasColor = True
     }
 
 
@@ -2212,6 +2430,7 @@ html+erb =
     , color = Color.rgb255 112 21 22
     , hex = "#701516"
     , rgb = ( 112, 21, 22 )
+    , hasColor = True
     }
 
 
@@ -2222,6 +2441,7 @@ html+php =
     , color = Color.rgb255 79 93 149
     , hex = "#4f5d95"
     , rgb = ( 79, 93, 149 )
+    , hasColor = True
     }
 
 
@@ -2232,6 +2452,7 @@ html+razor =
     , color = Color.rgb255 81 43 228
     , hex = "#512be4"
     , rgb = ( 81, 43, 228 )
+    , hasColor = True
     }
 
 
@@ -2242,6 +2463,7 @@ http =
     , color = Color.rgb255 0 92 156
     , hex = "#005C9C"
     , rgb = ( 0, 92, 156 )
+    , hasColor = True
     }
 
 
@@ -2252,6 +2474,7 @@ hxml =
     , color = Color.rgb255 246 135 18
     , hex = "#f68712"
     , rgb = ( 246, 135, 18 )
+    , hasColor = True
     }
 
 
@@ -2262,6 +2485,7 @@ hack =
     , color = Color.rgb255 135 135 135
     , hex = "#878787"
     , rgb = ( 135, 135, 135 )
+    , hasColor = True
     }
 
 
@@ -2272,6 +2496,7 @@ haml =
     , color = Color.rgb255 236 226 169
     , hex = "#ece2a9"
     , rgb = ( 236, 226, 169 )
+    , hasColor = True
     }
 
 
@@ -2282,6 +2507,7 @@ handlebars =
     , color = Color.rgb255 247 147 30
     , hex = "#f7931e"
     , rgb = ( 247, 147, 30 )
+    , hasColor = True
     }
 
 
@@ -2292,6 +2518,7 @@ harbour =
     , color = Color.rgb255 14 96 227
     , hex = "#0e60e3"
     , rgb = ( 14, 96, 227 )
+    , hasColor = True
     }
 
 
@@ -2302,6 +2529,7 @@ haskell =
     , color = Color.rgb255 94 80 134
     , hex = "#5e5086"
     , rgb = ( 94, 80, 134 )
+    , hasColor = True
     }
 
 
@@ -2312,6 +2540,7 @@ haxe =
     , color = Color.rgb255 223 121 0
     , hex = "#df7900"
     , rgb = ( 223, 121, 0 )
+    , hasColor = True
     }
 
 
@@ -2322,6 +2551,7 @@ hiveql =
     , color = Color.rgb255 220 226 0
     , hex = "#dce200"
     , rgb = ( 220, 226, 0 )
+    , hasColor = True
     }
 
 
@@ -2332,6 +2562,7 @@ holyc =
     , color = Color.rgb255 255 239 175
     , hex = "#ffefaf"
     , rgb = ( 255, 239, 175 )
+    , hasColor = True
     }
 
 
@@ -2342,6 +2573,7 @@ hosts_file =
     , color = Color.rgb255 48 136 136
     , hex = "#308888"
     , rgb = ( 48, 136, 136 )
+    , hasColor = True
     }
 
 
@@ -2352,6 +2584,7 @@ hy =
     , color = Color.rgb255 119 144 178
     , hex = "#7790B2"
     , rgb = ( 119, 144, 178 )
+    , hasColor = True
     }
 
 
@@ -2362,6 +2595,7 @@ hyphy =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -2372,6 +2606,7 @@ idl =
     , color = Color.rgb255 163 82 47
     , hex = "#a3522f"
     , rgb = ( 163, 82, 47 )
+    , hasColor = True
     }
 
 
@@ -2382,6 +2617,7 @@ igor_pro =
     , color = Color.rgb255 0 0 204
     , hex = "#0000cc"
     , rgb = ( 0, 0, 204 )
+    , hasColor = True
     }
 
 
@@ -2392,6 +2628,7 @@ ini =
     , color = Color.rgb255 209 219 224
     , hex = "#d1dbe0"
     , rgb = ( 209, 219, 224 )
+    , hasColor = True
     }
 
 
@@ -2402,6 +2639,7 @@ idris =
     , color = Color.rgb255 179 0 0
     , hex = "#b30000"
     , rgb = ( 179, 0, 0 )
+    , hasColor = True
     }
 
 
@@ -2412,6 +2650,7 @@ ignore_list =
     , color = Color.rgb255 0 0 0
     , hex = "#000000"
     , rgb = ( 0, 0, 0 )
+    , hasColor = True
     }
 
 
@@ -2422,6 +2661,7 @@ imagej_macro =
     , color = Color.rgb255 153 170 255
     , hex = "#99AAFF"
     , rgb = ( 153, 170, 255 )
+    , hasColor = True
     }
 
 
@@ -2432,6 +2672,7 @@ imba =
     , color = Color.rgb255 22 206 198
     , hex = "#16cec6"
     , rgb = ( 22, 206, 198 )
+    , hasColor = True
     }
 
 
@@ -2442,6 +2683,7 @@ inform_7 =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -2452,6 +2694,7 @@ ink =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -2462,6 +2705,7 @@ inno_setup =
     , color = Color.rgb255 38 75 153
     , hex = "#264b99"
     , rgb = ( 38, 75, 153 )
+    , hasColor = True
     }
 
 
@@ -2472,6 +2716,7 @@ io =
     , color = Color.rgb255 169 24 141
     , hex = "#a9188d"
     , rgb = ( 169, 24, 141 )
+    , hasColor = True
     }
 
 
@@ -2482,6 +2727,7 @@ ioke =
     , color = Color.rgb255 7 129 147
     , hex = "#078193"
     , rgb = ( 7, 129, 147 )
+    , hasColor = True
     }
 
 
@@ -2492,6 +2738,7 @@ isabelle =
     , color = Color.rgb255 254 254 0
     , hex = "#FEFE00"
     , rgb = ( 254, 254, 0 )
+    , hasColor = True
     }
 
 
@@ -2502,6 +2749,7 @@ isabelle_root =
     , color = Color.rgb255 254 254 0
     , hex = "#FEFE00"
     , rgb = ( 254, 254, 0 )
+    , hasColor = True
     }
 
 
@@ -2512,6 +2760,7 @@ j =
     , color = Color.rgb255 158 237 255
     , hex = "#9EEDFF"
     , rgb = ( 158, 237, 255 )
+    , hasColor = True
     }
 
 
@@ -2522,6 +2771,7 @@ jar_manifest =
     , color = Color.rgb255 176 114 25
     , hex = "#b07219"
     , rgb = ( 176, 114, 25 )
+    , hasColor = True
     }
 
 
@@ -2532,6 +2782,7 @@ jcl =
     , color = Color.rgb255 217 14 9
     , hex = "#d90e09"
     , rgb = ( 217, 14, 9 )
+    , hasColor = True
     }
 
 
@@ -2542,6 +2793,7 @@ jflex =
     , color = Color.rgb255 219 202 0
     , hex = "#DBCA00"
     , rgb = ( 219, 202, 0 )
+    , hasColor = True
     }
 
 
@@ -2552,6 +2804,7 @@ json =
     , color = Color.rgb255 41 41 41
     , hex = "#292929"
     , rgb = ( 41, 41, 41 )
+    , hasColor = True
     }
 
 
@@ -2562,6 +2815,7 @@ json_with_comments =
     , color = Color.rgb255 41 41 41
     , hex = "#292929"
     , rgb = ( 41, 41, 41 )
+    , hasColor = True
     }
 
 
@@ -2572,6 +2826,7 @@ json5 =
     , color = Color.rgb255 38 124 185
     , hex = "#267CB9"
     , rgb = ( 38, 124, 185 )
+    , hasColor = True
     }
 
 
@@ -2582,6 +2837,7 @@ jsonld =
     , color = Color.rgb255 12 71 156
     , hex = "#0c479c"
     , rgb = ( 12, 71, 156 )
+    , hasColor = True
     }
 
 
@@ -2592,6 +2848,7 @@ jsoniq =
     , color = Color.rgb255 64 212 126
     , hex = "#40d47e"
     , rgb = ( 64, 212, 126 )
+    , hasColor = True
     }
 
 
@@ -2602,6 +2859,7 @@ janet =
     , color = Color.rgb255 8 134 165
     , hex = "#0886a5"
     , rgb = ( 8, 134, 165 )
+    , hasColor = True
     }
 
 
@@ -2612,6 +2870,7 @@ jasmin =
     , color = Color.rgb255 208 54 0
     , hex = "#d03600"
     , rgb = ( 208, 54, 0 )
+    , hasColor = True
     }
 
 
@@ -2622,6 +2881,7 @@ java =
     , color = Color.rgb255 176 114 25
     , hex = "#b07219"
     , rgb = ( 176, 114, 25 )
+    , hasColor = True
     }
 
 
@@ -2632,6 +2892,7 @@ java_properties =
     , color = Color.rgb255 42 98 119
     , hex = "#2A6277"
     , rgb = ( 42, 98, 119 )
+    , hasColor = True
     }
 
 
@@ -2642,6 +2903,7 @@ java_server_pages =
     , color = Color.rgb255 42 98 119
     , hex = "#2A6277"
     , rgb = ( 42, 98, 119 )
+    , hasColor = True
     }
 
 
@@ -2652,6 +2914,7 @@ javascript =
     , color = Color.rgb255 241 224 90
     , hex = "#f1e05a"
     , rgb = ( 241, 224, 90 )
+    , hasColor = True
     }
 
 
@@ -2662,6 +2925,7 @@ javascript+erb =
     , color = Color.rgb255 241 224 90
     , hex = "#f1e05a"
     , rgb = ( 241, 224, 90 )
+    , hasColor = True
     }
 
 
@@ -2672,6 +2936,7 @@ jest_snapshot =
     , color = Color.rgb255 21 194 19
     , hex = "#15c213"
     , rgb = ( 21, 194, 19 )
+    , hasColor = True
     }
 
 
@@ -2682,6 +2947,7 @@ jetbrains_mps =
     , color = Color.rgb255 33 215 137
     , hex = "#21D789"
     , rgb = ( 33, 215, 137 )
+    , hasColor = True
     }
 
 
@@ -2692,6 +2958,7 @@ jinja =
     , color = Color.rgb255 165 42 34
     , hex = "#a52a22"
     , rgb = ( 165, 42, 34 )
+    , hasColor = True
     }
 
 
@@ -2702,6 +2969,7 @@ jison =
     , color = Color.rgb255 86 179 203
     , hex = "#56b3cb"
     , rgb = ( 86, 179, 203 )
+    , hasColor = True
     }
 
 
@@ -2712,6 +2980,7 @@ jison_lex =
     , color = Color.rgb255 86 179 203
     , hex = "#56b3cb"
     , rgb = ( 86, 179, 203 )
+    , hasColor = True
     }
 
 
@@ -2722,6 +2991,7 @@ jolie =
     , color = Color.rgb255 132 49 121
     , hex = "#843179"
     , rgb = ( 132, 49, 121 )
+    , hasColor = True
     }
 
 
@@ -2732,6 +3002,7 @@ jsonnet =
     , color = Color.rgb255 0 100 189
     , hex = "#0064bd"
     , rgb = ( 0, 100, 189 )
+    , hasColor = True
     }
 
 
@@ -2742,6 +3013,7 @@ julia =
     , color = Color.rgb255 162 112 186
     , hex = "#a270ba"
     , rgb = ( 162, 112, 186 )
+    , hasColor = True
     }
 
 
@@ -2752,6 +3024,7 @@ jupyter_notebook =
     , color = Color.rgb255 218 91 11
     , hex = "#DA5B0B"
     , rgb = ( 218, 91, 11 )
+    , hasColor = True
     }
 
 
@@ -2762,6 +3035,7 @@ just =
     , color = Color.rgb255 56 77 84
     , hex = "#384d54"
     , rgb = ( 56, 77, 84 )
+    , hasColor = True
     }
 
 
@@ -2772,6 +3046,7 @@ krl =
     , color = Color.rgb255 40 67 10
     , hex = "#28430A"
     , rgb = ( 40, 67, 10 )
+    , hasColor = True
     }
 
 
@@ -2782,6 +3057,7 @@ kaitai_struct =
     , color = Color.rgb255 119 59 55
     , hex = "#773b37"
     , rgb = ( 119, 59, 55 )
+    , hasColor = True
     }
 
 
@@ -2792,6 +3068,7 @@ kakounescript =
     , color = Color.rgb255 111 128 66
     , hex = "#6f8042"
     , rgb = ( 111, 128, 66 )
+    , hasColor = True
     }
 
 
@@ -2802,6 +3079,7 @@ kerboscript =
     , color = Color.rgb255 65 173 240
     , hex = "#41adf0"
     , rgb = ( 65, 173, 240 )
+    , hasColor = True
     }
 
 
@@ -2812,6 +3090,7 @@ kicad_layout =
     , color = Color.rgb255 47 74 171
     , hex = "#2f4aab"
     , rgb = ( 47, 74, 171 )
+    , hasColor = True
     }
 
 
@@ -2822,6 +3101,7 @@ kicad_legacy_layout =
     , color = Color.rgb255 47 74 171
     , hex = "#2f4aab"
     , rgb = ( 47, 74, 171 )
+    , hasColor = True
     }
 
 
@@ -2832,6 +3112,7 @@ kicad_schematic =
     , color = Color.rgb255 47 74 171
     , hex = "#2f4aab"
     , rgb = ( 47, 74, 171 )
+    , hasColor = True
     }
 
 
@@ -2842,6 +3123,7 @@ kotlin =
     , color = Color.rgb255 169 123 255
     , hex = "#A97BFF"
     , rgb = ( 169, 123, 255 )
+    , hasColor = True
     }
 
 
@@ -2852,6 +3134,7 @@ lfe =
     , color = Color.rgb255 76 48 35
     , hex = "#4C3023"
     , rgb = ( 76, 48, 35 )
+    , hasColor = True
     }
 
 
@@ -2862,6 +3145,7 @@ llvm =
     , color = Color.rgb255 24 86 25
     , hex = "#185619"
     , rgb = ( 24, 86, 25 )
+    , hasColor = True
     }
 
 
@@ -2872,6 +3156,7 @@ lolcode =
     , color = Color.rgb255 204 153 0
     , hex = "#cc9900"
     , rgb = ( 204, 153, 0 )
+    , hasColor = True
     }
 
 
@@ -2882,6 +3167,7 @@ lsl =
     , color = Color.rgb255 61 153 112
     , hex = "#3d9970"
     , rgb = ( 61, 153, 112 )
+    , hasColor = True
     }
 
 
@@ -2892,6 +3178,7 @@ labview =
     , color = Color.rgb255 254 222 6
     , hex = "#fede06"
     , rgb = ( 254, 222, 6 )
+    , hasColor = True
     }
 
 
@@ -2902,6 +3189,7 @@ lark =
     , color = Color.rgb255 41 128 185
     , hex = "#2980B9"
     , rgb = ( 41, 128, 185 )
+    , hasColor = True
     }
 
 
@@ -2912,6 +3200,7 @@ lasso =
     , color = Color.rgb255 153 153 153
     , hex = "#999999"
     , rgb = ( 153, 153, 153 )
+    , hasColor = True
     }
 
 
@@ -2922,6 +3211,7 @@ latte =
     , color = Color.rgb255 242 165 66
     , hex = "#f2a542"
     , rgb = ( 242, 165, 66 )
+    , hasColor = True
     }
 
 
@@ -2932,6 +3222,7 @@ lean =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -2942,6 +3233,7 @@ less =
     , color = Color.rgb255 29 54 93
     , hex = "#1d365d"
     , rgb = ( 29, 54, 93 )
+    , hasColor = True
     }
 
 
@@ -2952,6 +3244,7 @@ lex =
     , color = Color.rgb255 219 202 0
     , hex = "#DBCA00"
     , rgb = ( 219, 202, 0 )
+    , hasColor = True
     }
 
 
@@ -2962,6 +3255,7 @@ ligolang =
     , color = Color.rgb255 14 116 255
     , hex = "#0e74ff"
     , rgb = ( 14, 116, 255 )
+    , hasColor = True
     }
 
 
@@ -2972,6 +3266,7 @@ lilypond =
     , color = Color.rgb255 156 204 124
     , hex = "#9ccc7c"
     , rgb = ( 156, 204, 124 )
+    , hasColor = True
     }
 
 
@@ -2982,6 +3277,7 @@ limbo =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -2992,6 +3288,7 @@ liquid =
     , color = Color.rgb255 103 184 222
     , hex = "#67b8de"
     , rgb = ( 103, 184, 222 )
+    , hasColor = True
     }
 
 
@@ -3002,6 +3299,7 @@ literate_agda =
     , color = Color.rgb255 49 86 101
     , hex = "#315665"
     , rgb = ( 49, 86, 101 )
+    , hasColor = True
     }
 
 
@@ -3012,6 +3310,7 @@ literate_coffeescript =
     , color = Color.rgb255 36 71 118
     , hex = "#244776"
     , rgb = ( 36, 71, 118 )
+    , hasColor = True
     }
 
 
@@ -3022,6 +3321,7 @@ literate_haskell =
     , color = Color.rgb255 94 80 134
     , hex = "#5e5086"
     , rgb = ( 94, 80, 134 )
+    , hasColor = True
     }
 
 
@@ -3032,6 +3332,7 @@ livescript =
     , color = Color.rgb255 73 152 134
     , hex = "#499886"
     , rgb = ( 73, 152, 134 )
+    , hasColor = True
     }
 
 
@@ -3042,6 +3343,7 @@ logos =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3052,6 +3354,7 @@ logtalk =
     , color = Color.rgb255 41 91 154
     , hex = "#295b9a"
     , rgb = ( 41, 91, 154 )
+    , hasColor = True
     }
 
 
@@ -3062,6 +3365,7 @@ lookml =
     , color = Color.rgb255 101 43 129
     , hex = "#652B81"
     , rgb = ( 101, 43, 129 )
+    , hasColor = True
     }
 
 
@@ -3072,6 +3376,7 @@ loomscript =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3082,6 +3387,7 @@ lua =
     , color = Color.rgb255 0 0 128
     , hex = "#000080"
     , rgb = ( 0, 0, 128 )
+    , hasColor = True
     }
 
 
@@ -3092,6 +3398,7 @@ m =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3102,6 +3409,7 @@ m4 =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3112,6 +3420,7 @@ m4sugar =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3122,6 +3431,7 @@ matlab =
     , color = Color.rgb255 225 103 55
     , hex = "#e16737"
     , rgb = ( 225, 103, 55 )
+    , hasColor = True
     }
 
 
@@ -3132,6 +3442,7 @@ maxscript =
     , color = Color.rgb255 0 166 166
     , hex = "#00a6a6"
     , rgb = ( 0, 166, 166 )
+    , hasColor = True
     }
 
 
@@ -3142,6 +3453,7 @@ mdx =
     , color = Color.rgb255 252 179 44
     , hex = "#fcb32c"
     , rgb = ( 252, 179, 44 )
+    , hasColor = True
     }
 
 
@@ -3152,6 +3464,7 @@ mlir =
     , color = Color.rgb255 94 200 219
     , hex = "#5EC8DB"
     , rgb = ( 94, 200, 219 )
+    , hasColor = True
     }
 
 
@@ -3162,6 +3475,7 @@ mql4 =
     , color = Color.rgb255 98 168 214
     , hex = "#62A8D6"
     , rgb = ( 98, 168, 214 )
+    , hasColor = True
     }
 
 
@@ -3172,6 +3486,7 @@ mql5 =
     , color = Color.rgb255 74 118 184
     , hex = "#4A76B8"
     , rgb = ( 74, 118, 184 )
+    , hasColor = True
     }
 
 
@@ -3182,6 +3497,7 @@ mtml =
     , color = Color.rgb255 183 225 244
     , hex = "#b7e1f4"
     , rgb = ( 183, 225, 244 )
+    , hasColor = True
     }
 
 
@@ -3192,6 +3508,7 @@ muf =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3202,6 +3519,7 @@ macaulay2 =
     , color = Color.rgb255 216 255 255
     , hex = "#d8ffff"
     , rgb = ( 216, 255, 255 )
+    , hasColor = True
     }
 
 
@@ -3212,6 +3530,7 @@ makefile =
     , color = Color.rgb255 66 120 25
     , hex = "#427819"
     , rgb = ( 66, 120, 25 )
+    , hasColor = True
     }
 
 
@@ -3222,6 +3541,7 @@ mako =
     , color = Color.rgb255 126 133 141
     , hex = "#7e858d"
     , rgb = ( 126, 133, 141 )
+    , hasColor = True
     }
 
 
@@ -3232,6 +3552,7 @@ markdown =
     , color = Color.rgb255 8 63 161
     , hex = "#083fa1"
     , rgb = ( 8, 63, 161 )
+    , hasColor = True
     }
 
 
@@ -3242,6 +3563,7 @@ marko =
     , color = Color.rgb255 66 191 242
     , hex = "#42bff2"
     , rgb = ( 66, 191, 242 )
+    , hasColor = True
     }
 
 
@@ -3252,6 +3574,7 @@ mask =
     , color = Color.rgb255 249 119 50
     , hex = "#f97732"
     , rgb = ( 249, 119, 50 )
+    , hasColor = True
     }
 
 
@@ -3262,6 +3585,7 @@ mathematica =
     , color = Color.rgb255 221 17 0
     , hex = "#dd1100"
     , rgb = ( 221, 17, 0 )
+    , hasColor = True
     }
 
 
@@ -3272,6 +3596,7 @@ max =
     , color = Color.rgb255 196 167 156
     , hex = "#c4a79c"
     , rgb = ( 196, 167, 156 )
+    , hasColor = True
     }
 
 
@@ -3282,6 +3607,7 @@ mercury =
     , color = Color.rgb255 255 43 43
     , hex = "#ff2b2b"
     , rgb = ( 255, 43, 43 )
+    , hasColor = True
     }
 
 
@@ -3292,6 +3618,7 @@ mermaid =
     , color = Color.rgb255 255 54 112
     , hex = "#ff3670"
     , rgb = ( 255, 54, 112 )
+    , hasColor = True
     }
 
 
@@ -3302,6 +3629,7 @@ meson =
     , color = Color.rgb255 0 120 0
     , hex = "#007800"
     , rgb = ( 0, 120, 0 )
+    , hasColor = True
     }
 
 
@@ -3312,6 +3640,7 @@ metal =
     , color = Color.rgb255 143 20 233
     , hex = "#8f14e9"
     , rgb = ( 143, 20, 233 )
+    , hasColor = True
     }
 
 
@@ -3322,6 +3651,7 @@ minid =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3332,6 +3662,7 @@ miniyaml =
     , color = Color.rgb255 255 17 17
     , hex = "#ff1111"
     , rgb = ( 255, 17, 17 )
+    , hasColor = True
     }
 
 
@@ -3342,6 +3673,7 @@ mint =
     , color = Color.rgb255 2 176 70
     , hex = "#02b046"
     , rgb = ( 2, 176, 70 )
+    , hasColor = True
     }
 
 
@@ -3352,6 +3684,7 @@ mirah =
     , color = Color.rgb255 199 169 56
     , hex = "#c7a938"
     , rgb = ( 199, 169, 56 )
+    , hasColor = True
     }
 
 
@@ -3362,6 +3695,7 @@ modelica =
     , color = Color.rgb255 222 29 49
     , hex = "#de1d31"
     , rgb = ( 222, 29, 49 )
+    , hasColor = True
     }
 
 
@@ -3372,6 +3706,7 @@ modula_2 =
     , color = Color.rgb255 16 37 63
     , hex = "#10253f"
     , rgb = ( 16, 37, 63 )
+    , hasColor = True
     }
 
 
@@ -3382,6 +3717,7 @@ modula_3 =
     , color = Color.rgb255 34 51 136
     , hex = "#223388"
     , rgb = ( 34, 51, 136 )
+    , hasColor = True
     }
 
 
@@ -3392,6 +3728,7 @@ module_management_system =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3402,6 +3739,7 @@ monkey =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3412,6 +3750,7 @@ monkey_c =
     , color = Color.rgb255 141 103 71
     , hex = "#8D6747"
     , rgb = ( 141, 103, 71 )
+    , hasColor = True
     }
 
 
@@ -3422,6 +3761,7 @@ moocode =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3432,6 +3772,7 @@ moonscript =
     , color = Color.rgb255 255 69 133
     , hex = "#ff4585"
     , rgb = ( 255, 69, 133 )
+    , hasColor = True
     }
 
 
@@ -3442,6 +3783,7 @@ motoko =
     , color = Color.rgb255 251 176 59
     , hex = "#fbb03b"
     , rgb = ( 251, 176, 59 )
+    , hasColor = True
     }
 
 
@@ -3452,6 +3794,7 @@ motorola_68k_assembly =
     , color = Color.rgb255 0 93 170
     , hex = "#005daa"
     , rgb = ( 0, 93, 170 )
+    , hasColor = True
     }
 
 
@@ -3462,6 +3805,7 @@ move =
     , color = Color.rgb255 74 19 122
     , hex = "#4a137a"
     , rgb = ( 74, 19, 122 )
+    , hasColor = True
     }
 
 
@@ -3472,6 +3816,7 @@ mustache =
     , color = Color.rgb255 114 75 59
     , hex = "#724b3b"
     , rgb = ( 114, 75, 59 )
+    , hasColor = True
     }
 
 
@@ -3482,6 +3827,7 @@ myghty =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3492,6 +3838,7 @@ nasl =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3502,6 +3849,7 @@ ncl =
     , color = Color.rgb255 40 67 31
     , hex = "#28431f"
     , rgb = ( 40, 67, 31 )
+    , hasColor = True
     }
 
 
@@ -3512,6 +3860,7 @@ npm_config =
     , color = Color.rgb255 203 56 55
     , hex = "#cb3837"
     , rgb = ( 203, 56, 55 )
+    , hasColor = True
     }
 
 
@@ -3522,6 +3871,7 @@ nsis =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3532,6 +3882,7 @@ nwscript =
     , color = Color.rgb255 17 21 34
     , hex = "#111522"
     , rgb = ( 17, 21, 34 )
+    , hasColor = True
     }
 
 
@@ -3542,6 +3893,7 @@ nasal =
     , color = Color.rgb255 29 44 78
     , hex = "#1d2c4e"
     , rgb = ( 29, 44, 78 )
+    , hasColor = True
     }
 
 
@@ -3552,6 +3904,7 @@ nearley =
     , color = Color.rgb255 153 0 0
     , hex = "#990000"
     , rgb = ( 153, 0, 0 )
+    , hasColor = True
     }
 
 
@@ -3562,6 +3915,7 @@ nemerle =
     , color = Color.rgb255 61 60 110
     , hex = "#3d3c6e"
     , rgb = ( 61, 60, 110 )
+    , hasColor = True
     }
 
 
@@ -3572,6 +3926,7 @@ netlinx =
     , color = Color.rgb255 10 160 255
     , hex = "#0aa0ff"
     , rgb = ( 10, 160, 255 )
+    , hasColor = True
     }
 
 
@@ -3582,6 +3937,7 @@ netlinx+erb =
     , color = Color.rgb255 116 127 170
     , hex = "#747faa"
     , rgb = ( 116, 127, 170 )
+    , hasColor = True
     }
 
 
@@ -3592,6 +3948,7 @@ netlogo =
     , color = Color.rgb255 255 99 117
     , hex = "#ff6375"
     , rgb = ( 255, 99, 117 )
+    , hasColor = True
     }
 
 
@@ -3602,6 +3959,7 @@ newlisp =
     , color = Color.rgb255 135 174 215
     , hex = "#87AED7"
     , rgb = ( 135, 174, 215 )
+    , hasColor = True
     }
 
 
@@ -3612,6 +3970,7 @@ nextflow =
     , color = Color.rgb255 58 196 134
     , hex = "#3ac486"
     , rgb = ( 58, 196, 134 )
+    , hasColor = True
     }
 
 
@@ -3622,6 +3981,7 @@ nginx =
     , color = Color.rgb255 0 150 57
     , hex = "#009639"
     , rgb = ( 0, 150, 57 )
+    , hasColor = True
     }
 
 
@@ -3632,6 +3992,7 @@ nim =
     , color = Color.rgb255 255 194 0
     , hex = "#ffc200"
     , rgb = ( 255, 194, 0 )
+    , hasColor = True
     }
 
 
@@ -3642,6 +4003,7 @@ nit =
     , color = Color.rgb255 0 153 23
     , hex = "#009917"
     , rgb = ( 0, 153, 23 )
+    , hasColor = True
     }
 
 
@@ -3652,6 +4014,7 @@ nix =
     , color = Color.rgb255 126 126 255
     , hex = "#7e7eff"
     , rgb = ( 126, 126, 255 )
+    , hasColor = True
     }
 
 
@@ -3662,6 +4025,7 @@ nu =
     , color = Color.rgb255 201 223 64
     , hex = "#c9df40"
     , rgb = ( 201, 223, 64 )
+    , hasColor = True
     }
 
 
@@ -3672,6 +4036,7 @@ numpy =
     , color = Color.rgb255 156 138 249
     , hex = "#9C8AF9"
     , rgb = ( 156, 138, 249 )
+    , hasColor = True
     }
 
 
@@ -3682,6 +4047,7 @@ nunjucks =
     , color = Color.rgb255 61 129 55
     , hex = "#3d8137"
     , rgb = ( 61, 129, 55 )
+    , hasColor = True
     }
 
 
@@ -3692,6 +4058,7 @@ nushell =
     , color = Color.rgb255 78 153 6
     , hex = "#4E9906"
     , rgb = ( 78, 153, 6 )
+    , hasColor = True
     }
 
 
@@ -3702,6 +4069,7 @@ oasv2_json =
     , color = Color.rgb255 133 234 45
     , hex = "#85ea2d"
     , rgb = ( 133, 234, 45 )
+    , hasColor = True
     }
 
 
@@ -3712,6 +4080,7 @@ oasv2_yaml =
     , color = Color.rgb255 133 234 45
     , hex = "#85ea2d"
     , rgb = ( 133, 234, 45 )
+    , hasColor = True
     }
 
 
@@ -3722,6 +4091,7 @@ oasv3_json =
     , color = Color.rgb255 133 234 45
     , hex = "#85ea2d"
     , rgb = ( 133, 234, 45 )
+    , hasColor = True
     }
 
 
@@ -3732,6 +4102,7 @@ oasv3_yaml =
     , color = Color.rgb255 133 234 45
     , hex = "#85ea2d"
     , rgb = ( 133, 234, 45 )
+    , hasColor = True
     }
 
 
@@ -3742,6 +4113,7 @@ ocaml =
     , color = Color.rgb255 239 122 8
     , hex = "#ef7a08"
     , rgb = ( 239, 122, 8 )
+    , hasColor = True
     }
 
 
@@ -3752,6 +4124,7 @@ objectscript =
     , color = Color.rgb255 66 72 147
     , hex = "#424893"
     , rgb = ( 66, 72, 147 )
+    , hasColor = True
     }
 
 
@@ -3762,16 +4135,18 @@ objective_c =
     , color = Color.rgb255 67 142 255
     , hex = "#438eff"
     , rgb = ( 67, 142, 255 )
+    , hasColor = True
     }
 
 
 {-| Github language color for 'Objective-C++' -}
-objective_c++ : Color
-objective_c++ =
+objective_cpp : Color
+objective_cpp =
     { elmui = Element.rgb255 104 102 251
     , color = Color.rgb255 104 102 251
     , hex = "#6866fb"
     , rgb = ( 104, 102, 251 )
+    , hasColor = True
     }
 
 
@@ -3782,6 +4157,7 @@ objective_j =
     , color = Color.rgb255 255 12 90
     , hex = "#ff0c5a"
     , rgb = ( 255, 12, 90 )
+    , hasColor = True
     }
 
 
@@ -3792,6 +4168,7 @@ odin =
     , color = Color.rgb255 96 175 254
     , hex = "#60AFFE"
     , rgb = ( 96, 175, 254 )
+    , hasColor = True
     }
 
 
@@ -3802,6 +4179,7 @@ omgrofl =
     , color = Color.rgb255 202 187 255
     , hex = "#cabbff"
     , rgb = ( 202, 187, 255 )
+    , hasColor = True
     }
 
 
@@ -3812,6 +4190,7 @@ opa =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3822,6 +4201,7 @@ opal =
     , color = Color.rgb255 247 237 224
     , hex = "#f7ede0"
     , rgb = ( 247, 237, 224 )
+    , hasColor = True
     }
 
 
@@ -3832,6 +4212,7 @@ open_policy_agent =
     , color = Color.rgb255 125 145 153
     , hex = "#7d9199"
     , rgb = ( 125, 145, 153 )
+    , hasColor = True
     }
 
 
@@ -3842,6 +4223,7 @@ openapi_specification_v2 =
     , color = Color.rgb255 133 234 45
     , hex = "#85ea2d"
     , rgb = ( 133, 234, 45 )
+    , hasColor = True
     }
 
 
@@ -3852,6 +4234,7 @@ openapi_specification_v3 =
     , color = Color.rgb255 133 234 45
     , hex = "#85ea2d"
     , rgb = ( 133, 234, 45 )
+    , hasColor = True
     }
 
 
@@ -3862,6 +4245,7 @@ opencl =
     , color = Color.rgb255 237 46 45
     , hex = "#ed2e2d"
     , rgb = ( 237, 46, 45 )
+    , hasColor = True
     }
 
 
@@ -3872,6 +4256,7 @@ openedge_abl =
     , color = Color.rgb255 92 230 0
     , hex = "#5ce600"
     , rgb = ( 92, 230, 0 )
+    , hasColor = True
     }
 
 
@@ -3882,6 +4267,7 @@ openqasm =
     , color = Color.rgb255 170 112 255
     , hex = "#AA70FF"
     , rgb = ( 170, 112, 255 )
+    , hasColor = True
     }
 
 
@@ -3892,6 +4278,7 @@ openrc_runscript =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3902,6 +4289,7 @@ openscad =
     , color = Color.rgb255 229 205 69
     , hex = "#e5cd45"
     , rgb = ( 229, 205, 69 )
+    , hasColor = True
     }
 
 
@@ -3912,6 +4300,7 @@ option_list =
     , color = Color.rgb255 71 103 50
     , hex = "#476732"
     , rgb = ( 71, 103, 50 )
+    , hasColor = True
     }
 
 
@@ -3922,6 +4311,7 @@ org =
     , color = Color.rgb255 119 170 153
     , hex = "#77aa99"
     , rgb = ( 119, 170, 153 )
+    , hasColor = True
     }
 
 
@@ -3932,6 +4322,7 @@ ox =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -3942,6 +4333,7 @@ oxygene =
     , color = Color.rgb255 205 208 227
     , hex = "#cdd0e3"
     , rgb = ( 205, 208, 227 )
+    , hasColor = True
     }
 
 
@@ -3952,6 +4344,7 @@ oz =
     , color = Color.rgb255 250 183 56
     , hex = "#fab738"
     , rgb = ( 250, 183, 56 )
+    , hasColor = True
     }
 
 
@@ -3962,6 +4355,7 @@ p4 =
     , color = Color.rgb255 112 85 181
     , hex = "#7055b5"
     , rgb = ( 112, 85, 181 )
+    , hasColor = True
     }
 
 
@@ -3972,6 +4366,7 @@ pddl =
     , color = Color.rgb255 13 0 255
     , hex = "#0d00ff"
     , rgb = ( 13, 0, 255 )
+    , hasColor = True
     }
 
 
@@ -3982,6 +4377,7 @@ peg_js =
     , color = Color.rgb255 35 77 107
     , hex = "#234d6b"
     , rgb = ( 35, 77, 107 )
+    , hasColor = True
     }
 
 
@@ -3992,6 +4388,7 @@ php =
     , color = Color.rgb255 79 93 149
     , hex = "#4F5D95"
     , rgb = ( 79, 93, 149 )
+    , hasColor = True
     }
 
 
@@ -4002,6 +4399,7 @@ plsql =
     , color = Color.rgb255 218 216 216
     , hex = "#dad8d8"
     , rgb = ( 218, 216, 216 )
+    , hasColor = True
     }
 
 
@@ -4012,6 +4410,7 @@ plpgsql =
     , color = Color.rgb255 51 103 144
     , hex = "#336790"
     , rgb = ( 51, 103, 144 )
+    , hasColor = True
     }
 
 
@@ -4022,6 +4421,7 @@ pov_ray_sdl =
     , color = Color.rgb255 107 172 101
     , hex = "#6bac65"
     , rgb = ( 107, 172, 101 )
+    , hasColor = True
     }
 
 
@@ -4032,6 +4432,7 @@ pact =
     , color = Color.rgb255 247 168 184
     , hex = "#F7A8B8"
     , rgb = ( 247, 168, 184 )
+    , hasColor = True
     }
 
 
@@ -4042,6 +4443,7 @@ pan =
     , color = Color.rgb255 204 0 0
     , hex = "#cc0000"
     , rgb = ( 204, 0, 0 )
+    , hasColor = True
     }
 
 
@@ -4052,6 +4454,7 @@ papyrus =
     , color = Color.rgb255 102 0 204
     , hex = "#6600cc"
     , rgb = ( 102, 0, 204 )
+    , hasColor = True
     }
 
 
@@ -4062,6 +4465,7 @@ parrot =
     , color = Color.rgb255 243 202 10
     , hex = "#f3ca0a"
     , rgb = ( 243, 202, 10 )
+    , hasColor = True
     }
 
 
@@ -4072,6 +4476,7 @@ parrot_assembly =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -4082,6 +4487,7 @@ parrot_internal_representation =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -4092,6 +4498,7 @@ pascal =
     , color = Color.rgb255 227 241 113
     , hex = "#E3F171"
     , rgb = ( 227, 241, 113 )
+    , hasColor = True
     }
 
 
@@ -4102,6 +4509,7 @@ pawn =
     , color = Color.rgb255 219 178 132
     , hex = "#dbb284"
     , rgb = ( 219, 178, 132 )
+    , hasColor = True
     }
 
 
@@ -4112,6 +4520,7 @@ pep8 =
     , color = Color.rgb255 199 111 91
     , hex = "#C76F5B"
     , rgb = ( 199, 111, 91 )
+    , hasColor = True
     }
 
 
@@ -4122,6 +4531,7 @@ perl =
     , color = Color.rgb255 2 152 195
     , hex = "#0298c3"
     , rgb = ( 2, 152, 195 )
+    , hasColor = True
     }
 
 
@@ -4132,6 +4542,7 @@ picolisp =
     , color = Color.rgb255 96 103 175
     , hex = "#6067af"
     , rgb = ( 96, 103, 175 )
+    , hasColor = True
     }
 
 
@@ -4142,6 +4553,7 @@ piglatin =
     , color = Color.rgb255 252 215 222
     , hex = "#fcd7de"
     , rgb = ( 252, 215, 222 )
+    , hasColor = True
     }
 
 
@@ -4152,6 +4564,7 @@ pike =
     , color = Color.rgb255 0 83 144
     , hex = "#005390"
     , rgb = ( 0, 83, 144 )
+    , hasColor = True
     }
 
 
@@ -4162,6 +4575,7 @@ plantuml =
     , color = Color.rgb255 251 189 22
     , hex = "#fbbd16"
     , rgb = ( 251, 189, 22 )
+    , hasColor = True
     }
 
 
@@ -4172,6 +4586,7 @@ pogoscript =
     , color = Color.rgb255 216 0 116
     , hex = "#d80074"
     , rgb = ( 216, 0, 116 )
+    , hasColor = True
     }
 
 
@@ -4182,6 +4597,7 @@ polar =
     , color = Color.rgb255 174 129 255
     , hex = "#ae81ff"
     , rgb = ( 174, 129, 255 )
+    , hasColor = True
     }
 
 
@@ -4192,6 +4608,7 @@ pony =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -4202,6 +4619,7 @@ portugol =
     , color = Color.rgb255 248 189 0
     , hex = "#f8bd00"
     , rgb = ( 248, 189, 0 )
+    , hasColor = True
     }
 
 
@@ -4212,6 +4630,7 @@ postcss =
     , color = Color.rgb255 220 58 12
     , hex = "#dc3a0c"
     , rgb = ( 220, 58, 12 )
+    , hasColor = True
     }
 
 
@@ -4222,6 +4641,7 @@ postscript =
     , color = Color.rgb255 218 41 28
     , hex = "#da291c"
     , rgb = ( 218, 41, 28 )
+    , hasColor = True
     }
 
 
@@ -4232,6 +4652,7 @@ powerbuilder =
     , color = Color.rgb255 143 15 141
     , hex = "#8f0f8d"
     , rgb = ( 143, 15, 141 )
+    , hasColor = True
     }
 
 
@@ -4242,6 +4663,7 @@ powershell =
     , color = Color.rgb255 1 36 86
     , hex = "#012456"
     , rgb = ( 1, 36, 86 )
+    , hasColor = True
     }
 
 
@@ -4252,6 +4674,7 @@ prisma =
     , color = Color.rgb255 12 52 75
     , hex = "#0c344b"
     , rgb = ( 12, 52, 75 )
+    , hasColor = True
     }
 
 
@@ -4262,6 +4685,7 @@ processing =
     , color = Color.rgb255 0 150 216
     , hex = "#0096D8"
     , rgb = ( 0, 150, 216 )
+    , hasColor = True
     }
 
 
@@ -4272,6 +4696,7 @@ procfile =
     , color = Color.rgb255 59 47 99
     , hex = "#3B2F63"
     , rgb = ( 59, 47, 99 )
+    , hasColor = True
     }
 
 
@@ -4282,6 +4707,7 @@ prolog =
     , color = Color.rgb255 116 40 60
     , hex = "#74283c"
     , rgb = ( 116, 40, 60 )
+    , hasColor = True
     }
 
 
@@ -4292,6 +4718,7 @@ promela =
     , color = Color.rgb255 222 0 0
     , hex = "#de0000"
     , rgb = ( 222, 0, 0 )
+    , hasColor = True
     }
 
 
@@ -4302,6 +4729,7 @@ propeller_spin =
     , color = Color.rgb255 127 162 167
     , hex = "#7fa2a7"
     , rgb = ( 127, 162, 167 )
+    , hasColor = True
     }
 
 
@@ -4312,6 +4740,7 @@ pug =
     , color = Color.rgb255 168 100 84
     , hex = "#a86454"
     , rgb = ( 168, 100, 84 )
+    , hasColor = True
     }
 
 
@@ -4322,6 +4751,7 @@ puppet =
     , color = Color.rgb255 48 43 109
     , hex = "#302B6D"
     , rgb = ( 48, 43, 109 )
+    , hasColor = True
     }
 
 
@@ -4332,6 +4762,7 @@ purebasic =
     , color = Color.rgb255 90 105 134
     , hex = "#5a6986"
     , rgb = ( 90, 105, 134 )
+    , hasColor = True
     }
 
 
@@ -4342,6 +4773,7 @@ purescript =
     , color = Color.rgb255 29 34 45
     , hex = "#1D222D"
     , rgb = ( 29, 34, 45 )
+    , hasColor = True
     }
 
 
@@ -4352,6 +4784,7 @@ pyret =
     , color = Color.rgb255 238 30 16
     , hex = "#ee1e10"
     , rgb = ( 238, 30, 16 )
+    , hasColor = True
     }
 
 
@@ -4362,6 +4795,7 @@ python =
     , color = Color.rgb255 53 114 165
     , hex = "#3572A5"
     , rgb = ( 53, 114, 165 )
+    , hasColor = True
     }
 
 
@@ -4372,6 +4806,7 @@ python_console =
     , color = Color.rgb255 53 114 165
     , hex = "#3572A5"
     , rgb = ( 53, 114, 165 )
+    , hasColor = True
     }
 
 
@@ -4382,16 +4817,18 @@ python_traceback =
     , color = Color.rgb255 53 114 165
     , hex = "#3572A5"
     , rgb = ( 53, 114, 165 )
+    , hasColor = True
     }
 
 
 {-| Github language color for 'Q#' -}
-q# : Color
-q# =
+q_sharp : Color
+q_sharp =
     { elmui = Element.rgb255 254 214 89
     , color = Color.rgb255 254 214 89
     , hex = "#fed659"
     , rgb = ( 254, 214, 89 )
+    , hasColor = True
     }
 
 
@@ -4402,6 +4839,7 @@ qml =
     , color = Color.rgb255 68 165 28
     , hex = "#44a51c"
     , rgb = ( 68, 165, 28 )
+    , hasColor = True
     }
 
 
@@ -4412,6 +4850,7 @@ qmake =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -4422,6 +4861,7 @@ qt_script =
     , color = Color.rgb255 0 184 65
     , hex = "#00b841"
     , rgb = ( 0, 184, 65 )
+    , hasColor = True
     }
 
 
@@ -4432,6 +4872,7 @@ quake =
     , color = Color.rgb255 136 34 51
     , hex = "#882233"
     , rgb = ( 136, 34, 51 )
+    , hasColor = True
     }
 
 
@@ -4442,6 +4883,7 @@ r =
     , color = Color.rgb255 25 140 231
     , hex = "#198CE7"
     , rgb = ( 25, 140, 231 )
+    , hasColor = True
     }
 
 
@@ -4452,6 +4894,7 @@ raml =
     , color = Color.rgb255 119 217 251
     , hex = "#77d9fb"
     , rgb = ( 119, 217, 251 )
+    , hasColor = True
     }
 
 
@@ -4462,6 +4905,7 @@ rbs =
     , color = Color.rgb255 112 21 22
     , hex = "#701516"
     , rgb = ( 112, 21, 22 )
+    , hasColor = True
     }
 
 
@@ -4472,6 +4916,7 @@ rdoc =
     , color = Color.rgb255 112 21 22
     , hex = "#701516"
     , rgb = ( 112, 21, 22 )
+    , hasColor = True
     }
 
 
@@ -4482,6 +4927,7 @@ realbasic =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -4492,6 +4938,7 @@ rexx =
     , color = Color.rgb255 217 14 9
     , hex = "#d90e09"
     , rgb = ( 217, 14, 9 )
+    , hasColor = True
     }
 
 
@@ -4502,6 +4949,7 @@ rmarkdown =
     , color = Color.rgb255 25 140 231
     , hex = "#198ce7"
     , rgb = ( 25, 140, 231 )
+    , hasColor = True
     }
 
 
@@ -4512,6 +4960,7 @@ rpc =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -4522,6 +4971,7 @@ rpgle =
     , color = Color.rgb255 43 222 33
     , hex = "#2BDE21"
     , rgb = ( 43, 222, 33 )
+    , hasColor = True
     }
 
 
@@ -4532,6 +4982,7 @@ runoff =
     , color = Color.rgb255 102 90 78
     , hex = "#665a4e"
     , rgb = ( 102, 90, 78 )
+    , hasColor = True
     }
 
 
@@ -4542,6 +4993,7 @@ racket =
     , color = Color.rgb255 60 92 170
     , hex = "#3c5caa"
     , rgb = ( 60, 92, 170 )
+    , hasColor = True
     }
 
 
@@ -4552,6 +5004,7 @@ ragel =
     , color = Color.rgb255 157 82 0
     , hex = "#9d5200"
     , rgb = ( 157, 82, 0 )
+    , hasColor = True
     }
 
 
@@ -4562,6 +5015,7 @@ raku =
     , color = Color.rgb255 0 0 251
     , hex = "#0000fb"
     , rgb = ( 0, 0, 251 )
+    , hasColor = True
     }
 
 
@@ -4572,6 +5026,7 @@ rascal =
     , color = Color.rgb255 255 250 160
     , hex = "#fffaa0"
     , rgb = ( 255, 250, 160 )
+    , hasColor = True
     }
 
 
@@ -4582,6 +5037,7 @@ rescript =
     , color = Color.rgb255 237 80 81
     , hex = "#ed5051"
     , rgb = ( 237, 80, 81 )
+    , hasColor = True
     }
 
 
@@ -4592,6 +5048,7 @@ reason =
     , color = Color.rgb255 255 88 71
     , hex = "#ff5847"
     , rgb = ( 255, 88, 71 )
+    , hasColor = True
     }
 
 
@@ -4602,6 +5059,7 @@ reasonligo =
     , color = Color.rgb255 255 88 71
     , hex = "#ff5847"
     , rgb = ( 255, 88, 71 )
+    , hasColor = True
     }
 
 
@@ -4612,6 +5070,7 @@ rebol =
     , color = Color.rgb255 53 138 91
     , hex = "#358a5b"
     , rgb = ( 53, 138, 91 )
+    , hasColor = True
     }
 
 
@@ -4622,6 +5081,7 @@ record_jar =
     , color = Color.rgb255 6 115 186
     , hex = "#0673ba"
     , rgb = ( 6, 115, 186 )
+    , hasColor = True
     }
 
 
@@ -4632,6 +5092,7 @@ red =
     , color = Color.rgb255 245 0 0
     , hex = "#f50000"
     , rgb = ( 245, 0, 0 )
+    , hasColor = True
     }
 
 
@@ -4642,6 +5103,7 @@ redcode =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -4652,6 +5114,7 @@ regular_expression =
     , color = Color.rgb255 0 154 0
     , hex = "#009a00"
     , rgb = ( 0, 154, 0 )
+    , hasColor = True
     }
 
 
@@ -4662,6 +5125,7 @@ ren_py =
     , color = Color.rgb255 255 127 127
     , hex = "#ff7f7f"
     , rgb = ( 255, 127, 127 )
+    , hasColor = True
     }
 
 
@@ -4672,6 +5136,7 @@ renderscript =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -4682,6 +5147,7 @@ ring =
     , color = Color.rgb255 45 84 203
     , hex = "#2D54CB"
     , rgb = ( 45, 84, 203 )
+    , hasColor = True
     }
 
 
@@ -4692,6 +5158,7 @@ riot =
     , color = Color.rgb255 167 30 73
     , hex = "#A71E49"
     , rgb = ( 167, 30, 73 )
+    , hasColor = True
     }
 
 
@@ -4702,6 +5169,7 @@ robotframework =
     , color = Color.rgb255 0 192 181
     , hex = "#00c0b5"
     , rgb = ( 0, 192, 181 )
+    , hasColor = True
     }
 
 
@@ -4712,6 +5180,7 @@ roff =
     , color = Color.rgb255 236 222 190
     , hex = "#ecdebe"
     , rgb = ( 236, 222, 190 )
+    , hasColor = True
     }
 
 
@@ -4722,6 +5191,7 @@ roff_manpage =
     , color = Color.rgb255 236 222 190
     , hex = "#ecdebe"
     , rgb = ( 236, 222, 190 )
+    , hasColor = True
     }
 
 
@@ -4732,6 +5202,7 @@ rouge =
     , color = Color.rgb255 204 0 136
     , hex = "#cc0088"
     , rgb = ( 204, 0, 136 )
+    , hasColor = True
     }
 
 
@@ -4742,6 +5213,7 @@ routeros_script =
     , color = Color.rgb255 222 57 65
     , hex = "#DE3941"
     , rgb = ( 222, 57, 65 )
+    , hasColor = True
     }
 
 
@@ -4752,6 +5224,7 @@ ruby =
     , color = Color.rgb255 112 21 22
     , hex = "#701516"
     , rgb = ( 112, 21, 22 )
+    , hasColor = True
     }
 
 
@@ -4762,6 +5235,7 @@ rust =
     , color = Color.rgb255 222 165 132
     , hex = "#dea584"
     , rgb = ( 222, 165, 132 )
+    , hasColor = True
     }
 
 
@@ -4772,6 +5246,7 @@ sas =
     , color = Color.rgb255 179 73 54
     , hex = "#B34936"
     , rgb = ( 179, 73, 54 )
+    , hasColor = True
     }
 
 
@@ -4782,6 +5257,7 @@ scss =
     , color = Color.rgb255 198 83 140
     , hex = "#c6538c"
     , rgb = ( 198, 83, 140 )
+    , hasColor = True
     }
 
 
@@ -4792,6 +5268,7 @@ smt =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -4802,6 +5279,7 @@ sparql =
     , color = Color.rgb255 12 69 151
     , hex = "#0C4597"
     , rgb = ( 12, 69, 151 )
+    , hasColor = True
     }
 
 
@@ -4812,6 +5290,7 @@ sqf =
     , color = Color.rgb255 63 63 63
     , hex = "#3F3F3F"
     , rgb = ( 63, 63, 63 )
+    , hasColor = True
     }
 
 
@@ -4822,6 +5301,7 @@ sql =
     , color = Color.rgb255 227 140 0
     , hex = "#e38c00"
     , rgb = ( 227, 140, 0 )
+    , hasColor = True
     }
 
 
@@ -4832,6 +5312,7 @@ sqlpl =
     , color = Color.rgb255 227 140 0
     , hex = "#e38c00"
     , rgb = ( 227, 140, 0 )
+    , hasColor = True
     }
 
 
@@ -4842,6 +5323,7 @@ srecode_template =
     , color = Color.rgb255 52 138 52
     , hex = "#348a34"
     , rgb = ( 52, 138, 52 )
+    , hasColor = True
     }
 
 
@@ -4852,6 +5334,7 @@ stl =
     , color = Color.rgb255 55 59 94
     , hex = "#373b5e"
     , rgb = ( 55, 59, 94 )
+    , hasColor = True
     }
 
 
@@ -4862,6 +5345,7 @@ svg =
     , color = Color.rgb255 255 153 0
     , hex = "#ff9900"
     , rgb = ( 255, 153, 0 )
+    , hasColor = True
     }
 
 
@@ -4872,6 +5356,7 @@ swig =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -4882,6 +5367,7 @@ sage =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -4892,6 +5378,7 @@ saltstack =
     , color = Color.rgb255 100 100 100
     , hex = "#646464"
     , rgb = ( 100, 100, 100 )
+    , hasColor = True
     }
 
 
@@ -4902,6 +5389,7 @@ sass =
     , color = Color.rgb255 165 59 112
     , hex = "#a53b70"
     , rgb = ( 165, 59, 112 )
+    , hasColor = True
     }
 
 
@@ -4912,6 +5400,7 @@ scala =
     , color = Color.rgb255 194 45 64
     , hex = "#c22d40"
     , rgb = ( 194, 45, 64 )
+    , hasColor = True
     }
 
 
@@ -4922,6 +5411,7 @@ scaml =
     , color = Color.rgb255 189 24 26
     , hex = "#bd181a"
     , rgb = ( 189, 24, 26 )
+    , hasColor = True
     }
 
 
@@ -4932,6 +5422,7 @@ scenic =
     , color = Color.rgb255 253 199 0
     , hex = "#fdc700"
     , rgb = ( 253, 199, 0 )
+    , hasColor = True
     }
 
 
@@ -4942,6 +5433,7 @@ scheme =
     , color = Color.rgb255 30 74 236
     , hex = "#1e4aec"
     , rgb = ( 30, 74, 236 )
+    , hasColor = True
     }
 
 
@@ -4952,6 +5444,7 @@ scilab =
     , color = Color.rgb255 202 15 33
     , hex = "#ca0f21"
     , rgb = ( 202, 15, 33 )
+    , hasColor = True
     }
 
 
@@ -4962,6 +5455,7 @@ self =
     , color = Color.rgb255 5 121 170
     , hex = "#0579aa"
     , rgb = ( 5, 121, 170 )
+    , hasColor = True
     }
 
 
@@ -4972,6 +5466,7 @@ shaderlab =
     , color = Color.rgb255 34 44 55
     , hex = "#222c37"
     , rgb = ( 34, 44, 55 )
+    , hasColor = True
     }
 
 
@@ -4982,6 +5477,7 @@ shell =
     , color = Color.rgb255 137 224 81
     , hex = "#89e051"
     , rgb = ( 137, 224, 81 )
+    , hasColor = True
     }
 
 
@@ -4992,6 +5488,7 @@ shellcheck_config =
     , color = Color.rgb255 206 207 203
     , hex = "#cecfcb"
     , rgb = ( 206, 207, 203 )
+    , hasColor = True
     }
 
 
@@ -5002,6 +5499,7 @@ shellsession =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -5012,6 +5510,7 @@ shen =
     , color = Color.rgb255 18 15 20
     , hex = "#120F14"
     , rgb = ( 18, 15, 20 )
+    , hasColor = True
     }
 
 
@@ -5022,6 +5521,7 @@ sieve =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -5032,6 +5532,7 @@ simple_file_verification =
     , color = Color.rgb255 201 191 237
     , hex = "#C9BFED"
     , rgb = ( 201, 191, 237 )
+    , hasColor = True
     }
 
 
@@ -5042,6 +5543,7 @@ singularity =
     , color = Color.rgb255 100 230 173
     , hex = "#64E6AD"
     , rgb = ( 100, 230, 173 )
+    , hasColor = True
     }
 
 
@@ -5052,6 +5554,7 @@ slash =
     , color = Color.rgb255 0 126 255
     , hex = "#007eff"
     , rgb = ( 0, 126, 255 )
+    , hasColor = True
     }
 
 
@@ -5062,6 +5565,7 @@ slice =
     , color = Color.rgb255 0 63 162
     , hex = "#003fa2"
     , rgb = ( 0, 63, 162 )
+    , hasColor = True
     }
 
 
@@ -5072,6 +5576,7 @@ slim =
     , color = Color.rgb255 43 43 43
     , hex = "#2b2b2b"
     , rgb = ( 43, 43, 43 )
+    , hasColor = True
     }
 
 
@@ -5082,6 +5587,7 @@ smpl =
     , color = Color.rgb255 201 73 73
     , hex = "#c94949"
     , rgb = ( 201, 73, 73 )
+    , hasColor = True
     }
 
 
@@ -5092,6 +5598,7 @@ smali =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -5102,6 +5609,7 @@ smalltalk =
     , color = Color.rgb255 89 103 6
     , hex = "#596706"
     , rgb = ( 89, 103, 6 )
+    , hasColor = True
     }
 
 
@@ -5112,6 +5620,7 @@ smarty =
     , color = Color.rgb255 240 192 64
     , hex = "#f0c040"
     , rgb = ( 240, 192, 64 )
+    , hasColor = True
     }
 
 
@@ -5122,6 +5631,7 @@ smithy =
     , color = Color.rgb255 196 69 54
     , hex = "#c44536"
     , rgb = ( 196, 69, 54 )
+    , hasColor = True
     }
 
 
@@ -5132,6 +5642,7 @@ snakemake =
     , color = Color.rgb255 65 145 121
     , hex = "#419179"
     , rgb = ( 65, 145, 121 )
+    , hasColor = True
     }
 
 
@@ -5142,6 +5653,7 @@ solidity =
     , color = Color.rgb255 170 103 70
     , hex = "#AA6746"
     , rgb = ( 170, 103, 70 )
+    , hasColor = True
     }
 
 
@@ -5152,6 +5664,7 @@ sourcepawn =
     , color = Color.rgb255 246 158 29
     , hex = "#f69e1d"
     , rgb = ( 246, 158, 29 )
+    , hasColor = True
     }
 
 
@@ -5162,6 +5675,7 @@ squirrel =
     , color = Color.rgb255 128 0 0
     , hex = "#800000"
     , rgb = ( 128, 0, 0 )
+    , hasColor = True
     }
 
 
@@ -5172,6 +5686,7 @@ stan =
     , color = Color.rgb255 178 1 29
     , hex = "#b2011d"
     , rgb = ( 178, 1, 29 )
+    , hasColor = True
     }
 
 
@@ -5182,6 +5697,7 @@ standard_ml =
     , color = Color.rgb255 220 86 109
     , hex = "#dc566d"
     , rgb = ( 220, 86, 109 )
+    , hasColor = True
     }
 
 
@@ -5192,6 +5708,7 @@ starlark =
     , color = Color.rgb255 118 210 117
     , hex = "#76d275"
     , rgb = ( 118, 210, 117 )
+    , hasColor = True
     }
 
 
@@ -5202,6 +5719,7 @@ stata =
     , color = Color.rgb255 26 95 145
     , hex = "#1a5f91"
     , rgb = ( 26, 95, 145 )
+    , hasColor = True
     }
 
 
@@ -5212,6 +5730,7 @@ stringtemplate =
     , color = Color.rgb255 63 179 79
     , hex = "#3fb34f"
     , rgb = ( 63, 179, 79 )
+    , hasColor = True
     }
 
 
@@ -5222,6 +5741,7 @@ stylus =
     , color = Color.rgb255 255 99 71
     , hex = "#ff6347"
     , rgb = ( 255, 99, 71 )
+    , hasColor = True
     }
 
 
@@ -5232,6 +5752,7 @@ subrip_text =
     , color = Color.rgb255 158 1 1
     , hex = "#9e0101"
     , rgb = ( 158, 1, 1 )
+    , hasColor = True
     }
 
 
@@ -5242,6 +5763,7 @@ sugarss =
     , color = Color.rgb255 47 204 159
     , hex = "#2fcc9f"
     , rgb = ( 47, 204, 159 )
+    , hasColor = True
     }
 
 
@@ -5252,6 +5774,7 @@ supercollider =
     , color = Color.rgb255 70 57 11
     , hex = "#46390b"
     , rgb = ( 70, 57, 11 )
+    , hasColor = True
     }
 
 
@@ -5262,6 +5785,7 @@ svelte =
     , color = Color.rgb255 255 62 0
     , hex = "#ff3e00"
     , rgb = ( 255, 62, 0 )
+    , hasColor = True
     }
 
 
@@ -5272,6 +5796,7 @@ sway =
     , color = Color.rgb255 222 165 132
     , hex = "#dea584"
     , rgb = ( 222, 165, 132 )
+    , hasColor = True
     }
 
 
@@ -5282,6 +5807,7 @@ swift =
     , color = Color.rgb255 240 81 56
     , hex = "#F05138"
     , rgb = ( 240, 81, 56 )
+    , hasColor = True
     }
 
 
@@ -5292,6 +5818,7 @@ systemverilog =
     , color = Color.rgb255 218 225 194
     , hex = "#DAE1C2"
     , rgb = ( 218, 225, 194 )
+    , hasColor = True
     }
 
 
@@ -5302,6 +5829,7 @@ ti_program =
     , color = Color.rgb255 160 170 135
     , hex = "#A0AA87"
     , rgb = ( 160, 170, 135 )
+    , hasColor = True
     }
 
 
@@ -5312,6 +5840,7 @@ tl_verilog =
     , color = Color.rgb255 196 0 35
     , hex = "#C40023"
     , rgb = ( 196, 0, 35 )
+    , hasColor = True
     }
 
 
@@ -5322,6 +5851,7 @@ tla =
     , color = Color.rgb255 75 0 121
     , hex = "#4b0079"
     , rgb = ( 75, 0, 121 )
+    , hasColor = True
     }
 
 
@@ -5332,6 +5862,7 @@ toml =
     , color = Color.rgb255 156 66 33
     , hex = "#9c4221"
     , rgb = ( 156, 66, 33 )
+    , hasColor = True
     }
 
 
@@ -5342,6 +5873,7 @@ tsql =
     , color = Color.rgb255 227 140 0
     , hex = "#e38c00"
     , rgb = ( 227, 140, 0 )
+    , hasColor = True
     }
 
 
@@ -5352,6 +5884,7 @@ tsv =
     , color = Color.rgb255 35 115 70
     , hex = "#237346"
     , rgb = ( 35, 115, 70 )
+    , hasColor = True
     }
 
 
@@ -5362,6 +5895,7 @@ tsx =
     , color = Color.rgb255 49 120 198
     , hex = "#3178c6"
     , rgb = ( 49, 120, 198 )
+    , hasColor = True
     }
 
 
@@ -5372,6 +5906,7 @@ txl =
     , color = Color.rgb255 1 120 184
     , hex = "#0178b8"
     , rgb = ( 1, 120, 184 )
+    , hasColor = True
     }
 
 
@@ -5382,6 +5917,7 @@ talon =
     , color = Color.rgb255 51 51 51
     , hex = "#333333"
     , rgb = ( 51, 51, 51 )
+    , hasColor = True
     }
 
 
@@ -5392,6 +5928,7 @@ tcl =
     , color = Color.rgb255 228 204 152
     , hex = "#e4cc98"
     , rgb = ( 228, 204, 152 )
+    , hasColor = True
     }
 
 
@@ -5402,6 +5939,7 @@ tcsh =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -5412,6 +5950,7 @@ tex =
     , color = Color.rgb255 61 97 23
     , hex = "#3D6117"
     , rgb = ( 61, 97, 23 )
+    , hasColor = True
     }
 
 
@@ -5422,6 +5961,7 @@ terra =
     , color = Color.rgb255 0 0 76
     , hex = "#00004c"
     , rgb = ( 0, 0, 76 )
+    , hasColor = True
     }
 
 
@@ -5432,6 +5972,7 @@ textmate_properties =
     , color = Color.rgb255 223 102 228
     , hex = "#df66e4"
     , rgb = ( 223, 102, 228 )
+    , hasColor = True
     }
 
 
@@ -5442,6 +5983,7 @@ textile =
     , color = Color.rgb255 255 231 172
     , hex = "#ffe7ac"
     , rgb = ( 255, 231, 172 )
+    , hasColor = True
     }
 
 
@@ -5452,6 +5994,7 @@ thrift =
     , color = Color.rgb255 209 33 39
     , hex = "#D12127"
     , rgb = ( 209, 33, 39 )
+    , hasColor = True
     }
 
 
@@ -5462,6 +6005,7 @@ turing =
     , color = Color.rgb255 207 20 43
     , hex = "#cf142b"
     , rgb = ( 207, 20, 43 )
+    , hasColor = True
     }
 
 
@@ -5472,6 +6016,7 @@ twig =
     , color = Color.rgb255 193 208 38
     , hex = "#c1d026"
     , rgb = ( 193, 208, 38 )
+    , hasColor = True
     }
 
 
@@ -5482,6 +6027,7 @@ typescript =
     , color = Color.rgb255 49 120 198
     , hex = "#3178c6"
     , rgb = ( 49, 120, 198 )
+    , hasColor = True
     }
 
 
@@ -5492,6 +6038,7 @@ unified_parallel_c =
     , color = Color.rgb255 78 54 23
     , hex = "#4e3617"
     , rgb = ( 78, 54, 23 )
+    , hasColor = True
     }
 
 
@@ -5502,6 +6049,7 @@ unity3d_asset =
     , color = Color.rgb255 34 44 55
     , hex = "#222c37"
     , rgb = ( 34, 44, 55 )
+    , hasColor = True
     }
 
 
@@ -5512,6 +6060,7 @@ unix_assembly =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -5522,6 +6071,7 @@ uno =
     , color = Color.rgb255 153 51 204
     , hex = "#9933cc"
     , rgb = ( 153, 51, 204 )
+    , hasColor = True
     }
 
 
@@ -5532,6 +6082,7 @@ unrealscript =
     , color = Color.rgb255 165 76 77
     , hex = "#a54c4d"
     , rgb = ( 165, 76, 77 )
+    , hasColor = True
     }
 
 
@@ -5542,6 +6093,7 @@ urweb =
     , color = Color.rgb255 204 204 238
     , hex = "#ccccee"
     , rgb = ( 204, 204, 238 )
+    , hasColor = True
     }
 
 
@@ -5552,6 +6104,7 @@ v =
     , color = Color.rgb255 79 135 196
     , hex = "#4f87c4"
     , rgb = ( 79, 135, 196 )
+    , hasColor = True
     }
 
 
@@ -5562,6 +6115,7 @@ vba =
     , color = Color.rgb255 134 125 177
     , hex = "#867db1"
     , rgb = ( 134, 125, 177 )
+    , hasColor = True
     }
 
 
@@ -5572,6 +6126,7 @@ vbscript =
     , color = Color.rgb255 21 220 220
     , hex = "#15dcdc"
     , rgb = ( 21, 220, 220 )
+    , hasColor = True
     }
 
 
@@ -5582,6 +6137,7 @@ vcl =
     , color = Color.rgb255 20 138 168
     , hex = "#148AA8"
     , rgb = ( 20, 138, 168 )
+    , hasColor = True
     }
 
 
@@ -5592,6 +6148,7 @@ vhdl =
     , color = Color.rgb255 173 178 203
     , hex = "#adb2cb"
     , rgb = ( 173, 178, 203 )
+    , hasColor = True
     }
 
 
@@ -5602,6 +6159,7 @@ vala =
     , color = Color.rgb255 165 109 226
     , hex = "#a56de2"
     , rgb = ( 165, 109, 226 )
+    , hasColor = True
     }
 
 
@@ -5612,6 +6170,7 @@ valve_data_format =
     , color = Color.rgb255 242 96 37
     , hex = "#f26025"
     , rgb = ( 242, 96, 37 )
+    , hasColor = True
     }
 
 
@@ -5622,6 +6181,7 @@ velocity_template_language =
     , color = Color.rgb255 80 124 255
     , hex = "#507cff"
     , rgb = ( 80, 124, 255 )
+    , hasColor = True
     }
 
 
@@ -5632,6 +6192,7 @@ verilog =
     , color = Color.rgb255 178 183 248
     , hex = "#b2b7f8"
     , rgb = ( 178, 183, 248 )
+    , hasColor = True
     }
 
 
@@ -5642,6 +6203,7 @@ vim_help_file =
     , color = Color.rgb255 25 159 75
     , hex = "#199f4b"
     , rgb = ( 25, 159, 75 )
+    , hasColor = True
     }
 
 
@@ -5652,6 +6214,7 @@ vim_script =
     , color = Color.rgb255 25 159 75
     , hex = "#199f4b"
     , rgb = ( 25, 159, 75 )
+    , hasColor = True
     }
 
 
@@ -5662,6 +6225,7 @@ vim_snippet =
     , color = Color.rgb255 25 159 75
     , hex = "#199f4b"
     , rgb = ( 25, 159, 75 )
+    , hasColor = True
     }
 
 
@@ -5672,6 +6236,7 @@ visual_basic__net =
     , color = Color.rgb255 148 93 183
     , hex = "#945db7"
     , rgb = ( 148, 93, 183 )
+    , hasColor = True
     }
 
 
@@ -5682,6 +6247,7 @@ visual_basic_6_0 =
     , color = Color.rgb255 44 99 83
     , hex = "#2c6353"
     , rgb = ( 44, 99, 83 )
+    , hasColor = True
     }
 
 
@@ -5692,6 +6258,7 @@ volt =
     , color = Color.rgb255 31 31 31
     , hex = "#1F1F1F"
     , rgb = ( 31, 31, 31 )
+    , hasColor = True
     }
 
 
@@ -5702,6 +6269,7 @@ vue =
     , color = Color.rgb255 65 184 131
     , hex = "#41b883"
     , rgb = ( 65, 184, 131 )
+    , hasColor = True
     }
 
 
@@ -5712,6 +6280,7 @@ vyper =
     , color = Color.rgb255 41 128 185
     , hex = "#2980b9"
     , rgb = ( 41, 128, 185 )
+    , hasColor = True
     }
 
 
@@ -5722,6 +6291,7 @@ wdl =
     , color = Color.rgb255 66 241 244
     , hex = "#42f1f4"
     , rgb = ( 66, 241, 244 )
+    , hasColor = True
     }
 
 
@@ -5732,6 +6302,7 @@ wgsl =
     , color = Color.rgb255 26 94 154
     , hex = "#1a5e9a"
     , rgb = ( 26, 94, 154 )
+    , hasColor = True
     }
 
 
@@ -5742,6 +6313,7 @@ web_ontology_language =
     , color = Color.rgb255 91 112 189
     , hex = "#5b70bd"
     , rgb = ( 91, 112, 189 )
+    , hasColor = True
     }
 
 
@@ -5752,6 +6324,7 @@ webassembly =
     , color = Color.rgb255 4 19 59
     , hex = "#04133b"
     , rgb = ( 4, 19, 59 )
+    , hasColor = True
     }
 
 
@@ -5762,6 +6335,7 @@ webassembly_interface_type =
     , color = Color.rgb255 98 80 231
     , hex = "#6250e7"
     , rgb = ( 98, 80, 231 )
+    , hasColor = True
     }
 
 
@@ -5772,6 +6346,7 @@ webidl =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -5782,6 +6357,7 @@ whiley =
     , color = Color.rgb255 213 195 151
     , hex = "#d5c397"
     , rgb = ( 213, 195, 151 )
+    , hasColor = True
     }
 
 
@@ -5792,6 +6368,7 @@ wikitext =
     , color = Color.rgb255 252 87 87
     , hex = "#fc5757"
     , rgb = ( 252, 87, 87 )
+    , hasColor = True
     }
 
 
@@ -5802,6 +6379,7 @@ windows_registry_entries =
     , color = Color.rgb255 82 213 255
     , hex = "#52d5ff"
     , rgb = ( 82, 213, 255 )
+    , hasColor = True
     }
 
 
@@ -5812,6 +6390,7 @@ witcher_script =
     , color = Color.rgb255 255 0 0
     , hex = "#ff0000"
     , rgb = ( 255, 0, 0 )
+    , hasColor = True
     }
 
 
@@ -5822,6 +6401,7 @@ wollok =
     , color = Color.rgb255 162 55 56
     , hex = "#a23738"
     , rgb = ( 162, 55, 56 )
+    , hasColor = True
     }
 
 
@@ -5832,6 +6412,7 @@ world_of_warcraft_addon_data =
     , color = Color.rgb255 247 228 63
     , hex = "#f7e43f"
     , rgb = ( 247, 228, 63 )
+    , hasColor = True
     }
 
 
@@ -5842,6 +6423,7 @@ wren =
     , color = Color.rgb255 56 56 56
     , hex = "#383838"
     , rgb = ( 56, 56, 56 )
+    , hasColor = True
     }
 
 
@@ -5852,6 +6434,7 @@ x10 =
     , color = Color.rgb255 75 107 239
     , hex = "#4B6BEF"
     , rgb = ( 75, 107, 239 )
+    , hasColor = True
     }
 
 
@@ -5862,6 +6445,7 @@ xc =
     , color = Color.rgb255 153 218 7
     , hex = "#99DA07"
     , rgb = ( 153, 218, 7 )
+    , hasColor = True
     }
 
 
@@ -5872,6 +6456,7 @@ xml =
     , color = Color.rgb255 0 96 172
     , hex = "#0060ac"
     , rgb = ( 0, 96, 172 )
+    , hasColor = True
     }
 
 
@@ -5882,6 +6467,7 @@ xml_property_list =
     , color = Color.rgb255 0 96 172
     , hex = "#0060ac"
     , rgb = ( 0, 96, 172 )
+    , hasColor = True
     }
 
 
@@ -5892,6 +6478,7 @@ xproc =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -5902,6 +6489,7 @@ xquery =
     , color = Color.rgb255 82 50 231
     , hex = "#5232e7"
     , rgb = ( 82, 50, 231 )
+    , hasColor = True
     }
 
 
@@ -5912,6 +6500,7 @@ xs =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -5922,6 +6511,7 @@ xslt =
     , color = Color.rgb255 235 140 235
     , hex = "#EB8CEB"
     , rgb = ( 235, 140, 235 )
+    , hasColor = True
     }
 
 
@@ -5932,6 +6522,7 @@ xojo =
     , color = Color.rgb255 129 189 65
     , hex = "#81bd41"
     , rgb = ( 129, 189, 65 )
+    , hasColor = True
     }
 
 
@@ -5942,6 +6533,7 @@ xonsh =
     , color = Color.rgb255 40 94 239
     , hex = "#285EEF"
     , rgb = ( 40, 94, 239 )
+    , hasColor = True
     }
 
 
@@ -5952,6 +6544,7 @@ xtend =
     , color = Color.rgb255 36 37 93
     , hex = "#24255d"
     , rgb = ( 36, 37, 93 )
+    , hasColor = True
     }
 
 
@@ -5962,6 +6555,7 @@ yaml =
     , color = Color.rgb255 203 23 30
     , hex = "#cb171e"
     , rgb = ( 203, 23, 30 )
+    , hasColor = True
     }
 
 
@@ -5972,6 +6566,7 @@ yara =
     , color = Color.rgb255 34 0 0
     , hex = "#220000"
     , rgb = ( 34, 0, 0 )
+    , hasColor = True
     }
 
 
@@ -5982,6 +6577,7 @@ yasnippet =
     , color = Color.rgb255 50 171 144
     , hex = "#32AB90"
     , rgb = ( 50, 171, 144 )
+    , hasColor = True
     }
 
 
@@ -5992,6 +6588,7 @@ yacc =
     , color = Color.rgb255 75 108 75
     , hex = "#4B6C4B"
     , rgb = ( 75, 108, 75 )
+    , hasColor = True
     }
 
 
@@ -6002,6 +6599,7 @@ yul =
     , color = Color.rgb255 121 73 50
     , hex = "#794932"
     , rgb = ( 121, 73, 50 )
+    , hasColor = True
     }
 
 
@@ -6012,6 +6610,7 @@ zap =
     , color = Color.rgb255 13 102 94
     , hex = "#0d665e"
     , rgb = ( 13, 102, 94 )
+    , hasColor = True
     }
 
 
@@ -6022,6 +6621,7 @@ zil =
     , color = Color.rgb255 220 117 229
     , hex = "#dc75e5"
     , rgb = ( 220, 117, 229 )
+    , hasColor = True
     }
 
 
@@ -6032,6 +6632,7 @@ zeek =
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
+    , hasColor = False
     }
 
 
@@ -6042,6 +6643,7 @@ zenscript =
     , color = Color.rgb255 0 188 209
     , hex = "#00BCD1"
     , rgb = ( 0, 188, 209 )
+    , hasColor = True
     }
 
 
@@ -6052,6 +6654,7 @@ zephir =
     , color = Color.rgb255 17 143 158
     , hex = "#118f9e"
     , rgb = ( 17, 143, 158 )
+    , hasColor = True
     }
 
 
@@ -6062,6 +6665,7 @@ zig =
     , color = Color.rgb255 236 145 92
     , hex = "#ec915c"
     , rgb = ( 236, 145, 92 )
+    , hasColor = True
     }
 
 
@@ -6072,6 +6676,7 @@ zimpl =
     , color = Color.rgb255 214 119 17
     , hex = "#d67711"
     , rgb = ( 214, 119, 17 )
+    , hasColor = True
     }
 
 
@@ -6082,6 +6687,7 @@ ec =
     , color = Color.rgb255 145 57 96
     , hex = "#913960"
     , rgb = ( 145, 57, 96 )
+    , hasColor = True
     }
 
 
@@ -6092,6 +6698,7 @@ fish =
     , color = Color.rgb255 74 174 71
     , hex = "#4aae47"
     , rgb = ( 74, 174, 71 )
+    , hasColor = True
     }
 
 
@@ -6102,6 +6709,7 @@ hoon =
     , color = Color.rgb255 0 177 113
     , hex = "#00b171"
     , rgb = ( 0, 177, 113 )
+    , hasColor = True
     }
 
 
@@ -6112,6 +6720,7 @@ jq =
     , color = Color.rgb255 199 37 78
     , hex = "#c7254e"
     , rgb = ( 199, 37, 78 )
+    , hasColor = True
     }
 
 
@@ -6122,6 +6731,7 @@ kvlang =
     , color = Color.rgb255 29 166 224
     , hex = "#1da6e0"
     , rgb = ( 29, 166, 224 )
+    , hasColor = True
     }
 
 
@@ -6132,6 +6742,7 @@ mirc_script =
     , color = Color.rgb255 61 87 195
     , hex = "#3d57c3"
     , rgb = ( 61, 87, 195 )
+    , hasColor = True
     }
 
 
@@ -6142,6 +6753,7 @@ mcfunction =
     , color = Color.rgb255 226 40 55
     , hex = "#E22837"
     , rgb = ( 226, 40, 55 )
+    , hasColor = True
     }
 
 
@@ -6152,6 +6764,7 @@ mupad =
     , color = Color.rgb255 36 73 99
     , hex = "#244963"
     , rgb = ( 36, 73, 99 )
+    , hasColor = True
     }
 
 
@@ -6162,6 +6775,7 @@ nanorc =
     , color = Color.rgb255 45 0 77
     , hex = "#2d004d"
     , rgb = ( 45, 0, 77 )
+    , hasColor = True
     }
 
 
@@ -6172,6 +6786,7 @@ nesc =
     , color = Color.rgb255 148 176 199
     , hex = "#94B0C7"
     , rgb = ( 148, 176, 199 )
+    , hasColor = True
     }
 
 
@@ -6182,6 +6797,7 @@ ooc =
     , color = Color.rgb255 176 183 126
     , hex = "#b0b77e"
     , rgb = ( 176, 183, 126 )
+    , hasColor = True
     }
 
 
@@ -6192,6 +6808,7 @@ q =
     , color = Color.rgb255 0 64 205
     , hex = "#0040cd"
     , rgb = ( 0, 64, 205 )
+    , hasColor = True
     }
 
 
@@ -6202,6 +6819,7 @@ restructuredtext =
     , color = Color.rgb255 20 20 20
     , hex = "#141414"
     , rgb = ( 20, 20, 20 )
+    , hasColor = True
     }
 
 
@@ -6212,6 +6830,7 @@ sed =
     , color = Color.rgb255 100 185 112
     , hex = "#64b970"
     , rgb = ( 100, 185, 112 )
+    , hasColor = True
     }
 
 
@@ -6222,6 +6841,7 @@ wisp =
     , color = Color.rgb255 117 130 209
     , hex = "#7582D1"
     , rgb = ( 117, 130, 209 )
+    , hasColor = True
     }
 
 
@@ -6232,4 +6852,5 @@ xbase =
     , color = Color.rgb255 64 58 64
     , hex = "#403a40"
     , rgb = ( 64, 58, 64 )
+    , hasColor = True
     }

@@ -198,10 +198,11 @@ hexToColor hex =
 
 {-| Process a language name to be compatible with an Elm Variable
 
-1.  Replace space, dash, period and "'" with underscores
-3.  Convert to lowercase
-4.  If the name starts with a number, prefix it with "lang_"
-
+1.  Replace space, dash, period, parentheses, and "'" with underscores
+    Somehow there's a language called "Graphviz (DOT)"???? what kinda name is that
+2.  Convert to lowercase
+3.  If the name starts with a number, prefix it with "lang_"
+4.  Replace special chars like "++" and "#" with string reprs
 -}
 processName : String -> Result Error String
 processName name =
@@ -220,9 +221,18 @@ processName name =
                     Err <| Error.emptyName
     in
     name
-        |> String.replace " " "_"
-        |> String.replace "-" "_"
-        |> String.replace "." "_"
-        |> String.replace "'" "_"
+        |> replaceWithUnderscore [ ' ', '-', '.', '\'', '(', ')']
         |> String.toLower
+        |> replaceSpecialChars
         |> prefixIfStartsWithNumber
+
+-- replace every occurence of the chars in a string with an underscore
+replaceWithUnderscore : List Char -> String -> String 
+replaceWithUnderscore chars str =
+    String.fromList <| List.map (\c -> if List.member c chars then '_' else c) <| String.toList str
+
+replaceSpecialChars : String -> String
+replaceSpecialChars =
+    String.replace "++" "pp" 
+        >> String.replace "#" "_sharp" 
+        >> String.replace "*" "_star"
