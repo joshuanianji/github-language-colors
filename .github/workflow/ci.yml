@@ -1,0 +1,40 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
+      - uses: pnpm/action-setup@v2
+        name: Install pnpm
+        with:
+          version: 8
+
+      - name: Generate Files
+        run: pnpm gen
+
+      - name: Run `elm-review`
+        run: pnpm review
+
+      - name: Publish
+        uses: dillonkearns/elm-publish-action@v1
+        with:
+          dry-run: true
+          path-to-elm: ./node_modules/.bin/elm
+
+      - name: Check publish status
+        if: steps.publish.outputs.is-publishable == 'true'
+        run: echo "elm-publish-action is going to publish if run without dry-run=true"
