@@ -40,16 +40,15 @@ The `elmui` and `color` fields are provided for convenience, but you can also us
             List.map generateColor files
     in
     [ Elm.fileWith [ "GithubColors" ]
-        { docs = List.map Elm.docs
+        { docs = (\l -> topLevelDoc :: List.map Elm.docs l)
         , aliases = []
         }
-        (topLevelDoc :: colorTypeDeclaration :: colorDeclarations)
+        (colorTypeDeclaration :: colorDeclarations)
     ]
 
 
-topLevelDoc : Elm.Declaration
+topLevelDoc : String
 topLevelDoc =
-    Elm.comment
         """This module exposes the color values for all supported languages on Github. Color data is taken from [ozh/github-colors](https://github.com/ozh/github-colors).
 
 Each variable corresponds to a github language name, converted to lowercase and with most non-alphanumeric characters replaced by underscores (exceptions include "c++", "c#", and "f#"). Languages starting with a number gets prefixed by "lang_". For example, "2-Dimensional Array" becomes "lang_2_dimensional_array".
