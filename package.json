@@ -6,8 +6,8 @@
     "scripts": {
         "postinstall": "elm-tooling install",
         "get-colors": "mkdir -p inputs && curl -L https://raw.githubusercontent.com/ozh/github-colors/master/colors.json > inputs/colors.json",
-        "gen": "elm-codegen run --flags-from=inputs/colors.json",
-        "dev": "elm-codegen run --flags-from=inputs/colors.json --watch --debug"
+        "gen": "elm-codegen run --flags-from=inputs/colors.json --output=src",
+        "preview": "elm-doc-preview"
     },
     "keywords": [],
     "author": "",
@@ -16,5 +16,8 @@
         "elm-codegen": "^0.5.0",
         "elm-review": "^2.10.2",
         "elm-tooling": "^1.14.0"
+    },
+    "dependencies": {
+        "elm-doc-preview": "^5.0.5"
     }
 }
