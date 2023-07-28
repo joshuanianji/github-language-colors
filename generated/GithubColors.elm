@@ -1,7 +1,30 @@
-module GithubColors exposing (..)
+module GithubColors exposing (Color, abap, abap_cds, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, ags_script, aidl, al, alloy, alpine_abuild, altium_designer, ampl, angelscript, ant_build_system, antlers, antlr, apacheconf, apex, api_blueprint, apl, apollo_guidance_computer, applescript, arc, asciidoc, asl, asp_net, aspectj, assembly, astro, asymptote, ats, augeas, autohotkey, autoit, avro_idl, awk, ballerina, basic, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, boo, boogie, brainfuck, brighterscript, brightscript, browserslist, c, c#, c++, c2hs_haskell, cabal_config, cadence, cairo, cameligo, cap_cds, cap_n_proto, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clips, clojure, closure_templates, cloud_firestore_security_rules, cmake, cobol, codeql, coffeescript, coldfusion, coldfusion_cfc, collada, common_lisp, common_workflow_language, component_pascal, cool, coq, crystal, cson, csound, csound_document, csound_score, css, csv, cuda, cue, curry, cweb, cycript, cypher, cython, d, d2, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, digital_command_language, directx_3d_file, dm, dockerfile, dogescript, dotenv, dtrace, dylan, e, earthly, easybuild, ec, ecere_projects, ecl, eclipse, ecmarkup, editorconfig, eiffel, ejs, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, eq, erlang, euphoria, f#, f*, factor, fancy, fantom, faust, fennel, figlet_font, filebench_wml, filterscript, fish, fluent, flux, forth, fortran, fortran_free_form, freebasic, freemarker, frege, futhark, g_code, game_maker_language, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, gemfile_lock, gemini, genero, genero_forms, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glsl, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, grammatical_framework, graphql, graphviz_(dot), groovy, groovy_server_pages, gsc, hack, haml, handlebars, haproxy, harbour, haskell, haxe, hcl, hiveql, hlsl, hocon, holyc, hoon, hosts_file, html, html+ecr, html+eex, html+erb, html+php, html+razor, http, hxml, hy, hyphy, idl, idris, ignore_list, igor_pro, imagej_macro, imba, inform_7, ini, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, janet, jar_manifest, jasmin, java, java_properties, java_server_pages, javascript, javascript+erb, jcl, jest_snapshot, jetbrains_mps, jflex, jinja, jison, jison_lex, jolie, jq, json, json5, json_with_comments, jsoniq, jsonld, jsonnet, julia, jupyter_notebook, just, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, krl, kvlang, labview, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, lark, lasso, latte, lean, less, lex, lfe, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livescript, llvm, logos, logtalk, lolcode, lookml, loomscript, lsl, lua, m, m4, m4sugar, macaulay2, makefile, mako, markdown, marko, mask, mathematica, matlab, max, maxscript, mcfunction, mdx, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, mirc_script, mlir, modelica, modula_2, modula_3, module_management_system, monkey, monkey_c, moocode, moonscript, motoko, motorola_68k_assembly, move, mql4, mql5, mtml, muf, mupad, mustache, myghty, nanorc, nasal, nasl, ncl, nearley, nemerle, nesc, netlinx, netlinx+erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, npm_config, nsis, nu, numpy, nunjucks, nushell, nwscript, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, objective_c, objective_c++, objective_j, objectscript, ocaml, odin, omgrofl, ooc, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pddl, peg_js, pep8, perl, php, picolisp, piglatin, pike, plantuml, plpgsql, plsql, pogoscript, polar, pony, portugol, postcss, postscript, pov_ray_sdl, powerbuilder, powershell, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q, q#, qmake, qml, qt_script, quake, r, racket, ragel, raku, raml, rascal, rbs, rdoc, realbasic, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, rescript, restructuredtext, rexx, ring, riot, rmarkdown, robotframework, roff, roff_manpage, rouge, routeros_script, rpc, rpgle, ruby, runoff, rust, sage, saltstack, sas, sass, scala, scaml, scenic, scheme, scilab, scss, sed, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, smali, smalltalk, smarty, smithy, smpl, smt, snakemake, solidity, sourcepawn, sparql, sqf, sql, sqlpl, squirrel, srecode_template, stan, standard_ml, starlark, stata, stl, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, svg, sway, swift, swig, systemverilog, talon, tcl, tcsh, terra, tex, textile, textmate_properties, thrift, ti_program, tl_verilog, tla, toml, tsql, tsv, tsx, turing, twig, txl, typescript, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vala, valve_data_format, vba, vbscript, vcl, velocity_template_language, verilog, vhdl, vim_help_file, vim_script, vim_snippet, visual_basic_6_0, visual_basic__net, volt, vue, vyper, wdl, web_ontology_language, webassembly, webassembly_interface_type, webidl, wgsl, whiley, wikitext, windows_registry_entries, wisp, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xbase, xc, xml, xml_property_list, xojo, xonsh, xproc, xquery, xs, xslt, xtend, yacc, yaml, yara, yasnippet, yul, zap, zeek, zenscript, zephir, zig, zil, zimpl)
+
+{-| 
+@docs Color, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, abap, abap_cds, ags_script, aidl, al, ampl, antlr, api_blueprint, apl, asl, asp_net, ats, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, alloy, alpine_abuild, altium_designer, angelscript, ant_build_system, antlers, apacheconf, apex, apollo_guidance_computer, applescript, arc, asciidoc, aspectj, assembly, astro, asymptote, augeas, autohotkey, autoit, avro_idl, awk, basic, ballerina, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, boo, boogie, brainfuck, brighterscript, brightscript, browserslist, c, c#, c++, c2hs_haskell, cap_cds, clips, cmake, cobol, collada, cson, css, csv, cue, cweb, cabal_config, cadence, cairo, cameligo, cap_n_proto, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clojure, closure_templates, cloud_firestore_security_rules, codeql, coffeescript, coldfusion, coldfusion_cfc, common_lisp, common_workflow_language, component_pascal, cool, coq, crystal, csound, csound_document, csound_score, cuda, curry, cycript, cypher, cython, d, d2, digital_command_language, dm, dtrace, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, directx_3d_file, dockerfile, dogescript, dotenv, dylan, e, ecl, eclipse, ejs, eq, earthly, easybuild, ecere_projects, ecmarkup, editorconfig, eiffel, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, erlang, euphoria, f#, f*, figlet_font, flux, factor, fancy, fantom, faust, fennel, filebench_wml, filterscript, fluent, forth, fortran, fortran_free_form, freebasic, freemarker, frege, futhark, g_code, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, glsl, gsc, game_maker_language, gemfile_lock, gemini, genero, genero_forms, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, grammatical_framework, graphql, graphviz_(dot), groovy, groovy_server_pages, haproxy, hcl, hlsl, hocon, html, html+ecr, html+eex, html+erb, html+php, html+razor, http, hxml, hack, haml, handlebars, harbour, haskell, haxe, hiveql, holyc, hosts_file, hy, hyphy, idl, igor_pro, ini, idris, ignore_list, imagej_macro, imba, inform_7, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, jar_manifest, jcl, jflex, json, json_with_comments, json5, jsonld, jsoniq, janet, jasmin, java, java_properties, java_server_pages, javascript, javascript+erb, jest_snapshot, jetbrains_mps, jinja, jison, jison_lex, jolie, jsonnet, julia, jupyter_notebook, just, krl, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, lfe, llvm, lolcode, lsl, labview, lark, lasso, latte, lean, less, lex, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livescript, logos, logtalk, lookml, loomscript, lua, m, m4, m4sugar, matlab, maxscript, mdx, mlir, mql4, mql5, mtml, muf, macaulay2, makefile, mako, markdown, marko, mask, mathematica, max, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, modelica, modula_2, modula_3, module_management_system, monkey, monkey_c, moocode, moonscript, motoko, motorola_68k_assembly, move, mustache, myghty, nasl, ncl, npm_config, nsis, nwscript, nasal, nearley, nemerle, netlinx, netlinx+erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, nu, numpy, nunjucks, nushell, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, ocaml, objectscript, objective_c, objective_c++, objective_j, odin, omgrofl, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pddl, peg_js, php, plsql, plpgsql, pov_ray_sdl, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pep8, perl, picolisp, piglatin, pike, plantuml, pogoscript, polar, pony, portugol, postcss, postscript, powerbuilder, powershell, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q#, qml, qmake, qt_script, quake, r, raml, rbs, rdoc, realbasic, rexx, rmarkdown, rpc, rpgle, runoff, racket, ragel, raku, rascal, rescript, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, ring, riot, robotframework, roff, roff_manpage, rouge, routeros_script, ruby, rust, sas, scss, smt, sparql, sqf, sql, sqlpl, srecode_template, stl, svg, swig, sage, saltstack, sass, scala, scaml, scenic, scheme, scilab, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, smpl, smali, smalltalk, smarty, smithy, snakemake, solidity, sourcepawn, squirrel, stan, standard_ml, starlark, stata, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, sway, swift, systemverilog, ti_program, tl_verilog, tla, toml, tsql, tsv, tsx, txl, talon, tcl, tcsh, tex, terra, textmate_properties, textile, thrift, turing, twig, typescript, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vba, vbscript, vcl, vhdl, vala, valve_data_format, velocity_template_language, verilog, vim_help_file, vim_script, vim_snippet, visual_basic__net, visual_basic_6_0, volt, vue, vyper, wdl, wgsl, web_ontology_language, webassembly, webassembly_interface_type, webidl, whiley, wikitext, windows_registry_entries, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xc, xml, xml_property_list, xproc, xquery, xs, xslt, xojo, xonsh, xtend, yaml, yara, yasnippet, yacc, yul, zap, zil, zeek, zenscript, zephir, zig, zimpl, ec, fish, hoon, jq, kvlang, mirc_script, mcfunction, mupad, nanorc, nesc, ooc, q, restructuredtext, sed, wisp, xbase
+-}
+
 
 import Color
 import Element
+
+
+{- This module exposes the color values for all supported languages on Github. Color data is taken from [ozh/github-colors](https://github.com/ozh/github-colors).
+
+Each variable corresponds to a github language name, converted to lowercase and with non-alphanumeric characters replaced by underscores. For languages startng with a number (e.g. "4D"), the variable name is prepended by "lang_", to make "lang_4d".
+
+**Github does not have colors for all languages!** For the languages with no colors, I've defaulted to "#ccc". 
+
+Each color exposes the following fields:
+- `elmui` - The color as an [elm-ui](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/) `Element.Color`
+- `color` - The color as an [elm-color](https://package.elm-lang.org/packages/avh4/elm-color/latest/) `Color.Color`
+- `hex` - The color as a hex string
+- `rgb` - The color as an RGB triple
+
+The `elmui` and `color` fields are provided for convenience, but you can also use the `hex` and `rgb` fields to construct your own color values.
+
+**NOTE:** This is an autogenerated file using [mdgriffith/elm-codegen](https://github.com/mdgriffith/elm-codegen). 
+ -}
 
 
 type alias Color =
@@ -12,7 +35,7 @@ type alias Color =
     }
 
 
-{-| The color for '1C Enterprise' -}
+{-| Github language color for '1C Enterprise' -}
 lang_1c_enterprise : Color
 lang_1c_enterprise =
     { elmui = Element.rgb255 129 76 204
@@ -22,7 +45,7 @@ lang_1c_enterprise =
     }
 
 
-{-| The color for '2-Dimensional Array' -}
+{-| Github language color for '2-Dimensional Array' -}
 lang_2_dimensional_array : Color
 lang_2_dimensional_array =
     { elmui = Element.rgb255 56 118 29
@@ -32,7 +55,7 @@ lang_2_dimensional_array =
     }
 
 
-{-| The color for '4D' -}
+{-| Github language color for '4D' -}
 lang_4d : Color
 lang_4d =
     { elmui = Element.rgb255 0 66 137
@@ -42,7 +65,7 @@ lang_4d =
     }
 
 
-{-| The color for 'ABAP' -}
+{-| Github language color for 'ABAP' -}
 abap : Color
 abap =
     { elmui = Element.rgb255 232 39 75
@@ -52,7 +75,7 @@ abap =
     }
 
 
-{-| The color for 'ABAP CDS' -}
+{-| Github language color for 'ABAP CDS' -}
 abap_cds : Color
 abap_cds =
     { elmui = Element.rgb255 85 94 37
@@ -62,7 +85,7 @@ abap_cds =
     }
 
 
-{-| The color for 'AGS Script' -}
+{-| Github language color for 'AGS Script' -}
 ags_script : Color
 ags_script =
     { elmui = Element.rgb255 185 217 255
@@ -72,7 +95,7 @@ ags_script =
     }
 
 
-{-| The color for 'AIDL' -}
+{-| Github language color for 'AIDL' -}
 aidl : Color
 aidl =
     { elmui = Element.rgb255 52 235 107
@@ -82,7 +105,7 @@ aidl =
     }
 
 
-{-| The color for 'AL' -}
+{-| Github language color for 'AL' -}
 al : Color
 al =
     { elmui = Element.rgb255 58 162 181
@@ -92,7 +115,7 @@ al =
     }
 
 
-{-| The color for 'AMPL' -}
+{-| Github language color for 'AMPL' -}
 ampl : Color
 ampl =
     { elmui = Element.rgb255 230 239 187
@@ -102,7 +125,7 @@ ampl =
     }
 
 
-{-| The color for 'ANTLR' -}
+{-| Github language color for 'ANTLR' -}
 antlr : Color
 antlr =
     { elmui = Element.rgb255 157 195 255
@@ -112,7 +135,7 @@ antlr =
     }
 
 
-{-| The color for 'API Blueprint' -}
+{-| Github language color for 'API Blueprint' -}
 api_blueprint : Color
 api_blueprint =
     { elmui = Element.rgb255 42 204 168
@@ -122,7 +145,7 @@ api_blueprint =
     }
 
 
-{-| The color for 'APL' -}
+{-| Github language color for 'APL' -}
 apl : Color
 apl =
     { elmui = Element.rgb255 90 129 100
@@ -132,7 +155,7 @@ apl =
     }
 
 
-{-| The color for 'ASL' -}
+{-| Github language color for 'ASL' -}
 asl : Color
 asl =
     { elmui = Element.rgb255 204 204 204
@@ -142,7 +165,7 @@ asl =
     }
 
 
-{-| The color for 'ASP.NET' -}
+{-| Github language color for 'ASP.NET' -}
 asp_net : Color
 asp_net =
     { elmui = Element.rgb255 148 0 255
@@ -152,7 +175,7 @@ asp_net =
     }
 
 
-{-| The color for 'ATS' -}
+{-| Github language color for 'ATS' -}
 ats : Color
 ats =
     { elmui = Element.rgb255 26 198 32
@@ -162,7 +185,7 @@ ats =
     }
 
 
-{-| The color for 'ActionScript' -}
+{-| Github language color for 'ActionScript' -}
 actionscript : Color
 actionscript =
     { elmui = Element.rgb255 136 43 15
@@ -172,7 +195,7 @@ actionscript =
     }
 
 
-{-| The color for 'Ada' -}
+{-| Github language color for 'Ada' -}
 ada : Color
 ada =
     { elmui = Element.rgb255 2 248 140
@@ -182,7 +205,7 @@ ada =
     }
 
 
-{-| The color for 'Adblock Filter List' -}
+{-| Github language color for 'Adblock Filter List' -}
 adblock_filter_list : Color
 adblock_filter_list =
     { elmui = Element.rgb255 128 0 0
@@ -192,7 +215,7 @@ adblock_filter_list =
     }
 
 
-{-| The color for 'Adobe Font Metrics' -}
+{-| Github language color for 'Adobe Font Metrics' -}
 adobe_font_metrics : Color
 adobe_font_metrics =
     { elmui = Element.rgb255 250 15 0
@@ -202,7 +225,7 @@ adobe_font_metrics =
     }
 
 
-{-| The color for 'Agda' -}
+{-| Github language color for 'Agda' -}
 agda : Color
 agda =
     { elmui = Element.rgb255 49 86 101
@@ -212,7 +235,7 @@ agda =
     }
 
 
-{-| The color for 'Alloy' -}
+{-| Github language color for 'Alloy' -}
 alloy : Color
 alloy =
     { elmui = Element.rgb255 100 200 0
@@ -222,7 +245,7 @@ alloy =
     }
 
 
-{-| The color for 'Alpine Abuild' -}
+{-| Github language color for 'Alpine Abuild' -}
 alpine_abuild : Color
 alpine_abuild =
     { elmui = Element.rgb255 13 89 127
@@ -232,7 +255,7 @@ alpine_abuild =
     }
 
 
-{-| The color for 'Altium Designer' -}
+{-| Github language color for 'Altium Designer' -}
 altium_designer : Color
 altium_designer =
     { elmui = Element.rgb255 168 150 99
@@ -242,7 +265,7 @@ altium_designer =
     }
 
 
-{-| The color for 'AngelScript' -}
+{-| Github language color for 'AngelScript' -}
 angelscript : Color
 angelscript =
     { elmui = Element.rgb255 199 215 220
@@ -252,7 +275,7 @@ angelscript =
     }
 
 
-{-| The color for 'Ant Build System' -}
+{-| Github language color for 'Ant Build System' -}
 ant_build_system : Color
 ant_build_system =
     { elmui = Element.rgb255 169 21 126
@@ -262,7 +285,7 @@ ant_build_system =
     }
 
 
-{-| The color for 'Antlers' -}
+{-| Github language color for 'Antlers' -}
 antlers : Color
 antlers =
     { elmui = Element.rgb255 255 38 158
@@ -272,7 +295,7 @@ antlers =
     }
 
 
-{-| The color for 'ApacheConf' -}
+{-| Github language color for 'ApacheConf' -}
 apacheconf : Color
 apacheconf =
     { elmui = Element.rgb255 209 33 39
@@ -282,7 +305,7 @@ apacheconf =
     }
 
 
-{-| The color for 'Apex' -}
+{-| Github language color for 'Apex' -}
 apex : Color
 apex =
     { elmui = Element.rgb255 23 151 192
@@ -292,7 +315,7 @@ apex =
     }
 
 
-{-| The color for 'Apollo Guidance Computer' -}
+{-| Github language color for 'Apollo Guidance Computer' -}
 apollo_guidance_computer : Color
 apollo_guidance_computer =
     { elmui = Element.rgb255 11 61 145
@@ -302,7 +325,7 @@ apollo_guidance_computer =
     }
 
 
-{-| The color for 'AppleScript' -}
+{-| Github language color for 'AppleScript' -}
 applescript : Color
 applescript =
     { elmui = Element.rgb255 16 31 31
@@ -312,7 +335,7 @@ applescript =
     }
 
 
-{-| The color for 'Arc' -}
+{-| Github language color for 'Arc' -}
 arc : Color
 arc =
     { elmui = Element.rgb255 170 42 254
@@ -322,7 +345,7 @@ arc =
     }
 
 
-{-| The color for 'AsciiDoc' -}
+{-| Github language color for 'AsciiDoc' -}
 asciidoc : Color
 asciidoc =
     { elmui = Element.rgb255 115 160 197
@@ -332,7 +355,7 @@ asciidoc =
     }
 
 
-{-| The color for 'AspectJ' -}
+{-| Github language color for 'AspectJ' -}
 aspectj : Color
 aspectj =
     { elmui = Element.rgb255 169 87 176
@@ -342,7 +365,7 @@ aspectj =
     }
 
 
-{-| The color for 'Assembly' -}
+{-| Github language color for 'Assembly' -}
 assembly : Color
 assembly =
     { elmui = Element.rgb255 110 76 19
@@ -352,7 +375,7 @@ assembly =
     }
 
 
-{-| The color for 'Astro' -}
+{-| Github language color for 'Astro' -}
 astro : Color
 astro =
     { elmui = Element.rgb255 255 90 3
@@ -362,7 +385,7 @@ astro =
     }
 
 
-{-| The color for 'Asymptote' -}
+{-| Github language color for 'Asymptote' -}
 asymptote : Color
 asymptote =
     { elmui = Element.rgb255 255 0 0
@@ -372,7 +395,7 @@ asymptote =
     }
 
 
-{-| The color for 'Augeas' -}
+{-| Github language color for 'Augeas' -}
 augeas : Color
 augeas =
     { elmui = Element.rgb255 156 193 52
@@ -382,7 +405,7 @@ augeas =
     }
 
 
-{-| The color for 'AutoHotkey' -}
+{-| Github language color for 'AutoHotkey' -}
 autohotkey : Color
 autohotkey =
     { elmui = Element.rgb255 101 148 185
@@ -392,7 +415,7 @@ autohotkey =
     }
 
 
-{-| The color for 'AutoIt' -}
+{-| Github language color for 'AutoIt' -}
 autoit : Color
 autoit =
     { elmui = Element.rgb255 28 53 82
@@ -402,7 +425,7 @@ autoit =
     }
 
 
-{-| The color for 'Avro IDL' -}
+{-| Github language color for 'Avro IDL' -}
 avro_idl : Color
 avro_idl =
     { elmui = Element.rgb255 0 64 255
@@ -412,7 +435,7 @@ avro_idl =
     }
 
 
-{-| The color for 'Awk' -}
+{-| Github language color for 'Awk' -}
 awk : Color
 awk =
     { elmui = Element.rgb255 195 14 155
@@ -422,7 +445,7 @@ awk =
     }
 
 
-{-| The color for 'BASIC' -}
+{-| Github language color for 'BASIC' -}
 basic : Color
 basic =
     { elmui = Element.rgb255 255 0 0
@@ -432,7 +455,7 @@ basic =
     }
 
 
-{-| The color for 'Ballerina' -}
+{-| Github language color for 'Ballerina' -}
 ballerina : Color
 ballerina =
     { elmui = Element.rgb255 255 80 0
@@ -442,7 +465,7 @@ ballerina =
     }
 
 
-{-| The color for 'Batchfile' -}
+{-| Github language color for 'Batchfile' -}
 batchfile : Color
 batchfile =
     { elmui = Element.rgb255 193 241 46
@@ -452,7 +475,7 @@ batchfile =
     }
 
 
-{-| The color for 'Beef' -}
+{-| Github language color for 'Beef' -}
 beef : Color
 beef =
     { elmui = Element.rgb255 165 47 78
@@ -462,7 +485,7 @@ beef =
     }
 
 
-{-| The color for 'Befunge' -}
+{-| Github language color for 'Befunge' -}
 befunge : Color
 befunge =
     { elmui = Element.rgb255 204 204 204
@@ -472,7 +495,7 @@ befunge =
     }
 
 
-{-| The color for 'Berry' -}
+{-| Github language color for 'Berry' -}
 berry : Color
 berry =
     { elmui = Element.rgb255 21 161 60
@@ -482,7 +505,7 @@ berry =
     }
 
 
-{-| The color for 'BibTeX' -}
+{-| Github language color for 'BibTeX' -}
 bibtex : Color
 bibtex =
     { elmui = Element.rgb255 119 136 153
@@ -492,7 +515,7 @@ bibtex =
     }
 
 
-{-| The color for 'Bicep' -}
+{-| Github language color for 'Bicep' -}
 bicep : Color
 bicep =
     { elmui = Element.rgb255 81 154 186
@@ -502,7 +525,7 @@ bicep =
     }
 
 
-{-| The color for 'Bikeshed' -}
+{-| Github language color for 'Bikeshed' -}
 bikeshed : Color
 bikeshed =
     { elmui = Element.rgb255 85 98 172
@@ -512,7 +535,7 @@ bikeshed =
     }
 
 
-{-| The color for 'Bison' -}
+{-| Github language color for 'Bison' -}
 bison : Color
 bison =
     { elmui = Element.rgb255 106 70 63
@@ -522,7 +545,7 @@ bison =
     }
 
 
-{-| The color for 'BitBake' -}
+{-| Github language color for 'BitBake' -}
 bitbake : Color
 bitbake =
     { elmui = Element.rgb255 0 188 228
@@ -532,7 +555,7 @@ bitbake =
     }
 
 
-{-| The color for 'Blade' -}
+{-| Github language color for 'Blade' -}
 blade : Color
 blade =
     { elmui = Element.rgb255 247 82 63
@@ -542,7 +565,7 @@ blade =
     }
 
 
-{-| The color for 'BlitzBasic' -}
+{-| Github language color for 'BlitzBasic' -}
 blitzbasic : Color
 blitzbasic =
     { elmui = Element.rgb255 0 255 174
@@ -552,7 +575,7 @@ blitzbasic =
     }
 
 
-{-| The color for 'BlitzMax' -}
+{-| Github language color for 'BlitzMax' -}
 blitzmax : Color
 blitzmax =
     { elmui = Element.rgb255 205 100 0
@@ -562,7 +585,7 @@ blitzmax =
     }
 
 
-{-| The color for 'Bluespec' -}
+{-| Github language color for 'Bluespec' -}
 bluespec : Color
 bluespec =
     { elmui = Element.rgb255 18 34 60
@@ -572,7 +595,7 @@ bluespec =
     }
 
 
-{-| The color for 'Boo' -}
+{-| Github language color for 'Boo' -}
 boo : Color
 boo =
     { elmui = Element.rgb255 212 190 193
@@ -582,7 +605,7 @@ boo =
     }
 
 
-{-| The color for 'Boogie' -}
+{-| Github language color for 'Boogie' -}
 boogie : Color
 boogie =
     { elmui = Element.rgb255 200 15 160
@@ -592,7 +615,7 @@ boogie =
     }
 
 
-{-| The color for 'Brainfuck' -}
+{-| Github language color for 'Brainfuck' -}
 brainfuck : Color
 brainfuck =
     { elmui = Element.rgb255 47 37 48
@@ -602,7 +625,7 @@ brainfuck =
     }
 
 
-{-| The color for 'BrighterScript' -}
+{-| Github language color for 'BrighterScript' -}
 brighterscript : Color
 brighterscript =
     { elmui = Element.rgb255 102 170 187
@@ -612,7 +635,7 @@ brighterscript =
     }
 
 
-{-| The color for 'Brightscript' -}
+{-| Github language color for 'Brightscript' -}
 brightscript : Color
 brightscript =
     { elmui = Element.rgb255 102 45 145
@@ -622,7 +645,7 @@ brightscript =
     }
 
 
-{-| The color for 'Browserslist' -}
+{-| Github language color for 'Browserslist' -}
 browserslist : Color
 browserslist =
     { elmui = Element.rgb255 255 213 57
@@ -632,7 +655,7 @@ browserslist =
     }
 
 
-{-| The color for 'C' -}
+{-| Github language color for 'C' -}
 c : Color
 c =
     { elmui = Element.rgb255 85 85 85
@@ -642,7 +665,7 @@ c =
     }
 
 
-{-| The color for 'C#' -}
+{-| Github language color for 'C#' -}
 c# : Color
 c# =
     { elmui = Element.rgb255 23 134 0
@@ -652,7 +675,7 @@ c# =
     }
 
 
-{-| The color for 'C++' -}
+{-| Github language color for 'C++' -}
 c++ : Color
 c++ =
     { elmui = Element.rgb255 243 75 125
@@ -662,7 +685,7 @@ c++ =
     }
 
 
-{-| The color for 'C2hs Haskell' -}
+{-| Github language color for 'C2hs Haskell' -}
 c2hs_haskell : Color
 c2hs_haskell =
     { elmui = Element.rgb255 204 204 204
@@ -672,7 +695,7 @@ c2hs_haskell =
     }
 
 
-{-| The color for 'CAP CDS' -}
+{-| Github language color for 'CAP CDS' -}
 cap_cds : Color
 cap_cds =
     { elmui = Element.rgb255 0 146 209
@@ -682,7 +705,7 @@ cap_cds =
     }
 
 
-{-| The color for 'CLIPS' -}
+{-| Github language color for 'CLIPS' -}
 clips : Color
 clips =
     { elmui = Element.rgb255 0 163 0
@@ -692,7 +715,7 @@ clips =
     }
 
 
-{-| The color for 'CMake' -}
+{-| Github language color for 'CMake' -}
 cmake : Color
 cmake =
     { elmui = Element.rgb255 218 52 52
@@ -702,7 +725,7 @@ cmake =
     }
 
 
-{-| The color for 'COBOL' -}
+{-| Github language color for 'COBOL' -}
 cobol : Color
 cobol =
     { elmui = Element.rgb255 204 204 204
@@ -712,7 +735,7 @@ cobol =
     }
 
 
-{-| The color for 'COLLADA' -}
+{-| Github language color for 'COLLADA' -}
 collada : Color
 collada =
     { elmui = Element.rgb255 241 164 43
@@ -722,7 +745,7 @@ collada =
     }
 
 
-{-| The color for 'CSON' -}
+{-| Github language color for 'CSON' -}
 cson : Color
 cson =
     { elmui = Element.rgb255 36 71 118
@@ -732,7 +755,7 @@ cson =
     }
 
 
-{-| The color for 'CSS' -}
+{-| Github language color for 'CSS' -}
 css : Color
 css =
     { elmui = Element.rgb255 86 61 124
@@ -742,7 +765,7 @@ css =
     }
 
 
-{-| The color for 'CSV' -}
+{-| Github language color for 'CSV' -}
 csv : Color
 csv =
     { elmui = Element.rgb255 35 115 70
@@ -752,7 +775,7 @@ csv =
     }
 
 
-{-| The color for 'CUE' -}
+{-| Github language color for 'CUE' -}
 cue : Color
 cue =
     { elmui = Element.rgb255 88 134 225
@@ -762,7 +785,7 @@ cue =
     }
 
 
-{-| The color for 'CWeb' -}
+{-| Github language color for 'CWeb' -}
 cweb : Color
 cweb =
     { elmui = Element.rgb255 0 0 122
@@ -772,7 +795,7 @@ cweb =
     }
 
 
-{-| The color for 'Cabal Config' -}
+{-| Github language color for 'Cabal Config' -}
 cabal_config : Color
 cabal_config =
     { elmui = Element.rgb255 72 52 101
@@ -782,7 +805,7 @@ cabal_config =
     }
 
 
-{-| The color for 'Cadence' -}
+{-| Github language color for 'Cadence' -}
 cadence : Color
 cadence =
     { elmui = Element.rgb255 0 239 139
@@ -792,7 +815,7 @@ cadence =
     }
 
 
-{-| The color for 'Cairo' -}
+{-| Github language color for 'Cairo' -}
 cairo : Color
 cairo =
     { elmui = Element.rgb255 255 74 72
@@ -802,7 +825,7 @@ cairo =
     }
 
 
-{-| The color for 'CameLIGO' -}
+{-| Github language color for 'CameLIGO' -}
 cameligo : Color
 cameligo =
     { elmui = Element.rgb255 59 225 51
@@ -812,7 +835,7 @@ cameligo =
     }
 
 
-{-| The color for 'Cap'n Proto' -}
+{-| Github language color for 'Cap'n Proto' -}
 cap_n_proto : Color
 cap_n_proto =
     { elmui = Element.rgb255 196 39 39
@@ -822,7 +845,7 @@ cap_n_proto =
     }
 
 
-{-| The color for 'CartoCSS' -}
+{-| Github language color for 'CartoCSS' -}
 cartocss : Color
 cartocss =
     { elmui = Element.rgb255 204 204 204
@@ -832,7 +855,7 @@ cartocss =
     }
 
 
-{-| The color for 'Ceylon' -}
+{-| Github language color for 'Ceylon' -}
 ceylon : Color
 ceylon =
     { elmui = Element.rgb255 223 165 53
@@ -842,7 +865,7 @@ ceylon =
     }
 
 
-{-| The color for 'Chapel' -}
+{-| Github language color for 'Chapel' -}
 chapel : Color
 chapel =
     { elmui = Element.rgb255 141 198 63
@@ -852,7 +875,7 @@ chapel =
     }
 
 
-{-| The color for 'Charity' -}
+{-| Github language color for 'Charity' -}
 charity : Color
 charity =
     { elmui = Element.rgb255 204 204 204
@@ -862,7 +885,7 @@ charity =
     }
 
 
-{-| The color for 'ChucK' -}
+{-| Github language color for 'ChucK' -}
 chuck : Color
 chuck =
     { elmui = Element.rgb255 63 128 0
@@ -872,7 +895,7 @@ chuck =
     }
 
 
-{-| The color for 'Circom' -}
+{-| Github language color for 'Circom' -}
 circom : Color
 circom =
     { elmui = Element.rgb255 112 117 117
@@ -882,7 +905,7 @@ circom =
     }
 
 
-{-| The color for 'Cirru' -}
+{-| Github language color for 'Cirru' -}
 cirru : Color
 cirru =
     { elmui = Element.rgb255 204 204 255
@@ -892,7 +915,7 @@ cirru =
     }
 
 
-{-| The color for 'Clarion' -}
+{-| Github language color for 'Clarion' -}
 clarion : Color
 clarion =
     { elmui = Element.rgb255 219 144 30
@@ -902,7 +925,7 @@ clarion =
     }
 
 
-{-| The color for 'Clarity' -}
+{-| Github language color for 'Clarity' -}
 clarity : Color
 clarity =
     { elmui = Element.rgb255 85 70 255
@@ -912,7 +935,7 @@ clarity =
     }
 
 
-{-| The color for 'Classic ASP' -}
+{-| Github language color for 'Classic ASP' -}
 classic_asp : Color
 classic_asp =
     { elmui = Element.rgb255 106 64 253
@@ -922,7 +945,7 @@ classic_asp =
     }
 
 
-{-| The color for 'Clean' -}
+{-| Github language color for 'Clean' -}
 clean : Color
 clean =
     { elmui = Element.rgb255 63 133 175
@@ -932,7 +955,7 @@ clean =
     }
 
 
-{-| The color for 'Click' -}
+{-| Github language color for 'Click' -}
 click : Color
 click =
     { elmui = Element.rgb255 228 230 243
@@ -942,7 +965,7 @@ click =
     }
 
 
-{-| The color for 'Clojure' -}
+{-| Github language color for 'Clojure' -}
 clojure : Color
 clojure =
     { elmui = Element.rgb255 219 88 85
@@ -952,7 +975,7 @@ clojure =
     }
 
 
-{-| The color for 'Closure Templates' -}
+{-| Github language color for 'Closure Templates' -}
 closure_templates : Color
 closure_templates =
     { elmui = Element.rgb255 13 148 143
@@ -962,7 +985,7 @@ closure_templates =
     }
 
 
-{-| The color for 'Cloud Firestore Security Rules' -}
+{-| Github language color for 'Cloud Firestore Security Rules' -}
 cloud_firestore_security_rules : Color
 cloud_firestore_security_rules =
     { elmui = Element.rgb255 255 160 0
@@ -972,7 +995,7 @@ cloud_firestore_security_rules =
     }
 
 
-{-| The color for 'CodeQL' -}
+{-| Github language color for 'CodeQL' -}
 codeql : Color
 codeql =
     { elmui = Element.rgb255 20 15 70
@@ -982,7 +1005,7 @@ codeql =
     }
 
 
-{-| The color for 'CoffeeScript' -}
+{-| Github language color for 'CoffeeScript' -}
 coffeescript : Color
 coffeescript =
     { elmui = Element.rgb255 36 71 118
@@ -992,7 +1015,7 @@ coffeescript =
     }
 
 
-{-| The color for 'ColdFusion' -}
+{-| Github language color for 'ColdFusion' -}
 coldfusion : Color
 coldfusion =
     { elmui = Element.rgb255 237 44 214
@@ -1002,7 +1025,7 @@ coldfusion =
     }
 
 
-{-| The color for 'ColdFusion CFC' -}
+{-| Github language color for 'ColdFusion CFC' -}
 coldfusion_cfc : Color
 coldfusion_cfc =
     { elmui = Element.rgb255 237 44 214
@@ -1012,7 +1035,7 @@ coldfusion_cfc =
     }
 
 
-{-| The color for 'Common Lisp' -}
+{-| Github language color for 'Common Lisp' -}
 common_lisp : Color
 common_lisp =
     { elmui = Element.rgb255 63 182 139
@@ -1022,7 +1045,7 @@ common_lisp =
     }
 
 
-{-| The color for 'Common Workflow Language' -}
+{-| Github language color for 'Common Workflow Language' -}
 common_workflow_language : Color
 common_workflow_language =
     { elmui = Element.rgb255 181 49 76
@@ -1032,7 +1055,7 @@ common_workflow_language =
     }
 
 
-{-| The color for 'Component Pascal' -}
+{-| Github language color for 'Component Pascal' -}
 component_pascal : Color
 component_pascal =
     { elmui = Element.rgb255 176 206 78
@@ -1042,7 +1065,7 @@ component_pascal =
     }
 
 
-{-| The color for 'Cool' -}
+{-| Github language color for 'Cool' -}
 cool : Color
 cool =
     { elmui = Element.rgb255 204 204 204
@@ -1052,7 +1075,7 @@ cool =
     }
 
 
-{-| The color for 'Coq' -}
+{-| Github language color for 'Coq' -}
 coq : Color
 coq =
     { elmui = Element.rgb255 208 182 140
@@ -1062,7 +1085,7 @@ coq =
     }
 
 
-{-| The color for 'Crystal' -}
+{-| Github language color for 'Crystal' -}
 crystal : Color
 crystal =
     { elmui = Element.rgb255 0 1 0
@@ -1072,7 +1095,7 @@ crystal =
     }
 
 
-{-| The color for 'Csound' -}
+{-| Github language color for 'Csound' -}
 csound : Color
 csound =
     { elmui = Element.rgb255 26 26 26
@@ -1082,7 +1105,7 @@ csound =
     }
 
 
-{-| The color for 'Csound Document' -}
+{-| Github language color for 'Csound Document' -}
 csound_document : Color
 csound_document =
     { elmui = Element.rgb255 26 26 26
@@ -1092,7 +1115,7 @@ csound_document =
     }
 
 
-{-| The color for 'Csound Score' -}
+{-| Github language color for 'Csound Score' -}
 csound_score : Color
 csound_score =
     { elmui = Element.rgb255 26 26 26
@@ -1102,7 +1125,7 @@ csound_score =
     }
 
 
-{-| The color for 'Cuda' -}
+{-| Github language color for 'Cuda' -}
 cuda : Color
 cuda =
     { elmui = Element.rgb255 58 78 58
@@ -1112,7 +1135,7 @@ cuda =
     }
 
 
-{-| The color for 'Curry' -}
+{-| Github language color for 'Curry' -}
 curry : Color
 curry =
     { elmui = Element.rgb255 83 18 66
@@ -1122,7 +1145,7 @@ curry =
     }
 
 
-{-| The color for 'Cycript' -}
+{-| Github language color for 'Cycript' -}
 cycript : Color
 cycript =
     { elmui = Element.rgb255 204 204 204
@@ -1132,7 +1155,7 @@ cycript =
     }
 
 
-{-| The color for 'Cypher' -}
+{-| Github language color for 'Cypher' -}
 cypher : Color
 cypher =
     { elmui = Element.rgb255 52 192 235
@@ -1142,7 +1165,7 @@ cypher =
     }
 
 
-{-| The color for 'Cython' -}
+{-| Github language color for 'Cython' -}
 cython : Color
 cython =
     { elmui = Element.rgb255 254 223 91
@@ -1152,7 +1175,7 @@ cython =
     }
 
 
-{-| The color for 'D' -}
+{-| Github language color for 'D' -}
 d : Color
 d =
     { elmui = Element.rgb255 186 89 94
@@ -1162,7 +1185,7 @@ d =
     }
 
 
-{-| The color for 'D2' -}
+{-| Github language color for 'D2' -}
 d2 : Color
 d2 =
     { elmui = Element.rgb255 82 110 232
@@ -1172,7 +1195,7 @@ d2 =
     }
 
 
-{-| The color for 'DIGITAL Command Language' -}
+{-| Github language color for 'DIGITAL Command Language' -}
 digital_command_language : Color
 digital_command_language =
     { elmui = Element.rgb255 204 204 204
@@ -1182,7 +1205,7 @@ digital_command_language =
     }
 
 
-{-| The color for 'DM' -}
+{-| Github language color for 'DM' -}
 dm : Color
 dm =
     { elmui = Element.rgb255 68 114 101
@@ -1192,7 +1215,7 @@ dm =
     }
 
 
-{-| The color for 'DTrace' -}
+{-| Github language color for 'DTrace' -}
 dtrace : Color
 dtrace =
     { elmui = Element.rgb255 204 204 204
@@ -1202,7 +1225,7 @@ dtrace =
     }
 
 
-{-| The color for 'Dafny' -}
+{-| Github language color for 'Dafny' -}
 dafny : Color
 dafny =
     { elmui = Element.rgb255 255 236 37
@@ -1212,7 +1235,7 @@ dafny =
     }
 
 
-{-| The color for 'Darcs Patch' -}
+{-| Github language color for 'Darcs Patch' -}
 darcs_patch : Color
 darcs_patch =
     { elmui = Element.rgb255 142 255 35
@@ -1222,7 +1245,7 @@ darcs_patch =
     }
 
 
-{-| The color for 'Dart' -}
+{-| Github language color for 'Dart' -}
 dart : Color
 dart =
     { elmui = Element.rgb255 0 180 171
@@ -1232,7 +1255,7 @@ dart =
     }
 
 
-{-| The color for 'DataWeave' -}
+{-| Github language color for 'DataWeave' -}
 dataweave : Color
 dataweave =
     { elmui = Element.rgb255 0 58 82
@@ -1242,7 +1265,7 @@ dataweave =
     }
 
 
-{-| The color for 'Debian Package Control File' -}
+{-| Github language color for 'Debian Package Control File' -}
 debian_package_control_file : Color
 debian_package_control_file =
     { elmui = Element.rgb255 215 7 81
@@ -1252,7 +1275,7 @@ debian_package_control_file =
     }
 
 
-{-| The color for 'DenizenScript' -}
+{-| Github language color for 'DenizenScript' -}
 denizenscript : Color
 denizenscript =
     { elmui = Element.rgb255 251 238 150
@@ -1262,7 +1285,7 @@ denizenscript =
     }
 
 
-{-| The color for 'Dhall' -}
+{-| Github language color for 'Dhall' -}
 dhall : Color
 dhall =
     { elmui = Element.rgb255 223 175 255
@@ -1272,7 +1295,7 @@ dhall =
     }
 
 
-{-| The color for 'DirectX 3D File' -}
+{-| Github language color for 'DirectX 3D File' -}
 directx_3d_file : Color
 directx_3d_file =
     { elmui = Element.rgb255 170 206 96
@@ -1282,7 +1305,7 @@ directx_3d_file =
     }
 
 
-{-| The color for 'Dockerfile' -}
+{-| Github language color for 'Dockerfile' -}
 dockerfile : Color
 dockerfile =
     { elmui = Element.rgb255 56 77 84
@@ -1292,7 +1315,7 @@ dockerfile =
     }
 
 
-{-| The color for 'Dogescript' -}
+{-| Github language color for 'Dogescript' -}
 dogescript : Color
 dogescript =
     { elmui = Element.rgb255 204 167 96
@@ -1302,7 +1325,7 @@ dogescript =
     }
 
 
-{-| The color for 'Dotenv' -}
+{-| Github language color for 'Dotenv' -}
 dotenv : Color
 dotenv =
     { elmui = Element.rgb255 229 213 89
@@ -1312,7 +1335,7 @@ dotenv =
     }
 
 
-{-| The color for 'Dylan' -}
+{-| Github language color for 'Dylan' -}
 dylan : Color
 dylan =
     { elmui = Element.rgb255 108 97 110
@@ -1322,7 +1345,7 @@ dylan =
     }
 
 
-{-| The color for 'E' -}
+{-| Github language color for 'E' -}
 e : Color
 e =
     { elmui = Element.rgb255 204 206 53
@@ -1332,7 +1355,7 @@ e =
     }
 
 
-{-| The color for 'ECL' -}
+{-| Github language color for 'ECL' -}
 ecl : Color
 ecl =
     { elmui = Element.rgb255 138 18 103
@@ -1342,7 +1365,7 @@ ecl =
     }
 
 
-{-| The color for 'ECLiPSe' -}
+{-| Github language color for 'ECLiPSe' -}
 eclipse : Color
 eclipse =
     { elmui = Element.rgb255 0 29 157
@@ -1352,7 +1375,7 @@ eclipse =
     }
 
 
-{-| The color for 'EJS' -}
+{-| Github language color for 'EJS' -}
 ejs : Color
 ejs =
     { elmui = Element.rgb255 169 30 80
@@ -1362,7 +1385,7 @@ ejs =
     }
 
 
-{-| The color for 'EQ' -}
+{-| Github language color for 'EQ' -}
 eq : Color
 eq =
     { elmui = Element.rgb255 167 134 73
@@ -1372,7 +1395,7 @@ eq =
     }
 
 
-{-| The color for 'Earthly' -}
+{-| Github language color for 'Earthly' -}
 earthly : Color
 earthly =
     { elmui = Element.rgb255 42 240 255
@@ -1382,7 +1405,7 @@ earthly =
     }
 
 
-{-| The color for 'Easybuild' -}
+{-| Github language color for 'Easybuild' -}
 easybuild : Color
 easybuild =
     { elmui = Element.rgb255 6 148 6
@@ -1392,7 +1415,7 @@ easybuild =
     }
 
 
-{-| The color for 'Ecere Projects' -}
+{-| Github language color for 'Ecere Projects' -}
 ecere_projects : Color
 ecere_projects =
     { elmui = Element.rgb255 145 57 96
@@ -1402,7 +1425,7 @@ ecere_projects =
     }
 
 
-{-| The color for 'Ecmarkup' -}
+{-| Github language color for 'Ecmarkup' -}
 ecmarkup : Color
 ecmarkup =
     { elmui = Element.rgb255 235 129 49
@@ -1412,7 +1435,7 @@ ecmarkup =
     }
 
 
-{-| The color for 'EditorConfig' -}
+{-| Github language color for 'EditorConfig' -}
 editorconfig : Color
 editorconfig =
     { elmui = Element.rgb255 255 241 242
@@ -1422,7 +1445,7 @@ editorconfig =
     }
 
 
-{-| The color for 'Eiffel' -}
+{-| Github language color for 'Eiffel' -}
 eiffel : Color
 eiffel =
     { elmui = Element.rgb255 77 105 119
@@ -1432,7 +1455,7 @@ eiffel =
     }
 
 
-{-| The color for 'Elixir' -}
+{-| Github language color for 'Elixir' -}
 elixir : Color
 elixir =
     { elmui = Element.rgb255 110 74 126
@@ -1442,7 +1465,7 @@ elixir =
     }
 
 
-{-| The color for 'Elm' -}
+{-| Github language color for 'Elm' -}
 elm : Color
 elm =
     { elmui = Element.rgb255 96 181 204
@@ -1452,7 +1475,7 @@ elm =
     }
 
 
-{-| The color for 'Elvish' -}
+{-| Github language color for 'Elvish' -}
 elvish : Color
 elvish =
     { elmui = Element.rgb255 85 187 85
@@ -1462,7 +1485,7 @@ elvish =
     }
 
 
-{-| The color for 'Elvish Transcript' -}
+{-| Github language color for 'Elvish Transcript' -}
 elvish_transcript : Color
 elvish_transcript =
     { elmui = Element.rgb255 85 187 85
@@ -1472,7 +1495,7 @@ elvish_transcript =
     }
 
 
-{-| The color for 'Emacs Lisp' -}
+{-| Github language color for 'Emacs Lisp' -}
 emacs_lisp : Color
 emacs_lisp =
     { elmui = Element.rgb255 192 101 219
@@ -1482,7 +1505,7 @@ emacs_lisp =
     }
 
 
-{-| The color for 'EmberScript' -}
+{-| Github language color for 'EmberScript' -}
 emberscript : Color
 emberscript =
     { elmui = Element.rgb255 255 244 243
@@ -1492,7 +1515,7 @@ emberscript =
     }
 
 
-{-| The color for 'Erlang' -}
+{-| Github language color for 'Erlang' -}
 erlang : Color
 erlang =
     { elmui = Element.rgb255 184 57 152
@@ -1502,7 +1525,7 @@ erlang =
     }
 
 
-{-| The color for 'Euphoria' -}
+{-| Github language color for 'Euphoria' -}
 euphoria : Color
 euphoria =
     { elmui = Element.rgb255 255 121 11
@@ -1512,7 +1535,7 @@ euphoria =
     }
 
 
-{-| The color for 'F#' -}
+{-| Github language color for 'F#' -}
 f# : Color
 f# =
     { elmui = Element.rgb255 184 69 252
@@ -1522,7 +1545,7 @@ f# =
     }
 
 
-{-| The color for 'F*' -}
+{-| Github language color for 'F*' -}
 f* : Color
 f* =
     { elmui = Element.rgb255 87 46 48
@@ -1532,7 +1555,7 @@ f* =
     }
 
 
-{-| The color for 'FIGlet Font' -}
+{-| Github language color for 'FIGlet Font' -}
 figlet_font : Color
 figlet_font =
     { elmui = Element.rgb255 255 221 187
@@ -1542,7 +1565,7 @@ figlet_font =
     }
 
 
-{-| The color for 'FLUX' -}
+{-| Github language color for 'FLUX' -}
 flux : Color
 flux =
     { elmui = Element.rgb255 136 204 255
@@ -1552,7 +1575,7 @@ flux =
     }
 
 
-{-| The color for 'Factor' -}
+{-| Github language color for 'Factor' -}
 factor : Color
 factor =
     { elmui = Element.rgb255 99 103 70
@@ -1562,7 +1585,7 @@ factor =
     }
 
 
-{-| The color for 'Fancy' -}
+{-| Github language color for 'Fancy' -}
 fancy : Color
 fancy =
     { elmui = Element.rgb255 123 157 180
@@ -1572,7 +1595,7 @@ fancy =
     }
 
 
-{-| The color for 'Fantom' -}
+{-| Github language color for 'Fantom' -}
 fantom : Color
 fantom =
     { elmui = Element.rgb255 20 37 60
@@ -1582,7 +1605,7 @@ fantom =
     }
 
 
-{-| The color for 'Faust' -}
+{-| Github language color for 'Faust' -}
 faust : Color
 faust =
     { elmui = Element.rgb255 195 114 64
@@ -1592,7 +1615,7 @@ faust =
     }
 
 
-{-| The color for 'Fennel' -}
+{-| Github language color for 'Fennel' -}
 fennel : Color
 fennel =
     { elmui = Element.rgb255 255 243 215
@@ -1602,7 +1625,7 @@ fennel =
     }
 
 
-{-| The color for 'Filebench WML' -}
+{-| Github language color for 'Filebench WML' -}
 filebench_wml : Color
 filebench_wml =
     { elmui = Element.rgb255 246 185 0
@@ -1612,7 +1635,7 @@ filebench_wml =
     }
 
 
-{-| The color for 'Filterscript' -}
+{-| Github language color for 'Filterscript' -}
 filterscript : Color
 filterscript =
     { elmui = Element.rgb255 204 204 204
@@ -1622,7 +1645,7 @@ filterscript =
     }
 
 
-{-| The color for 'Fluent' -}
+{-| Github language color for 'Fluent' -}
 fluent : Color
 fluent =
     { elmui = Element.rgb255 255 204 51
@@ -1632,7 +1655,7 @@ fluent =
     }
 
 
-{-| The color for 'Forth' -}
+{-| Github language color for 'Forth' -}
 forth : Color
 forth =
     { elmui = Element.rgb255 52 23 8
@@ -1642,7 +1665,7 @@ forth =
     }
 
 
-{-| The color for 'Fortran' -}
+{-| Github language color for 'Fortran' -}
 fortran : Color
 fortran =
     { elmui = Element.rgb255 77 65 177
@@ -1652,7 +1675,7 @@ fortran =
     }
 
 
-{-| The color for 'Fortran Free Form' -}
+{-| Github language color for 'Fortran Free Form' -}
 fortran_free_form : Color
 fortran_free_form =
     { elmui = Element.rgb255 77 65 177
@@ -1662,7 +1685,7 @@ fortran_free_form =
     }
 
 
-{-| The color for 'FreeBasic' -}
+{-| Github language color for 'FreeBasic' -}
 freebasic : Color
 freebasic =
     { elmui = Element.rgb255 20 26 201
@@ -1672,7 +1695,7 @@ freebasic =
     }
 
 
-{-| The color for 'FreeMarker' -}
+{-| Github language color for 'FreeMarker' -}
 freemarker : Color
 freemarker =
     { elmui = Element.rgb255 0 80 178
@@ -1682,7 +1705,7 @@ freemarker =
     }
 
 
-{-| The color for 'Frege' -}
+{-| Github language color for 'Frege' -}
 frege : Color
 frege =
     { elmui = Element.rgb255 0 202 254
@@ -1692,7 +1715,7 @@ frege =
     }
 
 
-{-| The color for 'Futhark' -}
+{-| Github language color for 'Futhark' -}
 futhark : Color
 futhark =
     { elmui = Element.rgb255 95 2 31
@@ -1702,7 +1725,7 @@ futhark =
     }
 
 
-{-| The color for 'G-code' -}
+{-| Github language color for 'G-code' -}
 g_code : Color
 g_code =
     { elmui = Element.rgb255 208 140 242
@@ -1712,7 +1735,7 @@ g_code =
     }
 
 
-{-| The color for 'GAML' -}
+{-| Github language color for 'GAML' -}
 gaml : Color
 gaml =
     { elmui = Element.rgb255 255 199 102
@@ -1722,7 +1745,7 @@ gaml =
     }
 
 
-{-| The color for 'GAMS' -}
+{-| Github language color for 'GAMS' -}
 gams : Color
 gams =
     { elmui = Element.rgb255 244 154 34
@@ -1732,7 +1755,7 @@ gams =
     }
 
 
-{-| The color for 'GAP' -}
+{-| Github language color for 'GAP' -}
 gap : Color
 gap =
     { elmui = Element.rgb255 0 0 204
@@ -1742,7 +1765,7 @@ gap =
     }
 
 
-{-| The color for 'GCC Machine Description' -}
+{-| Github language color for 'GCC Machine Description' -}
 gcc_machine_description : Color
 gcc_machine_description =
     { elmui = Element.rgb255 255 207 171
@@ -1752,7 +1775,7 @@ gcc_machine_description =
     }
 
 
-{-| The color for 'GDB' -}
+{-| Github language color for 'GDB' -}
 gdb : Color
 gdb =
     { elmui = Element.rgb255 204 204 204
@@ -1762,7 +1785,7 @@ gdb =
     }
 
 
-{-| The color for 'GDScript' -}
+{-| Github language color for 'GDScript' -}
 gdscript : Color
 gdscript =
     { elmui = Element.rgb255 53 85 112
@@ -1772,7 +1795,7 @@ gdscript =
     }
 
 
-{-| The color for 'GEDCOM' -}
+{-| Github language color for 'GEDCOM' -}
 gedcom : Color
 gedcom =
     { elmui = Element.rgb255 0 48 88
@@ -1782,7 +1805,7 @@ gedcom =
     }
 
 
-{-| The color for 'GLSL' -}
+{-| Github language color for 'GLSL' -}
 glsl : Color
 glsl =
     { elmui = Element.rgb255 86 134 165
@@ -1792,7 +1815,7 @@ glsl =
     }
 
 
-{-| The color for 'GSC' -}
+{-| Github language color for 'GSC' -}
 gsc : Color
 gsc =
     { elmui = Element.rgb255 255 104 0
@@ -1802,7 +1825,7 @@ gsc =
     }
 
 
-{-| The color for 'Game Maker Language' -}
+{-| Github language color for 'Game Maker Language' -}
 game_maker_language : Color
 game_maker_language =
     { elmui = Element.rgb255 113 180 23
@@ -1812,7 +1835,7 @@ game_maker_language =
     }
 
 
-{-| The color for 'Gemfile.lock' -}
+{-| Github language color for 'Gemfile.lock' -}
 gemfile_lock : Color
 gemfile_lock =
     { elmui = Element.rgb255 112 21 22
@@ -1822,7 +1845,7 @@ gemfile_lock =
     }
 
 
-{-| The color for 'Gemini' -}
+{-| Github language color for 'Gemini' -}
 gemini : Color
 gemini =
     { elmui = Element.rgb255 255 105 0
@@ -1832,7 +1855,7 @@ gemini =
     }
 
 
-{-| The color for 'Genero' -}
+{-| Github language color for 'Genero' -}
 genero : Color
 genero =
     { elmui = Element.rgb255 99 64 142
@@ -1842,7 +1865,7 @@ genero =
     }
 
 
-{-| The color for 'Genero Forms' -}
+{-| Github language color for 'Genero Forms' -}
 genero_forms : Color
 genero_forms =
     { elmui = Element.rgb255 216 223 57
@@ -1852,7 +1875,7 @@ genero_forms =
     }
 
 
-{-| The color for 'Genie' -}
+{-| Github language color for 'Genie' -}
 genie : Color
 genie =
     { elmui = Element.rgb255 251 133 93
@@ -1862,7 +1885,7 @@ genie =
     }
 
 
-{-| The color for 'Genshi' -}
+{-| Github language color for 'Genshi' -}
 genshi : Color
 genshi =
     { elmui = Element.rgb255 149 21 49
@@ -1872,7 +1895,7 @@ genshi =
     }
 
 
-{-| The color for 'Gentoo Ebuild' -}
+{-| Github language color for 'Gentoo Ebuild' -}
 gentoo_ebuild : Color
 gentoo_ebuild =
     { elmui = Element.rgb255 148 0 255
@@ -1882,7 +1905,7 @@ gentoo_ebuild =
     }
 
 
-{-| The color for 'Gentoo Eclass' -}
+{-| Github language color for 'Gentoo Eclass' -}
 gentoo_eclass : Color
 gentoo_eclass =
     { elmui = Element.rgb255 148 0 255
@@ -1892,7 +1915,7 @@ gentoo_eclass =
     }
 
 
-{-| The color for 'Gerber Image' -}
+{-| Github language color for 'Gerber Image' -}
 gerber_image : Color
 gerber_image =
     { elmui = Element.rgb255 210 11 0
@@ -1902,7 +1925,7 @@ gerber_image =
     }
 
 
-{-| The color for 'Gherkin' -}
+{-| Github language color for 'Gherkin' -}
 gherkin : Color
 gherkin =
     { elmui = Element.rgb255 91 32 99
@@ -1912,7 +1935,7 @@ gherkin =
     }
 
 
-{-| The color for 'Git Attributes' -}
+{-| Github language color for 'Git Attributes' -}
 git_attributes : Color
 git_attributes =
     { elmui = Element.rgb255 244 77 39
@@ -1922,7 +1945,7 @@ git_attributes =
     }
 
 
-{-| The color for 'Git Config' -}
+{-| Github language color for 'Git Config' -}
 git_config : Color
 git_config =
     { elmui = Element.rgb255 244 77 39
@@ -1932,7 +1955,7 @@ git_config =
     }
 
 
-{-| The color for 'Git Revision List' -}
+{-| Github language color for 'Git Revision List' -}
 git_revision_list : Color
 git_revision_list =
     { elmui = Element.rgb255 244 77 39
@@ -1942,7 +1965,7 @@ git_revision_list =
     }
 
 
-{-| The color for 'Gleam' -}
+{-| Github language color for 'Gleam' -}
 gleam : Color
 gleam =
     { elmui = Element.rgb255 255 175 243
@@ -1952,7 +1975,7 @@ gleam =
     }
 
 
-{-| The color for 'Glyph' -}
+{-| Github language color for 'Glyph' -}
 glyph : Color
 glyph =
     { elmui = Element.rgb255 193 172 127
@@ -1962,7 +1985,7 @@ glyph =
     }
 
 
-{-| The color for 'Gnuplot' -}
+{-| Github language color for 'Gnuplot' -}
 gnuplot : Color
 gnuplot =
     { elmui = Element.rgb255 240 169 240
@@ -1972,7 +1995,7 @@ gnuplot =
     }
 
 
-{-| The color for 'Go' -}
+{-| Github language color for 'Go' -}
 go : Color
 go =
     { elmui = Element.rgb255 0 173 216
@@ -1982,7 +2005,7 @@ go =
     }
 
 
-{-| The color for 'Go Checksums' -}
+{-| Github language color for 'Go Checksums' -}
 go_checksums : Color
 go_checksums =
     { elmui = Element.rgb255 0 173 216
@@ -1992,7 +2015,7 @@ go_checksums =
     }
 
 
-{-| The color for 'Go Module' -}
+{-| Github language color for 'Go Module' -}
 go_module : Color
 go_module =
     { elmui = Element.rgb255 0 173 216
@@ -2002,7 +2025,7 @@ go_module =
     }
 
 
-{-| The color for 'Go Workspace' -}
+{-| Github language color for 'Go Workspace' -}
 go_workspace : Color
 go_workspace =
     { elmui = Element.rgb255 0 173 216
@@ -2012,7 +2035,7 @@ go_workspace =
     }
 
 
-{-| The color for 'Godot Resource' -}
+{-| Github language color for 'Godot Resource' -}
 godot_resource : Color
 godot_resource =
     { elmui = Element.rgb255 53 85 112
@@ -2022,7 +2045,7 @@ godot_resource =
     }
 
 
-{-| The color for 'Golo' -}
+{-| Github language color for 'Golo' -}
 golo : Color
 golo =
     { elmui = Element.rgb255 136 86 42
@@ -2032,7 +2055,7 @@ golo =
     }
 
 
-{-| The color for 'Gosu' -}
+{-| Github language color for 'Gosu' -}
 gosu : Color
 gosu =
     { elmui = Element.rgb255 130 147 127
@@ -2042,7 +2065,7 @@ gosu =
     }
 
 
-{-| The color for 'Grace' -}
+{-| Github language color for 'Grace' -}
 grace : Color
 grace =
     { elmui = Element.rgb255 97 95 139
@@ -2052,7 +2075,7 @@ grace =
     }
 
 
-{-| The color for 'Gradle' -}
+{-| Github language color for 'Gradle' -}
 gradle : Color
 gradle =
     { elmui = Element.rgb255 2 48 58
@@ -2062,7 +2085,7 @@ gradle =
     }
 
 
-{-| The color for 'Grammatical Framework' -}
+{-| Github language color for 'Grammatical Framework' -}
 grammatical_framework : Color
 grammatical_framework =
     { elmui = Element.rgb255 255 0 0
@@ -2072,7 +2095,7 @@ grammatical_framework =
     }
 
 
-{-| The color for 'GraphQL' -}
+{-| Github language color for 'GraphQL' -}
 graphql : Color
 graphql =
     { elmui = Element.rgb255 225 0 152
@@ -2082,7 +2105,7 @@ graphql =
     }
 
 
-{-| The color for 'Graphviz (DOT)' -}
+{-| Github language color for 'Graphviz (DOT)' -}
 graphviz_(dot) : Color
 graphviz_(dot) =
     { elmui = Element.rgb255 37 150 190
@@ -2092,7 +2115,7 @@ graphviz_(dot) =
     }
 
 
-{-| The color for 'Groovy' -}
+{-| Github language color for 'Groovy' -}
 groovy : Color
 groovy =
     { elmui = Element.rgb255 66 152 184
@@ -2102,7 +2125,7 @@ groovy =
     }
 
 
-{-| The color for 'Groovy Server Pages' -}
+{-| Github language color for 'Groovy Server Pages' -}
 groovy_server_pages : Color
 groovy_server_pages =
     { elmui = Element.rgb255 66 152 184
@@ -2112,7 +2135,7 @@ groovy_server_pages =
     }
 
 
-{-| The color for 'HAProxy' -}
+{-| Github language color for 'HAProxy' -}
 haproxy : Color
 haproxy =
     { elmui = Element.rgb255 16 109 169
@@ -2122,7 +2145,7 @@ haproxy =
     }
 
 
-{-| The color for 'HCL' -}
+{-| Github language color for 'HCL' -}
 hcl : Color
 hcl =
     { elmui = Element.rgb255 132 79 186
@@ -2132,7 +2155,7 @@ hcl =
     }
 
 
-{-| The color for 'HLSL' -}
+{-| Github language color for 'HLSL' -}
 hlsl : Color
 hlsl =
     { elmui = Element.rgb255 170 206 96
@@ -2142,7 +2165,7 @@ hlsl =
     }
 
 
-{-| The color for 'HOCON' -}
+{-| Github language color for 'HOCON' -}
 hocon : Color
 hocon =
     { elmui = Element.rgb255 159 248 238
@@ -2152,7 +2175,7 @@ hocon =
     }
 
 
-{-| The color for 'HTML' -}
+{-| Github language color for 'HTML' -}
 html : Color
 html =
     { elmui = Element.rgb255 227 76 38
@@ -2162,7 +2185,7 @@ html =
     }
 
 
-{-| The color for 'HTML+ECR' -}
+{-| Github language color for 'HTML+ECR' -}
 html+ecr : Color
 html+ecr =
     { elmui = Element.rgb255 46 16 82
@@ -2172,7 +2195,7 @@ html+ecr =
     }
 
 
-{-| The color for 'HTML+EEX' -}
+{-| Github language color for 'HTML+EEX' -}
 html+eex : Color
 html+eex =
     { elmui = Element.rgb255 110 74 126
@@ -2182,7 +2205,7 @@ html+eex =
     }
 
 
-{-| The color for 'HTML+ERB' -}
+{-| Github language color for 'HTML+ERB' -}
 html+erb : Color
 html+erb =
     { elmui = Element.rgb255 112 21 22
@@ -2192,7 +2215,7 @@ html+erb =
     }
 
 
-{-| The color for 'HTML+PHP' -}
+{-| Github language color for 'HTML+PHP' -}
 html+php : Color
 html+php =
     { elmui = Element.rgb255 79 93 149
@@ -2202,7 +2225,7 @@ html+php =
     }
 
 
-{-| The color for 'HTML+Razor' -}
+{-| Github language color for 'HTML+Razor' -}
 html+razor : Color
 html+razor =
     { elmui = Element.rgb255 81 43 228
@@ -2212,7 +2235,7 @@ html+razor =
     }
 
 
-{-| The color for 'HTTP' -}
+{-| Github language color for 'HTTP' -}
 http : Color
 http =
     { elmui = Element.rgb255 0 92 156
@@ -2222,7 +2245,7 @@ http =
     }
 
 
-{-| The color for 'HXML' -}
+{-| Github language color for 'HXML' -}
 hxml : Color
 hxml =
     { elmui = Element.rgb255 246 135 18
@@ -2232,7 +2255,7 @@ hxml =
     }
 
 
-{-| The color for 'Hack' -}
+{-| Github language color for 'Hack' -}
 hack : Color
 hack =
     { elmui = Element.rgb255 135 135 135
@@ -2242,7 +2265,7 @@ hack =
     }
 
 
-{-| The color for 'Haml' -}
+{-| Github language color for 'Haml' -}
 haml : Color
 haml =
     { elmui = Element.rgb255 236 226 169
@@ -2252,7 +2275,7 @@ haml =
     }
 
 
-{-| The color for 'Handlebars' -}
+{-| Github language color for 'Handlebars' -}
 handlebars : Color
 handlebars =
     { elmui = Element.rgb255 247 147 30
@@ -2262,7 +2285,7 @@ handlebars =
     }
 
 
-{-| The color for 'Harbour' -}
+{-| Github language color for 'Harbour' -}
 harbour : Color
 harbour =
     { elmui = Element.rgb255 14 96 227
@@ -2272,7 +2295,7 @@ harbour =
     }
 
 
-{-| The color for 'Haskell' -}
+{-| Github language color for 'Haskell' -}
 haskell : Color
 haskell =
     { elmui = Element.rgb255 94 80 134
@@ -2282,7 +2305,7 @@ haskell =
     }
 
 
-{-| The color for 'Haxe' -}
+{-| Github language color for 'Haxe' -}
 haxe : Color
 haxe =
     { elmui = Element.rgb255 223 121 0
@@ -2292,7 +2315,7 @@ haxe =
     }
 
 
-{-| The color for 'HiveQL' -}
+{-| Github language color for 'HiveQL' -}
 hiveql : Color
 hiveql =
     { elmui = Element.rgb255 220 226 0
@@ -2302,7 +2325,7 @@ hiveql =
     }
 
 
-{-| The color for 'HolyC' -}
+{-| Github language color for 'HolyC' -}
 holyc : Color
 holyc =
     { elmui = Element.rgb255 255 239 175
@@ -2312,7 +2335,7 @@ holyc =
     }
 
 
-{-| The color for 'Hosts File' -}
+{-| Github language color for 'Hosts File' -}
 hosts_file : Color
 hosts_file =
     { elmui = Element.rgb255 48 136 136
@@ -2322,7 +2345,7 @@ hosts_file =
     }
 
 
-{-| The color for 'Hy' -}
+{-| Github language color for 'Hy' -}
 hy : Color
 hy =
     { elmui = Element.rgb255 119 144 178
@@ -2332,7 +2355,7 @@ hy =
     }
 
 
-{-| The color for 'HyPhy' -}
+{-| Github language color for 'HyPhy' -}
 hyphy : Color
 hyphy =
     { elmui = Element.rgb255 204 204 204
@@ -2342,7 +2365,7 @@ hyphy =
     }
 
 
-{-| The color for 'IDL' -}
+{-| Github language color for 'IDL' -}
 idl : Color
 idl =
     { elmui = Element.rgb255 163 82 47
@@ -2352,7 +2375,7 @@ idl =
     }
 
 
-{-| The color for 'IGOR Pro' -}
+{-| Github language color for 'IGOR Pro' -}
 igor_pro : Color
 igor_pro =
     { elmui = Element.rgb255 0 0 204
@@ -2362,7 +2385,7 @@ igor_pro =
     }
 
 
-{-| The color for 'INI' -}
+{-| Github language color for 'INI' -}
 ini : Color
 ini =
     { elmui = Element.rgb255 209 219 224
@@ -2372,7 +2395,7 @@ ini =
     }
 
 
-{-| The color for 'Idris' -}
+{-| Github language color for 'Idris' -}
 idris : Color
 idris =
     { elmui = Element.rgb255 179 0 0
@@ -2382,7 +2405,7 @@ idris =
     }
 
 
-{-| The color for 'Ignore List' -}
+{-| Github language color for 'Ignore List' -}
 ignore_list : Color
 ignore_list =
     { elmui = Element.rgb255 0 0 0
@@ -2392,7 +2415,7 @@ ignore_list =
     }
 
 
-{-| The color for 'ImageJ Macro' -}
+{-| Github language color for 'ImageJ Macro' -}
 imagej_macro : Color
 imagej_macro =
     { elmui = Element.rgb255 153 170 255
@@ -2402,7 +2425,7 @@ imagej_macro =
     }
 
 
-{-| The color for 'Imba' -}
+{-| Github language color for 'Imba' -}
 imba : Color
 imba =
     { elmui = Element.rgb255 22 206 198
@@ -2412,7 +2435,7 @@ imba =
     }
 
 
-{-| The color for 'Inform 7' -}
+{-| Github language color for 'Inform 7' -}
 inform_7 : Color
 inform_7 =
     { elmui = Element.rgb255 204 204 204
@@ -2422,7 +2445,7 @@ inform_7 =
     }
 
 
-{-| The color for 'Ink' -}
+{-| Github language color for 'Ink' -}
 ink : Color
 ink =
     { elmui = Element.rgb255 204 204 204
@@ -2432,7 +2455,7 @@ ink =
     }
 
 
-{-| The color for 'Inno Setup' -}
+{-| Github language color for 'Inno Setup' -}
 inno_setup : Color
 inno_setup =
     { elmui = Element.rgb255 38 75 153
@@ -2442,7 +2465,7 @@ inno_setup =
     }
 
 
-{-| The color for 'Io' -}
+{-| Github language color for 'Io' -}
 io : Color
 io =
     { elmui = Element.rgb255 169 24 141
@@ -2452,7 +2475,7 @@ io =
     }
 
 
-{-| The color for 'Ioke' -}
+{-| Github language color for 'Ioke' -}
 ioke : Color
 ioke =
     { elmui = Element.rgb255 7 129 147
@@ -2462,7 +2485,7 @@ ioke =
     }
 
 
-{-| The color for 'Isabelle' -}
+{-| Github language color for 'Isabelle' -}
 isabelle : Color
 isabelle =
     { elmui = Element.rgb255 254 254 0
@@ -2472,7 +2495,7 @@ isabelle =
     }
 
 
-{-| The color for 'Isabelle ROOT' -}
+{-| Github language color for 'Isabelle ROOT' -}
 isabelle_root : Color
 isabelle_root =
     { elmui = Element.rgb255 254 254 0
@@ -2482,7 +2505,7 @@ isabelle_root =
     }
 
 
-{-| The color for 'J' -}
+{-| Github language color for 'J' -}
 j : Color
 j =
     { elmui = Element.rgb255 158 237 255
@@ -2492,7 +2515,7 @@ j =
     }
 
 
-{-| The color for 'JAR Manifest' -}
+{-| Github language color for 'JAR Manifest' -}
 jar_manifest : Color
 jar_manifest =
     { elmui = Element.rgb255 176 114 25
@@ -2502,7 +2525,7 @@ jar_manifest =
     }
 
 
-{-| The color for 'JCL' -}
+{-| Github language color for 'JCL' -}
 jcl : Color
 jcl =
     { elmui = Element.rgb255 217 14 9
@@ -2512,7 +2535,7 @@ jcl =
     }
 
 
-{-| The color for 'JFlex' -}
+{-| Github language color for 'JFlex' -}
 jflex : Color
 jflex =
     { elmui = Element.rgb255 219 202 0
@@ -2522,7 +2545,7 @@ jflex =
     }
 
 
-{-| The color for 'JSON' -}
+{-| Github language color for 'JSON' -}
 json : Color
 json =
     { elmui = Element.rgb255 41 41 41
@@ -2532,7 +2555,7 @@ json =
     }
 
 
-{-| The color for 'JSON with Comments' -}
+{-| Github language color for 'JSON with Comments' -}
 json_with_comments : Color
 json_with_comments =
     { elmui = Element.rgb255 41 41 41
@@ -2542,7 +2565,7 @@ json_with_comments =
     }
 
 
-{-| The color for 'JSON5' -}
+{-| Github language color for 'JSON5' -}
 json5 : Color
 json5 =
     { elmui = Element.rgb255 38 124 185
@@ -2552,7 +2575,7 @@ json5 =
     }
 
 
-{-| The color for 'JSONLD' -}
+{-| Github language color for 'JSONLD' -}
 jsonld : Color
 jsonld =
     { elmui = Element.rgb255 12 71 156
@@ -2562,7 +2585,7 @@ jsonld =
     }
 
 
-{-| The color for 'JSONiq' -}
+{-| Github language color for 'JSONiq' -}
 jsoniq : Color
 jsoniq =
     { elmui = Element.rgb255 64 212 126
@@ -2572,7 +2595,7 @@ jsoniq =
     }
 
 
-{-| The color for 'Janet' -}
+{-| Github language color for 'Janet' -}
 janet : Color
 janet =
     { elmui = Element.rgb255 8 134 165
@@ -2582,7 +2605,7 @@ janet =
     }
 
 
-{-| The color for 'Jasmin' -}
+{-| Github language color for 'Jasmin' -}
 jasmin : Color
 jasmin =
     { elmui = Element.rgb255 208 54 0
@@ -2592,7 +2615,7 @@ jasmin =
     }
 
 
-{-| The color for 'Java' -}
+{-| Github language color for 'Java' -}
 java : Color
 java =
     { elmui = Element.rgb255 176 114 25
@@ -2602,7 +2625,7 @@ java =
     }
 
 
-{-| The color for 'Java Properties' -}
+{-| Github language color for 'Java Properties' -}
 java_properties : Color
 java_properties =
     { elmui = Element.rgb255 42 98 119
@@ -2612,7 +2635,7 @@ java_properties =
     }
 
 
-{-| The color for 'Java Server Pages' -}
+{-| Github language color for 'Java Server Pages' -}
 java_server_pages : Color
 java_server_pages =
     { elmui = Element.rgb255 42 98 119
@@ -2622,7 +2645,7 @@ java_server_pages =
     }
 
 
-{-| The color for 'JavaScript' -}
+{-| Github language color for 'JavaScript' -}
 javascript : Color
 javascript =
     { elmui = Element.rgb255 241 224 90
@@ -2632,7 +2655,7 @@ javascript =
     }
 
 
-{-| The color for 'JavaScript+ERB' -}
+{-| Github language color for 'JavaScript+ERB' -}
 javascript+erb : Color
 javascript+erb =
     { elmui = Element.rgb255 241 224 90
@@ -2642,7 +2665,7 @@ javascript+erb =
     }
 
 
-{-| The color for 'Jest Snapshot' -}
+{-| Github language color for 'Jest Snapshot' -}
 jest_snapshot : Color
 jest_snapshot =
     { elmui = Element.rgb255 21 194 19
@@ -2652,7 +2675,7 @@ jest_snapshot =
     }
 
 
-{-| The color for 'JetBrains MPS' -}
+{-| Github language color for 'JetBrains MPS' -}
 jetbrains_mps : Color
 jetbrains_mps =
     { elmui = Element.rgb255 33 215 137
@@ -2662,7 +2685,7 @@ jetbrains_mps =
     }
 
 
-{-| The color for 'Jinja' -}
+{-| Github language color for 'Jinja' -}
 jinja : Color
 jinja =
     { elmui = Element.rgb255 165 42 34
@@ -2672,7 +2695,7 @@ jinja =
     }
 
 
-{-| The color for 'Jison' -}
+{-| Github language color for 'Jison' -}
 jison : Color
 jison =
     { elmui = Element.rgb255 86 179 203
@@ -2682,7 +2705,7 @@ jison =
     }
 
 
-{-| The color for 'Jison Lex' -}
+{-| Github language color for 'Jison Lex' -}
 jison_lex : Color
 jison_lex =
     { elmui = Element.rgb255 86 179 203
@@ -2692,7 +2715,7 @@ jison_lex =
     }
 
 
-{-| The color for 'Jolie' -}
+{-| Github language color for 'Jolie' -}
 jolie : Color
 jolie =
     { elmui = Element.rgb255 132 49 121
@@ -2702,7 +2725,7 @@ jolie =
     }
 
 
-{-| The color for 'Jsonnet' -}
+{-| Github language color for 'Jsonnet' -}
 jsonnet : Color
 jsonnet =
     { elmui = Element.rgb255 0 100 189
@@ -2712,7 +2735,7 @@ jsonnet =
     }
 
 
-{-| The color for 'Julia' -}
+{-| Github language color for 'Julia' -}
 julia : Color
 julia =
     { elmui = Element.rgb255 162 112 186
@@ -2722,7 +2745,7 @@ julia =
     }
 
 
-{-| The color for 'Jupyter Notebook' -}
+{-| Github language color for 'Jupyter Notebook' -}
 jupyter_notebook : Color
 jupyter_notebook =
     { elmui = Element.rgb255 218 91 11
@@ -2732,7 +2755,7 @@ jupyter_notebook =
     }
 
 
-{-| The color for 'Just' -}
+{-| Github language color for 'Just' -}
 just : Color
 just =
     { elmui = Element.rgb255 56 77 84
@@ -2742,7 +2765,7 @@ just =
     }
 
 
-{-| The color for 'KRL' -}
+{-| Github language color for 'KRL' -}
 krl : Color
 krl =
     { elmui = Element.rgb255 40 67 10
@@ -2752,7 +2775,7 @@ krl =
     }
 
 
-{-| The color for 'Kaitai Struct' -}
+{-| Github language color for 'Kaitai Struct' -}
 kaitai_struct : Color
 kaitai_struct =
     { elmui = Element.rgb255 119 59 55
@@ -2762,7 +2785,7 @@ kaitai_struct =
     }
 
 
-{-| The color for 'KakouneScript' -}
+{-| Github language color for 'KakouneScript' -}
 kakounescript : Color
 kakounescript =
     { elmui = Element.rgb255 111 128 66
@@ -2772,7 +2795,7 @@ kakounescript =
     }
 
 
-{-| The color for 'KerboScript' -}
+{-| Github language color for 'KerboScript' -}
 kerboscript : Color
 kerboscript =
     { elmui = Element.rgb255 65 173 240
@@ -2782,7 +2805,7 @@ kerboscript =
     }
 
 
-{-| The color for 'KiCad Layout' -}
+{-| Github language color for 'KiCad Layout' -}
 kicad_layout : Color
 kicad_layout =
     { elmui = Element.rgb255 47 74 171
@@ -2792,7 +2815,7 @@ kicad_layout =
     }
 
 
-{-| The color for 'KiCad Legacy Layout' -}
+{-| Github language color for 'KiCad Legacy Layout' -}
 kicad_legacy_layout : Color
 kicad_legacy_layout =
     { elmui = Element.rgb255 47 74 171
@@ -2802,7 +2825,7 @@ kicad_legacy_layout =
     }
 
 
-{-| The color for 'KiCad Schematic' -}
+{-| Github language color for 'KiCad Schematic' -}
 kicad_schematic : Color
 kicad_schematic =
     { elmui = Element.rgb255 47 74 171
@@ -2812,7 +2835,7 @@ kicad_schematic =
     }
 
 
-{-| The color for 'Kotlin' -}
+{-| Github language color for 'Kotlin' -}
 kotlin : Color
 kotlin =
     { elmui = Element.rgb255 169 123 255
@@ -2822,7 +2845,7 @@ kotlin =
     }
 
 
-{-| The color for 'LFE' -}
+{-| Github language color for 'LFE' -}
 lfe : Color
 lfe =
     { elmui = Element.rgb255 76 48 35
@@ -2832,7 +2855,7 @@ lfe =
     }
 
 
-{-| The color for 'LLVM' -}
+{-| Github language color for 'LLVM' -}
 llvm : Color
 llvm =
     { elmui = Element.rgb255 24 86 25
@@ -2842,7 +2865,7 @@ llvm =
     }
 
 
-{-| The color for 'LOLCODE' -}
+{-| Github language color for 'LOLCODE' -}
 lolcode : Color
 lolcode =
     { elmui = Element.rgb255 204 153 0
@@ -2852,7 +2875,7 @@ lolcode =
     }
 
 
-{-| The color for 'LSL' -}
+{-| Github language color for 'LSL' -}
 lsl : Color
 lsl =
     { elmui = Element.rgb255 61 153 112
@@ -2862,7 +2885,7 @@ lsl =
     }
 
 
-{-| The color for 'LabVIEW' -}
+{-| Github language color for 'LabVIEW' -}
 labview : Color
 labview =
     { elmui = Element.rgb255 254 222 6
@@ -2872,7 +2895,7 @@ labview =
     }
 
 
-{-| The color for 'Lark' -}
+{-| Github language color for 'Lark' -}
 lark : Color
 lark =
     { elmui = Element.rgb255 41 128 185
@@ -2882,7 +2905,7 @@ lark =
     }
 
 
-{-| The color for 'Lasso' -}
+{-| Github language color for 'Lasso' -}
 lasso : Color
 lasso =
     { elmui = Element.rgb255 153 153 153
@@ -2892,7 +2915,7 @@ lasso =
     }
 
 
-{-| The color for 'Latte' -}
+{-| Github language color for 'Latte' -}
 latte : Color
 latte =
     { elmui = Element.rgb255 242 165 66
@@ -2902,7 +2925,7 @@ latte =
     }
 
 
-{-| The color for 'Lean' -}
+{-| Github language color for 'Lean' -}
 lean : Color
 lean =
     { elmui = Element.rgb255 204 204 204
@@ -2912,7 +2935,7 @@ lean =
     }
 
 
-{-| The color for 'Less' -}
+{-| Github language color for 'Less' -}
 less : Color
 less =
     { elmui = Element.rgb255 29 54 93
@@ -2922,7 +2945,7 @@ less =
     }
 
 
-{-| The color for 'Lex' -}
+{-| Github language color for 'Lex' -}
 lex : Color
 lex =
     { elmui = Element.rgb255 219 202 0
@@ -2932,7 +2955,7 @@ lex =
     }
 
 
-{-| The color for 'LigoLANG' -}
+{-| Github language color for 'LigoLANG' -}
 ligolang : Color
 ligolang =
     { elmui = Element.rgb255 14 116 255
@@ -2942,7 +2965,7 @@ ligolang =
     }
 
 
-{-| The color for 'LilyPond' -}
+{-| Github language color for 'LilyPond' -}
 lilypond : Color
 lilypond =
     { elmui = Element.rgb255 156 204 124
@@ -2952,7 +2975,7 @@ lilypond =
     }
 
 
-{-| The color for 'Limbo' -}
+{-| Github language color for 'Limbo' -}
 limbo : Color
 limbo =
     { elmui = Element.rgb255 204 204 204
@@ -2962,7 +2985,7 @@ limbo =
     }
 
 
-{-| The color for 'Liquid' -}
+{-| Github language color for 'Liquid' -}
 liquid : Color
 liquid =
     { elmui = Element.rgb255 103 184 222
@@ -2972,7 +2995,7 @@ liquid =
     }
 
 
-{-| The color for 'Literate Agda' -}
+{-| Github language color for 'Literate Agda' -}
 literate_agda : Color
 literate_agda =
     { elmui = Element.rgb255 49 86 101
@@ -2982,7 +3005,7 @@ literate_agda =
     }
 
 
-{-| The color for 'Literate CoffeeScript' -}
+{-| Github language color for 'Literate CoffeeScript' -}
 literate_coffeescript : Color
 literate_coffeescript =
     { elmui = Element.rgb255 36 71 118
@@ -2992,7 +3015,7 @@ literate_coffeescript =
     }
 
 
-{-| The color for 'Literate Haskell' -}
+{-| Github language color for 'Literate Haskell' -}
 literate_haskell : Color
 literate_haskell =
     { elmui = Element.rgb255 94 80 134
@@ -3002,7 +3025,7 @@ literate_haskell =
     }
 
 
-{-| The color for 'LiveScript' -}
+{-| Github language color for 'LiveScript' -}
 livescript : Color
 livescript =
     { elmui = Element.rgb255 73 152 134
@@ -3012,7 +3035,7 @@ livescript =
     }
 
 
-{-| The color for 'Logos' -}
+{-| Github language color for 'Logos' -}
 logos : Color
 logos =
     { elmui = Element.rgb255 204 204 204
@@ -3022,7 +3045,7 @@ logos =
     }
 
 
-{-| The color for 'Logtalk' -}
+{-| Github language color for 'Logtalk' -}
 logtalk : Color
 logtalk =
     { elmui = Element.rgb255 41 91 154
@@ -3032,7 +3055,7 @@ logtalk =
     }
 
 
-{-| The color for 'LookML' -}
+{-| Github language color for 'LookML' -}
 lookml : Color
 lookml =
     { elmui = Element.rgb255 101 43 129
@@ -3042,7 +3065,7 @@ lookml =
     }
 
 
-{-| The color for 'LoomScript' -}
+{-| Github language color for 'LoomScript' -}
 loomscript : Color
 loomscript =
     { elmui = Element.rgb255 204 204 204
@@ -3052,7 +3075,7 @@ loomscript =
     }
 
 
-{-| The color for 'Lua' -}
+{-| Github language color for 'Lua' -}
 lua : Color
 lua =
     { elmui = Element.rgb255 0 0 128
@@ -3062,7 +3085,7 @@ lua =
     }
 
 
-{-| The color for 'M' -}
+{-| Github language color for 'M' -}
 m : Color
 m =
     { elmui = Element.rgb255 204 204 204
@@ -3072,7 +3095,7 @@ m =
     }
 
 
-{-| The color for 'M4' -}
+{-| Github language color for 'M4' -}
 m4 : Color
 m4 =
     { elmui = Element.rgb255 204 204 204
@@ -3082,7 +3105,7 @@ m4 =
     }
 
 
-{-| The color for 'M4Sugar' -}
+{-| Github language color for 'M4Sugar' -}
 m4sugar : Color
 m4sugar =
     { elmui = Element.rgb255 204 204 204
@@ -3092,7 +3115,7 @@ m4sugar =
     }
 
 
-{-| The color for 'MATLAB' -}
+{-| Github language color for 'MATLAB' -}
 matlab : Color
 matlab =
     { elmui = Element.rgb255 225 103 55
@@ -3102,7 +3125,7 @@ matlab =
     }
 
 
-{-| The color for 'MAXScript' -}
+{-| Github language color for 'MAXScript' -}
 maxscript : Color
 maxscript =
     { elmui = Element.rgb255 0 166 166
@@ -3112,7 +3135,7 @@ maxscript =
     }
 
 
-{-| The color for 'MDX' -}
+{-| Github language color for 'MDX' -}
 mdx : Color
 mdx =
     { elmui = Element.rgb255 252 179 44
@@ -3122,7 +3145,7 @@ mdx =
     }
 
 
-{-| The color for 'MLIR' -}
+{-| Github language color for 'MLIR' -}
 mlir : Color
 mlir =
     { elmui = Element.rgb255 94 200 219
@@ -3132,7 +3155,7 @@ mlir =
     }
 
 
-{-| The color for 'MQL4' -}
+{-| Github language color for 'MQL4' -}
 mql4 : Color
 mql4 =
     { elmui = Element.rgb255 98 168 214
@@ -3142,7 +3165,7 @@ mql4 =
     }
 
 
-{-| The color for 'MQL5' -}
+{-| Github language color for 'MQL5' -}
 mql5 : Color
 mql5 =
     { elmui = Element.rgb255 74 118 184
@@ -3152,7 +3175,7 @@ mql5 =
     }
 
 
-{-| The color for 'MTML' -}
+{-| Github language color for 'MTML' -}
 mtml : Color
 mtml =
     { elmui = Element.rgb255 183 225 244
@@ -3162,7 +3185,7 @@ mtml =
     }
 
 
-{-| The color for 'MUF' -}
+{-| Github language color for 'MUF' -}
 muf : Color
 muf =
     { elmui = Element.rgb255 204 204 204
@@ -3172,7 +3195,7 @@ muf =
     }
 
 
-{-| The color for 'Macaulay2' -}
+{-| Github language color for 'Macaulay2' -}
 macaulay2 : Color
 macaulay2 =
     { elmui = Element.rgb255 216 255 255
@@ -3182,7 +3205,7 @@ macaulay2 =
     }
 
 
-{-| The color for 'Makefile' -}
+{-| Github language color for 'Makefile' -}
 makefile : Color
 makefile =
     { elmui = Element.rgb255 66 120 25
@@ -3192,7 +3215,7 @@ makefile =
     }
 
 
-{-| The color for 'Mako' -}
+{-| Github language color for 'Mako' -}
 mako : Color
 mako =
     { elmui = Element.rgb255 126 133 141
@@ -3202,7 +3225,7 @@ mako =
     }
 
 
-{-| The color for 'Markdown' -}
+{-| Github language color for 'Markdown' -}
 markdown : Color
 markdown =
     { elmui = Element.rgb255 8 63 161
@@ -3212,7 +3235,7 @@ markdown =
     }
 
 
-{-| The color for 'Marko' -}
+{-| Github language color for 'Marko' -}
 marko : Color
 marko =
     { elmui = Element.rgb255 66 191 242
@@ -3222,7 +3245,7 @@ marko =
     }
 
 
-{-| The color for 'Mask' -}
+{-| Github language color for 'Mask' -}
 mask : Color
 mask =
     { elmui = Element.rgb255 249 119 50
@@ -3232,7 +3255,7 @@ mask =
     }
 
 
-{-| The color for 'Mathematica' -}
+{-| Github language color for 'Mathematica' -}
 mathematica : Color
 mathematica =
     { elmui = Element.rgb255 221 17 0
@@ -3242,7 +3265,7 @@ mathematica =
     }
 
 
-{-| The color for 'Max' -}
+{-| Github language color for 'Max' -}
 max : Color
 max =
     { elmui = Element.rgb255 196 167 156
@@ -3252,7 +3275,7 @@ max =
     }
 
 
-{-| The color for 'Mercury' -}
+{-| Github language color for 'Mercury' -}
 mercury : Color
 mercury =
     { elmui = Element.rgb255 255 43 43
@@ -3262,7 +3285,7 @@ mercury =
     }
 
 
-{-| The color for 'Mermaid' -}
+{-| Github language color for 'Mermaid' -}
 mermaid : Color
 mermaid =
     { elmui = Element.rgb255 255 54 112
@@ -3272,7 +3295,7 @@ mermaid =
     }
 
 
-{-| The color for 'Meson' -}
+{-| Github language color for 'Meson' -}
 meson : Color
 meson =
     { elmui = Element.rgb255 0 120 0
@@ -3282,7 +3305,7 @@ meson =
     }
 
 
-{-| The color for 'Metal' -}
+{-| Github language color for 'Metal' -}
 metal : Color
 metal =
     { elmui = Element.rgb255 143 20 233
@@ -3292,7 +3315,7 @@ metal =
     }
 
 
-{-| The color for 'MiniD' -}
+{-| Github language color for 'MiniD' -}
 minid : Color
 minid =
     { elmui = Element.rgb255 204 204 204
@@ -3302,7 +3325,7 @@ minid =
     }
 
 
-{-| The color for 'MiniYAML' -}
+{-| Github language color for 'MiniYAML' -}
 miniyaml : Color
 miniyaml =
     { elmui = Element.rgb255 255 17 17
@@ -3312,7 +3335,7 @@ miniyaml =
     }
 
 
-{-| The color for 'Mint' -}
+{-| Github language color for 'Mint' -}
 mint : Color
 mint =
     { elmui = Element.rgb255 2 176 70
@@ -3322,7 +3345,7 @@ mint =
     }
 
 
-{-| The color for 'Mirah' -}
+{-| Github language color for 'Mirah' -}
 mirah : Color
 mirah =
     { elmui = Element.rgb255 199 169 56
@@ -3332,7 +3355,7 @@ mirah =
     }
 
 
-{-| The color for 'Modelica' -}
+{-| Github language color for 'Modelica' -}
 modelica : Color
 modelica =
     { elmui = Element.rgb255 222 29 49
@@ -3342,7 +3365,7 @@ modelica =
     }
 
 
-{-| The color for 'Modula-2' -}
+{-| Github language color for 'Modula-2' -}
 modula_2 : Color
 modula_2 =
     { elmui = Element.rgb255 16 37 63
@@ -3352,7 +3375,7 @@ modula_2 =
     }
 
 
-{-| The color for 'Modula-3' -}
+{-| Github language color for 'Modula-3' -}
 modula_3 : Color
 modula_3 =
     { elmui = Element.rgb255 34 51 136
@@ -3362,7 +3385,7 @@ modula_3 =
     }
 
 
-{-| The color for 'Module Management System' -}
+{-| Github language color for 'Module Management System' -}
 module_management_system : Color
 module_management_system =
     { elmui = Element.rgb255 204 204 204
@@ -3372,7 +3395,7 @@ module_management_system =
     }
 
 
-{-| The color for 'Monkey' -}
+{-| Github language color for 'Monkey' -}
 monkey : Color
 monkey =
     { elmui = Element.rgb255 204 204 204
@@ -3382,7 +3405,7 @@ monkey =
     }
 
 
-{-| The color for 'Monkey C' -}
+{-| Github language color for 'Monkey C' -}
 monkey_c : Color
 monkey_c =
     { elmui = Element.rgb255 141 103 71
@@ -3392,7 +3415,7 @@ monkey_c =
     }
 
 
-{-| The color for 'Moocode' -}
+{-| Github language color for 'Moocode' -}
 moocode : Color
 moocode =
     { elmui = Element.rgb255 204 204 204
@@ -3402,7 +3425,7 @@ moocode =
     }
 
 
-{-| The color for 'MoonScript' -}
+{-| Github language color for 'MoonScript' -}
 moonscript : Color
 moonscript =
     { elmui = Element.rgb255 255 69 133
@@ -3412,7 +3435,7 @@ moonscript =
     }
 
 
-{-| The color for 'Motoko' -}
+{-| Github language color for 'Motoko' -}
 motoko : Color
 motoko =
     { elmui = Element.rgb255 251 176 59
@@ -3422,7 +3445,7 @@ motoko =
     }
 
 
-{-| The color for 'Motorola 68K Assembly' -}
+{-| Github language color for 'Motorola 68K Assembly' -}
 motorola_68k_assembly : Color
 motorola_68k_assembly =
     { elmui = Element.rgb255 0 93 170
@@ -3432,7 +3455,7 @@ motorola_68k_assembly =
     }
 
 
-{-| The color for 'Move' -}
+{-| Github language color for 'Move' -}
 move : Color
 move =
     { elmui = Element.rgb255 74 19 122
@@ -3442,7 +3465,7 @@ move =
     }
 
 
-{-| The color for 'Mustache' -}
+{-| Github language color for 'Mustache' -}
 mustache : Color
 mustache =
     { elmui = Element.rgb255 114 75 59
@@ -3452,7 +3475,7 @@ mustache =
     }
 
 
-{-| The color for 'Myghty' -}
+{-| Github language color for 'Myghty' -}
 myghty : Color
 myghty =
     { elmui = Element.rgb255 204 204 204
@@ -3462,7 +3485,7 @@ myghty =
     }
 
 
-{-| The color for 'NASL' -}
+{-| Github language color for 'NASL' -}
 nasl : Color
 nasl =
     { elmui = Element.rgb255 204 204 204
@@ -3472,7 +3495,7 @@ nasl =
     }
 
 
-{-| The color for 'NCL' -}
+{-| Github language color for 'NCL' -}
 ncl : Color
 ncl =
     { elmui = Element.rgb255 40 67 31
@@ -3482,7 +3505,7 @@ ncl =
     }
 
 
-{-| The color for 'NPM Config' -}
+{-| Github language color for 'NPM Config' -}
 npm_config : Color
 npm_config =
     { elmui = Element.rgb255 203 56 55
@@ -3492,7 +3515,7 @@ npm_config =
     }
 
 
-{-| The color for 'NSIS' -}
+{-| Github language color for 'NSIS' -}
 nsis : Color
 nsis =
     { elmui = Element.rgb255 204 204 204
@@ -3502,7 +3525,7 @@ nsis =
     }
 
 
-{-| The color for 'NWScript' -}
+{-| Github language color for 'NWScript' -}
 nwscript : Color
 nwscript =
     { elmui = Element.rgb255 17 21 34
@@ -3512,7 +3535,7 @@ nwscript =
     }
 
 
-{-| The color for 'Nasal' -}
+{-| Github language color for 'Nasal' -}
 nasal : Color
 nasal =
     { elmui = Element.rgb255 29 44 78
@@ -3522,7 +3545,7 @@ nasal =
     }
 
 
-{-| The color for 'Nearley' -}
+{-| Github language color for 'Nearley' -}
 nearley : Color
 nearley =
     { elmui = Element.rgb255 153 0 0
@@ -3532,7 +3555,7 @@ nearley =
     }
 
 
-{-| The color for 'Nemerle' -}
+{-| Github language color for 'Nemerle' -}
 nemerle : Color
 nemerle =
     { elmui = Element.rgb255 61 60 110
@@ -3542,7 +3565,7 @@ nemerle =
     }
 
 
-{-| The color for 'NetLinx' -}
+{-| Github language color for 'NetLinx' -}
 netlinx : Color
 netlinx =
     { elmui = Element.rgb255 10 160 255
@@ -3552,7 +3575,7 @@ netlinx =
     }
 
 
-{-| The color for 'NetLinx+ERB' -}
+{-| Github language color for 'NetLinx+ERB' -}
 netlinx+erb : Color
 netlinx+erb =
     { elmui = Element.rgb255 116 127 170
@@ -3562,7 +3585,7 @@ netlinx+erb =
     }
 
 
-{-| The color for 'NetLogo' -}
+{-| Github language color for 'NetLogo' -}
 netlogo : Color
 netlogo =
     { elmui = Element.rgb255 255 99 117
@@ -3572,7 +3595,7 @@ netlogo =
     }
 
 
-{-| The color for 'NewLisp' -}
+{-| Github language color for 'NewLisp' -}
 newlisp : Color
 newlisp =
     { elmui = Element.rgb255 135 174 215
@@ -3582,7 +3605,7 @@ newlisp =
     }
 
 
-{-| The color for 'Nextflow' -}
+{-| Github language color for 'Nextflow' -}
 nextflow : Color
 nextflow =
     { elmui = Element.rgb255 58 196 134
@@ -3592,7 +3615,7 @@ nextflow =
     }
 
 
-{-| The color for 'Nginx' -}
+{-| Github language color for 'Nginx' -}
 nginx : Color
 nginx =
     { elmui = Element.rgb255 0 150 57
@@ -3602,7 +3625,7 @@ nginx =
     }
 
 
-{-| The color for 'Nim' -}
+{-| Github language color for 'Nim' -}
 nim : Color
 nim =
     { elmui = Element.rgb255 255 194 0
@@ -3612,7 +3635,7 @@ nim =
     }
 
 
-{-| The color for 'Nit' -}
+{-| Github language color for 'Nit' -}
 nit : Color
 nit =
     { elmui = Element.rgb255 0 153 23
@@ -3622,7 +3645,7 @@ nit =
     }
 
 
-{-| The color for 'Nix' -}
+{-| Github language color for 'Nix' -}
 nix : Color
 nix =
     { elmui = Element.rgb255 126 126 255
@@ -3632,7 +3655,7 @@ nix =
     }
 
 
-{-| The color for 'Nu' -}
+{-| Github language color for 'Nu' -}
 nu : Color
 nu =
     { elmui = Element.rgb255 201 223 64
@@ -3642,7 +3665,7 @@ nu =
     }
 
 
-{-| The color for 'NumPy' -}
+{-| Github language color for 'NumPy' -}
 numpy : Color
 numpy =
     { elmui = Element.rgb255 156 138 249
@@ -3652,7 +3675,7 @@ numpy =
     }
 
 
-{-| The color for 'Nunjucks' -}
+{-| Github language color for 'Nunjucks' -}
 nunjucks : Color
 nunjucks =
     { elmui = Element.rgb255 61 129 55
@@ -3662,7 +3685,7 @@ nunjucks =
     }
 
 
-{-| The color for 'Nushell' -}
+{-| Github language color for 'Nushell' -}
 nushell : Color
 nushell =
     { elmui = Element.rgb255 78 153 6
@@ -3672,7 +3695,7 @@ nushell =
     }
 
 
-{-| The color for 'OASv2-json' -}
+{-| Github language color for 'OASv2-json' -}
 oasv2_json : Color
 oasv2_json =
     { elmui = Element.rgb255 133 234 45
@@ -3682,7 +3705,7 @@ oasv2_json =
     }
 
 
-{-| The color for 'OASv2-yaml' -}
+{-| Github language color for 'OASv2-yaml' -}
 oasv2_yaml : Color
 oasv2_yaml =
     { elmui = Element.rgb255 133 234 45
@@ -3692,7 +3715,7 @@ oasv2_yaml =
     }
 
 
-{-| The color for 'OASv3-json' -}
+{-| Github language color for 'OASv3-json' -}
 oasv3_json : Color
 oasv3_json =
     { elmui = Element.rgb255 133 234 45
@@ -3702,7 +3725,7 @@ oasv3_json =
     }
 
 
-{-| The color for 'OASv3-yaml' -}
+{-| Github language color for 'OASv3-yaml' -}
 oasv3_yaml : Color
 oasv3_yaml =
     { elmui = Element.rgb255 133 234 45
@@ -3712,7 +3735,7 @@ oasv3_yaml =
     }
 
 
-{-| The color for 'OCaml' -}
+{-| Github language color for 'OCaml' -}
 ocaml : Color
 ocaml =
     { elmui = Element.rgb255 239 122 8
@@ -3722,7 +3745,7 @@ ocaml =
     }
 
 
-{-| The color for 'ObjectScript' -}
+{-| Github language color for 'ObjectScript' -}
 objectscript : Color
 objectscript =
     { elmui = Element.rgb255 66 72 147
@@ -3732,7 +3755,7 @@ objectscript =
     }
 
 
-{-| The color for 'Objective-C' -}
+{-| Github language color for 'Objective-C' -}
 objective_c : Color
 objective_c =
     { elmui = Element.rgb255 67 142 255
@@ -3742,7 +3765,7 @@ objective_c =
     }
 
 
-{-| The color for 'Objective-C++' -}
+{-| Github language color for 'Objective-C++' -}
 objective_c++ : Color
 objective_c++ =
     { elmui = Element.rgb255 104 102 251
@@ -3752,7 +3775,7 @@ objective_c++ =
     }
 
 
-{-| The color for 'Objective-J' -}
+{-| Github language color for 'Objective-J' -}
 objective_j : Color
 objective_j =
     { elmui = Element.rgb255 255 12 90
@@ -3762,7 +3785,7 @@ objective_j =
     }
 
 
-{-| The color for 'Odin' -}
+{-| Github language color for 'Odin' -}
 odin : Color
 odin =
     { elmui = Element.rgb255 96 175 254
@@ -3772,7 +3795,7 @@ odin =
     }
 
 
-{-| The color for 'Omgrofl' -}
+{-| Github language color for 'Omgrofl' -}
 omgrofl : Color
 omgrofl =
     { elmui = Element.rgb255 202 187 255
@@ -3782,7 +3805,7 @@ omgrofl =
     }
 
 
-{-| The color for 'Opa' -}
+{-| Github language color for 'Opa' -}
 opa : Color
 opa =
     { elmui = Element.rgb255 204 204 204
@@ -3792,7 +3815,7 @@ opa =
     }
 
 
-{-| The color for 'Opal' -}
+{-| Github language color for 'Opal' -}
 opal : Color
 opal =
     { elmui = Element.rgb255 247 237 224
@@ -3802,7 +3825,7 @@ opal =
     }
 
 
-{-| The color for 'Open Policy Agent' -}
+{-| Github language color for 'Open Policy Agent' -}
 open_policy_agent : Color
 open_policy_agent =
     { elmui = Element.rgb255 125 145 153
@@ -3812,7 +3835,7 @@ open_policy_agent =
     }
 
 
-{-| The color for 'OpenAPI Specification v2' -}
+{-| Github language color for 'OpenAPI Specification v2' -}
 openapi_specification_v2 : Color
 openapi_specification_v2 =
     { elmui = Element.rgb255 133 234 45
@@ -3822,7 +3845,7 @@ openapi_specification_v2 =
     }
 
 
-{-| The color for 'OpenAPI Specification v3' -}
+{-| Github language color for 'OpenAPI Specification v3' -}
 openapi_specification_v3 : Color
 openapi_specification_v3 =
     { elmui = Element.rgb255 133 234 45
@@ -3832,7 +3855,7 @@ openapi_specification_v3 =
     }
 
 
-{-| The color for 'OpenCL' -}
+{-| Github language color for 'OpenCL' -}
 opencl : Color
 opencl =
     { elmui = Element.rgb255 237 46 45
@@ -3842,7 +3865,7 @@ opencl =
     }
 
 
-{-| The color for 'OpenEdge ABL' -}
+{-| Github language color for 'OpenEdge ABL' -}
 openedge_abl : Color
 openedge_abl =
     { elmui = Element.rgb255 92 230 0
@@ -3852,7 +3875,7 @@ openedge_abl =
     }
 
 
-{-| The color for 'OpenQASM' -}
+{-| Github language color for 'OpenQASM' -}
 openqasm : Color
 openqasm =
     { elmui = Element.rgb255 170 112 255
@@ -3862,7 +3885,7 @@ openqasm =
     }
 
 
-{-| The color for 'OpenRC runscript' -}
+{-| Github language color for 'OpenRC runscript' -}
 openrc_runscript : Color
 openrc_runscript =
     { elmui = Element.rgb255 204 204 204
@@ -3872,7 +3895,7 @@ openrc_runscript =
     }
 
 
-{-| The color for 'OpenSCAD' -}
+{-| Github language color for 'OpenSCAD' -}
 openscad : Color
 openscad =
     { elmui = Element.rgb255 229 205 69
@@ -3882,7 +3905,7 @@ openscad =
     }
 
 
-{-| The color for 'Option List' -}
+{-| Github language color for 'Option List' -}
 option_list : Color
 option_list =
     { elmui = Element.rgb255 71 103 50
@@ -3892,7 +3915,7 @@ option_list =
     }
 
 
-{-| The color for 'Org' -}
+{-| Github language color for 'Org' -}
 org : Color
 org =
     { elmui = Element.rgb255 119 170 153
@@ -3902,7 +3925,7 @@ org =
     }
 
 
-{-| The color for 'Ox' -}
+{-| Github language color for 'Ox' -}
 ox : Color
 ox =
     { elmui = Element.rgb255 204 204 204
@@ -3912,7 +3935,7 @@ ox =
     }
 
 
-{-| The color for 'Oxygene' -}
+{-| Github language color for 'Oxygene' -}
 oxygene : Color
 oxygene =
     { elmui = Element.rgb255 205 208 227
@@ -3922,7 +3945,7 @@ oxygene =
     }
 
 
-{-| The color for 'Oz' -}
+{-| Github language color for 'Oz' -}
 oz : Color
 oz =
     { elmui = Element.rgb255 250 183 56
@@ -3932,7 +3955,7 @@ oz =
     }
 
 
-{-| The color for 'P4' -}
+{-| Github language color for 'P4' -}
 p4 : Color
 p4 =
     { elmui = Element.rgb255 112 85 181
@@ -3942,7 +3965,7 @@ p4 =
     }
 
 
-{-| The color for 'PDDL' -}
+{-| Github language color for 'PDDL' -}
 pddl : Color
 pddl =
     { elmui = Element.rgb255 13 0 255
@@ -3952,7 +3975,7 @@ pddl =
     }
 
 
-{-| The color for 'PEG.js' -}
+{-| Github language color for 'PEG.js' -}
 peg_js : Color
 peg_js =
     { elmui = Element.rgb255 35 77 107
@@ -3962,7 +3985,7 @@ peg_js =
     }
 
 
-{-| The color for 'PHP' -}
+{-| Github language color for 'PHP' -}
 php : Color
 php =
     { elmui = Element.rgb255 79 93 149
@@ -3972,7 +3995,7 @@ php =
     }
 
 
-{-| The color for 'PLSQL' -}
+{-| Github language color for 'PLSQL' -}
 plsql : Color
 plsql =
     { elmui = Element.rgb255 218 216 216
@@ -3982,7 +4005,7 @@ plsql =
     }
 
 
-{-| The color for 'PLpgSQL' -}
+{-| Github language color for 'PLpgSQL' -}
 plpgsql : Color
 plpgsql =
     { elmui = Element.rgb255 51 103 144
@@ -3992,7 +4015,7 @@ plpgsql =
     }
 
 
-{-| The color for 'POV-Ray SDL' -}
+{-| Github language color for 'POV-Ray SDL' -}
 pov_ray_sdl : Color
 pov_ray_sdl =
     { elmui = Element.rgb255 107 172 101
@@ -4002,7 +4025,7 @@ pov_ray_sdl =
     }
 
 
-{-| The color for 'Pact' -}
+{-| Github language color for 'Pact' -}
 pact : Color
 pact =
     { elmui = Element.rgb255 247 168 184
@@ -4012,7 +4035,7 @@ pact =
     }
 
 
-{-| The color for 'Pan' -}
+{-| Github language color for 'Pan' -}
 pan : Color
 pan =
     { elmui = Element.rgb255 204 0 0
@@ -4022,7 +4045,7 @@ pan =
     }
 
 
-{-| The color for 'Papyrus' -}
+{-| Github language color for 'Papyrus' -}
 papyrus : Color
 papyrus =
     { elmui = Element.rgb255 102 0 204
@@ -4032,7 +4055,7 @@ papyrus =
     }
 
 
-{-| The color for 'Parrot' -}
+{-| Github language color for 'Parrot' -}
 parrot : Color
 parrot =
     { elmui = Element.rgb255 243 202 10
@@ -4042,7 +4065,7 @@ parrot =
     }
 
 
-{-| The color for 'Parrot Assembly' -}
+{-| Github language color for 'Parrot Assembly' -}
 parrot_assembly : Color
 parrot_assembly =
     { elmui = Element.rgb255 204 204 204
@@ -4052,7 +4075,7 @@ parrot_assembly =
     }
 
 
-{-| The color for 'Parrot Internal Representation' -}
+{-| Github language color for 'Parrot Internal Representation' -}
 parrot_internal_representation : Color
 parrot_internal_representation =
     { elmui = Element.rgb255 204 204 204
@@ -4062,7 +4085,7 @@ parrot_internal_representation =
     }
 
 
-{-| The color for 'Pascal' -}
+{-| Github language color for 'Pascal' -}
 pascal : Color
 pascal =
     { elmui = Element.rgb255 227 241 113
@@ -4072,7 +4095,7 @@ pascal =
     }
 
 
-{-| The color for 'Pawn' -}
+{-| Github language color for 'Pawn' -}
 pawn : Color
 pawn =
     { elmui = Element.rgb255 219 178 132
@@ -4082,7 +4105,7 @@ pawn =
     }
 
 
-{-| The color for 'Pep8' -}
+{-| Github language color for 'Pep8' -}
 pep8 : Color
 pep8 =
     { elmui = Element.rgb255 199 111 91
@@ -4092,7 +4115,7 @@ pep8 =
     }
 
 
-{-| The color for 'Perl' -}
+{-| Github language color for 'Perl' -}
 perl : Color
 perl =
     { elmui = Element.rgb255 2 152 195
@@ -4102,7 +4125,7 @@ perl =
     }
 
 
-{-| The color for 'PicoLisp' -}
+{-| Github language color for 'PicoLisp' -}
 picolisp : Color
 picolisp =
     { elmui = Element.rgb255 96 103 175
@@ -4112,7 +4135,7 @@ picolisp =
     }
 
 
-{-| The color for 'PigLatin' -}
+{-| Github language color for 'PigLatin' -}
 piglatin : Color
 piglatin =
     { elmui = Element.rgb255 252 215 222
@@ -4122,7 +4145,7 @@ piglatin =
     }
 
 
-{-| The color for 'Pike' -}
+{-| Github language color for 'Pike' -}
 pike : Color
 pike =
     { elmui = Element.rgb255 0 83 144
@@ -4132,7 +4155,7 @@ pike =
     }
 
 
-{-| The color for 'PlantUML' -}
+{-| Github language color for 'PlantUML' -}
 plantuml : Color
 plantuml =
     { elmui = Element.rgb255 251 189 22
@@ -4142,7 +4165,7 @@ plantuml =
     }
 
 
-{-| The color for 'PogoScript' -}
+{-| Github language color for 'PogoScript' -}
 pogoscript : Color
 pogoscript =
     { elmui = Element.rgb255 216 0 116
@@ -4152,7 +4175,7 @@ pogoscript =
     }
 
 
-{-| The color for 'Polar' -}
+{-| Github language color for 'Polar' -}
 polar : Color
 polar =
     { elmui = Element.rgb255 174 129 255
@@ -4162,7 +4185,7 @@ polar =
     }
 
 
-{-| The color for 'Pony' -}
+{-| Github language color for 'Pony' -}
 pony : Color
 pony =
     { elmui = Element.rgb255 204 204 204
@@ -4172,7 +4195,7 @@ pony =
     }
 
 
-{-| The color for 'Portugol' -}
+{-| Github language color for 'Portugol' -}
 portugol : Color
 portugol =
     { elmui = Element.rgb255 248 189 0
@@ -4182,7 +4205,7 @@ portugol =
     }
 
 
-{-| The color for 'PostCSS' -}
+{-| Github language color for 'PostCSS' -}
 postcss : Color
 postcss =
     { elmui = Element.rgb255 220 58 12
@@ -4192,7 +4215,7 @@ postcss =
     }
 
 
-{-| The color for 'PostScript' -}
+{-| Github language color for 'PostScript' -}
 postscript : Color
 postscript =
     { elmui = Element.rgb255 218 41 28
@@ -4202,7 +4225,7 @@ postscript =
     }
 
 
-{-| The color for 'PowerBuilder' -}
+{-| Github language color for 'PowerBuilder' -}
 powerbuilder : Color
 powerbuilder =
     { elmui = Element.rgb255 143 15 141
@@ -4212,7 +4235,7 @@ powerbuilder =
     }
 
 
-{-| The color for 'PowerShell' -}
+{-| Github language color for 'PowerShell' -}
 powershell : Color
 powershell =
     { elmui = Element.rgb255 1 36 86
@@ -4222,7 +4245,7 @@ powershell =
     }
 
 
-{-| The color for 'Prisma' -}
+{-| Github language color for 'Prisma' -}
 prisma : Color
 prisma =
     { elmui = Element.rgb255 12 52 75
@@ -4232,7 +4255,7 @@ prisma =
     }
 
 
-{-| The color for 'Processing' -}
+{-| Github language color for 'Processing' -}
 processing : Color
 processing =
     { elmui = Element.rgb255 0 150 216
@@ -4242,7 +4265,7 @@ processing =
     }
 
 
-{-| The color for 'Procfile' -}
+{-| Github language color for 'Procfile' -}
 procfile : Color
 procfile =
     { elmui = Element.rgb255 59 47 99
@@ -4252,7 +4275,7 @@ procfile =
     }
 
 
-{-| The color for 'Prolog' -}
+{-| Github language color for 'Prolog' -}
 prolog : Color
 prolog =
     { elmui = Element.rgb255 116 40 60
@@ -4262,7 +4285,7 @@ prolog =
     }
 
 
-{-| The color for 'Promela' -}
+{-| Github language color for 'Promela' -}
 promela : Color
 promela =
     { elmui = Element.rgb255 222 0 0
@@ -4272,7 +4295,7 @@ promela =
     }
 
 
-{-| The color for 'Propeller Spin' -}
+{-| Github language color for 'Propeller Spin' -}
 propeller_spin : Color
 propeller_spin =
     { elmui = Element.rgb255 127 162 167
@@ -4282,7 +4305,7 @@ propeller_spin =
     }
 
 
-{-| The color for 'Pug' -}
+{-| Github language color for 'Pug' -}
 pug : Color
 pug =
     { elmui = Element.rgb255 168 100 84
@@ -4292,7 +4315,7 @@ pug =
     }
 
 
-{-| The color for 'Puppet' -}
+{-| Github language color for 'Puppet' -}
 puppet : Color
 puppet =
     { elmui = Element.rgb255 48 43 109
@@ -4302,7 +4325,7 @@ puppet =
     }
 
 
-{-| The color for 'PureBasic' -}
+{-| Github language color for 'PureBasic' -}
 purebasic : Color
 purebasic =
     { elmui = Element.rgb255 90 105 134
@@ -4312,7 +4335,7 @@ purebasic =
     }
 
 
-{-| The color for 'PureScript' -}
+{-| Github language color for 'PureScript' -}
 purescript : Color
 purescript =
     { elmui = Element.rgb255 29 34 45
@@ -4322,7 +4345,7 @@ purescript =
     }
 
 
-{-| The color for 'Pyret' -}
+{-| Github language color for 'Pyret' -}
 pyret : Color
 pyret =
     { elmui = Element.rgb255 238 30 16
@@ -4332,7 +4355,7 @@ pyret =
     }
 
 
-{-| The color for 'Python' -}
+{-| Github language color for 'Python' -}
 python : Color
 python =
     { elmui = Element.rgb255 53 114 165
@@ -4342,7 +4365,7 @@ python =
     }
 
 
-{-| The color for 'Python console' -}
+{-| Github language color for 'Python console' -}
 python_console : Color
 python_console =
     { elmui = Element.rgb255 53 114 165
@@ -4352,7 +4375,7 @@ python_console =
     }
 
 
-{-| The color for 'Python traceback' -}
+{-| Github language color for 'Python traceback' -}
 python_traceback : Color
 python_traceback =
     { elmui = Element.rgb255 53 114 165
@@ -4362,7 +4385,7 @@ python_traceback =
     }
 
 
-{-| The color for 'Q#' -}
+{-| Github language color for 'Q#' -}
 q# : Color
 q# =
     { elmui = Element.rgb255 254 214 89
@@ -4372,7 +4395,7 @@ q# =
     }
 
 
-{-| The color for 'QML' -}
+{-| Github language color for 'QML' -}
 qml : Color
 qml =
     { elmui = Element.rgb255 68 165 28
@@ -4382,7 +4405,7 @@ qml =
     }
 
 
-{-| The color for 'QMake' -}
+{-| Github language color for 'QMake' -}
 qmake : Color
 qmake =
     { elmui = Element.rgb255 204 204 204
@@ -4392,7 +4415,7 @@ qmake =
     }
 
 
-{-| The color for 'Qt Script' -}
+{-| Github language color for 'Qt Script' -}
 qt_script : Color
 qt_script =
     { elmui = Element.rgb255 0 184 65
@@ -4402,7 +4425,7 @@ qt_script =
     }
 
 
-{-| The color for 'Quake' -}
+{-| Github language color for 'Quake' -}
 quake : Color
 quake =
     { elmui = Element.rgb255 136 34 51
@@ -4412,7 +4435,7 @@ quake =
     }
 
 
-{-| The color for 'R' -}
+{-| Github language color for 'R' -}
 r : Color
 r =
     { elmui = Element.rgb255 25 140 231
@@ -4422,7 +4445,7 @@ r =
     }
 
 
-{-| The color for 'RAML' -}
+{-| Github language color for 'RAML' -}
 raml : Color
 raml =
     { elmui = Element.rgb255 119 217 251
@@ -4432,7 +4455,7 @@ raml =
     }
 
 
-{-| The color for 'RBS' -}
+{-| Github language color for 'RBS' -}
 rbs : Color
 rbs =
     { elmui = Element.rgb255 112 21 22
@@ -4442,7 +4465,7 @@ rbs =
     }
 
 
-{-| The color for 'RDoc' -}
+{-| Github language color for 'RDoc' -}
 rdoc : Color
 rdoc =
     { elmui = Element.rgb255 112 21 22
@@ -4452,7 +4475,7 @@ rdoc =
     }
 
 
-{-| The color for 'REALbasic' -}
+{-| Github language color for 'REALbasic' -}
 realbasic : Color
 realbasic =
     { elmui = Element.rgb255 204 204 204
@@ -4462,7 +4485,7 @@ realbasic =
     }
 
 
-{-| The color for 'REXX' -}
+{-| Github language color for 'REXX' -}
 rexx : Color
 rexx =
     { elmui = Element.rgb255 217 14 9
@@ -4472,7 +4495,7 @@ rexx =
     }
 
 
-{-| The color for 'RMarkdown' -}
+{-| Github language color for 'RMarkdown' -}
 rmarkdown : Color
 rmarkdown =
     { elmui = Element.rgb255 25 140 231
@@ -4482,7 +4505,7 @@ rmarkdown =
     }
 
 
-{-| The color for 'RPC' -}
+{-| Github language color for 'RPC' -}
 rpc : Color
 rpc =
     { elmui = Element.rgb255 204 204 204
@@ -4492,7 +4515,7 @@ rpc =
     }
 
 
-{-| The color for 'RPGLE' -}
+{-| Github language color for 'RPGLE' -}
 rpgle : Color
 rpgle =
     { elmui = Element.rgb255 43 222 33
@@ -4502,7 +4525,7 @@ rpgle =
     }
 
 
-{-| The color for 'RUNOFF' -}
+{-| Github language color for 'RUNOFF' -}
 runoff : Color
 runoff =
     { elmui = Element.rgb255 102 90 78
@@ -4512,7 +4535,7 @@ runoff =
     }
 
 
-{-| The color for 'Racket' -}
+{-| Github language color for 'Racket' -}
 racket : Color
 racket =
     { elmui = Element.rgb255 60 92 170
@@ -4522,7 +4545,7 @@ racket =
     }
 
 
-{-| The color for 'Ragel' -}
+{-| Github language color for 'Ragel' -}
 ragel : Color
 ragel =
     { elmui = Element.rgb255 157 82 0
@@ -4532,7 +4555,7 @@ ragel =
     }
 
 
-{-| The color for 'Raku' -}
+{-| Github language color for 'Raku' -}
 raku : Color
 raku =
     { elmui = Element.rgb255 0 0 251
@@ -4542,7 +4565,7 @@ raku =
     }
 
 
-{-| The color for 'Rascal' -}
+{-| Github language color for 'Rascal' -}
 rascal : Color
 rascal =
     { elmui = Element.rgb255 255 250 160
@@ -4552,7 +4575,7 @@ rascal =
     }
 
 
-{-| The color for 'ReScript' -}
+{-| Github language color for 'ReScript' -}
 rescript : Color
 rescript =
     { elmui = Element.rgb255 237 80 81
@@ -4562,7 +4585,7 @@ rescript =
     }
 
 
-{-| The color for 'Reason' -}
+{-| Github language color for 'Reason' -}
 reason : Color
 reason =
     { elmui = Element.rgb255 255 88 71
@@ -4572,7 +4595,7 @@ reason =
     }
 
 
-{-| The color for 'ReasonLIGO' -}
+{-| Github language color for 'ReasonLIGO' -}
 reasonligo : Color
 reasonligo =
     { elmui = Element.rgb255 255 88 71
@@ -4582,7 +4605,7 @@ reasonligo =
     }
 
 
-{-| The color for 'Rebol' -}
+{-| Github language color for 'Rebol' -}
 rebol : Color
 rebol =
     { elmui = Element.rgb255 53 138 91
@@ -4592,7 +4615,7 @@ rebol =
     }
 
 
-{-| The color for 'Record Jar' -}
+{-| Github language color for 'Record Jar' -}
 record_jar : Color
 record_jar =
     { elmui = Element.rgb255 6 115 186
@@ -4602,7 +4625,7 @@ record_jar =
     }
 
 
-{-| The color for 'Red' -}
+{-| Github language color for 'Red' -}
 red : Color
 red =
     { elmui = Element.rgb255 245 0 0
@@ -4612,7 +4635,7 @@ red =
     }
 
 
-{-| The color for 'Redcode' -}
+{-| Github language color for 'Redcode' -}
 redcode : Color
 redcode =
     { elmui = Element.rgb255 204 204 204
@@ -4622,7 +4645,7 @@ redcode =
     }
 
 
-{-| The color for 'Regular Expression' -}
+{-| Github language color for 'Regular Expression' -}
 regular_expression : Color
 regular_expression =
     { elmui = Element.rgb255 0 154 0
@@ -4632,7 +4655,7 @@ regular_expression =
     }
 
 
-{-| The color for 'Ren'Py' -}
+{-| Github language color for 'Ren'Py' -}
 ren_py : Color
 ren_py =
     { elmui = Element.rgb255 255 127 127
@@ -4642,7 +4665,7 @@ ren_py =
     }
 
 
-{-| The color for 'RenderScript' -}
+{-| Github language color for 'RenderScript' -}
 renderscript : Color
 renderscript =
     { elmui = Element.rgb255 204 204 204
@@ -4652,7 +4675,7 @@ renderscript =
     }
 
 
-{-| The color for 'Ring' -}
+{-| Github language color for 'Ring' -}
 ring : Color
 ring =
     { elmui = Element.rgb255 45 84 203
@@ -4662,7 +4685,7 @@ ring =
     }
 
 
-{-| The color for 'Riot' -}
+{-| Github language color for 'Riot' -}
 riot : Color
 riot =
     { elmui = Element.rgb255 167 30 73
@@ -4672,7 +4695,7 @@ riot =
     }
 
 
-{-| The color for 'RobotFramework' -}
+{-| Github language color for 'RobotFramework' -}
 robotframework : Color
 robotframework =
     { elmui = Element.rgb255 0 192 181
@@ -4682,7 +4705,7 @@ robotframework =
     }
 
 
-{-| The color for 'Roff' -}
+{-| Github language color for 'Roff' -}
 roff : Color
 roff =
     { elmui = Element.rgb255 236 222 190
@@ -4692,7 +4715,7 @@ roff =
     }
 
 
-{-| The color for 'Roff Manpage' -}
+{-| Github language color for 'Roff Manpage' -}
 roff_manpage : Color
 roff_manpage =
     { elmui = Element.rgb255 236 222 190
@@ -4702,7 +4725,7 @@ roff_manpage =
     }
 
 
-{-| The color for 'Rouge' -}
+{-| Github language color for 'Rouge' -}
 rouge : Color
 rouge =
     { elmui = Element.rgb255 204 0 136
@@ -4712,7 +4735,7 @@ rouge =
     }
 
 
-{-| The color for 'RouterOS Script' -}
+{-| Github language color for 'RouterOS Script' -}
 routeros_script : Color
 routeros_script =
     { elmui = Element.rgb255 222 57 65
@@ -4722,7 +4745,7 @@ routeros_script =
     }
 
 
-{-| The color for 'Ruby' -}
+{-| Github language color for 'Ruby' -}
 ruby : Color
 ruby =
     { elmui = Element.rgb255 112 21 22
@@ -4732,7 +4755,7 @@ ruby =
     }
 
 
-{-| The color for 'Rust' -}
+{-| Github language color for 'Rust' -}
 rust : Color
 rust =
     { elmui = Element.rgb255 222 165 132
@@ -4742,7 +4765,7 @@ rust =
     }
 
 
-{-| The color for 'SAS' -}
+{-| Github language color for 'SAS' -}
 sas : Color
 sas =
     { elmui = Element.rgb255 179 73 54
@@ -4752,7 +4775,7 @@ sas =
     }
 
 
-{-| The color for 'SCSS' -}
+{-| Github language color for 'SCSS' -}
 scss : Color
 scss =
     { elmui = Element.rgb255 198 83 140
@@ -4762,7 +4785,7 @@ scss =
     }
 
 
-{-| The color for 'SMT' -}
+{-| Github language color for 'SMT' -}
 smt : Color
 smt =
     { elmui = Element.rgb255 204 204 204
@@ -4772,7 +4795,7 @@ smt =
     }
 
 
-{-| The color for 'SPARQL' -}
+{-| Github language color for 'SPARQL' -}
 sparql : Color
 sparql =
     { elmui = Element.rgb255 12 69 151
@@ -4782,7 +4805,7 @@ sparql =
     }
 
 
-{-| The color for 'SQF' -}
+{-| Github language color for 'SQF' -}
 sqf : Color
 sqf =
     { elmui = Element.rgb255 63 63 63
@@ -4792,7 +4815,7 @@ sqf =
     }
 
 
-{-| The color for 'SQL' -}
+{-| Github language color for 'SQL' -}
 sql : Color
 sql =
     { elmui = Element.rgb255 227 140 0
@@ -4802,7 +4825,7 @@ sql =
     }
 
 
-{-| The color for 'SQLPL' -}
+{-| Github language color for 'SQLPL' -}
 sqlpl : Color
 sqlpl =
     { elmui = Element.rgb255 227 140 0
@@ -4812,7 +4835,7 @@ sqlpl =
     }
 
 
-{-| The color for 'SRecode Template' -}
+{-| Github language color for 'SRecode Template' -}
 srecode_template : Color
 srecode_template =
     { elmui = Element.rgb255 52 138 52
@@ -4822,7 +4845,7 @@ srecode_template =
     }
 
 
-{-| The color for 'STL' -}
+{-| Github language color for 'STL' -}
 stl : Color
 stl =
     { elmui = Element.rgb255 55 59 94
@@ -4832,7 +4855,7 @@ stl =
     }
 
 
-{-| The color for 'SVG' -}
+{-| Github language color for 'SVG' -}
 svg : Color
 svg =
     { elmui = Element.rgb255 255 153 0
@@ -4842,7 +4865,7 @@ svg =
     }
 
 
-{-| The color for 'SWIG' -}
+{-| Github language color for 'SWIG' -}
 swig : Color
 swig =
     { elmui = Element.rgb255 204 204 204
@@ -4852,7 +4875,7 @@ swig =
     }
 
 
-{-| The color for 'Sage' -}
+{-| Github language color for 'Sage' -}
 sage : Color
 sage =
     { elmui = Element.rgb255 204 204 204
@@ -4862,7 +4885,7 @@ sage =
     }
 
 
-{-| The color for 'SaltStack' -}
+{-| Github language color for 'SaltStack' -}
 saltstack : Color
 saltstack =
     { elmui = Element.rgb255 100 100 100
@@ -4872,7 +4895,7 @@ saltstack =
     }
 
 
-{-| The color for 'Sass' -}
+{-| Github language color for 'Sass' -}
 sass : Color
 sass =
     { elmui = Element.rgb255 165 59 112
@@ -4882,7 +4905,7 @@ sass =
     }
 
 
-{-| The color for 'Scala' -}
+{-| Github language color for 'Scala' -}
 scala : Color
 scala =
     { elmui = Element.rgb255 194 45 64
@@ -4892,7 +4915,7 @@ scala =
     }
 
 
-{-| The color for 'Scaml' -}
+{-| Github language color for 'Scaml' -}
 scaml : Color
 scaml =
     { elmui = Element.rgb255 189 24 26
@@ -4902,7 +4925,7 @@ scaml =
     }
 
 
-{-| The color for 'Scenic' -}
+{-| Github language color for 'Scenic' -}
 scenic : Color
 scenic =
     { elmui = Element.rgb255 253 199 0
@@ -4912,7 +4935,7 @@ scenic =
     }
 
 
-{-| The color for 'Scheme' -}
+{-| Github language color for 'Scheme' -}
 scheme : Color
 scheme =
     { elmui = Element.rgb255 30 74 236
@@ -4922,7 +4945,7 @@ scheme =
     }
 
 
-{-| The color for 'Scilab' -}
+{-| Github language color for 'Scilab' -}
 scilab : Color
 scilab =
     { elmui = Element.rgb255 202 15 33
@@ -4932,7 +4955,7 @@ scilab =
     }
 
 
-{-| The color for 'Self' -}
+{-| Github language color for 'Self' -}
 self : Color
 self =
     { elmui = Element.rgb255 5 121 170
@@ -4942,7 +4965,7 @@ self =
     }
 
 
-{-| The color for 'ShaderLab' -}
+{-| Github language color for 'ShaderLab' -}
 shaderlab : Color
 shaderlab =
     { elmui = Element.rgb255 34 44 55
@@ -4952,7 +4975,7 @@ shaderlab =
     }
 
 
-{-| The color for 'Shell' -}
+{-| Github language color for 'Shell' -}
 shell : Color
 shell =
     { elmui = Element.rgb255 137 224 81
@@ -4962,7 +4985,7 @@ shell =
     }
 
 
-{-| The color for 'ShellCheck Config' -}
+{-| Github language color for 'ShellCheck Config' -}
 shellcheck_config : Color
 shellcheck_config =
     { elmui = Element.rgb255 206 207 203
@@ -4972,7 +4995,7 @@ shellcheck_config =
     }
 
 
-{-| The color for 'ShellSession' -}
+{-| Github language color for 'ShellSession' -}
 shellsession : Color
 shellsession =
     { elmui = Element.rgb255 204 204 204
@@ -4982,7 +5005,7 @@ shellsession =
     }
 
 
-{-| The color for 'Shen' -}
+{-| Github language color for 'Shen' -}
 shen : Color
 shen =
     { elmui = Element.rgb255 18 15 20
@@ -4992,7 +5015,7 @@ shen =
     }
 
 
-{-| The color for 'Sieve' -}
+{-| Github language color for 'Sieve' -}
 sieve : Color
 sieve =
     { elmui = Element.rgb255 204 204 204
@@ -5002,7 +5025,7 @@ sieve =
     }
 
 
-{-| The color for 'Simple File Verification' -}
+{-| Github language color for 'Simple File Verification' -}
 simple_file_verification : Color
 simple_file_verification =
     { elmui = Element.rgb255 201 191 237
@@ -5012,7 +5035,7 @@ simple_file_verification =
     }
 
 
-{-| The color for 'Singularity' -}
+{-| Github language color for 'Singularity' -}
 singularity : Color
 singularity =
     { elmui = Element.rgb255 100 230 173
@@ -5022,7 +5045,7 @@ singularity =
     }
 
 
-{-| The color for 'Slash' -}
+{-| Github language color for 'Slash' -}
 slash : Color
 slash =
     { elmui = Element.rgb255 0 126 255
@@ -5032,7 +5055,7 @@ slash =
     }
 
 
-{-| The color for 'Slice' -}
+{-| Github language color for 'Slice' -}
 slice : Color
 slice =
     { elmui = Element.rgb255 0 63 162
@@ -5042,7 +5065,7 @@ slice =
     }
 
 
-{-| The color for 'Slim' -}
+{-| Github language color for 'Slim' -}
 slim : Color
 slim =
     { elmui = Element.rgb255 43 43 43
@@ -5052,7 +5075,7 @@ slim =
     }
 
 
-{-| The color for 'SmPL' -}
+{-| Github language color for 'SmPL' -}
 smpl : Color
 smpl =
     { elmui = Element.rgb255 201 73 73
@@ -5062,7 +5085,7 @@ smpl =
     }
 
 
-{-| The color for 'Smali' -}
+{-| Github language color for 'Smali' -}
 smali : Color
 smali =
     { elmui = Element.rgb255 204 204 204
@@ -5072,7 +5095,7 @@ smali =
     }
 
 
-{-| The color for 'Smalltalk' -}
+{-| Github language color for 'Smalltalk' -}
 smalltalk : Color
 smalltalk =
     { elmui = Element.rgb255 89 103 6
@@ -5082,7 +5105,7 @@ smalltalk =
     }
 
 
-{-| The color for 'Smarty' -}
+{-| Github language color for 'Smarty' -}
 smarty : Color
 smarty =
     { elmui = Element.rgb255 240 192 64
@@ -5092,7 +5115,7 @@ smarty =
     }
 
 
-{-| The color for 'Smithy' -}
+{-| Github language color for 'Smithy' -}
 smithy : Color
 smithy =
     { elmui = Element.rgb255 196 69 54
@@ -5102,7 +5125,7 @@ smithy =
     }
 
 
-{-| The color for 'Snakemake' -}
+{-| Github language color for 'Snakemake' -}
 snakemake : Color
 snakemake =
     { elmui = Element.rgb255 65 145 121
@@ -5112,7 +5135,7 @@ snakemake =
     }
 
 
-{-| The color for 'Solidity' -}
+{-| Github language color for 'Solidity' -}
 solidity : Color
 solidity =
     { elmui = Element.rgb255 170 103 70
@@ -5122,7 +5145,7 @@ solidity =
     }
 
 
-{-| The color for 'SourcePawn' -}
+{-| Github language color for 'SourcePawn' -}
 sourcepawn : Color
 sourcepawn =
     { elmui = Element.rgb255 246 158 29
@@ -5132,7 +5155,7 @@ sourcepawn =
     }
 
 
-{-| The color for 'Squirrel' -}
+{-| Github language color for 'Squirrel' -}
 squirrel : Color
 squirrel =
     { elmui = Element.rgb255 128 0 0
@@ -5142,7 +5165,7 @@ squirrel =
     }
 
 
-{-| The color for 'Stan' -}
+{-| Github language color for 'Stan' -}
 stan : Color
 stan =
     { elmui = Element.rgb255 178 1 29
@@ -5152,7 +5175,7 @@ stan =
     }
 
 
-{-| The color for 'Standard ML' -}
+{-| Github language color for 'Standard ML' -}
 standard_ml : Color
 standard_ml =
     { elmui = Element.rgb255 220 86 109
@@ -5162,7 +5185,7 @@ standard_ml =
     }
 
 
-{-| The color for 'Starlark' -}
+{-| Github language color for 'Starlark' -}
 starlark : Color
 starlark =
     { elmui = Element.rgb255 118 210 117
@@ -5172,7 +5195,7 @@ starlark =
     }
 
 
-{-| The color for 'Stata' -}
+{-| Github language color for 'Stata' -}
 stata : Color
 stata =
     { elmui = Element.rgb255 26 95 145
@@ -5182,7 +5205,7 @@ stata =
     }
 
 
-{-| The color for 'StringTemplate' -}
+{-| Github language color for 'StringTemplate' -}
 stringtemplate : Color
 stringtemplate =
     { elmui = Element.rgb255 63 179 79
@@ -5192,7 +5215,7 @@ stringtemplate =
     }
 
 
-{-| The color for 'Stylus' -}
+{-| Github language color for 'Stylus' -}
 stylus : Color
 stylus =
     { elmui = Element.rgb255 255 99 71
@@ -5202,7 +5225,7 @@ stylus =
     }
 
 
-{-| The color for 'SubRip Text' -}
+{-| Github language color for 'SubRip Text' -}
 subrip_text : Color
 subrip_text =
     { elmui = Element.rgb255 158 1 1
@@ -5212,7 +5235,7 @@ subrip_text =
     }
 
 
-{-| The color for 'SugarSS' -}
+{-| Github language color for 'SugarSS' -}
 sugarss : Color
 sugarss =
     { elmui = Element.rgb255 47 204 159
@@ -5222,7 +5245,7 @@ sugarss =
     }
 
 
-{-| The color for 'SuperCollider' -}
+{-| Github language color for 'SuperCollider' -}
 supercollider : Color
 supercollider =
     { elmui = Element.rgb255 70 57 11
@@ -5232,7 +5255,7 @@ supercollider =
     }
 
 
-{-| The color for 'Svelte' -}
+{-| Github language color for 'Svelte' -}
 svelte : Color
 svelte =
     { elmui = Element.rgb255 255 62 0
@@ -5242,7 +5265,7 @@ svelte =
     }
 
 
-{-| The color for 'Sway' -}
+{-| Github language color for 'Sway' -}
 sway : Color
 sway =
     { elmui = Element.rgb255 222 165 132
@@ -5252,7 +5275,7 @@ sway =
     }
 
 
-{-| The color for 'Swift' -}
+{-| Github language color for 'Swift' -}
 swift : Color
 swift =
     { elmui = Element.rgb255 240 81 56
@@ -5262,7 +5285,7 @@ swift =
     }
 
 
-{-| The color for 'SystemVerilog' -}
+{-| Github language color for 'SystemVerilog' -}
 systemverilog : Color
 systemverilog =
     { elmui = Element.rgb255 218 225 194
@@ -5272,7 +5295,7 @@ systemverilog =
     }
 
 
-{-| The color for 'TI Program' -}
+{-| Github language color for 'TI Program' -}
 ti_program : Color
 ti_program =
     { elmui = Element.rgb255 160 170 135
@@ -5282,7 +5305,7 @@ ti_program =
     }
 
 
-{-| The color for 'TL-Verilog' -}
+{-| Github language color for 'TL-Verilog' -}
 tl_verilog : Color
 tl_verilog =
     { elmui = Element.rgb255 196 0 35
@@ -5292,7 +5315,7 @@ tl_verilog =
     }
 
 
-{-| The color for 'TLA' -}
+{-| Github language color for 'TLA' -}
 tla : Color
 tla =
     { elmui = Element.rgb255 75 0 121
@@ -5302,7 +5325,7 @@ tla =
     }
 
 
-{-| The color for 'TOML' -}
+{-| Github language color for 'TOML' -}
 toml : Color
 toml =
     { elmui = Element.rgb255 156 66 33
@@ -5312,7 +5335,7 @@ toml =
     }
 
 
-{-| The color for 'TSQL' -}
+{-| Github language color for 'TSQL' -}
 tsql : Color
 tsql =
     { elmui = Element.rgb255 227 140 0
@@ -5322,7 +5345,7 @@ tsql =
     }
 
 
-{-| The color for 'TSV' -}
+{-| Github language color for 'TSV' -}
 tsv : Color
 tsv =
     { elmui = Element.rgb255 35 115 70
@@ -5332,7 +5355,7 @@ tsv =
     }
 
 
-{-| The color for 'TSX' -}
+{-| Github language color for 'TSX' -}
 tsx : Color
 tsx =
     { elmui = Element.rgb255 49 120 198
@@ -5342,7 +5365,7 @@ tsx =
     }
 
 
-{-| The color for 'TXL' -}
+{-| Github language color for 'TXL' -}
 txl : Color
 txl =
     { elmui = Element.rgb255 1 120 184
@@ -5352,7 +5375,7 @@ txl =
     }
 
 
-{-| The color for 'Talon' -}
+{-| Github language color for 'Talon' -}
 talon : Color
 talon =
     { elmui = Element.rgb255 51 51 51
@@ -5362,7 +5385,7 @@ talon =
     }
 
 
-{-| The color for 'Tcl' -}
+{-| Github language color for 'Tcl' -}
 tcl : Color
 tcl =
     { elmui = Element.rgb255 228 204 152
@@ -5372,7 +5395,7 @@ tcl =
     }
 
 
-{-| The color for 'Tcsh' -}
+{-| Github language color for 'Tcsh' -}
 tcsh : Color
 tcsh =
     { elmui = Element.rgb255 204 204 204
@@ -5382,7 +5405,7 @@ tcsh =
     }
 
 
-{-| The color for 'TeX' -}
+{-| Github language color for 'TeX' -}
 tex : Color
 tex =
     { elmui = Element.rgb255 61 97 23
@@ -5392,7 +5415,7 @@ tex =
     }
 
 
-{-| The color for 'Terra' -}
+{-| Github language color for 'Terra' -}
 terra : Color
 terra =
     { elmui = Element.rgb255 0 0 76
@@ -5402,7 +5425,7 @@ terra =
     }
 
 
-{-| The color for 'TextMate Properties' -}
+{-| Github language color for 'TextMate Properties' -}
 textmate_properties : Color
 textmate_properties =
     { elmui = Element.rgb255 223 102 228
@@ -5412,7 +5435,7 @@ textmate_properties =
     }
 
 
-{-| The color for 'Textile' -}
+{-| Github language color for 'Textile' -}
 textile : Color
 textile =
     { elmui = Element.rgb255 255 231 172
@@ -5422,7 +5445,7 @@ textile =
     }
 
 
-{-| The color for 'Thrift' -}
+{-| Github language color for 'Thrift' -}
 thrift : Color
 thrift =
     { elmui = Element.rgb255 209 33 39
@@ -5432,7 +5455,7 @@ thrift =
     }
 
 
-{-| The color for 'Turing' -}
+{-| Github language color for 'Turing' -}
 turing : Color
 turing =
     { elmui = Element.rgb255 207 20 43
@@ -5442,7 +5465,7 @@ turing =
     }
 
 
-{-| The color for 'Twig' -}
+{-| Github language color for 'Twig' -}
 twig : Color
 twig =
     { elmui = Element.rgb255 193 208 38
@@ -5452,7 +5475,7 @@ twig =
     }
 
 
-{-| The color for 'TypeScript' -}
+{-| Github language color for 'TypeScript' -}
 typescript : Color
 typescript =
     { elmui = Element.rgb255 49 120 198
@@ -5462,7 +5485,7 @@ typescript =
     }
 
 
-{-| The color for 'Unified Parallel C' -}
+{-| Github language color for 'Unified Parallel C' -}
 unified_parallel_c : Color
 unified_parallel_c =
     { elmui = Element.rgb255 78 54 23
@@ -5472,7 +5495,7 @@ unified_parallel_c =
     }
 
 
-{-| The color for 'Unity3D Asset' -}
+{-| Github language color for 'Unity3D Asset' -}
 unity3d_asset : Color
 unity3d_asset =
     { elmui = Element.rgb255 34 44 55
@@ -5482,7 +5505,7 @@ unity3d_asset =
     }
 
 
-{-| The color for 'Unix Assembly' -}
+{-| Github language color for 'Unix Assembly' -}
 unix_assembly : Color
 unix_assembly =
     { elmui = Element.rgb255 204 204 204
@@ -5492,7 +5515,7 @@ unix_assembly =
     }
 
 
-{-| The color for 'Uno' -}
+{-| Github language color for 'Uno' -}
 uno : Color
 uno =
     { elmui = Element.rgb255 153 51 204
@@ -5502,7 +5525,7 @@ uno =
     }
 
 
-{-| The color for 'UnrealScript' -}
+{-| Github language color for 'UnrealScript' -}
 unrealscript : Color
 unrealscript =
     { elmui = Element.rgb255 165 76 77
@@ -5512,7 +5535,7 @@ unrealscript =
     }
 
 
-{-| The color for 'UrWeb' -}
+{-| Github language color for 'UrWeb' -}
 urweb : Color
 urweb =
     { elmui = Element.rgb255 204 204 238
@@ -5522,7 +5545,7 @@ urweb =
     }
 
 
-{-| The color for 'V' -}
+{-| Github language color for 'V' -}
 v : Color
 v =
     { elmui = Element.rgb255 79 135 196
@@ -5532,7 +5555,7 @@ v =
     }
 
 
-{-| The color for 'VBA' -}
+{-| Github language color for 'VBA' -}
 vba : Color
 vba =
     { elmui = Element.rgb255 134 125 177
@@ -5542,7 +5565,7 @@ vba =
     }
 
 
-{-| The color for 'VBScript' -}
+{-| Github language color for 'VBScript' -}
 vbscript : Color
 vbscript =
     { elmui = Element.rgb255 21 220 220
@@ -5552,7 +5575,7 @@ vbscript =
     }
 
 
-{-| The color for 'VCL' -}
+{-| Github language color for 'VCL' -}
 vcl : Color
 vcl =
     { elmui = Element.rgb255 20 138 168
@@ -5562,7 +5585,7 @@ vcl =
     }
 
 
-{-| The color for 'VHDL' -}
+{-| Github language color for 'VHDL' -}
 vhdl : Color
 vhdl =
     { elmui = Element.rgb255 173 178 203
@@ -5572,7 +5595,7 @@ vhdl =
     }
 
 
-{-| The color for 'Vala' -}
+{-| Github language color for 'Vala' -}
 vala : Color
 vala =
     { elmui = Element.rgb255 165 109 226
@@ -5582,7 +5605,7 @@ vala =
     }
 
 
-{-| The color for 'Valve Data Format' -}
+{-| Github language color for 'Valve Data Format' -}
 valve_data_format : Color
 valve_data_format =
     { elmui = Element.rgb255 242 96 37
@@ -5592,7 +5615,7 @@ valve_data_format =
     }
 
 
-{-| The color for 'Velocity Template Language' -}
+{-| Github language color for 'Velocity Template Language' -}
 velocity_template_language : Color
 velocity_template_language =
     { elmui = Element.rgb255 80 124 255
@@ -5602,7 +5625,7 @@ velocity_template_language =
     }
 
 
-{-| The color for 'Verilog' -}
+{-| Github language color for 'Verilog' -}
 verilog : Color
 verilog =
     { elmui = Element.rgb255 178 183 248
@@ -5612,7 +5635,7 @@ verilog =
     }
 
 
-{-| The color for 'Vim Help File' -}
+{-| Github language color for 'Vim Help File' -}
 vim_help_file : Color
 vim_help_file =
     { elmui = Element.rgb255 25 159 75
@@ -5622,7 +5645,7 @@ vim_help_file =
     }
 
 
-{-| The color for 'Vim Script' -}
+{-| Github language color for 'Vim Script' -}
 vim_script : Color
 vim_script =
     { elmui = Element.rgb255 25 159 75
@@ -5632,7 +5655,7 @@ vim_script =
     }
 
 
-{-| The color for 'Vim Snippet' -}
+{-| Github language color for 'Vim Snippet' -}
 vim_snippet : Color
 vim_snippet =
     { elmui = Element.rgb255 25 159 75
@@ -5642,7 +5665,7 @@ vim_snippet =
     }
 
 
-{-| The color for 'Visual Basic .NET' -}
+{-| Github language color for 'Visual Basic .NET' -}
 visual_basic__net : Color
 visual_basic__net =
     { elmui = Element.rgb255 148 93 183
@@ -5652,7 +5675,7 @@ visual_basic__net =
     }
 
 
-{-| The color for 'Visual Basic 6.0' -}
+{-| Github language color for 'Visual Basic 6.0' -}
 visual_basic_6_0 : Color
 visual_basic_6_0 =
     { elmui = Element.rgb255 44 99 83
@@ -5662,7 +5685,7 @@ visual_basic_6_0 =
     }
 
 
-{-| The color for 'Volt' -}
+{-| Github language color for 'Volt' -}
 volt : Color
 volt =
     { elmui = Element.rgb255 31 31 31
@@ -5672,7 +5695,7 @@ volt =
     }
 
 
-{-| The color for 'Vue' -}
+{-| Github language color for 'Vue' -}
 vue : Color
 vue =
     { elmui = Element.rgb255 65 184 131
@@ -5682,7 +5705,7 @@ vue =
     }
 
 
-{-| The color for 'Vyper' -}
+{-| Github language color for 'Vyper' -}
 vyper : Color
 vyper =
     { elmui = Element.rgb255 41 128 185
@@ -5692,7 +5715,7 @@ vyper =
     }
 
 
-{-| The color for 'WDL' -}
+{-| Github language color for 'WDL' -}
 wdl : Color
 wdl =
     { elmui = Element.rgb255 66 241 244
@@ -5702,7 +5725,7 @@ wdl =
     }
 
 
-{-| The color for 'WGSL' -}
+{-| Github language color for 'WGSL' -}
 wgsl : Color
 wgsl =
     { elmui = Element.rgb255 26 94 154
@@ -5712,7 +5735,7 @@ wgsl =
     }
 
 
-{-| The color for 'Web Ontology Language' -}
+{-| Github language color for 'Web Ontology Language' -}
 web_ontology_language : Color
 web_ontology_language =
     { elmui = Element.rgb255 91 112 189
@@ -5722,7 +5745,7 @@ web_ontology_language =
     }
 
 
-{-| The color for 'WebAssembly' -}
+{-| Github language color for 'WebAssembly' -}
 webassembly : Color
 webassembly =
     { elmui = Element.rgb255 4 19 59
@@ -5732,7 +5755,7 @@ webassembly =
     }
 
 
-{-| The color for 'WebAssembly Interface Type' -}
+{-| Github language color for 'WebAssembly Interface Type' -}
 webassembly_interface_type : Color
 webassembly_interface_type =
     { elmui = Element.rgb255 98 80 231
@@ -5742,7 +5765,7 @@ webassembly_interface_type =
     }
 
 
-{-| The color for 'WebIDL' -}
+{-| Github language color for 'WebIDL' -}
 webidl : Color
 webidl =
     { elmui = Element.rgb255 204 204 204
@@ -5752,7 +5775,7 @@ webidl =
     }
 
 
-{-| The color for 'Whiley' -}
+{-| Github language color for 'Whiley' -}
 whiley : Color
 whiley =
     { elmui = Element.rgb255 213 195 151
@@ -5762,7 +5785,7 @@ whiley =
     }
 
 
-{-| The color for 'Wikitext' -}
+{-| Github language color for 'Wikitext' -}
 wikitext : Color
 wikitext =
     { elmui = Element.rgb255 252 87 87
@@ -5772,7 +5795,7 @@ wikitext =
     }
 
 
-{-| The color for 'Windows Registry Entries' -}
+{-| Github language color for 'Windows Registry Entries' -}
 windows_registry_entries : Color
 windows_registry_entries =
     { elmui = Element.rgb255 82 213 255
@@ -5782,7 +5805,7 @@ windows_registry_entries =
     }
 
 
-{-| The color for 'Witcher Script' -}
+{-| Github language color for 'Witcher Script' -}
 witcher_script : Color
 witcher_script =
     { elmui = Element.rgb255 255 0 0
@@ -5792,7 +5815,7 @@ witcher_script =
     }
 
 
-{-| The color for 'Wollok' -}
+{-| Github language color for 'Wollok' -}
 wollok : Color
 wollok =
     { elmui = Element.rgb255 162 55 56
@@ -5802,7 +5825,7 @@ wollok =
     }
 
 
-{-| The color for 'World of Warcraft Addon Data' -}
+{-| Github language color for 'World of Warcraft Addon Data' -}
 world_of_warcraft_addon_data : Color
 world_of_warcraft_addon_data =
     { elmui = Element.rgb255 247 228 63
@@ -5812,7 +5835,7 @@ world_of_warcraft_addon_data =
     }
 
 
-{-| The color for 'Wren' -}
+{-| Github language color for 'Wren' -}
 wren : Color
 wren =
     { elmui = Element.rgb255 56 56 56
@@ -5822,7 +5845,7 @@ wren =
     }
 
 
-{-| The color for 'X10' -}
+{-| Github language color for 'X10' -}
 x10 : Color
 x10 =
     { elmui = Element.rgb255 75 107 239
@@ -5832,7 +5855,7 @@ x10 =
     }
 
 
-{-| The color for 'XC' -}
+{-| Github language color for 'XC' -}
 xc : Color
 xc =
     { elmui = Element.rgb255 153 218 7
@@ -5842,7 +5865,7 @@ xc =
     }
 
 
-{-| The color for 'XML' -}
+{-| Github language color for 'XML' -}
 xml : Color
 xml =
     { elmui = Element.rgb255 0 96 172
@@ -5852,7 +5875,7 @@ xml =
     }
 
 
-{-| The color for 'XML Property List' -}
+{-| Github language color for 'XML Property List' -}
 xml_property_list : Color
 xml_property_list =
     { elmui = Element.rgb255 0 96 172
@@ -5862,7 +5885,7 @@ xml_property_list =
     }
 
 
-{-| The color for 'XProc' -}
+{-| Github language color for 'XProc' -}
 xproc : Color
 xproc =
     { elmui = Element.rgb255 204 204 204
@@ -5872,7 +5895,7 @@ xproc =
     }
 
 
-{-| The color for 'XQuery' -}
+{-| Github language color for 'XQuery' -}
 xquery : Color
 xquery =
     { elmui = Element.rgb255 82 50 231
@@ -5882,7 +5905,7 @@ xquery =
     }
 
 
-{-| The color for 'XS' -}
+{-| Github language color for 'XS' -}
 xs : Color
 xs =
     { elmui = Element.rgb255 204 204 204
@@ -5892,7 +5915,7 @@ xs =
     }
 
 
-{-| The color for 'XSLT' -}
+{-| Github language color for 'XSLT' -}
 xslt : Color
 xslt =
     { elmui = Element.rgb255 235 140 235
@@ -5902,7 +5925,7 @@ xslt =
     }
 
 
-{-| The color for 'Xojo' -}
+{-| Github language color for 'Xojo' -}
 xojo : Color
 xojo =
     { elmui = Element.rgb255 129 189 65
@@ -5912,7 +5935,7 @@ xojo =
     }
 
 
-{-| The color for 'Xonsh' -}
+{-| Github language color for 'Xonsh' -}
 xonsh : Color
 xonsh =
     { elmui = Element.rgb255 40 94 239
@@ -5922,7 +5945,7 @@ xonsh =
     }
 
 
-{-| The color for 'Xtend' -}
+{-| Github language color for 'Xtend' -}
 xtend : Color
 xtend =
     { elmui = Element.rgb255 36 37 93
@@ -5932,7 +5955,7 @@ xtend =
     }
 
 
-{-| The color for 'YAML' -}
+{-| Github language color for 'YAML' -}
 yaml : Color
 yaml =
     { elmui = Element.rgb255 203 23 30
@@ -5942,7 +5965,7 @@ yaml =
     }
 
 
-{-| The color for 'YARA' -}
+{-| Github language color for 'YARA' -}
 yara : Color
 yara =
     { elmui = Element.rgb255 34 0 0
@@ -5952,7 +5975,7 @@ yara =
     }
 
 
-{-| The color for 'YASnippet' -}
+{-| Github language color for 'YASnippet' -}
 yasnippet : Color
 yasnippet =
     { elmui = Element.rgb255 50 171 144
@@ -5962,7 +5985,7 @@ yasnippet =
     }
 
 
-{-| The color for 'Yacc' -}
+{-| Github language color for 'Yacc' -}
 yacc : Color
 yacc =
     { elmui = Element.rgb255 75 108 75
@@ -5972,7 +5995,7 @@ yacc =
     }
 
 
-{-| The color for 'Yul' -}
+{-| Github language color for 'Yul' -}
 yul : Color
 yul =
     { elmui = Element.rgb255 121 73 50
@@ -5982,7 +6005,7 @@ yul =
     }
 
 
-{-| The color for 'ZAP' -}
+{-| Github language color for 'ZAP' -}
 zap : Color
 zap =
     { elmui = Element.rgb255 13 102 94
@@ -5992,7 +6015,7 @@ zap =
     }
 
 
-{-| The color for 'ZIL' -}
+{-| Github language color for 'ZIL' -}
 zil : Color
 zil =
     { elmui = Element.rgb255 220 117 229
@@ -6002,7 +6025,7 @@ zil =
     }
 
 
-{-| The color for 'Zeek' -}
+{-| Github language color for 'Zeek' -}
 zeek : Color
 zeek =
     { elmui = Element.rgb255 204 204 204
@@ -6012,7 +6035,7 @@ zeek =
     }
 
 
-{-| The color for 'ZenScript' -}
+{-| Github language color for 'ZenScript' -}
 zenscript : Color
 zenscript =
     { elmui = Element.rgb255 0 188 209
@@ -6022,7 +6045,7 @@ zenscript =
     }
 
 
-{-| The color for 'Zephir' -}
+{-| Github language color for 'Zephir' -}
 zephir : Color
 zephir =
     { elmui = Element.rgb255 17 143 158
@@ -6032,7 +6055,7 @@ zephir =
     }
 
 
-{-| The color for 'Zig' -}
+{-| Github language color for 'Zig' -}
 zig : Color
 zig =
     { elmui = Element.rgb255 236 145 92
@@ -6042,7 +6065,7 @@ zig =
     }
 
 
-{-| The color for 'Zimpl' -}
+{-| Github language color for 'Zimpl' -}
 zimpl : Color
 zimpl =
     { elmui = Element.rgb255 214 119 17
@@ -6052,7 +6075,7 @@ zimpl =
     }
 
 
-{-| The color for 'eC' -}
+{-| Github language color for 'eC' -}
 ec : Color
 ec =
     { elmui = Element.rgb255 145 57 96
@@ -6062,7 +6085,7 @@ ec =
     }
 
 
-{-| The color for 'fish' -}
+{-| Github language color for 'fish' -}
 fish : Color
 fish =
     { elmui = Element.rgb255 74 174 71
@@ -6072,7 +6095,7 @@ fish =
     }
 
 
-{-| The color for 'hoon' -}
+{-| Github language color for 'hoon' -}
 hoon : Color
 hoon =
     { elmui = Element.rgb255 0 177 113
@@ -6082,7 +6105,7 @@ hoon =
     }
 
 
-{-| The color for 'jq' -}
+{-| Github language color for 'jq' -}
 jq : Color
 jq =
     { elmui = Element.rgb255 199 37 78
@@ -6092,7 +6115,7 @@ jq =
     }
 
 
-{-| The color for 'kvlang' -}
+{-| Github language color for 'kvlang' -}
 kvlang : Color
 kvlang =
     { elmui = Element.rgb255 29 166 224
@@ -6102,7 +6125,7 @@ kvlang =
     }
 
 
-{-| The color for 'mIRC Script' -}
+{-| Github language color for 'mIRC Script' -}
 mirc_script : Color
 mirc_script =
     { elmui = Element.rgb255 61 87 195
@@ -6112,7 +6135,7 @@ mirc_script =
     }
 
 
-{-| The color for 'mcfunction' -}
+{-| Github language color for 'mcfunction' -}
 mcfunction : Color
 mcfunction =
     { elmui = Element.rgb255 226 40 55
@@ -6122,7 +6145,7 @@ mcfunction =
     }
 
 
-{-| The color for 'mupad' -}
+{-| Github language color for 'mupad' -}
 mupad : Color
 mupad =
     { elmui = Element.rgb255 36 73 99
@@ -6132,7 +6155,7 @@ mupad =
     }
 
 
-{-| The color for 'nanorc' -}
+{-| Github language color for 'nanorc' -}
 nanorc : Color
 nanorc =
     { elmui = Element.rgb255 45 0 77
@@ -6142,7 +6165,7 @@ nanorc =
     }
 
 
-{-| The color for 'nesC' -}
+{-| Github language color for 'nesC' -}
 nesc : Color
 nesc =
     { elmui = Element.rgb255 148 176 199
@@ -6152,7 +6175,7 @@ nesc =
     }
 
 
-{-| The color for 'ooc' -}
+{-| Github language color for 'ooc' -}
 ooc : Color
 ooc =
     { elmui = Element.rgb255 176 183 126
@@ -6162,7 +6185,7 @@ ooc =
     }
 
 
-{-| The color for 'q' -}
+{-| Github language color for 'q' -}
 q : Color
 q =
     { elmui = Element.rgb255 0 64 205
@@ -6172,7 +6195,7 @@ q =
     }
 
 
-{-| The color for 'reStructuredText' -}
+{-| Github language color for 'reStructuredText' -}
 restructuredtext : Color
 restructuredtext =
     { elmui = Element.rgb255 20 20 20
@@ -6182,7 +6205,7 @@ restructuredtext =
     }
 
 
-{-| The color for 'sed' -}
+{-| Github language color for 'sed' -}
 sed : Color
 sed =
     { elmui = Element.rgb255 100 185 112
@@ -6192,7 +6215,7 @@ sed =
     }
 
 
-{-| The color for 'wisp' -}
+{-| Github language color for 'wisp' -}
 wisp : Color
 wisp =
     { elmui = Element.rgb255 117 130 209
@@ -6202,7 +6225,7 @@ wisp =
     }
 
 
-{-| The color for 'xBase' -}
+{-| Github language color for 'xBase' -}
 xbase : Color
 xbase =
     { elmui = Element.rgb255 64 58 64

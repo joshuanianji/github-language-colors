@@ -13,3 +13,12 @@ resolve result =
 type IntermediaryColor 
     = RGB Int Int Int
     | RGBA Int Int Int Int -- from hex, alpha is 0-255. We try to keep it that way
+
+isJust : Maybe a -> Bool
+isJust maybe =
+    case maybe of
+        Just _ ->
+            True
+
+        Nothing ->
+            False
