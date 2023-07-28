@@ -201,8 +201,9 @@ hexToColor hex =
 1.  Replace space, dash, period, parentheses, and "'" with underscores
     Somehow there's a language called "Graphviz (DOT)"???? what kinda name is that
 2.  Convert to lowercase
-3.  If the name starts with a number, prefix it with "lang_"
+3.  If the name starts with a number, prefix it with "lang\_"
 4.  Replace special chars like "++" and "#" with string reprs
+
 -}
 processName : String -> Result Error String
 processName name =
@@ -221,18 +222,35 @@ processName name =
                     Err <| Error.emptyName
     in
     name
-        |> replaceWithUnderscore [ ' ', '-', '.', '\'', '(', ')']
+        |> replaceWithUnderscore [ ' ', '-', '.', '\'', '(', ')' ]
         |> String.toLower
         |> replaceSpecialChars
         |> prefixIfStartsWithNumber
 
+
+
 -- replace every occurence of the chars in a string with an underscore
-replaceWithUnderscore : List Char -> String -> String 
+
+
+replaceWithUnderscore : List Char -> String -> String
 replaceWithUnderscore chars str =
-    String.fromList <| List.map (\c -> if List.member c chars then '_' else c) <| String.toList str
+    String.fromList <|
+        List.map
+            (\c ->
+                if List.member c chars then
+                    '_'
+
+                else
+                    c
+            )
+        <|
+            String.toList str
+
 
 replaceSpecialChars : String -> String
 replaceSpecialChars =
-    String.replace "++" "pp" 
-        >> String.replace "#" "_sharp" 
+    String.replace "++" "pp"
+        >> String.replace "#" "_sharp"
         >> String.replace "*" "_star"
+        -- languages like "javascript+erb" are a thing
+        >> String.replace "+" "_plus_"
