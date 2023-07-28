@@ -12,6 +12,7 @@ type alias Color =
     }
 
 
+{-| The color for '1C Enterprise' -}
 lang_1c_enterprise : Color
 lang_1c_enterprise =
     { elmui = Element.rgb255 129 76 204
@@ -21,6 +22,7 @@ lang_1c_enterprise =
     }
 
 
+{-| The color for '2-Dimensional Array' -}
 lang_2_dimensional_array : Color
 lang_2_dimensional_array =
     { elmui = Element.rgb255 56 118 29
@@ -30,6 +32,7 @@ lang_2_dimensional_array =
     }
 
 
+{-| The color for '4D' -}
 lang_4d : Color
 lang_4d =
     { elmui = Element.rgb255 0 66 137
@@ -39,6 +42,7 @@ lang_4d =
     }
 
 
+{-| The color for 'ABAP' -}
 abap : Color
 abap =
     { elmui = Element.rgb255 232 39 75
@@ -48,6 +52,7 @@ abap =
     }
 
 
+{-| The color for 'ABAP CDS' -}
 abap_cds : Color
 abap_cds =
     { elmui = Element.rgb255 85 94 37
@@ -57,6 +62,7 @@ abap_cds =
     }
 
 
+{-| The color for 'AGS Script' -}
 ags_script : Color
 ags_script =
     { elmui = Element.rgb255 185 217 255
@@ -66,6 +72,7 @@ ags_script =
     }
 
 
+{-| The color for 'AIDL' -}
 aidl : Color
 aidl =
     { elmui = Element.rgb255 52 235 107
@@ -75,6 +82,7 @@ aidl =
     }
 
 
+{-| The color for 'AL' -}
 al : Color
 al =
     { elmui = Element.rgb255 58 162 181
@@ -84,6 +92,7 @@ al =
     }
 
 
+{-| The color for 'AMPL' -}
 ampl : Color
 ampl =
     { elmui = Element.rgb255 230 239 187
@@ -93,6 +102,7 @@ ampl =
     }
 
 
+{-| The color for 'ANTLR' -}
 antlr : Color
 antlr =
     { elmui = Element.rgb255 157 195 255
@@ -102,6 +112,7 @@ antlr =
     }
 
 
+{-| The color for 'API Blueprint' -}
 api_blueprint : Color
 api_blueprint =
     { elmui = Element.rgb255 42 204 168
@@ -111,6 +122,7 @@ api_blueprint =
     }
 
 
+{-| The color for 'APL' -}
 apl : Color
 apl =
     { elmui = Element.rgb255 90 129 100
@@ -120,6 +132,7 @@ apl =
     }
 
 
+{-| The color for 'ASL' -}
 asl : Color
 asl =
     { elmui = Element.rgb255 204 204 204
@@ -129,6 +142,7 @@ asl =
     }
 
 
+{-| The color for 'ASP.NET' -}
 asp_net : Color
 asp_net =
     { elmui = Element.rgb255 148 0 255
@@ -138,6 +152,7 @@ asp_net =
     }
 
 
+{-| The color for 'ATS' -}
 ats : Color
 ats =
     { elmui = Element.rgb255 26 198 32
@@ -147,6 +162,7 @@ ats =
     }
 
 
+{-| The color for 'ActionScript' -}
 actionscript : Color
 actionscript =
     { elmui = Element.rgb255 136 43 15
@@ -156,6 +172,7 @@ actionscript =
     }
 
 
+{-| The color for 'Ada' -}
 ada : Color
 ada =
     { elmui = Element.rgb255 2 248 140
@@ -165,6 +182,7 @@ ada =
     }
 
 
+{-| The color for 'Adblock Filter List' -}
 adblock_filter_list : Color
 adblock_filter_list =
     { elmui = Element.rgb255 128 0 0
@@ -174,6 +192,7 @@ adblock_filter_list =
     }
 
 
+{-| The color for 'Adobe Font Metrics' -}
 adobe_font_metrics : Color
 adobe_font_metrics =
     { elmui = Element.rgb255 250 15 0
@@ -183,6 +202,7 @@ adobe_font_metrics =
     }
 
 
+{-| The color for 'Agda' -}
 agda : Color
 agda =
     { elmui = Element.rgb255 49 86 101
@@ -192,6 +212,7 @@ agda =
     }
 
 
+{-| The color for 'Alloy' -}
 alloy : Color
 alloy =
     { elmui = Element.rgb255 100 200 0
@@ -201,6 +222,7 @@ alloy =
     }
 
 
+{-| The color for 'Alpine Abuild' -}
 alpine_abuild : Color
 alpine_abuild =
     { elmui = Element.rgb255 13 89 127
@@ -210,6 +232,7 @@ alpine_abuild =
     }
 
 
+{-| The color for 'Altium Designer' -}
 altium_designer : Color
 altium_designer =
     { elmui = Element.rgb255 168 150 99
@@ -219,6 +242,7 @@ altium_designer =
     }
 
 
+{-| The color for 'AngelScript' -}
 angelscript : Color
 angelscript =
     { elmui = Element.rgb255 199 215 220
@@ -228,6 +252,7 @@ angelscript =
     }
 
 
+{-| The color for 'Ant Build System' -}
 ant_build_system : Color
 ant_build_system =
     { elmui = Element.rgb255 169 21 126
@@ -237,6 +262,7 @@ ant_build_system =
     }
 
 
+{-| The color for 'Antlers' -}
 antlers : Color
 antlers =
     { elmui = Element.rgb255 255 38 158
@@ -246,6 +272,7 @@ antlers =
     }
 
 
+{-| The color for 'ApacheConf' -}
 apacheconf : Color
 apacheconf =
     { elmui = Element.rgb255 209 33 39
@@ -255,6 +282,7 @@ apacheconf =
     }
 
 
+{-| The color for 'Apex' -}
 apex : Color
 apex =
     { elmui = Element.rgb255 23 151 192
@@ -264,6 +292,7 @@ apex =
     }
 
 
+{-| The color for 'Apollo Guidance Computer' -}
 apollo_guidance_computer : Color
 apollo_guidance_computer =
     { elmui = Element.rgb255 11 61 145
@@ -273,6 +302,7 @@ apollo_guidance_computer =
     }
 
 
+{-| The color for 'AppleScript' -}
 applescript : Color
 applescript =
     { elmui = Element.rgb255 16 31 31
@@ -282,6 +312,7 @@ applescript =
     }
 
 
+{-| The color for 'Arc' -}
 arc : Color
 arc =
     { elmui = Element.rgb255 170 42 254
@@ -291,6 +322,7 @@ arc =
     }
 
 
+{-| The color for 'AsciiDoc' -}
 asciidoc : Color
 asciidoc =
     { elmui = Element.rgb255 115 160 197
@@ -300,6 +332,7 @@ asciidoc =
     }
 
 
+{-| The color for 'AspectJ' -}
 aspectj : Color
 aspectj =
     { elmui = Element.rgb255 169 87 176
@@ -309,6 +342,7 @@ aspectj =
     }
 
 
+{-| The color for 'Assembly' -}
 assembly : Color
 assembly =
     { elmui = Element.rgb255 110 76 19
@@ -318,6 +352,7 @@ assembly =
     }
 
 
+{-| The color for 'Astro' -}
 astro : Color
 astro =
     { elmui = Element.rgb255 255 90 3
@@ -327,6 +362,7 @@ astro =
     }
 
 
+{-| The color for 'Asymptote' -}
 asymptote : Color
 asymptote =
     { elmui = Element.rgb255 255 0 0
@@ -336,6 +372,7 @@ asymptote =
     }
 
 
+{-| The color for 'Augeas' -}
 augeas : Color
 augeas =
     { elmui = Element.rgb255 156 193 52
@@ -345,6 +382,7 @@ augeas =
     }
 
 
+{-| The color for 'AutoHotkey' -}
 autohotkey : Color
 autohotkey =
     { elmui = Element.rgb255 101 148 185
@@ -354,6 +392,7 @@ autohotkey =
     }
 
 
+{-| The color for 'AutoIt' -}
 autoit : Color
 autoit =
     { elmui = Element.rgb255 28 53 82
@@ -363,6 +402,7 @@ autoit =
     }
 
 
+{-| The color for 'Avro IDL' -}
 avro_idl : Color
 avro_idl =
     { elmui = Element.rgb255 0 64 255
@@ -372,6 +412,7 @@ avro_idl =
     }
 
 
+{-| The color for 'Awk' -}
 awk : Color
 awk =
     { elmui = Element.rgb255 195 14 155
@@ -381,6 +422,7 @@ awk =
     }
 
 
+{-| The color for 'BASIC' -}
 basic : Color
 basic =
     { elmui = Element.rgb255 255 0 0
@@ -390,6 +432,7 @@ basic =
     }
 
 
+{-| The color for 'Ballerina' -}
 ballerina : Color
 ballerina =
     { elmui = Element.rgb255 255 80 0
@@ -399,6 +442,7 @@ ballerina =
     }
 
 
+{-| The color for 'Batchfile' -}
 batchfile : Color
 batchfile =
     { elmui = Element.rgb255 193 241 46
@@ -408,6 +452,7 @@ batchfile =
     }
 
 
+{-| The color for 'Beef' -}
 beef : Color
 beef =
     { elmui = Element.rgb255 165 47 78
@@ -417,6 +462,7 @@ beef =
     }
 
 
+{-| The color for 'Befunge' -}
 befunge : Color
 befunge =
     { elmui = Element.rgb255 204 204 204
@@ -426,6 +472,7 @@ befunge =
     }
 
 
+{-| The color for 'Berry' -}
 berry : Color
 berry =
     { elmui = Element.rgb255 21 161 60
@@ -435,6 +482,7 @@ berry =
     }
 
 
+{-| The color for 'BibTeX' -}
 bibtex : Color
 bibtex =
     { elmui = Element.rgb255 119 136 153
@@ -444,6 +492,7 @@ bibtex =
     }
 
 
+{-| The color for 'Bicep' -}
 bicep : Color
 bicep =
     { elmui = Element.rgb255 81 154 186
@@ -453,6 +502,7 @@ bicep =
     }
 
 
+{-| The color for 'Bikeshed' -}
 bikeshed : Color
 bikeshed =
     { elmui = Element.rgb255 85 98 172
@@ -462,6 +512,7 @@ bikeshed =
     }
 
 
+{-| The color for 'Bison' -}
 bison : Color
 bison =
     { elmui = Element.rgb255 106 70 63
@@ -471,6 +522,7 @@ bison =
     }
 
 
+{-| The color for 'BitBake' -}
 bitbake : Color
 bitbake =
     { elmui = Element.rgb255 0 188 228
@@ -480,6 +532,7 @@ bitbake =
     }
 
 
+{-| The color for 'Blade' -}
 blade : Color
 blade =
     { elmui = Element.rgb255 247 82 63
@@ -489,6 +542,7 @@ blade =
     }
 
 
+{-| The color for 'BlitzBasic' -}
 blitzbasic : Color
 blitzbasic =
     { elmui = Element.rgb255 0 255 174
@@ -498,6 +552,7 @@ blitzbasic =
     }
 
 
+{-| The color for 'BlitzMax' -}
 blitzmax : Color
 blitzmax =
     { elmui = Element.rgb255 205 100 0
@@ -507,6 +562,7 @@ blitzmax =
     }
 
 
+{-| The color for 'Bluespec' -}
 bluespec : Color
 bluespec =
     { elmui = Element.rgb255 18 34 60
@@ -516,6 +572,7 @@ bluespec =
     }
 
 
+{-| The color for 'Boo' -}
 boo : Color
 boo =
     { elmui = Element.rgb255 212 190 193
@@ -525,6 +582,7 @@ boo =
     }
 
 
+{-| The color for 'Boogie' -}
 boogie : Color
 boogie =
     { elmui = Element.rgb255 200 15 160
@@ -534,6 +592,7 @@ boogie =
     }
 
 
+{-| The color for 'Brainfuck' -}
 brainfuck : Color
 brainfuck =
     { elmui = Element.rgb255 47 37 48
@@ -543,6 +602,7 @@ brainfuck =
     }
 
 
+{-| The color for 'BrighterScript' -}
 brighterscript : Color
 brighterscript =
     { elmui = Element.rgb255 102 170 187
@@ -552,6 +612,7 @@ brighterscript =
     }
 
 
+{-| The color for 'Brightscript' -}
 brightscript : Color
 brightscript =
     { elmui = Element.rgb255 102 45 145
@@ -561,6 +622,7 @@ brightscript =
     }
 
 
+{-| The color for 'Browserslist' -}
 browserslist : Color
 browserslist =
     { elmui = Element.rgb255 255 213 57
@@ -570,6 +632,7 @@ browserslist =
     }
 
 
+{-| The color for 'C' -}
 c : Color
 c =
     { elmui = Element.rgb255 85 85 85
@@ -579,6 +642,7 @@ c =
     }
 
 
+{-| The color for 'C#' -}
 c# : Color
 c# =
     { elmui = Element.rgb255 23 134 0
@@ -588,6 +652,7 @@ c# =
     }
 
 
+{-| The color for 'C++' -}
 c++ : Color
 c++ =
     { elmui = Element.rgb255 243 75 125
@@ -597,6 +662,7 @@ c++ =
     }
 
 
+{-| The color for 'C2hs Haskell' -}
 c2hs_haskell : Color
 c2hs_haskell =
     { elmui = Element.rgb255 204 204 204
@@ -606,6 +672,7 @@ c2hs_haskell =
     }
 
 
+{-| The color for 'CAP CDS' -}
 cap_cds : Color
 cap_cds =
     { elmui = Element.rgb255 0 146 209
@@ -615,6 +682,7 @@ cap_cds =
     }
 
 
+{-| The color for 'CLIPS' -}
 clips : Color
 clips =
     { elmui = Element.rgb255 0 163 0
@@ -624,6 +692,7 @@ clips =
     }
 
 
+{-| The color for 'CMake' -}
 cmake : Color
 cmake =
     { elmui = Element.rgb255 218 52 52
@@ -633,6 +702,7 @@ cmake =
     }
 
 
+{-| The color for 'COBOL' -}
 cobol : Color
 cobol =
     { elmui = Element.rgb255 204 204 204
@@ -642,6 +712,7 @@ cobol =
     }
 
 
+{-| The color for 'COLLADA' -}
 collada : Color
 collada =
     { elmui = Element.rgb255 241 164 43
@@ -651,6 +722,7 @@ collada =
     }
 
 
+{-| The color for 'CSON' -}
 cson : Color
 cson =
     { elmui = Element.rgb255 36 71 118
@@ -660,6 +732,7 @@ cson =
     }
 
 
+{-| The color for 'CSS' -}
 css : Color
 css =
     { elmui = Element.rgb255 86 61 124
@@ -669,6 +742,7 @@ css =
     }
 
 
+{-| The color for 'CSV' -}
 csv : Color
 csv =
     { elmui = Element.rgb255 35 115 70
@@ -678,6 +752,7 @@ csv =
     }
 
 
+{-| The color for 'CUE' -}
 cue : Color
 cue =
     { elmui = Element.rgb255 88 134 225
@@ -687,6 +762,7 @@ cue =
     }
 
 
+{-| The color for 'CWeb' -}
 cweb : Color
 cweb =
     { elmui = Element.rgb255 0 0 122
@@ -696,6 +772,7 @@ cweb =
     }
 
 
+{-| The color for 'Cabal Config' -}
 cabal_config : Color
 cabal_config =
     { elmui = Element.rgb255 72 52 101
@@ -705,6 +782,7 @@ cabal_config =
     }
 
 
+{-| The color for 'Cadence' -}
 cadence : Color
 cadence =
     { elmui = Element.rgb255 0 239 139
@@ -714,6 +792,7 @@ cadence =
     }
 
 
+{-| The color for 'Cairo' -}
 cairo : Color
 cairo =
     { elmui = Element.rgb255 255 74 72
@@ -723,6 +802,7 @@ cairo =
     }
 
 
+{-| The color for 'CameLIGO' -}
 cameligo : Color
 cameligo =
     { elmui = Element.rgb255 59 225 51
@@ -732,6 +812,7 @@ cameligo =
     }
 
 
+{-| The color for 'Cap'n Proto' -}
 cap_n_proto : Color
 cap_n_proto =
     { elmui = Element.rgb255 196 39 39
@@ -741,6 +822,7 @@ cap_n_proto =
     }
 
 
+{-| The color for 'CartoCSS' -}
 cartocss : Color
 cartocss =
     { elmui = Element.rgb255 204 204 204
@@ -750,6 +832,7 @@ cartocss =
     }
 
 
+{-| The color for 'Ceylon' -}
 ceylon : Color
 ceylon =
     { elmui = Element.rgb255 223 165 53
@@ -759,6 +842,7 @@ ceylon =
     }
 
 
+{-| The color for 'Chapel' -}
 chapel : Color
 chapel =
     { elmui = Element.rgb255 141 198 63
@@ -768,6 +852,7 @@ chapel =
     }
 
 
+{-| The color for 'Charity' -}
 charity : Color
 charity =
     { elmui = Element.rgb255 204 204 204
@@ -777,6 +862,7 @@ charity =
     }
 
 
+{-| The color for 'ChucK' -}
 chuck : Color
 chuck =
     { elmui = Element.rgb255 63 128 0
@@ -786,6 +872,7 @@ chuck =
     }
 
 
+{-| The color for 'Circom' -}
 circom : Color
 circom =
     { elmui = Element.rgb255 112 117 117
@@ -795,6 +882,7 @@ circom =
     }
 
 
+{-| The color for 'Cirru' -}
 cirru : Color
 cirru =
     { elmui = Element.rgb255 204 204 255
@@ -804,6 +892,7 @@ cirru =
     }
 
 
+{-| The color for 'Clarion' -}
 clarion : Color
 clarion =
     { elmui = Element.rgb255 219 144 30
@@ -813,6 +902,7 @@ clarion =
     }
 
 
+{-| The color for 'Clarity' -}
 clarity : Color
 clarity =
     { elmui = Element.rgb255 85 70 255
@@ -822,6 +912,7 @@ clarity =
     }
 
 
+{-| The color for 'Classic ASP' -}
 classic_asp : Color
 classic_asp =
     { elmui = Element.rgb255 106 64 253
@@ -831,6 +922,7 @@ classic_asp =
     }
 
 
+{-| The color for 'Clean' -}
 clean : Color
 clean =
     { elmui = Element.rgb255 63 133 175
@@ -840,6 +932,7 @@ clean =
     }
 
 
+{-| The color for 'Click' -}
 click : Color
 click =
     { elmui = Element.rgb255 228 230 243
@@ -849,6 +942,7 @@ click =
     }
 
 
+{-| The color for 'Clojure' -}
 clojure : Color
 clojure =
     { elmui = Element.rgb255 219 88 85
@@ -858,6 +952,7 @@ clojure =
     }
 
 
+{-| The color for 'Closure Templates' -}
 closure_templates : Color
 closure_templates =
     { elmui = Element.rgb255 13 148 143
@@ -867,6 +962,7 @@ closure_templates =
     }
 
 
+{-| The color for 'Cloud Firestore Security Rules' -}
 cloud_firestore_security_rules : Color
 cloud_firestore_security_rules =
     { elmui = Element.rgb255 255 160 0
@@ -876,6 +972,7 @@ cloud_firestore_security_rules =
     }
 
 
+{-| The color for 'CodeQL' -}
 codeql : Color
 codeql =
     { elmui = Element.rgb255 20 15 70
@@ -885,6 +982,7 @@ codeql =
     }
 
 
+{-| The color for 'CoffeeScript' -}
 coffeescript : Color
 coffeescript =
     { elmui = Element.rgb255 36 71 118
@@ -894,6 +992,7 @@ coffeescript =
     }
 
 
+{-| The color for 'ColdFusion' -}
 coldfusion : Color
 coldfusion =
     { elmui = Element.rgb255 237 44 214
@@ -903,6 +1002,7 @@ coldfusion =
     }
 
 
+{-| The color for 'ColdFusion CFC' -}
 coldfusion_cfc : Color
 coldfusion_cfc =
     { elmui = Element.rgb255 237 44 214
@@ -912,6 +1012,7 @@ coldfusion_cfc =
     }
 
 
+{-| The color for 'Common Lisp' -}
 common_lisp : Color
 common_lisp =
     { elmui = Element.rgb255 63 182 139
@@ -921,6 +1022,7 @@ common_lisp =
     }
 
 
+{-| The color for 'Common Workflow Language' -}
 common_workflow_language : Color
 common_workflow_language =
     { elmui = Element.rgb255 181 49 76
@@ -930,6 +1032,7 @@ common_workflow_language =
     }
 
 
+{-| The color for 'Component Pascal' -}
 component_pascal : Color
 component_pascal =
     { elmui = Element.rgb255 176 206 78
@@ -939,6 +1042,7 @@ component_pascal =
     }
 
 
+{-| The color for 'Cool' -}
 cool : Color
 cool =
     { elmui = Element.rgb255 204 204 204
@@ -948,6 +1052,7 @@ cool =
     }
 
 
+{-| The color for 'Coq' -}
 coq : Color
 coq =
     { elmui = Element.rgb255 208 182 140
@@ -957,6 +1062,7 @@ coq =
     }
 
 
+{-| The color for 'Crystal' -}
 crystal : Color
 crystal =
     { elmui = Element.rgb255 0 1 0
@@ -966,6 +1072,7 @@ crystal =
     }
 
 
+{-| The color for 'Csound' -}
 csound : Color
 csound =
     { elmui = Element.rgb255 26 26 26
@@ -975,6 +1082,7 @@ csound =
     }
 
 
+{-| The color for 'Csound Document' -}
 csound_document : Color
 csound_document =
     { elmui = Element.rgb255 26 26 26
@@ -984,6 +1092,7 @@ csound_document =
     }
 
 
+{-| The color for 'Csound Score' -}
 csound_score : Color
 csound_score =
     { elmui = Element.rgb255 26 26 26
@@ -993,6 +1102,7 @@ csound_score =
     }
 
 
+{-| The color for 'Cuda' -}
 cuda : Color
 cuda =
     { elmui = Element.rgb255 58 78 58
@@ -1002,6 +1112,7 @@ cuda =
     }
 
 
+{-| The color for 'Curry' -}
 curry : Color
 curry =
     { elmui = Element.rgb255 83 18 66
@@ -1011,6 +1122,7 @@ curry =
     }
 
 
+{-| The color for 'Cycript' -}
 cycript : Color
 cycript =
     { elmui = Element.rgb255 204 204 204
@@ -1020,6 +1132,7 @@ cycript =
     }
 
 
+{-| The color for 'Cypher' -}
 cypher : Color
 cypher =
     { elmui = Element.rgb255 52 192 235
@@ -1029,6 +1142,7 @@ cypher =
     }
 
 
+{-| The color for 'Cython' -}
 cython : Color
 cython =
     { elmui = Element.rgb255 254 223 91
@@ -1038,6 +1152,7 @@ cython =
     }
 
 
+{-| The color for 'D' -}
 d : Color
 d =
     { elmui = Element.rgb255 186 89 94
@@ -1047,6 +1162,7 @@ d =
     }
 
 
+{-| The color for 'D2' -}
 d2 : Color
 d2 =
     { elmui = Element.rgb255 82 110 232
@@ -1056,6 +1172,7 @@ d2 =
     }
 
 
+{-| The color for 'DIGITAL Command Language' -}
 digital_command_language : Color
 digital_command_language =
     { elmui = Element.rgb255 204 204 204
@@ -1065,6 +1182,7 @@ digital_command_language =
     }
 
 
+{-| The color for 'DM' -}
 dm : Color
 dm =
     { elmui = Element.rgb255 68 114 101
@@ -1074,6 +1192,7 @@ dm =
     }
 
 
+{-| The color for 'DTrace' -}
 dtrace : Color
 dtrace =
     { elmui = Element.rgb255 204 204 204
@@ -1083,6 +1202,7 @@ dtrace =
     }
 
 
+{-| The color for 'Dafny' -}
 dafny : Color
 dafny =
     { elmui = Element.rgb255 255 236 37
@@ -1092,6 +1212,7 @@ dafny =
     }
 
 
+{-| The color for 'Darcs Patch' -}
 darcs_patch : Color
 darcs_patch =
     { elmui = Element.rgb255 142 255 35
@@ -1101,6 +1222,7 @@ darcs_patch =
     }
 
 
+{-| The color for 'Dart' -}
 dart : Color
 dart =
     { elmui = Element.rgb255 0 180 171
@@ -1110,6 +1232,7 @@ dart =
     }
 
 
+{-| The color for 'DataWeave' -}
 dataweave : Color
 dataweave =
     { elmui = Element.rgb255 0 58 82
@@ -1119,6 +1242,7 @@ dataweave =
     }
 
 
+{-| The color for 'Debian Package Control File' -}
 debian_package_control_file : Color
 debian_package_control_file =
     { elmui = Element.rgb255 215 7 81
@@ -1128,6 +1252,7 @@ debian_package_control_file =
     }
 
 
+{-| The color for 'DenizenScript' -}
 denizenscript : Color
 denizenscript =
     { elmui = Element.rgb255 251 238 150
@@ -1137,6 +1262,7 @@ denizenscript =
     }
 
 
+{-| The color for 'Dhall' -}
 dhall : Color
 dhall =
     { elmui = Element.rgb255 223 175 255
@@ -1146,6 +1272,7 @@ dhall =
     }
 
 
+{-| The color for 'DirectX 3D File' -}
 directx_3d_file : Color
 directx_3d_file =
     { elmui = Element.rgb255 170 206 96
@@ -1155,6 +1282,7 @@ directx_3d_file =
     }
 
 
+{-| The color for 'Dockerfile' -}
 dockerfile : Color
 dockerfile =
     { elmui = Element.rgb255 56 77 84
@@ -1164,6 +1292,7 @@ dockerfile =
     }
 
 
+{-| The color for 'Dogescript' -}
 dogescript : Color
 dogescript =
     { elmui = Element.rgb255 204 167 96
@@ -1173,6 +1302,7 @@ dogescript =
     }
 
 
+{-| The color for 'Dotenv' -}
 dotenv : Color
 dotenv =
     { elmui = Element.rgb255 229 213 89
@@ -1182,6 +1312,7 @@ dotenv =
     }
 
 
+{-| The color for 'Dylan' -}
 dylan : Color
 dylan =
     { elmui = Element.rgb255 108 97 110
@@ -1191,6 +1322,7 @@ dylan =
     }
 
 
+{-| The color for 'E' -}
 e : Color
 e =
     { elmui = Element.rgb255 204 206 53
@@ -1200,6 +1332,7 @@ e =
     }
 
 
+{-| The color for 'ECL' -}
 ecl : Color
 ecl =
     { elmui = Element.rgb255 138 18 103
@@ -1209,6 +1342,7 @@ ecl =
     }
 
 
+{-| The color for 'ECLiPSe' -}
 eclipse : Color
 eclipse =
     { elmui = Element.rgb255 0 29 157
@@ -1218,6 +1352,7 @@ eclipse =
     }
 
 
+{-| The color for 'EJS' -}
 ejs : Color
 ejs =
     { elmui = Element.rgb255 169 30 80
@@ -1227,6 +1362,7 @@ ejs =
     }
 
 
+{-| The color for 'EQ' -}
 eq : Color
 eq =
     { elmui = Element.rgb255 167 134 73
@@ -1236,6 +1372,7 @@ eq =
     }
 
 
+{-| The color for 'Earthly' -}
 earthly : Color
 earthly =
     { elmui = Element.rgb255 42 240 255
@@ -1245,6 +1382,7 @@ earthly =
     }
 
 
+{-| The color for 'Easybuild' -}
 easybuild : Color
 easybuild =
     { elmui = Element.rgb255 6 148 6
@@ -1254,6 +1392,7 @@ easybuild =
     }
 
 
+{-| The color for 'Ecere Projects' -}
 ecere_projects : Color
 ecere_projects =
     { elmui = Element.rgb255 145 57 96
@@ -1263,6 +1402,7 @@ ecere_projects =
     }
 
 
+{-| The color for 'Ecmarkup' -}
 ecmarkup : Color
 ecmarkup =
     { elmui = Element.rgb255 235 129 49
@@ -1272,6 +1412,7 @@ ecmarkup =
     }
 
 
+{-| The color for 'EditorConfig' -}
 editorconfig : Color
 editorconfig =
     { elmui = Element.rgb255 255 241 242
@@ -1281,6 +1422,7 @@ editorconfig =
     }
 
 
+{-| The color for 'Eiffel' -}
 eiffel : Color
 eiffel =
     { elmui = Element.rgb255 77 105 119
@@ -1290,6 +1432,7 @@ eiffel =
     }
 
 
+{-| The color for 'Elixir' -}
 elixir : Color
 elixir =
     { elmui = Element.rgb255 110 74 126
@@ -1299,6 +1442,7 @@ elixir =
     }
 
 
+{-| The color for 'Elm' -}
 elm : Color
 elm =
     { elmui = Element.rgb255 96 181 204
@@ -1308,6 +1452,7 @@ elm =
     }
 
 
+{-| The color for 'Elvish' -}
 elvish : Color
 elvish =
     { elmui = Element.rgb255 85 187 85
@@ -1317,6 +1462,7 @@ elvish =
     }
 
 
+{-| The color for 'Elvish Transcript' -}
 elvish_transcript : Color
 elvish_transcript =
     { elmui = Element.rgb255 85 187 85
@@ -1326,6 +1472,7 @@ elvish_transcript =
     }
 
 
+{-| The color for 'Emacs Lisp' -}
 emacs_lisp : Color
 emacs_lisp =
     { elmui = Element.rgb255 192 101 219
@@ -1335,6 +1482,7 @@ emacs_lisp =
     }
 
 
+{-| The color for 'EmberScript' -}
 emberscript : Color
 emberscript =
     { elmui = Element.rgb255 255 244 243
@@ -1344,6 +1492,7 @@ emberscript =
     }
 
 
+{-| The color for 'Erlang' -}
 erlang : Color
 erlang =
     { elmui = Element.rgb255 184 57 152
@@ -1353,6 +1502,7 @@ erlang =
     }
 
 
+{-| The color for 'Euphoria' -}
 euphoria : Color
 euphoria =
     { elmui = Element.rgb255 255 121 11
@@ -1362,6 +1512,7 @@ euphoria =
     }
 
 
+{-| The color for 'F#' -}
 f# : Color
 f# =
     { elmui = Element.rgb255 184 69 252
@@ -1371,6 +1522,7 @@ f# =
     }
 
 
+{-| The color for 'F*' -}
 f* : Color
 f* =
     { elmui = Element.rgb255 87 46 48
@@ -1380,6 +1532,7 @@ f* =
     }
 
 
+{-| The color for 'FIGlet Font' -}
 figlet_font : Color
 figlet_font =
     { elmui = Element.rgb255 255 221 187
@@ -1389,6 +1542,7 @@ figlet_font =
     }
 
 
+{-| The color for 'FLUX' -}
 flux : Color
 flux =
     { elmui = Element.rgb255 136 204 255
@@ -1398,6 +1552,7 @@ flux =
     }
 
 
+{-| The color for 'Factor' -}
 factor : Color
 factor =
     { elmui = Element.rgb255 99 103 70
@@ -1407,6 +1562,7 @@ factor =
     }
 
 
+{-| The color for 'Fancy' -}
 fancy : Color
 fancy =
     { elmui = Element.rgb255 123 157 180
@@ -1416,6 +1572,7 @@ fancy =
     }
 
 
+{-| The color for 'Fantom' -}
 fantom : Color
 fantom =
     { elmui = Element.rgb255 20 37 60
@@ -1425,6 +1582,7 @@ fantom =
     }
 
 
+{-| The color for 'Faust' -}
 faust : Color
 faust =
     { elmui = Element.rgb255 195 114 64
@@ -1434,6 +1592,7 @@ faust =
     }
 
 
+{-| The color for 'Fennel' -}
 fennel : Color
 fennel =
     { elmui = Element.rgb255 255 243 215
@@ -1443,6 +1602,7 @@ fennel =
     }
 
 
+{-| The color for 'Filebench WML' -}
 filebench_wml : Color
 filebench_wml =
     { elmui = Element.rgb255 246 185 0
@@ -1452,6 +1612,7 @@ filebench_wml =
     }
 
 
+{-| The color for 'Filterscript' -}
 filterscript : Color
 filterscript =
     { elmui = Element.rgb255 204 204 204
@@ -1461,6 +1622,7 @@ filterscript =
     }
 
 
+{-| The color for 'Fluent' -}
 fluent : Color
 fluent =
     { elmui = Element.rgb255 255 204 51
@@ -1470,6 +1632,7 @@ fluent =
     }
 
 
+{-| The color for 'Forth' -}
 forth : Color
 forth =
     { elmui = Element.rgb255 52 23 8
@@ -1479,6 +1642,7 @@ forth =
     }
 
 
+{-| The color for 'Fortran' -}
 fortran : Color
 fortran =
     { elmui = Element.rgb255 77 65 177
@@ -1488,6 +1652,7 @@ fortran =
     }
 
 
+{-| The color for 'Fortran Free Form' -}
 fortran_free_form : Color
 fortran_free_form =
     { elmui = Element.rgb255 77 65 177
@@ -1497,6 +1662,7 @@ fortran_free_form =
     }
 
 
+{-| The color for 'FreeBasic' -}
 freebasic : Color
 freebasic =
     { elmui = Element.rgb255 20 26 201
@@ -1506,6 +1672,7 @@ freebasic =
     }
 
 
+{-| The color for 'FreeMarker' -}
 freemarker : Color
 freemarker =
     { elmui = Element.rgb255 0 80 178
@@ -1515,6 +1682,7 @@ freemarker =
     }
 
 
+{-| The color for 'Frege' -}
 frege : Color
 frege =
     { elmui = Element.rgb255 0 202 254
@@ -1524,6 +1692,7 @@ frege =
     }
 
 
+{-| The color for 'Futhark' -}
 futhark : Color
 futhark =
     { elmui = Element.rgb255 95 2 31
@@ -1533,6 +1702,7 @@ futhark =
     }
 
 
+{-| The color for 'G-code' -}
 g_code : Color
 g_code =
     { elmui = Element.rgb255 208 140 242
@@ -1542,6 +1712,7 @@ g_code =
     }
 
 
+{-| The color for 'GAML' -}
 gaml : Color
 gaml =
     { elmui = Element.rgb255 255 199 102
@@ -1551,6 +1722,7 @@ gaml =
     }
 
 
+{-| The color for 'GAMS' -}
 gams : Color
 gams =
     { elmui = Element.rgb255 244 154 34
@@ -1560,6 +1732,7 @@ gams =
     }
 
 
+{-| The color for 'GAP' -}
 gap : Color
 gap =
     { elmui = Element.rgb255 0 0 204
@@ -1569,6 +1742,7 @@ gap =
     }
 
 
+{-| The color for 'GCC Machine Description' -}
 gcc_machine_description : Color
 gcc_machine_description =
     { elmui = Element.rgb255 255 207 171
@@ -1578,6 +1752,7 @@ gcc_machine_description =
     }
 
 
+{-| The color for 'GDB' -}
 gdb : Color
 gdb =
     { elmui = Element.rgb255 204 204 204
@@ -1587,6 +1762,7 @@ gdb =
     }
 
 
+{-| The color for 'GDScript' -}
 gdscript : Color
 gdscript =
     { elmui = Element.rgb255 53 85 112
@@ -1596,6 +1772,7 @@ gdscript =
     }
 
 
+{-| The color for 'GEDCOM' -}
 gedcom : Color
 gedcom =
     { elmui = Element.rgb255 0 48 88
@@ -1605,6 +1782,7 @@ gedcom =
     }
 
 
+{-| The color for 'GLSL' -}
 glsl : Color
 glsl =
     { elmui = Element.rgb255 86 134 165
@@ -1614,6 +1792,7 @@ glsl =
     }
 
 
+{-| The color for 'GSC' -}
 gsc : Color
 gsc =
     { elmui = Element.rgb255 255 104 0
@@ -1623,6 +1802,7 @@ gsc =
     }
 
 
+{-| The color for 'Game Maker Language' -}
 game_maker_language : Color
 game_maker_language =
     { elmui = Element.rgb255 113 180 23
@@ -1632,6 +1812,7 @@ game_maker_language =
     }
 
 
+{-| The color for 'Gemfile.lock' -}
 gemfile_lock : Color
 gemfile_lock =
     { elmui = Element.rgb255 112 21 22
@@ -1641,6 +1822,7 @@ gemfile_lock =
     }
 
 
+{-| The color for 'Gemini' -}
 gemini : Color
 gemini =
     { elmui = Element.rgb255 255 105 0
@@ -1650,6 +1832,7 @@ gemini =
     }
 
 
+{-| The color for 'Genero' -}
 genero : Color
 genero =
     { elmui = Element.rgb255 99 64 142
@@ -1659,6 +1842,7 @@ genero =
     }
 
 
+{-| The color for 'Genero Forms' -}
 genero_forms : Color
 genero_forms =
     { elmui = Element.rgb255 216 223 57
@@ -1668,6 +1852,7 @@ genero_forms =
     }
 
 
+{-| The color for 'Genie' -}
 genie : Color
 genie =
     { elmui = Element.rgb255 251 133 93
@@ -1677,6 +1862,7 @@ genie =
     }
 
 
+{-| The color for 'Genshi' -}
 genshi : Color
 genshi =
     { elmui = Element.rgb255 149 21 49
@@ -1686,6 +1872,7 @@ genshi =
     }
 
 
+{-| The color for 'Gentoo Ebuild' -}
 gentoo_ebuild : Color
 gentoo_ebuild =
     { elmui = Element.rgb255 148 0 255
@@ -1695,6 +1882,7 @@ gentoo_ebuild =
     }
 
 
+{-| The color for 'Gentoo Eclass' -}
 gentoo_eclass : Color
 gentoo_eclass =
     { elmui = Element.rgb255 148 0 255
@@ -1704,6 +1892,7 @@ gentoo_eclass =
     }
 
 
+{-| The color for 'Gerber Image' -}
 gerber_image : Color
 gerber_image =
     { elmui = Element.rgb255 210 11 0
@@ -1713,6 +1902,7 @@ gerber_image =
     }
 
 
+{-| The color for 'Gherkin' -}
 gherkin : Color
 gherkin =
     { elmui = Element.rgb255 91 32 99
@@ -1722,6 +1912,7 @@ gherkin =
     }
 
 
+{-| The color for 'Git Attributes' -}
 git_attributes : Color
 git_attributes =
     { elmui = Element.rgb255 244 77 39
@@ -1731,6 +1922,7 @@ git_attributes =
     }
 
 
+{-| The color for 'Git Config' -}
 git_config : Color
 git_config =
     { elmui = Element.rgb255 244 77 39
@@ -1740,6 +1932,7 @@ git_config =
     }
 
 
+{-| The color for 'Git Revision List' -}
 git_revision_list : Color
 git_revision_list =
     { elmui = Element.rgb255 244 77 39
@@ -1749,6 +1942,7 @@ git_revision_list =
     }
 
 
+{-| The color for 'Gleam' -}
 gleam : Color
 gleam =
     { elmui = Element.rgb255 255 175 243
@@ -1758,6 +1952,7 @@ gleam =
     }
 
 
+{-| The color for 'Glyph' -}
 glyph : Color
 glyph =
     { elmui = Element.rgb255 193 172 127
@@ -1767,6 +1962,7 @@ glyph =
     }
 
 
+{-| The color for 'Gnuplot' -}
 gnuplot : Color
 gnuplot =
     { elmui = Element.rgb255 240 169 240
@@ -1776,6 +1972,7 @@ gnuplot =
     }
 
 
+{-| The color for 'Go' -}
 go : Color
 go =
     { elmui = Element.rgb255 0 173 216
@@ -1785,6 +1982,7 @@ go =
     }
 
 
+{-| The color for 'Go Checksums' -}
 go_checksums : Color
 go_checksums =
     { elmui = Element.rgb255 0 173 216
@@ -1794,6 +1992,7 @@ go_checksums =
     }
 
 
+{-| The color for 'Go Module' -}
 go_module : Color
 go_module =
     { elmui = Element.rgb255 0 173 216
@@ -1803,6 +2002,7 @@ go_module =
     }
 
 
+{-| The color for 'Go Workspace' -}
 go_workspace : Color
 go_workspace =
     { elmui = Element.rgb255 0 173 216
@@ -1812,6 +2012,7 @@ go_workspace =
     }
 
 
+{-| The color for 'Godot Resource' -}
 godot_resource : Color
 godot_resource =
     { elmui = Element.rgb255 53 85 112
@@ -1821,6 +2022,7 @@ godot_resource =
     }
 
 
+{-| The color for 'Golo' -}
 golo : Color
 golo =
     { elmui = Element.rgb255 136 86 42
@@ -1830,6 +2032,7 @@ golo =
     }
 
 
+{-| The color for 'Gosu' -}
 gosu : Color
 gosu =
     { elmui = Element.rgb255 130 147 127
@@ -1839,6 +2042,7 @@ gosu =
     }
 
 
+{-| The color for 'Grace' -}
 grace : Color
 grace =
     { elmui = Element.rgb255 97 95 139
@@ -1848,6 +2052,7 @@ grace =
     }
 
 
+{-| The color for 'Gradle' -}
 gradle : Color
 gradle =
     { elmui = Element.rgb255 2 48 58
@@ -1857,6 +2062,7 @@ gradle =
     }
 
 
+{-| The color for 'Grammatical Framework' -}
 grammatical_framework : Color
 grammatical_framework =
     { elmui = Element.rgb255 255 0 0
@@ -1866,6 +2072,7 @@ grammatical_framework =
     }
 
 
+{-| The color for 'GraphQL' -}
 graphql : Color
 graphql =
     { elmui = Element.rgb255 225 0 152
@@ -1875,6 +2082,7 @@ graphql =
     }
 
 
+{-| The color for 'Graphviz (DOT)' -}
 graphviz_(dot) : Color
 graphviz_(dot) =
     { elmui = Element.rgb255 37 150 190
@@ -1884,6 +2092,7 @@ graphviz_(dot) =
     }
 
 
+{-| The color for 'Groovy' -}
 groovy : Color
 groovy =
     { elmui = Element.rgb255 66 152 184
@@ -1893,6 +2102,7 @@ groovy =
     }
 
 
+{-| The color for 'Groovy Server Pages' -}
 groovy_server_pages : Color
 groovy_server_pages =
     { elmui = Element.rgb255 66 152 184
@@ -1902,6 +2112,7 @@ groovy_server_pages =
     }
 
 
+{-| The color for 'HAProxy' -}
 haproxy : Color
 haproxy =
     { elmui = Element.rgb255 16 109 169
@@ -1911,6 +2122,7 @@ haproxy =
     }
 
 
+{-| The color for 'HCL' -}
 hcl : Color
 hcl =
     { elmui = Element.rgb255 132 79 186
@@ -1920,6 +2132,7 @@ hcl =
     }
 
 
+{-| The color for 'HLSL' -}
 hlsl : Color
 hlsl =
     { elmui = Element.rgb255 170 206 96
@@ -1929,6 +2142,7 @@ hlsl =
     }
 
 
+{-| The color for 'HOCON' -}
 hocon : Color
 hocon =
     { elmui = Element.rgb255 159 248 238
@@ -1938,6 +2152,7 @@ hocon =
     }
 
 
+{-| The color for 'HTML' -}
 html : Color
 html =
     { elmui = Element.rgb255 227 76 38
@@ -1947,6 +2162,7 @@ html =
     }
 
 
+{-| The color for 'HTML+ECR' -}
 html+ecr : Color
 html+ecr =
     { elmui = Element.rgb255 46 16 82
@@ -1956,6 +2172,7 @@ html+ecr =
     }
 
 
+{-| The color for 'HTML+EEX' -}
 html+eex : Color
 html+eex =
     { elmui = Element.rgb255 110 74 126
@@ -1965,6 +2182,7 @@ html+eex =
     }
 
 
+{-| The color for 'HTML+ERB' -}
 html+erb : Color
 html+erb =
     { elmui = Element.rgb255 112 21 22
@@ -1974,6 +2192,7 @@ html+erb =
     }
 
 
+{-| The color for 'HTML+PHP' -}
 html+php : Color
 html+php =
     { elmui = Element.rgb255 79 93 149
@@ -1983,6 +2202,7 @@ html+php =
     }
 
 
+{-| The color for 'HTML+Razor' -}
 html+razor : Color
 html+razor =
     { elmui = Element.rgb255 81 43 228
@@ -1992,6 +2212,7 @@ html+razor =
     }
 
 
+{-| The color for 'HTTP' -}
 http : Color
 http =
     { elmui = Element.rgb255 0 92 156
@@ -2001,6 +2222,7 @@ http =
     }
 
 
+{-| The color for 'HXML' -}
 hxml : Color
 hxml =
     { elmui = Element.rgb255 246 135 18
@@ -2010,6 +2232,7 @@ hxml =
     }
 
 
+{-| The color for 'Hack' -}
 hack : Color
 hack =
     { elmui = Element.rgb255 135 135 135
@@ -2019,6 +2242,7 @@ hack =
     }
 
 
+{-| The color for 'Haml' -}
 haml : Color
 haml =
     { elmui = Element.rgb255 236 226 169
@@ -2028,6 +2252,7 @@ haml =
     }
 
 
+{-| The color for 'Handlebars' -}
 handlebars : Color
 handlebars =
     { elmui = Element.rgb255 247 147 30
@@ -2037,6 +2262,7 @@ handlebars =
     }
 
 
+{-| The color for 'Harbour' -}
 harbour : Color
 harbour =
     { elmui = Element.rgb255 14 96 227
@@ -2046,6 +2272,7 @@ harbour =
     }
 
 
+{-| The color for 'Haskell' -}
 haskell : Color
 haskell =
     { elmui = Element.rgb255 94 80 134
@@ -2055,6 +2282,7 @@ haskell =
     }
 
 
+{-| The color for 'Haxe' -}
 haxe : Color
 haxe =
     { elmui = Element.rgb255 223 121 0
@@ -2064,6 +2292,7 @@ haxe =
     }
 
 
+{-| The color for 'HiveQL' -}
 hiveql : Color
 hiveql =
     { elmui = Element.rgb255 220 226 0
@@ -2073,6 +2302,7 @@ hiveql =
     }
 
 
+{-| The color for 'HolyC' -}
 holyc : Color
 holyc =
     { elmui = Element.rgb255 255 239 175
@@ -2082,6 +2312,7 @@ holyc =
     }
 
 
+{-| The color for 'Hosts File' -}
 hosts_file : Color
 hosts_file =
     { elmui = Element.rgb255 48 136 136
@@ -2091,6 +2322,7 @@ hosts_file =
     }
 
 
+{-| The color for 'Hy' -}
 hy : Color
 hy =
     { elmui = Element.rgb255 119 144 178
@@ -2100,6 +2332,7 @@ hy =
     }
 
 
+{-| The color for 'HyPhy' -}
 hyphy : Color
 hyphy =
     { elmui = Element.rgb255 204 204 204
@@ -2109,6 +2342,7 @@ hyphy =
     }
 
 
+{-| The color for 'IDL' -}
 idl : Color
 idl =
     { elmui = Element.rgb255 163 82 47
@@ -2118,6 +2352,7 @@ idl =
     }
 
 
+{-| The color for 'IGOR Pro' -}
 igor_pro : Color
 igor_pro =
     { elmui = Element.rgb255 0 0 204
@@ -2127,6 +2362,7 @@ igor_pro =
     }
 
 
+{-| The color for 'INI' -}
 ini : Color
 ini =
     { elmui = Element.rgb255 209 219 224
@@ -2136,6 +2372,7 @@ ini =
     }
 
 
+{-| The color for 'Idris' -}
 idris : Color
 idris =
     { elmui = Element.rgb255 179 0 0
@@ -2145,6 +2382,7 @@ idris =
     }
 
 
+{-| The color for 'Ignore List' -}
 ignore_list : Color
 ignore_list =
     { elmui = Element.rgb255 0 0 0
@@ -2154,6 +2392,7 @@ ignore_list =
     }
 
 
+{-| The color for 'ImageJ Macro' -}
 imagej_macro : Color
 imagej_macro =
     { elmui = Element.rgb255 153 170 255
@@ -2163,6 +2402,7 @@ imagej_macro =
     }
 
 
+{-| The color for 'Imba' -}
 imba : Color
 imba =
     { elmui = Element.rgb255 22 206 198
@@ -2172,6 +2412,7 @@ imba =
     }
 
 
+{-| The color for 'Inform 7' -}
 inform_7 : Color
 inform_7 =
     { elmui = Element.rgb255 204 204 204
@@ -2181,6 +2422,7 @@ inform_7 =
     }
 
 
+{-| The color for 'Ink' -}
 ink : Color
 ink =
     { elmui = Element.rgb255 204 204 204
@@ -2190,6 +2432,7 @@ ink =
     }
 
 
+{-| The color for 'Inno Setup' -}
 inno_setup : Color
 inno_setup =
     { elmui = Element.rgb255 38 75 153
@@ -2199,6 +2442,7 @@ inno_setup =
     }
 
 
+{-| The color for 'Io' -}
 io : Color
 io =
     { elmui = Element.rgb255 169 24 141
@@ -2208,6 +2452,7 @@ io =
     }
 
 
+{-| The color for 'Ioke' -}
 ioke : Color
 ioke =
     { elmui = Element.rgb255 7 129 147
@@ -2217,6 +2462,7 @@ ioke =
     }
 
 
+{-| The color for 'Isabelle' -}
 isabelle : Color
 isabelle =
     { elmui = Element.rgb255 254 254 0
@@ -2226,6 +2472,7 @@ isabelle =
     }
 
 
+{-| The color for 'Isabelle ROOT' -}
 isabelle_root : Color
 isabelle_root =
     { elmui = Element.rgb255 254 254 0
@@ -2235,6 +2482,7 @@ isabelle_root =
     }
 
 
+{-| The color for 'J' -}
 j : Color
 j =
     { elmui = Element.rgb255 158 237 255
@@ -2244,6 +2492,7 @@ j =
     }
 
 
+{-| The color for 'JAR Manifest' -}
 jar_manifest : Color
 jar_manifest =
     { elmui = Element.rgb255 176 114 25
@@ -2253,6 +2502,7 @@ jar_manifest =
     }
 
 
+{-| The color for 'JCL' -}
 jcl : Color
 jcl =
     { elmui = Element.rgb255 217 14 9
@@ -2262,6 +2512,7 @@ jcl =
     }
 
 
+{-| The color for 'JFlex' -}
 jflex : Color
 jflex =
     { elmui = Element.rgb255 219 202 0
@@ -2271,6 +2522,7 @@ jflex =
     }
 
 
+{-| The color for 'JSON' -}
 json : Color
 json =
     { elmui = Element.rgb255 41 41 41
@@ -2280,6 +2532,7 @@ json =
     }
 
 
+{-| The color for 'JSON with Comments' -}
 json_with_comments : Color
 json_with_comments =
     { elmui = Element.rgb255 41 41 41
@@ -2289,6 +2542,7 @@ json_with_comments =
     }
 
 
+{-| The color for 'JSON5' -}
 json5 : Color
 json5 =
     { elmui = Element.rgb255 38 124 185
@@ -2298,6 +2552,7 @@ json5 =
     }
 
 
+{-| The color for 'JSONLD' -}
 jsonld : Color
 jsonld =
     { elmui = Element.rgb255 12 71 156
@@ -2307,6 +2562,7 @@ jsonld =
     }
 
 
+{-| The color for 'JSONiq' -}
 jsoniq : Color
 jsoniq =
     { elmui = Element.rgb255 64 212 126
@@ -2316,6 +2572,7 @@ jsoniq =
     }
 
 
+{-| The color for 'Janet' -}
 janet : Color
 janet =
     { elmui = Element.rgb255 8 134 165
@@ -2325,6 +2582,7 @@ janet =
     }
 
 
+{-| The color for 'Jasmin' -}
 jasmin : Color
 jasmin =
     { elmui = Element.rgb255 208 54 0
@@ -2334,6 +2592,7 @@ jasmin =
     }
 
 
+{-| The color for 'Java' -}
 java : Color
 java =
     { elmui = Element.rgb255 176 114 25
@@ -2343,6 +2602,7 @@ java =
     }
 
 
+{-| The color for 'Java Properties' -}
 java_properties : Color
 java_properties =
     { elmui = Element.rgb255 42 98 119
@@ -2352,6 +2612,7 @@ java_properties =
     }
 
 
+{-| The color for 'Java Server Pages' -}
 java_server_pages : Color
 java_server_pages =
     { elmui = Element.rgb255 42 98 119
@@ -2361,6 +2622,7 @@ java_server_pages =
     }
 
 
+{-| The color for 'JavaScript' -}
 javascript : Color
 javascript =
     { elmui = Element.rgb255 241 224 90
@@ -2370,6 +2632,7 @@ javascript =
     }
 
 
+{-| The color for 'JavaScript+ERB' -}
 javascript+erb : Color
 javascript+erb =
     { elmui = Element.rgb255 241 224 90
@@ -2379,6 +2642,7 @@ javascript+erb =
     }
 
 
+{-| The color for 'Jest Snapshot' -}
 jest_snapshot : Color
 jest_snapshot =
     { elmui = Element.rgb255 21 194 19
@@ -2388,6 +2652,7 @@ jest_snapshot =
     }
 
 
+{-| The color for 'JetBrains MPS' -}
 jetbrains_mps : Color
 jetbrains_mps =
     { elmui = Element.rgb255 33 215 137
@@ -2397,6 +2662,7 @@ jetbrains_mps =
     }
 
 
+{-| The color for 'Jinja' -}
 jinja : Color
 jinja =
     { elmui = Element.rgb255 165 42 34
@@ -2406,6 +2672,7 @@ jinja =
     }
 
 
+{-| The color for 'Jison' -}
 jison : Color
 jison =
     { elmui = Element.rgb255 86 179 203
@@ -2415,6 +2682,7 @@ jison =
     }
 
 
+{-| The color for 'Jison Lex' -}
 jison_lex : Color
 jison_lex =
     { elmui = Element.rgb255 86 179 203
@@ -2424,6 +2692,7 @@ jison_lex =
     }
 
 
+{-| The color for 'Jolie' -}
 jolie : Color
 jolie =
     { elmui = Element.rgb255 132 49 121
@@ -2433,6 +2702,7 @@ jolie =
     }
 
 
+{-| The color for 'Jsonnet' -}
 jsonnet : Color
 jsonnet =
     { elmui = Element.rgb255 0 100 189
@@ -2442,6 +2712,7 @@ jsonnet =
     }
 
 
+{-| The color for 'Julia' -}
 julia : Color
 julia =
     { elmui = Element.rgb255 162 112 186
@@ -2451,6 +2722,7 @@ julia =
     }
 
 
+{-| The color for 'Jupyter Notebook' -}
 jupyter_notebook : Color
 jupyter_notebook =
     { elmui = Element.rgb255 218 91 11
@@ -2460,6 +2732,7 @@ jupyter_notebook =
     }
 
 
+{-| The color for 'Just' -}
 just : Color
 just =
     { elmui = Element.rgb255 56 77 84
@@ -2469,6 +2742,7 @@ just =
     }
 
 
+{-| The color for 'KRL' -}
 krl : Color
 krl =
     { elmui = Element.rgb255 40 67 10
@@ -2478,6 +2752,7 @@ krl =
     }
 
 
+{-| The color for 'Kaitai Struct' -}
 kaitai_struct : Color
 kaitai_struct =
     { elmui = Element.rgb255 119 59 55
@@ -2487,6 +2762,7 @@ kaitai_struct =
     }
 
 
+{-| The color for 'KakouneScript' -}
 kakounescript : Color
 kakounescript =
     { elmui = Element.rgb255 111 128 66
@@ -2496,6 +2772,7 @@ kakounescript =
     }
 
 
+{-| The color for 'KerboScript' -}
 kerboscript : Color
 kerboscript =
     { elmui = Element.rgb255 65 173 240
@@ -2505,6 +2782,7 @@ kerboscript =
     }
 
 
+{-| The color for 'KiCad Layout' -}
 kicad_layout : Color
 kicad_layout =
     { elmui = Element.rgb255 47 74 171
@@ -2514,6 +2792,7 @@ kicad_layout =
     }
 
 
+{-| The color for 'KiCad Legacy Layout' -}
 kicad_legacy_layout : Color
 kicad_legacy_layout =
     { elmui = Element.rgb255 47 74 171
@@ -2523,6 +2802,7 @@ kicad_legacy_layout =
     }
 
 
+{-| The color for 'KiCad Schematic' -}
 kicad_schematic : Color
 kicad_schematic =
     { elmui = Element.rgb255 47 74 171
@@ -2532,6 +2812,7 @@ kicad_schematic =
     }
 
 
+{-| The color for 'Kotlin' -}
 kotlin : Color
 kotlin =
     { elmui = Element.rgb255 169 123 255
@@ -2541,6 +2822,7 @@ kotlin =
     }
 
 
+{-| The color for 'LFE' -}
 lfe : Color
 lfe =
     { elmui = Element.rgb255 76 48 35
@@ -2550,6 +2832,7 @@ lfe =
     }
 
 
+{-| The color for 'LLVM' -}
 llvm : Color
 llvm =
     { elmui = Element.rgb255 24 86 25
@@ -2559,6 +2842,7 @@ llvm =
     }
 
 
+{-| The color for 'LOLCODE' -}
 lolcode : Color
 lolcode =
     { elmui = Element.rgb255 204 153 0
@@ -2568,6 +2852,7 @@ lolcode =
     }
 
 
+{-| The color for 'LSL' -}
 lsl : Color
 lsl =
     { elmui = Element.rgb255 61 153 112
@@ -2577,6 +2862,7 @@ lsl =
     }
 
 
+{-| The color for 'LabVIEW' -}
 labview : Color
 labview =
     { elmui = Element.rgb255 254 222 6
@@ -2586,6 +2872,7 @@ labview =
     }
 
 
+{-| The color for 'Lark' -}
 lark : Color
 lark =
     { elmui = Element.rgb255 41 128 185
@@ -2595,6 +2882,7 @@ lark =
     }
 
 
+{-| The color for 'Lasso' -}
 lasso : Color
 lasso =
     { elmui = Element.rgb255 153 153 153
@@ -2604,6 +2892,7 @@ lasso =
     }
 
 
+{-| The color for 'Latte' -}
 latte : Color
 latte =
     { elmui = Element.rgb255 242 165 66
@@ -2613,6 +2902,7 @@ latte =
     }
 
 
+{-| The color for 'Lean' -}
 lean : Color
 lean =
     { elmui = Element.rgb255 204 204 204
@@ -2622,6 +2912,7 @@ lean =
     }
 
 
+{-| The color for 'Less' -}
 less : Color
 less =
     { elmui = Element.rgb255 29 54 93
@@ -2631,6 +2922,7 @@ less =
     }
 
 
+{-| The color for 'Lex' -}
 lex : Color
 lex =
     { elmui = Element.rgb255 219 202 0
@@ -2640,6 +2932,7 @@ lex =
     }
 
 
+{-| The color for 'LigoLANG' -}
 ligolang : Color
 ligolang =
     { elmui = Element.rgb255 14 116 255
@@ -2649,6 +2942,7 @@ ligolang =
     }
 
 
+{-| The color for 'LilyPond' -}
 lilypond : Color
 lilypond =
     { elmui = Element.rgb255 156 204 124
@@ -2658,6 +2952,7 @@ lilypond =
     }
 
 
+{-| The color for 'Limbo' -}
 limbo : Color
 limbo =
     { elmui = Element.rgb255 204 204 204
@@ -2667,6 +2962,7 @@ limbo =
     }
 
 
+{-| The color for 'Liquid' -}
 liquid : Color
 liquid =
     { elmui = Element.rgb255 103 184 222
@@ -2676,6 +2972,7 @@ liquid =
     }
 
 
+{-| The color for 'Literate Agda' -}
 literate_agda : Color
 literate_agda =
     { elmui = Element.rgb255 49 86 101
@@ -2685,6 +2982,7 @@ literate_agda =
     }
 
 
+{-| The color for 'Literate CoffeeScript' -}
 literate_coffeescript : Color
 literate_coffeescript =
     { elmui = Element.rgb255 36 71 118
@@ -2694,6 +2992,7 @@ literate_coffeescript =
     }
 
 
+{-| The color for 'Literate Haskell' -}
 literate_haskell : Color
 literate_haskell =
     { elmui = Element.rgb255 94 80 134
@@ -2703,6 +3002,7 @@ literate_haskell =
     }
 
 
+{-| The color for 'LiveScript' -}
 livescript : Color
 livescript =
     { elmui = Element.rgb255 73 152 134
@@ -2712,6 +3012,7 @@ livescript =
     }
 
 
+{-| The color for 'Logos' -}
 logos : Color
 logos =
     { elmui = Element.rgb255 204 204 204
@@ -2721,6 +3022,7 @@ logos =
     }
 
 
+{-| The color for 'Logtalk' -}
 logtalk : Color
 logtalk =
     { elmui = Element.rgb255 41 91 154
@@ -2730,6 +3032,7 @@ logtalk =
     }
 
 
+{-| The color for 'LookML' -}
 lookml : Color
 lookml =
     { elmui = Element.rgb255 101 43 129
@@ -2739,6 +3042,7 @@ lookml =
     }
 
 
+{-| The color for 'LoomScript' -}
 loomscript : Color
 loomscript =
     { elmui = Element.rgb255 204 204 204
@@ -2748,6 +3052,7 @@ loomscript =
     }
 
 
+{-| The color for 'Lua' -}
 lua : Color
 lua =
     { elmui = Element.rgb255 0 0 128
@@ -2757,6 +3062,7 @@ lua =
     }
 
 
+{-| The color for 'M' -}
 m : Color
 m =
     { elmui = Element.rgb255 204 204 204
@@ -2766,6 +3072,7 @@ m =
     }
 
 
+{-| The color for 'M4' -}
 m4 : Color
 m4 =
     { elmui = Element.rgb255 204 204 204
@@ -2775,6 +3082,7 @@ m4 =
     }
 
 
+{-| The color for 'M4Sugar' -}
 m4sugar : Color
 m4sugar =
     { elmui = Element.rgb255 204 204 204
@@ -2784,6 +3092,7 @@ m4sugar =
     }
 
 
+{-| The color for 'MATLAB' -}
 matlab : Color
 matlab =
     { elmui = Element.rgb255 225 103 55
@@ -2793,6 +3102,7 @@ matlab =
     }
 
 
+{-| The color for 'MAXScript' -}
 maxscript : Color
 maxscript =
     { elmui = Element.rgb255 0 166 166
@@ -2802,6 +3112,7 @@ maxscript =
     }
 
 
+{-| The color for 'MDX' -}
 mdx : Color
 mdx =
     { elmui = Element.rgb255 252 179 44
@@ -2811,6 +3122,7 @@ mdx =
     }
 
 
+{-| The color for 'MLIR' -}
 mlir : Color
 mlir =
     { elmui = Element.rgb255 94 200 219
@@ -2820,6 +3132,7 @@ mlir =
     }
 
 
+{-| The color for 'MQL4' -}
 mql4 : Color
 mql4 =
     { elmui = Element.rgb255 98 168 214
@@ -2829,6 +3142,7 @@ mql4 =
     }
 
 
+{-| The color for 'MQL5' -}
 mql5 : Color
 mql5 =
     { elmui = Element.rgb255 74 118 184
@@ -2838,6 +3152,7 @@ mql5 =
     }
 
 
+{-| The color for 'MTML' -}
 mtml : Color
 mtml =
     { elmui = Element.rgb255 183 225 244
@@ -2847,6 +3162,7 @@ mtml =
     }
 
 
+{-| The color for 'MUF' -}
 muf : Color
 muf =
     { elmui = Element.rgb255 204 204 204
@@ -2856,6 +3172,7 @@ muf =
     }
 
 
+{-| The color for 'Macaulay2' -}
 macaulay2 : Color
 macaulay2 =
     { elmui = Element.rgb255 216 255 255
@@ -2865,6 +3182,7 @@ macaulay2 =
     }
 
 
+{-| The color for 'Makefile' -}
 makefile : Color
 makefile =
     { elmui = Element.rgb255 66 120 25
@@ -2874,6 +3192,7 @@ makefile =
     }
 
 
+{-| The color for 'Mako' -}
 mako : Color
 mako =
     { elmui = Element.rgb255 126 133 141
@@ -2883,6 +3202,7 @@ mako =
     }
 
 
+{-| The color for 'Markdown' -}
 markdown : Color
 markdown =
     { elmui = Element.rgb255 8 63 161
@@ -2892,6 +3212,7 @@ markdown =
     }
 
 
+{-| The color for 'Marko' -}
 marko : Color
 marko =
     { elmui = Element.rgb255 66 191 242
@@ -2901,6 +3222,7 @@ marko =
     }
 
 
+{-| The color for 'Mask' -}
 mask : Color
 mask =
     { elmui = Element.rgb255 249 119 50
@@ -2910,6 +3232,7 @@ mask =
     }
 
 
+{-| The color for 'Mathematica' -}
 mathematica : Color
 mathematica =
     { elmui = Element.rgb255 221 17 0
@@ -2919,6 +3242,7 @@ mathematica =
     }
 
 
+{-| The color for 'Max' -}
 max : Color
 max =
     { elmui = Element.rgb255 196 167 156
@@ -2928,6 +3252,7 @@ max =
     }
 
 
+{-| The color for 'Mercury' -}
 mercury : Color
 mercury =
     { elmui = Element.rgb255 255 43 43
@@ -2937,6 +3262,7 @@ mercury =
     }
 
 
+{-| The color for 'Mermaid' -}
 mermaid : Color
 mermaid =
     { elmui = Element.rgb255 255 54 112
@@ -2946,6 +3272,7 @@ mermaid =
     }
 
 
+{-| The color for 'Meson' -}
 meson : Color
 meson =
     { elmui = Element.rgb255 0 120 0
@@ -2955,6 +3282,7 @@ meson =
     }
 
 
+{-| The color for 'Metal' -}
 metal : Color
 metal =
     { elmui = Element.rgb255 143 20 233
@@ -2964,6 +3292,7 @@ metal =
     }
 
 
+{-| The color for 'MiniD' -}
 minid : Color
 minid =
     { elmui = Element.rgb255 204 204 204
@@ -2973,6 +3302,7 @@ minid =
     }
 
 
+{-| The color for 'MiniYAML' -}
 miniyaml : Color
 miniyaml =
     { elmui = Element.rgb255 255 17 17
@@ -2982,6 +3312,7 @@ miniyaml =
     }
 
 
+{-| The color for 'Mint' -}
 mint : Color
 mint =
     { elmui = Element.rgb255 2 176 70
@@ -2991,6 +3322,7 @@ mint =
     }
 
 
+{-| The color for 'Mirah' -}
 mirah : Color
 mirah =
     { elmui = Element.rgb255 199 169 56
@@ -3000,6 +3332,7 @@ mirah =
     }
 
 
+{-| The color for 'Modelica' -}
 modelica : Color
 modelica =
     { elmui = Element.rgb255 222 29 49
@@ -3009,6 +3342,7 @@ modelica =
     }
 
 
+{-| The color for 'Modula-2' -}
 modula_2 : Color
 modula_2 =
     { elmui = Element.rgb255 16 37 63
@@ -3018,6 +3352,7 @@ modula_2 =
     }
 
 
+{-| The color for 'Modula-3' -}
 modula_3 : Color
 modula_3 =
     { elmui = Element.rgb255 34 51 136
@@ -3027,6 +3362,7 @@ modula_3 =
     }
 
 
+{-| The color for 'Module Management System' -}
 module_management_system : Color
 module_management_system =
     { elmui = Element.rgb255 204 204 204
@@ -3036,6 +3372,7 @@ module_management_system =
     }
 
 
+{-| The color for 'Monkey' -}
 monkey : Color
 monkey =
     { elmui = Element.rgb255 204 204 204
@@ -3045,6 +3382,7 @@ monkey =
     }
 
 
+{-| The color for 'Monkey C' -}
 monkey_c : Color
 monkey_c =
     { elmui = Element.rgb255 141 103 71
@@ -3054,6 +3392,7 @@ monkey_c =
     }
 
 
+{-| The color for 'Moocode' -}
 moocode : Color
 moocode =
     { elmui = Element.rgb255 204 204 204
@@ -3063,6 +3402,7 @@ moocode =
     }
 
 
+{-| The color for 'MoonScript' -}
 moonscript : Color
 moonscript =
     { elmui = Element.rgb255 255 69 133
@@ -3072,6 +3412,7 @@ moonscript =
     }
 
 
+{-| The color for 'Motoko' -}
 motoko : Color
 motoko =
     { elmui = Element.rgb255 251 176 59
@@ -3081,6 +3422,7 @@ motoko =
     }
 
 
+{-| The color for 'Motorola 68K Assembly' -}
 motorola_68k_assembly : Color
 motorola_68k_assembly =
     { elmui = Element.rgb255 0 93 170
@@ -3090,6 +3432,7 @@ motorola_68k_assembly =
     }
 
 
+{-| The color for 'Move' -}
 move : Color
 move =
     { elmui = Element.rgb255 74 19 122
@@ -3099,6 +3442,7 @@ move =
     }
 
 
+{-| The color for 'Mustache' -}
 mustache : Color
 mustache =
     { elmui = Element.rgb255 114 75 59
@@ -3108,6 +3452,7 @@ mustache =
     }
 
 
+{-| The color for 'Myghty' -}
 myghty : Color
 myghty =
     { elmui = Element.rgb255 204 204 204
@@ -3117,6 +3462,7 @@ myghty =
     }
 
 
+{-| The color for 'NASL' -}
 nasl : Color
 nasl =
     { elmui = Element.rgb255 204 204 204
@@ -3126,6 +3472,7 @@ nasl =
     }
 
 
+{-| The color for 'NCL' -}
 ncl : Color
 ncl =
     { elmui = Element.rgb255 40 67 31
@@ -3135,6 +3482,7 @@ ncl =
     }
 
 
+{-| The color for 'NPM Config' -}
 npm_config : Color
 npm_config =
     { elmui = Element.rgb255 203 56 55
@@ -3144,6 +3492,7 @@ npm_config =
     }
 
 
+{-| The color for 'NSIS' -}
 nsis : Color
 nsis =
     { elmui = Element.rgb255 204 204 204
@@ -3153,6 +3502,7 @@ nsis =
     }
 
 
+{-| The color for 'NWScript' -}
 nwscript : Color
 nwscript =
     { elmui = Element.rgb255 17 21 34
@@ -3162,6 +3512,7 @@ nwscript =
     }
 
 
+{-| The color for 'Nasal' -}
 nasal : Color
 nasal =
     { elmui = Element.rgb255 29 44 78
@@ -3171,6 +3522,7 @@ nasal =
     }
 
 
+{-| The color for 'Nearley' -}
 nearley : Color
 nearley =
     { elmui = Element.rgb255 153 0 0
@@ -3180,6 +3532,7 @@ nearley =
     }
 
 
+{-| The color for 'Nemerle' -}
 nemerle : Color
 nemerle =
     { elmui = Element.rgb255 61 60 110
@@ -3189,6 +3542,7 @@ nemerle =
     }
 
 
+{-| The color for 'NetLinx' -}
 netlinx : Color
 netlinx =
     { elmui = Element.rgb255 10 160 255
@@ -3198,6 +3552,7 @@ netlinx =
     }
 
 
+{-| The color for 'NetLinx+ERB' -}
 netlinx+erb : Color
 netlinx+erb =
     { elmui = Element.rgb255 116 127 170
@@ -3207,6 +3562,7 @@ netlinx+erb =
     }
 
 
+{-| The color for 'NetLogo' -}
 netlogo : Color
 netlogo =
     { elmui = Element.rgb255 255 99 117
@@ -3216,6 +3572,7 @@ netlogo =
     }
 
 
+{-| The color for 'NewLisp' -}
 newlisp : Color
 newlisp =
     { elmui = Element.rgb255 135 174 215
@@ -3225,6 +3582,7 @@ newlisp =
     }
 
 
+{-| The color for 'Nextflow' -}
 nextflow : Color
 nextflow =
     { elmui = Element.rgb255 58 196 134
@@ -3234,6 +3592,7 @@ nextflow =
     }
 
 
+{-| The color for 'Nginx' -}
 nginx : Color
 nginx =
     { elmui = Element.rgb255 0 150 57
@@ -3243,6 +3602,7 @@ nginx =
     }
 
 
+{-| The color for 'Nim' -}
 nim : Color
 nim =
     { elmui = Element.rgb255 255 194 0
@@ -3252,6 +3612,7 @@ nim =
     }
 
 
+{-| The color for 'Nit' -}
 nit : Color
 nit =
     { elmui = Element.rgb255 0 153 23
@@ -3261,6 +3622,7 @@ nit =
     }
 
 
+{-| The color for 'Nix' -}
 nix : Color
 nix =
     { elmui = Element.rgb255 126 126 255
@@ -3270,6 +3632,7 @@ nix =
     }
 
 
+{-| The color for 'Nu' -}
 nu : Color
 nu =
     { elmui = Element.rgb255 201 223 64
@@ -3279,6 +3642,7 @@ nu =
     }
 
 
+{-| The color for 'NumPy' -}
 numpy : Color
 numpy =
     { elmui = Element.rgb255 156 138 249
@@ -3288,6 +3652,7 @@ numpy =
     }
 
 
+{-| The color for 'Nunjucks' -}
 nunjucks : Color
 nunjucks =
     { elmui = Element.rgb255 61 129 55
@@ -3297,6 +3662,7 @@ nunjucks =
     }
 
 
+{-| The color for 'Nushell' -}
 nushell : Color
 nushell =
     { elmui = Element.rgb255 78 153 6
@@ -3306,6 +3672,7 @@ nushell =
     }
 
 
+{-| The color for 'OASv2-json' -}
 oasv2_json : Color
 oasv2_json =
     { elmui = Element.rgb255 133 234 45
@@ -3315,6 +3682,7 @@ oasv2_json =
     }
 
 
+{-| The color for 'OASv2-yaml' -}
 oasv2_yaml : Color
 oasv2_yaml =
     { elmui = Element.rgb255 133 234 45
@@ -3324,6 +3692,7 @@ oasv2_yaml =
     }
 
 
+{-| The color for 'OASv3-json' -}
 oasv3_json : Color
 oasv3_json =
     { elmui = Element.rgb255 133 234 45
@@ -3333,6 +3702,7 @@ oasv3_json =
     }
 
 
+{-| The color for 'OASv3-yaml' -}
 oasv3_yaml : Color
 oasv3_yaml =
     { elmui = Element.rgb255 133 234 45
@@ -3342,6 +3712,7 @@ oasv3_yaml =
     }
 
 
+{-| The color for 'OCaml' -}
 ocaml : Color
 ocaml =
     { elmui = Element.rgb255 239 122 8
@@ -3351,6 +3722,7 @@ ocaml =
     }
 
 
+{-| The color for 'ObjectScript' -}
 objectscript : Color
 objectscript =
     { elmui = Element.rgb255 66 72 147
@@ -3360,6 +3732,7 @@ objectscript =
     }
 
 
+{-| The color for 'Objective-C' -}
 objective_c : Color
 objective_c =
     { elmui = Element.rgb255 67 142 255
@@ -3369,6 +3742,7 @@ objective_c =
     }
 
 
+{-| The color for 'Objective-C++' -}
 objective_c++ : Color
 objective_c++ =
     { elmui = Element.rgb255 104 102 251
@@ -3378,6 +3752,7 @@ objective_c++ =
     }
 
 
+{-| The color for 'Objective-J' -}
 objective_j : Color
 objective_j =
     { elmui = Element.rgb255 255 12 90
@@ -3387,6 +3762,7 @@ objective_j =
     }
 
 
+{-| The color for 'Odin' -}
 odin : Color
 odin =
     { elmui = Element.rgb255 96 175 254
@@ -3396,6 +3772,7 @@ odin =
     }
 
 
+{-| The color for 'Omgrofl' -}
 omgrofl : Color
 omgrofl =
     { elmui = Element.rgb255 202 187 255
@@ -3405,6 +3782,7 @@ omgrofl =
     }
 
 
+{-| The color for 'Opa' -}
 opa : Color
 opa =
     { elmui = Element.rgb255 204 204 204
@@ -3414,6 +3792,7 @@ opa =
     }
 
 
+{-| The color for 'Opal' -}
 opal : Color
 opal =
     { elmui = Element.rgb255 247 237 224
@@ -3423,6 +3802,7 @@ opal =
     }
 
 
+{-| The color for 'Open Policy Agent' -}
 open_policy_agent : Color
 open_policy_agent =
     { elmui = Element.rgb255 125 145 153
@@ -3432,6 +3812,7 @@ open_policy_agent =
     }
 
 
+{-| The color for 'OpenAPI Specification v2' -}
 openapi_specification_v2 : Color
 openapi_specification_v2 =
     { elmui = Element.rgb255 133 234 45
@@ -3441,6 +3822,7 @@ openapi_specification_v2 =
     }
 
 
+{-| The color for 'OpenAPI Specification v3' -}
 openapi_specification_v3 : Color
 openapi_specification_v3 =
     { elmui = Element.rgb255 133 234 45
@@ -3450,6 +3832,7 @@ openapi_specification_v3 =
     }
 
 
+{-| The color for 'OpenCL' -}
 opencl : Color
 opencl =
     { elmui = Element.rgb255 237 46 45
@@ -3459,6 +3842,7 @@ opencl =
     }
 
 
+{-| The color for 'OpenEdge ABL' -}
 openedge_abl : Color
 openedge_abl =
     { elmui = Element.rgb255 92 230 0
@@ -3468,6 +3852,7 @@ openedge_abl =
     }
 
 
+{-| The color for 'OpenQASM' -}
 openqasm : Color
 openqasm =
     { elmui = Element.rgb255 170 112 255
@@ -3477,6 +3862,7 @@ openqasm =
     }
 
 
+{-| The color for 'OpenRC runscript' -}
 openrc_runscript : Color
 openrc_runscript =
     { elmui = Element.rgb255 204 204 204
@@ -3486,6 +3872,7 @@ openrc_runscript =
     }
 
 
+{-| The color for 'OpenSCAD' -}
 openscad : Color
 openscad =
     { elmui = Element.rgb255 229 205 69
@@ -3495,6 +3882,7 @@ openscad =
     }
 
 
+{-| The color for 'Option List' -}
 option_list : Color
 option_list =
     { elmui = Element.rgb255 71 103 50
@@ -3504,6 +3892,7 @@ option_list =
     }
 
 
+{-| The color for 'Org' -}
 org : Color
 org =
     { elmui = Element.rgb255 119 170 153
@@ -3513,6 +3902,7 @@ org =
     }
 
 
+{-| The color for 'Ox' -}
 ox : Color
 ox =
     { elmui = Element.rgb255 204 204 204
@@ -3522,6 +3912,7 @@ ox =
     }
 
 
+{-| The color for 'Oxygene' -}
 oxygene : Color
 oxygene =
     { elmui = Element.rgb255 205 208 227
@@ -3531,6 +3922,7 @@ oxygene =
     }
 
 
+{-| The color for 'Oz' -}
 oz : Color
 oz =
     { elmui = Element.rgb255 250 183 56
@@ -3540,6 +3932,7 @@ oz =
     }
 
 
+{-| The color for 'P4' -}
 p4 : Color
 p4 =
     { elmui = Element.rgb255 112 85 181
@@ -3549,6 +3942,7 @@ p4 =
     }
 
 
+{-| The color for 'PDDL' -}
 pddl : Color
 pddl =
     { elmui = Element.rgb255 13 0 255
@@ -3558,6 +3952,7 @@ pddl =
     }
 
 
+{-| The color for 'PEG.js' -}
 peg_js : Color
 peg_js =
     { elmui = Element.rgb255 35 77 107
@@ -3567,6 +3962,7 @@ peg_js =
     }
 
 
+{-| The color for 'PHP' -}
 php : Color
 php =
     { elmui = Element.rgb255 79 93 149
@@ -3576,6 +3972,7 @@ php =
     }
 
 
+{-| The color for 'PLSQL' -}
 plsql : Color
 plsql =
     { elmui = Element.rgb255 218 216 216
@@ -3585,6 +3982,7 @@ plsql =
     }
 
 
+{-| The color for 'PLpgSQL' -}
 plpgsql : Color
 plpgsql =
     { elmui = Element.rgb255 51 103 144
@@ -3594,6 +3992,7 @@ plpgsql =
     }
 
 
+{-| The color for 'POV-Ray SDL' -}
 pov_ray_sdl : Color
 pov_ray_sdl =
     { elmui = Element.rgb255 107 172 101
@@ -3603,6 +4002,7 @@ pov_ray_sdl =
     }
 
 
+{-| The color for 'Pact' -}
 pact : Color
 pact =
     { elmui = Element.rgb255 247 168 184
@@ -3612,6 +4012,7 @@ pact =
     }
 
 
+{-| The color for 'Pan' -}
 pan : Color
 pan =
     { elmui = Element.rgb255 204 0 0
@@ -3621,6 +4022,7 @@ pan =
     }
 
 
+{-| The color for 'Papyrus' -}
 papyrus : Color
 papyrus =
     { elmui = Element.rgb255 102 0 204
@@ -3630,6 +4032,7 @@ papyrus =
     }
 
 
+{-| The color for 'Parrot' -}
 parrot : Color
 parrot =
     { elmui = Element.rgb255 243 202 10
@@ -3639,6 +4042,7 @@ parrot =
     }
 
 
+{-| The color for 'Parrot Assembly' -}
 parrot_assembly : Color
 parrot_assembly =
     { elmui = Element.rgb255 204 204 204
@@ -3648,6 +4052,7 @@ parrot_assembly =
     }
 
 
+{-| The color for 'Parrot Internal Representation' -}
 parrot_internal_representation : Color
 parrot_internal_representation =
     { elmui = Element.rgb255 204 204 204
@@ -3657,6 +4062,7 @@ parrot_internal_representation =
     }
 
 
+{-| The color for 'Pascal' -}
 pascal : Color
 pascal =
     { elmui = Element.rgb255 227 241 113
@@ -3666,6 +4072,7 @@ pascal =
     }
 
 
+{-| The color for 'Pawn' -}
 pawn : Color
 pawn =
     { elmui = Element.rgb255 219 178 132
@@ -3675,6 +4082,7 @@ pawn =
     }
 
 
+{-| The color for 'Pep8' -}
 pep8 : Color
 pep8 =
     { elmui = Element.rgb255 199 111 91
@@ -3684,6 +4092,7 @@ pep8 =
     }
 
 
+{-| The color for 'Perl' -}
 perl : Color
 perl =
     { elmui = Element.rgb255 2 152 195
@@ -3693,6 +4102,7 @@ perl =
     }
 
 
+{-| The color for 'PicoLisp' -}
 picolisp : Color
 picolisp =
     { elmui = Element.rgb255 96 103 175
@@ -3702,6 +4112,7 @@ picolisp =
     }
 
 
+{-| The color for 'PigLatin' -}
 piglatin : Color
 piglatin =
     { elmui = Element.rgb255 252 215 222
@@ -3711,6 +4122,7 @@ piglatin =
     }
 
 
+{-| The color for 'Pike' -}
 pike : Color
 pike =
     { elmui = Element.rgb255 0 83 144
@@ -3720,6 +4132,7 @@ pike =
     }
 
 
+{-| The color for 'PlantUML' -}
 plantuml : Color
 plantuml =
     { elmui = Element.rgb255 251 189 22
@@ -3729,6 +4142,7 @@ plantuml =
     }
 
 
+{-| The color for 'PogoScript' -}
 pogoscript : Color
 pogoscript =
     { elmui = Element.rgb255 216 0 116
@@ -3738,6 +4152,7 @@ pogoscript =
     }
 
 
+{-| The color for 'Polar' -}
 polar : Color
 polar =
     { elmui = Element.rgb255 174 129 255
@@ -3747,6 +4162,7 @@ polar =
     }
 
 
+{-| The color for 'Pony' -}
 pony : Color
 pony =
     { elmui = Element.rgb255 204 204 204
@@ -3756,6 +4172,7 @@ pony =
     }
 
 
+{-| The color for 'Portugol' -}
 portugol : Color
 portugol =
     { elmui = Element.rgb255 248 189 0
@@ -3765,6 +4182,7 @@ portugol =
     }
 
 
+{-| The color for 'PostCSS' -}
 postcss : Color
 postcss =
     { elmui = Element.rgb255 220 58 12
@@ -3774,6 +4192,7 @@ postcss =
     }
 
 
+{-| The color for 'PostScript' -}
 postscript : Color
 postscript =
     { elmui = Element.rgb255 218 41 28
@@ -3783,6 +4202,7 @@ postscript =
     }
 
 
+{-| The color for 'PowerBuilder' -}
 powerbuilder : Color
 powerbuilder =
     { elmui = Element.rgb255 143 15 141
@@ -3792,6 +4212,7 @@ powerbuilder =
     }
 
 
+{-| The color for 'PowerShell' -}
 powershell : Color
 powershell =
     { elmui = Element.rgb255 1 36 86
@@ -3801,6 +4222,7 @@ powershell =
     }
 
 
+{-| The color for 'Prisma' -}
 prisma : Color
 prisma =
     { elmui = Element.rgb255 12 52 75
@@ -3810,6 +4232,7 @@ prisma =
     }
 
 
+{-| The color for 'Processing' -}
 processing : Color
 processing =
     { elmui = Element.rgb255 0 150 216
@@ -3819,6 +4242,7 @@ processing =
     }
 
 
+{-| The color for 'Procfile' -}
 procfile : Color
 procfile =
     { elmui = Element.rgb255 59 47 99
@@ -3828,6 +4252,7 @@ procfile =
     }
 
 
+{-| The color for 'Prolog' -}
 prolog : Color
 prolog =
     { elmui = Element.rgb255 116 40 60
@@ -3837,6 +4262,7 @@ prolog =
     }
 
 
+{-| The color for 'Promela' -}
 promela : Color
 promela =
     { elmui = Element.rgb255 222 0 0
@@ -3846,6 +4272,7 @@ promela =
     }
 
 
+{-| The color for 'Propeller Spin' -}
 propeller_spin : Color
 propeller_spin =
     { elmui = Element.rgb255 127 162 167
@@ -3855,6 +4282,7 @@ propeller_spin =
     }
 
 
+{-| The color for 'Pug' -}
 pug : Color
 pug =
     { elmui = Element.rgb255 168 100 84
@@ -3864,6 +4292,7 @@ pug =
     }
 
 
+{-| The color for 'Puppet' -}
 puppet : Color
 puppet =
     { elmui = Element.rgb255 48 43 109
@@ -3873,6 +4302,7 @@ puppet =
     }
 
 
+{-| The color for 'PureBasic' -}
 purebasic : Color
 purebasic =
     { elmui = Element.rgb255 90 105 134
@@ -3882,6 +4312,7 @@ purebasic =
     }
 
 
+{-| The color for 'PureScript' -}
 purescript : Color
 purescript =
     { elmui = Element.rgb255 29 34 45
@@ -3891,6 +4322,7 @@ purescript =
     }
 
 
+{-| The color for 'Pyret' -}
 pyret : Color
 pyret =
     { elmui = Element.rgb255 238 30 16
@@ -3900,6 +4332,7 @@ pyret =
     }
 
 
+{-| The color for 'Python' -}
 python : Color
 python =
     { elmui = Element.rgb255 53 114 165
@@ -3909,6 +4342,7 @@ python =
     }
 
 
+{-| The color for 'Python console' -}
 python_console : Color
 python_console =
     { elmui = Element.rgb255 53 114 165
@@ -3918,6 +4352,7 @@ python_console =
     }
 
 
+{-| The color for 'Python traceback' -}
 python_traceback : Color
 python_traceback =
     { elmui = Element.rgb255 53 114 165
@@ -3927,6 +4362,7 @@ python_traceback =
     }
 
 
+{-| The color for 'Q#' -}
 q# : Color
 q# =
     { elmui = Element.rgb255 254 214 89
@@ -3936,6 +4372,7 @@ q# =
     }
 
 
+{-| The color for 'QML' -}
 qml : Color
 qml =
     { elmui = Element.rgb255 68 165 28
@@ -3945,6 +4382,7 @@ qml =
     }
 
 
+{-| The color for 'QMake' -}
 qmake : Color
 qmake =
     { elmui = Element.rgb255 204 204 204
@@ -3954,6 +4392,7 @@ qmake =
     }
 
 
+{-| The color for 'Qt Script' -}
 qt_script : Color
 qt_script =
     { elmui = Element.rgb255 0 184 65
@@ -3963,6 +4402,7 @@ qt_script =
     }
 
 
+{-| The color for 'Quake' -}
 quake : Color
 quake =
     { elmui = Element.rgb255 136 34 51
@@ -3972,6 +4412,7 @@ quake =
     }
 
 
+{-| The color for 'R' -}
 r : Color
 r =
     { elmui = Element.rgb255 25 140 231
@@ -3981,6 +4422,7 @@ r =
     }
 
 
+{-| The color for 'RAML' -}
 raml : Color
 raml =
     { elmui = Element.rgb255 119 217 251
@@ -3990,6 +4432,7 @@ raml =
     }
 
 
+{-| The color for 'RBS' -}
 rbs : Color
 rbs =
     { elmui = Element.rgb255 112 21 22
@@ -3999,6 +4442,7 @@ rbs =
     }
 
 
+{-| The color for 'RDoc' -}
 rdoc : Color
 rdoc =
     { elmui = Element.rgb255 112 21 22
@@ -4008,6 +4452,7 @@ rdoc =
     }
 
 
+{-| The color for 'REALbasic' -}
 realbasic : Color
 realbasic =
     { elmui = Element.rgb255 204 204 204
@@ -4017,6 +4462,7 @@ realbasic =
     }
 
 
+{-| The color for 'REXX' -}
 rexx : Color
 rexx =
     { elmui = Element.rgb255 217 14 9
@@ -4026,6 +4472,7 @@ rexx =
     }
 
 
+{-| The color for 'RMarkdown' -}
 rmarkdown : Color
 rmarkdown =
     { elmui = Element.rgb255 25 140 231
@@ -4035,6 +4482,7 @@ rmarkdown =
     }
 
 
+{-| The color for 'RPC' -}
 rpc : Color
 rpc =
     { elmui = Element.rgb255 204 204 204
@@ -4044,6 +4492,7 @@ rpc =
     }
 
 
+{-| The color for 'RPGLE' -}
 rpgle : Color
 rpgle =
     { elmui = Element.rgb255 43 222 33
@@ -4053,6 +4502,7 @@ rpgle =
     }
 
 
+{-| The color for 'RUNOFF' -}
 runoff : Color
 runoff =
     { elmui = Element.rgb255 102 90 78
@@ -4062,6 +4512,7 @@ runoff =
     }
 
 
+{-| The color for 'Racket' -}
 racket : Color
 racket =
     { elmui = Element.rgb255 60 92 170
@@ -4071,6 +4522,7 @@ racket =
     }
 
 
+{-| The color for 'Ragel' -}
 ragel : Color
 ragel =
     { elmui = Element.rgb255 157 82 0
@@ -4080,6 +4532,7 @@ ragel =
     }
 
 
+{-| The color for 'Raku' -}
 raku : Color
 raku =
     { elmui = Element.rgb255 0 0 251
@@ -4089,6 +4542,7 @@ raku =
     }
 
 
+{-| The color for 'Rascal' -}
 rascal : Color
 rascal =
     { elmui = Element.rgb255 255 250 160
@@ -4098,6 +4552,7 @@ rascal =
     }
 
 
+{-| The color for 'ReScript' -}
 rescript : Color
 rescript =
     { elmui = Element.rgb255 237 80 81
@@ -4107,6 +4562,7 @@ rescript =
     }
 
 
+{-| The color for 'Reason' -}
 reason : Color
 reason =
     { elmui = Element.rgb255 255 88 71
@@ -4116,6 +4572,7 @@ reason =
     }
 
 
+{-| The color for 'ReasonLIGO' -}
 reasonligo : Color
 reasonligo =
     { elmui = Element.rgb255 255 88 71
@@ -4125,6 +4582,7 @@ reasonligo =
     }
 
 
+{-| The color for 'Rebol' -}
 rebol : Color
 rebol =
     { elmui = Element.rgb255 53 138 91
@@ -4134,6 +4592,7 @@ rebol =
     }
 
 
+{-| The color for 'Record Jar' -}
 record_jar : Color
 record_jar =
     { elmui = Element.rgb255 6 115 186
@@ -4143,6 +4602,7 @@ record_jar =
     }
 
 
+{-| The color for 'Red' -}
 red : Color
 red =
     { elmui = Element.rgb255 245 0 0
@@ -4152,6 +4612,7 @@ red =
     }
 
 
+{-| The color for 'Redcode' -}
 redcode : Color
 redcode =
     { elmui = Element.rgb255 204 204 204
@@ -4161,6 +4622,7 @@ redcode =
     }
 
 
+{-| The color for 'Regular Expression' -}
 regular_expression : Color
 regular_expression =
     { elmui = Element.rgb255 0 154 0
@@ -4170,6 +4632,7 @@ regular_expression =
     }
 
 
+{-| The color for 'Ren'Py' -}
 ren_py : Color
 ren_py =
     { elmui = Element.rgb255 255 127 127
@@ -4179,6 +4642,7 @@ ren_py =
     }
 
 
+{-| The color for 'RenderScript' -}
 renderscript : Color
 renderscript =
     { elmui = Element.rgb255 204 204 204
@@ -4188,6 +4652,7 @@ renderscript =
     }
 
 
+{-| The color for 'Ring' -}
 ring : Color
 ring =
     { elmui = Element.rgb255 45 84 203
@@ -4197,6 +4662,7 @@ ring =
     }
 
 
+{-| The color for 'Riot' -}
 riot : Color
 riot =
     { elmui = Element.rgb255 167 30 73
@@ -4206,6 +4672,7 @@ riot =
     }
 
 
+{-| The color for 'RobotFramework' -}
 robotframework : Color
 robotframework =
     { elmui = Element.rgb255 0 192 181
@@ -4215,6 +4682,7 @@ robotframework =
     }
 
 
+{-| The color for 'Roff' -}
 roff : Color
 roff =
     { elmui = Element.rgb255 236 222 190
@@ -4224,6 +4692,7 @@ roff =
     }
 
 
+{-| The color for 'Roff Manpage' -}
 roff_manpage : Color
 roff_manpage =
     { elmui = Element.rgb255 236 222 190
@@ -4233,6 +4702,7 @@ roff_manpage =
     }
 
 
+{-| The color for 'Rouge' -}
 rouge : Color
 rouge =
     { elmui = Element.rgb255 204 0 136
@@ -4242,6 +4712,7 @@ rouge =
     }
 
 
+{-| The color for 'RouterOS Script' -}
 routeros_script : Color
 routeros_script =
     { elmui = Element.rgb255 222 57 65
@@ -4251,6 +4722,7 @@ routeros_script =
     }
 
 
+{-| The color for 'Ruby' -}
 ruby : Color
 ruby =
     { elmui = Element.rgb255 112 21 22
@@ -4260,6 +4732,7 @@ ruby =
     }
 
 
+{-| The color for 'Rust' -}
 rust : Color
 rust =
     { elmui = Element.rgb255 222 165 132
@@ -4269,6 +4742,7 @@ rust =
     }
 
 
+{-| The color for 'SAS' -}
 sas : Color
 sas =
     { elmui = Element.rgb255 179 73 54
@@ -4278,6 +4752,7 @@ sas =
     }
 
 
+{-| The color for 'SCSS' -}
 scss : Color
 scss =
     { elmui = Element.rgb255 198 83 140
@@ -4287,6 +4762,7 @@ scss =
     }
 
 
+{-| The color for 'SMT' -}
 smt : Color
 smt =
     { elmui = Element.rgb255 204 204 204
@@ -4296,6 +4772,7 @@ smt =
     }
 
 
+{-| The color for 'SPARQL' -}
 sparql : Color
 sparql =
     { elmui = Element.rgb255 12 69 151
@@ -4305,6 +4782,7 @@ sparql =
     }
 
 
+{-| The color for 'SQF' -}
 sqf : Color
 sqf =
     { elmui = Element.rgb255 63 63 63
@@ -4314,6 +4792,7 @@ sqf =
     }
 
 
+{-| The color for 'SQL' -}
 sql : Color
 sql =
     { elmui = Element.rgb255 227 140 0
@@ -4323,6 +4802,7 @@ sql =
     }
 
 
+{-| The color for 'SQLPL' -}
 sqlpl : Color
 sqlpl =
     { elmui = Element.rgb255 227 140 0
@@ -4332,6 +4812,7 @@ sqlpl =
     }
 
 
+{-| The color for 'SRecode Template' -}
 srecode_template : Color
 srecode_template =
     { elmui = Element.rgb255 52 138 52
@@ -4341,6 +4822,7 @@ srecode_template =
     }
 
 
+{-| The color for 'STL' -}
 stl : Color
 stl =
     { elmui = Element.rgb255 55 59 94
@@ -4350,6 +4832,7 @@ stl =
     }
 
 
+{-| The color for 'SVG' -}
 svg : Color
 svg =
     { elmui = Element.rgb255 255 153 0
@@ -4359,6 +4842,7 @@ svg =
     }
 
 
+{-| The color for 'SWIG' -}
 swig : Color
 swig =
     { elmui = Element.rgb255 204 204 204
@@ -4368,6 +4852,7 @@ swig =
     }
 
 
+{-| The color for 'Sage' -}
 sage : Color
 sage =
     { elmui = Element.rgb255 204 204 204
@@ -4377,6 +4862,7 @@ sage =
     }
 
 
+{-| The color for 'SaltStack' -}
 saltstack : Color
 saltstack =
     { elmui = Element.rgb255 100 100 100
@@ -4386,6 +4872,7 @@ saltstack =
     }
 
 
+{-| The color for 'Sass' -}
 sass : Color
 sass =
     { elmui = Element.rgb255 165 59 112
@@ -4395,6 +4882,7 @@ sass =
     }
 
 
+{-| The color for 'Scala' -}
 scala : Color
 scala =
     { elmui = Element.rgb255 194 45 64
@@ -4404,6 +4892,7 @@ scala =
     }
 
 
+{-| The color for 'Scaml' -}
 scaml : Color
 scaml =
     { elmui = Element.rgb255 189 24 26
@@ -4413,6 +4902,7 @@ scaml =
     }
 
 
+{-| The color for 'Scenic' -}
 scenic : Color
 scenic =
     { elmui = Element.rgb255 253 199 0
@@ -4422,6 +4912,7 @@ scenic =
     }
 
 
+{-| The color for 'Scheme' -}
 scheme : Color
 scheme =
     { elmui = Element.rgb255 30 74 236
@@ -4431,6 +4922,7 @@ scheme =
     }
 
 
+{-| The color for 'Scilab' -}
 scilab : Color
 scilab =
     { elmui = Element.rgb255 202 15 33
@@ -4440,6 +4932,7 @@ scilab =
     }
 
 
+{-| The color for 'Self' -}
 self : Color
 self =
     { elmui = Element.rgb255 5 121 170
@@ -4449,6 +4942,7 @@ self =
     }
 
 
+{-| The color for 'ShaderLab' -}
 shaderlab : Color
 shaderlab =
     { elmui = Element.rgb255 34 44 55
@@ -4458,6 +4952,7 @@ shaderlab =
     }
 
 
+{-| The color for 'Shell' -}
 shell : Color
 shell =
     { elmui = Element.rgb255 137 224 81
@@ -4467,6 +4962,7 @@ shell =
     }
 
 
+{-| The color for 'ShellCheck Config' -}
 shellcheck_config : Color
 shellcheck_config =
     { elmui = Element.rgb255 206 207 203
@@ -4476,6 +4972,7 @@ shellcheck_config =
     }
 
 
+{-| The color for 'ShellSession' -}
 shellsession : Color
 shellsession =
     { elmui = Element.rgb255 204 204 204
@@ -4485,6 +4982,7 @@ shellsession =
     }
 
 
+{-| The color for 'Shen' -}
 shen : Color
 shen =
     { elmui = Element.rgb255 18 15 20
@@ -4494,6 +4992,7 @@ shen =
     }
 
 
+{-| The color for 'Sieve' -}
 sieve : Color
 sieve =
     { elmui = Element.rgb255 204 204 204
@@ -4503,6 +5002,7 @@ sieve =
     }
 
 
+{-| The color for 'Simple File Verification' -}
 simple_file_verification : Color
 simple_file_verification =
     { elmui = Element.rgb255 201 191 237
@@ -4512,6 +5012,7 @@ simple_file_verification =
     }
 
 
+{-| The color for 'Singularity' -}
 singularity : Color
 singularity =
     { elmui = Element.rgb255 100 230 173
@@ -4521,6 +5022,7 @@ singularity =
     }
 
 
+{-| The color for 'Slash' -}
 slash : Color
 slash =
     { elmui = Element.rgb255 0 126 255
@@ -4530,6 +5032,7 @@ slash =
     }
 
 
+{-| The color for 'Slice' -}
 slice : Color
 slice =
     { elmui = Element.rgb255 0 63 162
@@ -4539,6 +5042,7 @@ slice =
     }
 
 
+{-| The color for 'Slim' -}
 slim : Color
 slim =
     { elmui = Element.rgb255 43 43 43
@@ -4548,6 +5052,7 @@ slim =
     }
 
 
+{-| The color for 'SmPL' -}
 smpl : Color
 smpl =
     { elmui = Element.rgb255 201 73 73
@@ -4557,6 +5062,7 @@ smpl =
     }
 
 
+{-| The color for 'Smali' -}
 smali : Color
 smali =
     { elmui = Element.rgb255 204 204 204
@@ -4566,6 +5072,7 @@ smali =
     }
 
 
+{-| The color for 'Smalltalk' -}
 smalltalk : Color
 smalltalk =
     { elmui = Element.rgb255 89 103 6
@@ -4575,6 +5082,7 @@ smalltalk =
     }
 
 
+{-| The color for 'Smarty' -}
 smarty : Color
 smarty =
     { elmui = Element.rgb255 240 192 64
@@ -4584,6 +5092,7 @@ smarty =
     }
 
 
+{-| The color for 'Smithy' -}
 smithy : Color
 smithy =
     { elmui = Element.rgb255 196 69 54
@@ -4593,6 +5102,7 @@ smithy =
     }
 
 
+{-| The color for 'Snakemake' -}
 snakemake : Color
 snakemake =
     { elmui = Element.rgb255 65 145 121
@@ -4602,6 +5112,7 @@ snakemake =
     }
 
 
+{-| The color for 'Solidity' -}
 solidity : Color
 solidity =
     { elmui = Element.rgb255 170 103 70
@@ -4611,6 +5122,7 @@ solidity =
     }
 
 
+{-| The color for 'SourcePawn' -}
 sourcepawn : Color
 sourcepawn =
     { elmui = Element.rgb255 246 158 29
@@ -4620,6 +5132,7 @@ sourcepawn =
     }
 
 
+{-| The color for 'Squirrel' -}
 squirrel : Color
 squirrel =
     { elmui = Element.rgb255 128 0 0
@@ -4629,6 +5142,7 @@ squirrel =
     }
 
 
+{-| The color for 'Stan' -}
 stan : Color
 stan =
     { elmui = Element.rgb255 178 1 29
@@ -4638,6 +5152,7 @@ stan =
     }
 
 
+{-| The color for 'Standard ML' -}
 standard_ml : Color
 standard_ml =
     { elmui = Element.rgb255 220 86 109
@@ -4647,6 +5162,7 @@ standard_ml =
     }
 
 
+{-| The color for 'Starlark' -}
 starlark : Color
 starlark =
     { elmui = Element.rgb255 118 210 117
@@ -4656,6 +5172,7 @@ starlark =
     }
 
 
+{-| The color for 'Stata' -}
 stata : Color
 stata =
     { elmui = Element.rgb255 26 95 145
@@ -4665,6 +5182,7 @@ stata =
     }
 
 
+{-| The color for 'StringTemplate' -}
 stringtemplate : Color
 stringtemplate =
     { elmui = Element.rgb255 63 179 79
@@ -4674,6 +5192,7 @@ stringtemplate =
     }
 
 
+{-| The color for 'Stylus' -}
 stylus : Color
 stylus =
     { elmui = Element.rgb255 255 99 71
@@ -4683,6 +5202,7 @@ stylus =
     }
 
 
+{-| The color for 'SubRip Text' -}
 subrip_text : Color
 subrip_text =
     { elmui = Element.rgb255 158 1 1
@@ -4692,6 +5212,7 @@ subrip_text =
     }
 
 
+{-| The color for 'SugarSS' -}
 sugarss : Color
 sugarss =
     { elmui = Element.rgb255 47 204 159
@@ -4701,6 +5222,7 @@ sugarss =
     }
 
 
+{-| The color for 'SuperCollider' -}
 supercollider : Color
 supercollider =
     { elmui = Element.rgb255 70 57 11
@@ -4710,6 +5232,7 @@ supercollider =
     }
 
 
+{-| The color for 'Svelte' -}
 svelte : Color
 svelte =
     { elmui = Element.rgb255 255 62 0
@@ -4719,6 +5242,7 @@ svelte =
     }
 
 
+{-| The color for 'Sway' -}
 sway : Color
 sway =
     { elmui = Element.rgb255 222 165 132
@@ -4728,6 +5252,7 @@ sway =
     }
 
 
+{-| The color for 'Swift' -}
 swift : Color
 swift =
     { elmui = Element.rgb255 240 81 56
@@ -4737,6 +5262,7 @@ swift =
     }
 
 
+{-| The color for 'SystemVerilog' -}
 systemverilog : Color
 systemverilog =
     { elmui = Element.rgb255 218 225 194
@@ -4746,6 +5272,7 @@ systemverilog =
     }
 
 
+{-| The color for 'TI Program' -}
 ti_program : Color
 ti_program =
     { elmui = Element.rgb255 160 170 135
@@ -4755,6 +5282,7 @@ ti_program =
     }
 
 
+{-| The color for 'TL-Verilog' -}
 tl_verilog : Color
 tl_verilog =
     { elmui = Element.rgb255 196 0 35
@@ -4764,6 +5292,7 @@ tl_verilog =
     }
 
 
+{-| The color for 'TLA' -}
 tla : Color
 tla =
     { elmui = Element.rgb255 75 0 121
@@ -4773,6 +5302,7 @@ tla =
     }
 
 
+{-| The color for 'TOML' -}
 toml : Color
 toml =
     { elmui = Element.rgb255 156 66 33
@@ -4782,6 +5312,7 @@ toml =
     }
 
 
+{-| The color for 'TSQL' -}
 tsql : Color
 tsql =
     { elmui = Element.rgb255 227 140 0
@@ -4791,6 +5322,7 @@ tsql =
     }
 
 
+{-| The color for 'TSV' -}
 tsv : Color
 tsv =
     { elmui = Element.rgb255 35 115 70
@@ -4800,6 +5332,7 @@ tsv =
     }
 
 
+{-| The color for 'TSX' -}
 tsx : Color
 tsx =
     { elmui = Element.rgb255 49 120 198
@@ -4809,6 +5342,7 @@ tsx =
     }
 
 
+{-| The color for 'TXL' -}
 txl : Color
 txl =
     { elmui = Element.rgb255 1 120 184
@@ -4818,6 +5352,7 @@ txl =
     }
 
 
+{-| The color for 'Talon' -}
 talon : Color
 talon =
     { elmui = Element.rgb255 51 51 51
@@ -4827,6 +5362,7 @@ talon =
     }
 
 
+{-| The color for 'Tcl' -}
 tcl : Color
 tcl =
     { elmui = Element.rgb255 228 204 152
@@ -4836,6 +5372,7 @@ tcl =
     }
 
 
+{-| The color for 'Tcsh' -}
 tcsh : Color
 tcsh =
     { elmui = Element.rgb255 204 204 204
@@ -4845,6 +5382,7 @@ tcsh =
     }
 
 
+{-| The color for 'TeX' -}
 tex : Color
 tex =
     { elmui = Element.rgb255 61 97 23
@@ -4854,6 +5392,7 @@ tex =
     }
 
 
+{-| The color for 'Terra' -}
 terra : Color
 terra =
     { elmui = Element.rgb255 0 0 76
@@ -4863,6 +5402,7 @@ terra =
     }
 
 
+{-| The color for 'TextMate Properties' -}
 textmate_properties : Color
 textmate_properties =
     { elmui = Element.rgb255 223 102 228
@@ -4872,6 +5412,7 @@ textmate_properties =
     }
 
 
+{-| The color for 'Textile' -}
 textile : Color
 textile =
     { elmui = Element.rgb255 255 231 172
@@ -4881,6 +5422,7 @@ textile =
     }
 
 
+{-| The color for 'Thrift' -}
 thrift : Color
 thrift =
     { elmui = Element.rgb255 209 33 39
@@ -4890,6 +5432,7 @@ thrift =
     }
 
 
+{-| The color for 'Turing' -}
 turing : Color
 turing =
     { elmui = Element.rgb255 207 20 43
@@ -4899,6 +5442,7 @@ turing =
     }
 
 
+{-| The color for 'Twig' -}
 twig : Color
 twig =
     { elmui = Element.rgb255 193 208 38
@@ -4908,6 +5452,7 @@ twig =
     }
 
 
+{-| The color for 'TypeScript' -}
 typescript : Color
 typescript =
     { elmui = Element.rgb255 49 120 198
@@ -4917,6 +5462,7 @@ typescript =
     }
 
 
+{-| The color for 'Unified Parallel C' -}
 unified_parallel_c : Color
 unified_parallel_c =
     { elmui = Element.rgb255 78 54 23
@@ -4926,6 +5472,7 @@ unified_parallel_c =
     }
 
 
+{-| The color for 'Unity3D Asset' -}
 unity3d_asset : Color
 unity3d_asset =
     { elmui = Element.rgb255 34 44 55
@@ -4935,6 +5482,7 @@ unity3d_asset =
     }
 
 
+{-| The color for 'Unix Assembly' -}
 unix_assembly : Color
 unix_assembly =
     { elmui = Element.rgb255 204 204 204
@@ -4944,6 +5492,7 @@ unix_assembly =
     }
 
 
+{-| The color for 'Uno' -}
 uno : Color
 uno =
     { elmui = Element.rgb255 153 51 204
@@ -4953,6 +5502,7 @@ uno =
     }
 
 
+{-| The color for 'UnrealScript' -}
 unrealscript : Color
 unrealscript =
     { elmui = Element.rgb255 165 76 77
@@ -4962,6 +5512,7 @@ unrealscript =
     }
 
 
+{-| The color for 'UrWeb' -}
 urweb : Color
 urweb =
     { elmui = Element.rgb255 204 204 238
@@ -4971,6 +5522,7 @@ urweb =
     }
 
 
+{-| The color for 'V' -}
 v : Color
 v =
     { elmui = Element.rgb255 79 135 196
@@ -4980,6 +5532,7 @@ v =
     }
 
 
+{-| The color for 'VBA' -}
 vba : Color
 vba =
     { elmui = Element.rgb255 134 125 177
@@ -4989,6 +5542,7 @@ vba =
     }
 
 
+{-| The color for 'VBScript' -}
 vbscript : Color
 vbscript =
     { elmui = Element.rgb255 21 220 220
@@ -4998,6 +5552,7 @@ vbscript =
     }
 
 
+{-| The color for 'VCL' -}
 vcl : Color
 vcl =
     { elmui = Element.rgb255 20 138 168
@@ -5007,6 +5562,7 @@ vcl =
     }
 
 
+{-| The color for 'VHDL' -}
 vhdl : Color
 vhdl =
     { elmui = Element.rgb255 173 178 203
@@ -5016,6 +5572,7 @@ vhdl =
     }
 
 
+{-| The color for 'Vala' -}
 vala : Color
 vala =
     { elmui = Element.rgb255 165 109 226
@@ -5025,6 +5582,7 @@ vala =
     }
 
 
+{-| The color for 'Valve Data Format' -}
 valve_data_format : Color
 valve_data_format =
     { elmui = Element.rgb255 242 96 37
@@ -5034,6 +5592,7 @@ valve_data_format =
     }
 
 
+{-| The color for 'Velocity Template Language' -}
 velocity_template_language : Color
 velocity_template_language =
     { elmui = Element.rgb255 80 124 255
@@ -5043,6 +5602,7 @@ velocity_template_language =
     }
 
 
+{-| The color for 'Verilog' -}
 verilog : Color
 verilog =
     { elmui = Element.rgb255 178 183 248
@@ -5052,6 +5612,7 @@ verilog =
     }
 
 
+{-| The color for 'Vim Help File' -}
 vim_help_file : Color
 vim_help_file =
     { elmui = Element.rgb255 25 159 75
@@ -5061,6 +5622,7 @@ vim_help_file =
     }
 
 
+{-| The color for 'Vim Script' -}
 vim_script : Color
 vim_script =
     { elmui = Element.rgb255 25 159 75
@@ -5070,6 +5632,7 @@ vim_script =
     }
 
 
+{-| The color for 'Vim Snippet' -}
 vim_snippet : Color
 vim_snippet =
     { elmui = Element.rgb255 25 159 75
@@ -5079,6 +5642,7 @@ vim_snippet =
     }
 
 
+{-| The color for 'Visual Basic .NET' -}
 visual_basic__net : Color
 visual_basic__net =
     { elmui = Element.rgb255 148 93 183
@@ -5088,6 +5652,7 @@ visual_basic__net =
     }
 
 
+{-| The color for 'Visual Basic 6.0' -}
 visual_basic_6_0 : Color
 visual_basic_6_0 =
     { elmui = Element.rgb255 44 99 83
@@ -5097,6 +5662,7 @@ visual_basic_6_0 =
     }
 
 
+{-| The color for 'Volt' -}
 volt : Color
 volt =
     { elmui = Element.rgb255 31 31 31
@@ -5106,6 +5672,7 @@ volt =
     }
 
 
+{-| The color for 'Vue' -}
 vue : Color
 vue =
     { elmui = Element.rgb255 65 184 131
@@ -5115,6 +5682,7 @@ vue =
     }
 
 
+{-| The color for 'Vyper' -}
 vyper : Color
 vyper =
     { elmui = Element.rgb255 41 128 185
@@ -5124,6 +5692,7 @@ vyper =
     }
 
 
+{-| The color for 'WDL' -}
 wdl : Color
 wdl =
     { elmui = Element.rgb255 66 241 244
@@ -5133,6 +5702,7 @@ wdl =
     }
 
 
+{-| The color for 'WGSL' -}
 wgsl : Color
 wgsl =
     { elmui = Element.rgb255 26 94 154
@@ -5142,6 +5712,7 @@ wgsl =
     }
 
 
+{-| The color for 'Web Ontology Language' -}
 web_ontology_language : Color
 web_ontology_language =
     { elmui = Element.rgb255 91 112 189
@@ -5151,6 +5722,7 @@ web_ontology_language =
     }
 
 
+{-| The color for 'WebAssembly' -}
 webassembly : Color
 webassembly =
     { elmui = Element.rgb255 4 19 59
@@ -5160,6 +5732,7 @@ webassembly =
     }
 
 
+{-| The color for 'WebAssembly Interface Type' -}
 webassembly_interface_type : Color
 webassembly_interface_type =
     { elmui = Element.rgb255 98 80 231
@@ -5169,6 +5742,7 @@ webassembly_interface_type =
     }
 
 
+{-| The color for 'WebIDL' -}
 webidl : Color
 webidl =
     { elmui = Element.rgb255 204 204 204
@@ -5178,6 +5752,7 @@ webidl =
     }
 
 
+{-| The color for 'Whiley' -}
 whiley : Color
 whiley =
     { elmui = Element.rgb255 213 195 151
@@ -5187,6 +5762,7 @@ whiley =
     }
 
 
+{-| The color for 'Wikitext' -}
 wikitext : Color
 wikitext =
     { elmui = Element.rgb255 252 87 87
@@ -5196,6 +5772,7 @@ wikitext =
     }
 
 
+{-| The color for 'Windows Registry Entries' -}
 windows_registry_entries : Color
 windows_registry_entries =
     { elmui = Element.rgb255 82 213 255
@@ -5205,6 +5782,7 @@ windows_registry_entries =
     }
 
 
+{-| The color for 'Witcher Script' -}
 witcher_script : Color
 witcher_script =
     { elmui = Element.rgb255 255 0 0
@@ -5214,6 +5792,7 @@ witcher_script =
     }
 
 
+{-| The color for 'Wollok' -}
 wollok : Color
 wollok =
     { elmui = Element.rgb255 162 55 56
@@ -5223,6 +5802,7 @@ wollok =
     }
 
 
+{-| The color for 'World of Warcraft Addon Data' -}
 world_of_warcraft_addon_data : Color
 world_of_warcraft_addon_data =
     { elmui = Element.rgb255 247 228 63
@@ -5232,6 +5812,7 @@ world_of_warcraft_addon_data =
     }
 
 
+{-| The color for 'Wren' -}
 wren : Color
 wren =
     { elmui = Element.rgb255 56 56 56
@@ -5241,6 +5822,7 @@ wren =
     }
 
 
+{-| The color for 'X10' -}
 x10 : Color
 x10 =
     { elmui = Element.rgb255 75 107 239
@@ -5250,6 +5832,7 @@ x10 =
     }
 
 
+{-| The color for 'XC' -}
 xc : Color
 xc =
     { elmui = Element.rgb255 153 218 7
@@ -5259,6 +5842,7 @@ xc =
     }
 
 
+{-| The color for 'XML' -}
 xml : Color
 xml =
     { elmui = Element.rgb255 0 96 172
@@ -5268,6 +5852,7 @@ xml =
     }
 
 
+{-| The color for 'XML Property List' -}
 xml_property_list : Color
 xml_property_list =
     { elmui = Element.rgb255 0 96 172
@@ -5277,6 +5862,7 @@ xml_property_list =
     }
 
 
+{-| The color for 'XProc' -}
 xproc : Color
 xproc =
     { elmui = Element.rgb255 204 204 204
@@ -5286,6 +5872,7 @@ xproc =
     }
 
 
+{-| The color for 'XQuery' -}
 xquery : Color
 xquery =
     { elmui = Element.rgb255 82 50 231
@@ -5295,6 +5882,7 @@ xquery =
     }
 
 
+{-| The color for 'XS' -}
 xs : Color
 xs =
     { elmui = Element.rgb255 204 204 204
@@ -5304,6 +5892,7 @@ xs =
     }
 
 
+{-| The color for 'XSLT' -}
 xslt : Color
 xslt =
     { elmui = Element.rgb255 235 140 235
@@ -5313,6 +5902,7 @@ xslt =
     }
 
 
+{-| The color for 'Xojo' -}
 xojo : Color
 xojo =
     { elmui = Element.rgb255 129 189 65
@@ -5322,6 +5912,7 @@ xojo =
     }
 
 
+{-| The color for 'Xonsh' -}
 xonsh : Color
 xonsh =
     { elmui = Element.rgb255 40 94 239
@@ -5331,6 +5922,7 @@ xonsh =
     }
 
 
+{-| The color for 'Xtend' -}
 xtend : Color
 xtend =
     { elmui = Element.rgb255 36 37 93
@@ -5340,6 +5932,7 @@ xtend =
     }
 
 
+{-| The color for 'YAML' -}
 yaml : Color
 yaml =
     { elmui = Element.rgb255 203 23 30
@@ -5349,6 +5942,7 @@ yaml =
     }
 
 
+{-| The color for 'YARA' -}
 yara : Color
 yara =
     { elmui = Element.rgb255 34 0 0
@@ -5358,6 +5952,7 @@ yara =
     }
 
 
+{-| The color for 'YASnippet' -}
 yasnippet : Color
 yasnippet =
     { elmui = Element.rgb255 50 171 144
@@ -5367,6 +5962,7 @@ yasnippet =
     }
 
 
+{-| The color for 'Yacc' -}
 yacc : Color
 yacc =
     { elmui = Element.rgb255 75 108 75
@@ -5376,6 +5972,7 @@ yacc =
     }
 
 
+{-| The color for 'Yul' -}
 yul : Color
 yul =
     { elmui = Element.rgb255 121 73 50
@@ -5385,6 +5982,7 @@ yul =
     }
 
 
+{-| The color for 'ZAP' -}
 zap : Color
 zap =
     { elmui = Element.rgb255 13 102 94
@@ -5394,6 +5992,7 @@ zap =
     }
 
 
+{-| The color for 'ZIL' -}
 zil : Color
 zil =
     { elmui = Element.rgb255 220 117 229
@@ -5403,6 +6002,7 @@ zil =
     }
 
 
+{-| The color for 'Zeek' -}
 zeek : Color
 zeek =
     { elmui = Element.rgb255 204 204 204
@@ -5412,6 +6012,7 @@ zeek =
     }
 
 
+{-| The color for 'ZenScript' -}
 zenscript : Color
 zenscript =
     { elmui = Element.rgb255 0 188 209
@@ -5421,6 +6022,7 @@ zenscript =
     }
 
 
+{-| The color for 'Zephir' -}
 zephir : Color
 zephir =
     { elmui = Element.rgb255 17 143 158
@@ -5430,6 +6032,7 @@ zephir =
     }
 
 
+{-| The color for 'Zig' -}
 zig : Color
 zig =
     { elmui = Element.rgb255 236 145 92
@@ -5439,6 +6042,7 @@ zig =
     }
 
 
+{-| The color for 'Zimpl' -}
 zimpl : Color
 zimpl =
     { elmui = Element.rgb255 214 119 17
@@ -5448,6 +6052,7 @@ zimpl =
     }
 
 
+{-| The color for 'eC' -}
 ec : Color
 ec =
     { elmui = Element.rgb255 145 57 96
@@ -5457,6 +6062,7 @@ ec =
     }
 
 
+{-| The color for 'fish' -}
 fish : Color
 fish =
     { elmui = Element.rgb255 74 174 71
@@ -5466,6 +6072,7 @@ fish =
     }
 
 
+{-| The color for 'hoon' -}
 hoon : Color
 hoon =
     { elmui = Element.rgb255 0 177 113
@@ -5475,6 +6082,7 @@ hoon =
     }
 
 
+{-| The color for 'jq' -}
 jq : Color
 jq =
     { elmui = Element.rgb255 199 37 78
@@ -5484,6 +6092,7 @@ jq =
     }
 
 
+{-| The color for 'kvlang' -}
 kvlang : Color
 kvlang =
     { elmui = Element.rgb255 29 166 224
@@ -5493,6 +6102,7 @@ kvlang =
     }
 
 
+{-| The color for 'mIRC Script' -}
 mirc_script : Color
 mirc_script =
     { elmui = Element.rgb255 61 87 195
@@ -5502,6 +6112,7 @@ mirc_script =
     }
 
 
+{-| The color for 'mcfunction' -}
 mcfunction : Color
 mcfunction =
     { elmui = Element.rgb255 226 40 55
@@ -5511,6 +6122,7 @@ mcfunction =
     }
 
 
+{-| The color for 'mupad' -}
 mupad : Color
 mupad =
     { elmui = Element.rgb255 36 73 99
@@ -5520,6 +6132,7 @@ mupad =
     }
 
 
+{-| The color for 'nanorc' -}
 nanorc : Color
 nanorc =
     { elmui = Element.rgb255 45 0 77
@@ -5529,6 +6142,7 @@ nanorc =
     }
 
 
+{-| The color for 'nesC' -}
 nesc : Color
 nesc =
     { elmui = Element.rgb255 148 176 199
@@ -5538,6 +6152,7 @@ nesc =
     }
 
 
+{-| The color for 'ooc' -}
 ooc : Color
 ooc =
     { elmui = Element.rgb255 176 183 126
@@ -5547,6 +6162,7 @@ ooc =
     }
 
 
+{-| The color for 'q' -}
 q : Color
 q =
     { elmui = Element.rgb255 0 64 205
@@ -5556,6 +6172,7 @@ q =
     }
 
 
+{-| The color for 'reStructuredText' -}
 restructuredtext : Color
 restructuredtext =
     { elmui = Element.rgb255 20 20 20
@@ -5565,6 +6182,7 @@ restructuredtext =
     }
 
 
+{-| The color for 'sed' -}
 sed : Color
 sed =
     { elmui = Element.rgb255 100 185 112
@@ -5574,6 +6192,7 @@ sed =
     }
 
 
+{-| The color for 'wisp' -}
 wisp : Color
 wisp =
     { elmui = Element.rgb255 117 130 209
@@ -5583,6 +6202,7 @@ wisp =
     }
 
 
+{-| The color for 'xBase' -}
 xbase : Color
 xbase =
     { elmui = Element.rgb255 64 58 64

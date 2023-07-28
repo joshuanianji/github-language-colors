@@ -25,13 +25,12 @@ generate files =
 
 colorType : Type.Annotation
 colorType =
-        Type.record
-            [ ( "elmui", Gen.Element.annotation_.color )
-            , ( "color", Gen.Color.annotation_.color )
-            , ( "hex", Type.string )
-            , ( "rgb", Type.triple Type.int Type.int Type.int )
-            ]
-        
+    Type.record
+        [ ( "elmui", Gen.Element.annotation_.color )
+        , ( "color", Gen.Color.annotation_.color )
+        , ( "hex", Type.string )
+        , ( "rgb", Type.triple Type.int Type.int Type.int )
+        ]
 
 
 generateColor : WithProcessed (WithName FlagColor) -> Elm.Declaration
@@ -49,3 +48,4 @@ generateColor color =
             ]
             |> Elm.withType (Type.alias [] "Color" [] colorType)
         )
+        |> Elm.withDocumentation ("The color for '" ++ color.name ++ "'")
