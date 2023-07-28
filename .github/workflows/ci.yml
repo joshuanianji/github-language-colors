@@ -18,8 +18,8 @@ jobs:
         with:
           node-version: 16
 
-      - uses: pnpm/action-setup@v2
-        name: Install pnpm
+      - name: Setup pnpm and Install
+        uses: pnpm/action-setup@v2
         with:
           version: 8
           run_install: true
