@@ -6,7 +6,6 @@ on:
       - main
     paths:
       - "src/**"
-      - elm.json
       - README.md
       - .github/workflows/bump.yml # self-triggering
   workflow_dispatch:
@@ -52,11 +51,6 @@ jobs:
         run: |
           new_version=$(jq -r '.version' elm.json)
           echo "new_version=$new_version" >> $GITHUB_ENV
-
-      # This mainly fixes the links in the documentation to point to the new version
-      - name: Fix possible elm-review errors
-        run: |
-          yes | pnpm elm-review --fix
 
       - name: Commit and Push to PR
         if: env.new_version != env.previous_version
