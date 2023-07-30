@@ -32,6 +32,11 @@ jobs:
           version: 8
           run_install: true
 
+      - name: Get previous version
+        run: |
+          previous_version=$(jq -r '.version' elm.json)
+          echo "previous_version=$previous_version" >> $GITHUB_ENV
+
       # use the elm diff output when we make the PR
       # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions
       - name: Elm diff output
@@ -42,12 +47,20 @@ jobs:
       - name: Run elm bump
         run: yes | pnpm elm bump
 
+      - name: Get new version
+        run: |
+          new_version=$(jq -r '.version' elm.json)
+          echo "new_version=$new_version" >> $GITHUB_ENV
+
       - name: Commit and Push to PR
         uses: gr2m/create-or-update-pull-request-action@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           title: Bump Versions
-          body: ${{ env.diff_msg }}
+          body: |
+            ${{ env.diff_msg }}
+
+            Update version from ${{ env.previous_version }} to ${{ env.new_version }}
           branch: bump-versions
           commit-message: Bump Versions [skip ci]
