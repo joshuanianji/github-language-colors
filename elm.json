@@ -1,9 +1,9 @@
 {
     "type": "package",
     "name": "joshuanianji/github-language-colors",
-    "summary": "Github language colours in Elm",
+    "summary": "A collection of all of Github's language colours in Elm.",
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "exposed-modules": [
         "GithubColors"
     ],
