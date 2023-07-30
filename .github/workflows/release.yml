@@ -48,3 +48,5 @@ jobs:
         with:
           tag: ${{ env.package_version }}
           name: v${{ env.package_version }}
+          body: |
+            https://package.elm-lang.org/packages/joshuanianji/github-language-colors/${{ env.package_version }}
