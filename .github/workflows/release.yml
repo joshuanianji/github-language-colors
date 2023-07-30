@@ -1,10 +1,11 @@
-name: CI
+name: Release version
 
 on:
   push:
-    branches: [main]
-  pull_request:
-    branches: [main]
+    branches:
+      - main
+    paths:
+      - elm.json
   workflow_dispatch:
 
 jobs:
@@ -17,7 +18,7 @@ jobs:
       - name: Install Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 18
 
       - name: Setup pnpm and Install
         uses: pnpm/action-setup@v2
@@ -31,13 +32,22 @@ jobs:
       - name: Run `elm-review`
         run: pnpm review
 
+      - name: Get version
+        run: |
+          version=$(jq -r '.version' elm.json)
+          echo "package_version=$version" >> $GITHUB_ENV
+
       - name: Publish
         id: publish
         uses: dillonkearns/elm-publish-action@v1
         with:
-          dry-run: true
           path-to-elm: ./node_modules/.bin/elm
+          github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Check publish status
+      # at this point, the publish action has created a tag and pushed it to GitHub
+      - name: Create Release from Tag
+        uses: ncipollo/release-action@v1
         if: steps.publish.outputs.is-publishable == 'true'
-        run: echo "elm-publish-action is going to publish if run without dry-run=true"
+        with:
+          tag: ${{ env.package_version }}
+          name: v${{ env.package_version }}
