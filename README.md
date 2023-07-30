@@ -4,10 +4,12 @@ A collection of all of Github's Language colours in Elm. Automatically updated u
 
 ## Usage
 
+See this in action [on Ellie](https://ellie-app.com/nwbX8y3Xbjha1)
+
 ```elm
-import GithubColors
 import Html exposing (Html)
 import Html.Attributes exposing (style)
+import GithubColors
 
 main : Html msg
 main =
@@ -49,6 +51,8 @@ E.g.
 - "C#" becomes "c_sharp"
 - "C++" becomes "cpp"
 - "2-Dimensional Array" becomes "lang_2_dimensional_array"
+
+If you find any are any issues with the langauge naming, please submit a PR!
 
 ## Run Locally
 
