@@ -9,10 +9,14 @@ resolve result =
     Result.andThen (\partial -> Result.map partial result)
 
 
+
 -- holds info about rgb and rgba
-type IntermediaryColor 
+
+
+type IntermediaryColor
     = RGB Int Int Int
     | RGBA Int Int Int Int -- from hex, alpha is 0-255. We try to keep it that way
+
 
 isJust : Maybe a -> Bool
 isJust maybe =
