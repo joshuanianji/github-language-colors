@@ -13,6 +13,9 @@ on:
 
 jobs:
   bump:
+    permissions:
+      contents: write # for gr2m/create-or-update-pull-request-action to push local changes
+      pull-requests: write # for gr2m/create-or-update-pull-request-action to create a PR
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
