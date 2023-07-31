@@ -64,5 +64,5 @@ jobs:
 
             Update version from ${{ env.previous_version }} to ${{ env.new_version }}
           branch: bump-versions
-          commit-message: Bump Versions [skip ci]
+          commit-message: Bump Versions 
           author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
