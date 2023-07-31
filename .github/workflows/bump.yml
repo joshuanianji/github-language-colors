@@ -56,7 +56,9 @@ jobs:
         if: env.new_version != env.previous_version
         uses: gr2m/create-or-update-pull-request-action@v1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # We cannot use the GITHUB_TOKEN here because workflows will not run when PRs are created by the GITHUB_TOKEN
+          # https://stackoverflow.com/a/72451611
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
           title: Bump Versions
           body: |
@@ -64,5 +66,5 @@ jobs:
 
             Update version from ${{ env.previous_version }} to ${{ env.new_version }}
           branch: bump-versions
-          commit-message: Bump Versions 
+          commit-message: Bump Versions
           author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
