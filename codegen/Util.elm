@@ -7,6 +7,8 @@ module Util exposing (..)
 resolve : Result x a -> Result x (a -> b) -> Result x b
 resolve result =
     Result.andThen (\partial -> Result.map partial result)
+
+
 isJust : Maybe a -> Bool
 isJust maybe =
     case maybe of
