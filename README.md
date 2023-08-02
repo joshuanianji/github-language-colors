@@ -57,7 +57,7 @@ E.g.
 - "C++" becomes "cpp"
 - "2-Dimensional Array" becomes "lang_2_dimensional_array"
 
-If you find any issues with the language naming, please submit a PR!
+If you find any issues with the language naming, please submit an issue or a PR!
 
 ## Run Locally
 
