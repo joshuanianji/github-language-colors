@@ -27,7 +27,7 @@ A full list of languages can be found in the [docs](https://package.elm-lang.org
 
 Each variable in the `GithubColors` holds the color information of a single Github language.
 
-**Github does not have colors for all languages!** For the languages with no colors, I've defaulted to "#ccc", which is what Github does in most cases. You can programmatically check if a language has a color by using the `.hasColor` method.
+**Github does not have colors for all languages!** For the languages with no colors, I've defaulted to "#ccc", which is what Github does in most cases. You can programmatically check if a language has a color by using the `.hasColor` field.
 
 Each variable is a `Color` type that looks like the following:
 
