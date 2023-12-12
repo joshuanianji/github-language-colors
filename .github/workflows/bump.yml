@@ -37,11 +37,15 @@ jobs:
           echo "previous_version=$previous_version" >> $GITHUB_ENV
 
       # use the elm diff output when we make the PR
-      # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions
+      # handles multiline strings
       - name: Elm diff output
+        id: step_one
         run: |
-          msg=$(pnpm elm diff)
-          echo "diff_msg=$msg" >> $GITHUB_ENV
+          {
+            echo 'DIFF_MSG<<EOF'
+            pnpm elm diff
+            echo EOF
+          } >> "$GITHUB_ENV"
 
       - name: Run elm bump
         run: yes | pnpm elm bump
@@ -62,7 +66,7 @@ jobs:
         with:
           title: Bump Versions
           body: |
-            ${{ env.diff_msg }}
+            ${{ env.DIFF_MSG }}
 
             Update version from ${{ env.previous_version }} to ${{ env.new_version }}
           branch: bump-versions
