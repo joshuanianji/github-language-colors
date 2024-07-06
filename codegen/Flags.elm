@@ -95,6 +95,9 @@ type alias Processed =
     { -- processed name
       name : String
 
+      -- with a capital letter, to be used as an Elm Type
+    , capitalizedName : String
+
     -- the hex color (with default applied)
     , hex : String
 
@@ -107,10 +110,14 @@ processNamed : WithName FlagColor -> Result Error Processed
 processNamed flag =
     Result.Ok Processed
         |> Util.resolve (processName flag.name)
+        |> Util.resolve (processName flag.name |> Result.map toCapitalized)
         |> Util.resolve (Ok <| Maybe.withDefault "#ccc" flag.color)
         -- for languages with no colors, Github defaults to #ccc in most cases
         |> Util.resolve (hexToColor <| Maybe.withDefault "#ccc" flag.color)
 
+toCapitalized : String -> String 
+toCapitalized name = 
+    "Lang_" ++ name
 
 {-| Converts a string to `Result` of color.
 

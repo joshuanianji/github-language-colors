@@ -12,6 +12,7 @@ import Gen.Element
 import Json.Decode exposing (Value)
 import Util
 import Gen.Dict
+import Elm.Case 
 
 
 main : Program Value () ()
@@ -45,7 +46,12 @@ The `elmui` and `color` fields are provided for convenience, but you can also us
         { docs = \l -> topLevelDoc :: List.map Elm.docs l
         , aliases = []
         }
-        (colorTypeDeclaration :: (generateLanguageDict flag) :: colorDeclarations)
+        (colorTypeDeclaration 
+            :: (generateLanguageType flag) 
+            :: (generateFromString flag)
+            :: (generateToString flag)
+            :: (generateToColor flag)
+            :: colorDeclarations)
     ]
 
 
@@ -72,6 +78,71 @@ colorTypeRecord =
         ]
 
 
+generateLanguageType : Flag -> Elm.Declaration
+generateLanguageType colors =   
+    List.map (\c -> Elm.variant c.processed.capitalizedName) colors
+        |> Elm.customType "Language"
+        |> Elm.withDocumentation ("A type representing all supported languages on Github.")
+        |> Elm.exposeWith 
+            { exposeConstructor = True 
+            , group = Just "Language"
+            }
+
+
+generateToString : Flag -> Elm.Declaration
+generateToString colors = 
+    let
+        cases = 
+            List.map 
+                (\c -> 
+                    Elm.Case.branch0
+                        c.processed.capitalizedName
+                        (Elm.string c.name)
+                )
+                colors
+    in 
+    Elm.fn ("Language", Just languageType) 
+        (\firstArg ->
+            Elm.Case.custom firstArg 
+                languageType
+                cases
+        )
+        |> Elm.declaration "toString"
+        |> Elm.withDocumentation ("Converts a `Language` value to its name")
+        |> Elm.exposeWith 
+            { exposeConstructor = False
+            , group = Just "Language Colors"
+            }
+
+
+-- String -> Maybe Language
+generateFromString : Flag -> Elm.Declaration
+generateFromString colors =
+    let
+        cases = 
+            List.map 
+                (\c -> 
+                    ( c.name
+                    , Elm.just (Elm.value { importFrom = [], name = c.processed.capitalizedName, annotation = Just languageType})
+                    )
+                )
+                colors
+    in 
+    Elm.fn ("String", Just Type.string) 
+        (\firstArg ->
+            Elm.Case.string firstArg
+                { cases = cases 
+                , otherwise = Elm.nothing
+                } 
+        )
+        |> Elm.declaration "fromString"
+        |> Elm.withDocumentation ("Converts a language name to a `Maybe Language` value. For example, \"C++\" -> `Just Lang_Cpp`")
+        |> Elm.exposeWith 
+            { exposeConstructor = False
+            , group = Just "Language Colors"
+            }
+
+
 generateColorDecl : WithProcessed (WithName FlagColor) -> Elm.Declaration
 generateColorDecl color =
     let
@@ -95,17 +166,35 @@ generateColorDecl color =
             }
 
 
-generateLanguageDict : Flag -> Elm.Declaration
-generateLanguageDict colors = 
-    let
-        languagesList =
-            List.map (\color -> Elm.tuple (Elm.string color.processed.name) (Elm.val color.processed.name)) colors
+generateToColor : Flag -> Elm.Declaration
+generateToColor colors =
+    let 
+        cases = 
+            List.map 
+                (\c -> 
+                    Elm.Case.branch0
+                        c.processed.capitalizedName
+                        (Elm.val c.processed.name)
+                )
+                colors
     in 
-    Gen.Dict.fromList languagesList
-        |> Elm.withType (Gen.Dict.annotation_.dict Type.string colorType)
-        |> Elm.declaration "languageDict"
-        |> Elm.withDocumentation ("Maps language string names to their respective color values.\n\nAccess it by `Dict.get \"language\" languageDict`. which returns a `Maybe Color` value.")
-        |> Elm.expose
+    Elm.fn ("Language", Just languageType) 
+        (\firstArg ->
+            Elm.Case.custom firstArg 
+                languageType
+                cases
+        )
+        |> Elm.declaration "toColor"
+        |> Elm.withDocumentation ("Converts a `Language` value to its name")
+        |> Elm.exposeWith 
+            { exposeConstructor = False
+            , group = Just "Language Colors"
+            }
+
+
+languageType : Type.Annotation 
+languageType = 
+    Type.alias [] "Language" [] Type.string
 
 
 colorType : Type.Annotation
