@@ -56,6 +56,10 @@ jobs:
           new_version=$(jq -r '.version' elm.json)
           echo "new_version=$new_version" >> $GITHUB_ENV
 
+      - name: Run `elm-review --fix`
+        run: yes | pnpm elm-review --fix
+        continue-on-error: true
+
       - name: Commit and Push to PR
         if: env.new_version != env.previous_version
         uses: gr2m/create-or-update-pull-request-action@v1

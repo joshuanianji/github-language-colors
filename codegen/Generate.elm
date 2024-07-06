@@ -11,6 +11,7 @@ import Gen.Color
 import Gen.Element
 import Json.Decode exposing (Value)
 import Util
+import Gen.Dict
 
 
 main : Program Value () ()
@@ -19,10 +20,10 @@ main =
 
 
 generate : Flag -> List Elm.File
-generate files =
+generate flag =
     let
         colorTypeDeclaration =
-            Elm.alias "Color" colorType
+            Elm.alias "Color" colorTypeRecord
                 |> Elm.exposeWith
                     { exposeConstructor = False
                     , group = Just "Color Type"
@@ -38,13 +39,13 @@ generate files =
 The `elmui` and `color` fields are provided for convenience, but you can also use the `hex` and `rgb` fields to construct your own color values."""
 
         colorDeclarations =
-            List.map generateColor files
+            List.map generateColorDecl flag
     in
     [ Elm.fileWith [ "GithubColors" ]
         { docs = \l -> topLevelDoc :: List.map Elm.docs l
         , aliases = []
         }
-        (colorTypeDeclaration :: colorDeclarations)
+        (colorTypeDeclaration :: (generateLanguageDict flag) :: colorDeclarations)
     ]
 
 
@@ -60,8 +61,8 @@ topLevelDoc =
 """
 
 
-colorType : Type.Annotation
-colorType =
+colorTypeRecord : Type.Annotation
+colorTypeRecord =
     Type.record
         [ ( "elmui", Gen.Element.annotation_.color )
         , ( "color", Gen.Color.annotation_.color )
@@ -71,8 +72,8 @@ colorType =
         ]
 
 
-generateColor : WithProcessed (WithName FlagColor) -> Elm.Declaration
-generateColor color =
+generateColorDecl : WithProcessed (WithName FlagColor) -> Elm.Declaration
+generateColorDecl color =
     let
         ( r, g, b ) =
             color.processed.rgb
@@ -85,10 +86,28 @@ generateColor color =
             , ( "rgb", Elm.triple (Elm.int r) (Elm.int g) (Elm.int b) )
             , ( "hasColor", Elm.bool <| Util.isJust color.color )
             ]
-            |> Elm.withType (Type.alias [] "Color" [] Type.string)
+            |> Elm.withType colorType
         )
         |> Elm.withDocumentation ("Github language color for '" ++ color.name ++ "'")
         |> Elm.exposeWith
             { exposeConstructor = False
             , group = Just "Language Colors"
             }
+
+
+generateLanguageDict : Flag -> Elm.Declaration
+generateLanguageDict colors = 
+    let
+        languagesList =
+            List.map (\color -> Elm.tuple (Elm.string color.processed.name) (Elm.val color.processed.name)) colors
+    in 
+    Gen.Dict.fromList languagesList
+        |> Elm.withType (Gen.Dict.annotation_.dict Type.string colorType)
+        |> Elm.declaration "languageDict"
+        |> Elm.withDocumentation ("Maps language string names to their respective color values.\n\nAccess it by `Dict.get \"language\" languageDict`. which returns a `Maybe Color` value.")
+        |> Elm.expose
+
+
+colorType : Type.Annotation
+colorType = 
+    Type.alias [] "Color" [] Type.string
