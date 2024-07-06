@@ -178,12 +178,13 @@ generateToColor colors =
                 )
                 colors
     in 
-    Elm.fn ("Language", Just languageType) 
+    Elm.fn ("Language", Nothing) 
         (\firstArg ->
             Elm.Case.custom firstArg 
-                languageType
+                colorType
                 cases
         )
+        |> Elm.withType (Type.function [languageType] colorType)
         |> Elm.declaration "toColor"
         |> Elm.withDocumentation ("Converts a `Language` value to its name")
         |> Elm.exposeWith 
@@ -199,4 +200,4 @@ languageType =
 
 colorType : Type.Annotation
 colorType = 
-    Type.alias [] "Color" [] Type.string
+    Type.alias [] "Color" [] colorTypeRecord

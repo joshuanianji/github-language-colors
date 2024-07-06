@@ -4603,7 +4603,7 @@ toString language =
 
 
 {-| Converts a `Language` value to its name -}
-toColor : Language -> xbase
+toColor : Language -> Color
 toColor language =
     case language of
         Lang_lang_1c_enterprise ->
