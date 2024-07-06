@@ -57,7 +57,7 @@ jobs:
           echo "new_version=$new_version" >> $GITHUB_ENV
 
       - name: Run `elm-review --fix`
-        run: echo 'yes' | pnpm elm-review --fix
+        run: pnpm elm-review --fix-all-without-prompt
 
       - name: Commit and Push to PR
         if: env.new_version != env.previous_version
