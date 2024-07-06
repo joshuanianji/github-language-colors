@@ -57,7 +57,7 @@ jobs:
           echo "new_version=$new_version" >> $GITHUB_ENV
 
       - name: Run `elm-review --fix`
-        run: yes | pnpm elm-review --fix
+        run: echo "yes" | pnpm elm-review --fix
         continue-on-error: true
 
       - name: Commit and Push to PR
