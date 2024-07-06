@@ -1,4 +1,4 @@
-module GithubColors exposing (Color, abap, abap_cds, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, ags_script, aidl, al, alloy, alpine_abuild, altium_designer, ampl, angelscript, ant_build_system, antlers, antlr, apacheconf, apex, api_blueprint, apl, apollo_guidance_computer, applescript, arc, asciidoc, asl, asp_net, aspectj, assembly, astro, asymptote, ats, augeas, autohotkey, autoit, avro_idl, awk, ballerina, basic, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, bluespec_bh, boo, boogie, bqn, brainfuck, brighterscript, brightscript, browserslist, c, c2hs_haskell, c_sharp, cabal_config, caddyfile, cadence, cairo, cameligo, cap_cds, cap_n_proto, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clips, clojure, closure_templates, cloud_firestore_security_rules, cmake, cobol, codeql, coffeescript, coldfusion, coldfusion_cfc, collada, common_lisp, common_workflow_language, component_pascal, cool, coq, cpp, crontab, crystal, cson, csound, csound_document, csound_score, css, csv, cuda, cue, curry, cweb, cycript, cypher, cython, d, d2, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, digital_command_language, directx_3d_file, dm, dockerfile, dogescript, dotenv, dtrace, dylan, e, earthly, easybuild, ec, ecere_projects, ecl, eclipse, ecmarkup, edge, edgeql, editorconfig, eiffel, ejs, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, eq, erlang, euphoria, f_sharp, f_star, factor, fancy, fantom, faust, fennel, figlet_font, filebench_wml, filterscript, firrtl, fish, fluent, flux, forth, fortran, fortran_free_form, freebasic, freemarker, frege, futhark, g_code, game_maker_language, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, gemfile_lock, gemini, genero_4gl, genero_per, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glimmer_js, glimmer_ts, glsl, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, gradle_kotlin_dsl, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, gsc, hack, haml, handlebars, haproxy, harbour, haskell, haxe, hcl, hiveql, hlsl, hocon, holyc, hoon, hosts_file, html, html_plus_ecr, html_plus_eex, html_plus_erb, html_plus_php, html_plus_razor, http, hxml, hy, hyphy, idl, idris, ignore_list, igor_pro, imagej_macro, imba, inform_7, ini, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, janet, jar_manifest, jasmin, java, java_properties, java_server_pages, javascript, javascript_plus_erb, jcl, jest_snapshot, jetbrains_mps, jflex, jinja, jison, jison_lex, jolie, jq, json, json5, json_with_comments, jsoniq, jsonld, jsonnet, julia, julia_repl, jupyter_notebook, just, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, krl, kvlang, labview, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, languageDict, lark, lasso, latte, lean, lean_4, less, lex, lfe, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livescript, llvm, logos, logtalk, lolcode, lookml, loomscript, lsl, lua, luau, m, m4, m4sugar, macaulay2, makefile, mako, markdown, marko, mask, mathematica, matlab, max, maxscript, mcfunction, mdx, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, mirc_script, mlir, modelica, modula_2, modula_3, module_management_system, mojo, monkey, monkey_c, moocode, moonscript, motoko, motorola_68k_assembly, move, mql4, mql5, mtml, muf, mupad, mustache, myghty, nanorc, nasal, nasl, ncl, nearley, nemerle, nesc, netlinx, netlinx_plus_erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, nmodl, npm_config, nsis, nu, numpy, nunjucks, nushell, nwscript, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, oberon, objective_c, objective_cpp, objective_j, objectscript, ocaml, odin, omgrofl, ooc, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pddl, peg_js, pep8, perl, php, picolisp, piglatin, pike, pip_requirements, pkl, plantuml, plpgsql, plsql, pogoscript, polar, pony, portugol, postcss, postscript, pov_ray_sdl, powerbuilder, powershell, praat, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q, q_sharp, qmake, qml, qt_script, quake, r, racket, ragel, raku, raml, rascal, rbs, rdoc, realbasic, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, rescript, restructuredtext, rexx, rez, ring, riot, rmarkdown, robotframework, roc, roff, roff_manpage, ron, rouge, routeros_script, rpc, rpgle, ruby, runoff, rust, sage, saltstack, sas, sass, scala, scaml, scenic, scheme, scilab, scss, sed, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, slint, smali, smalltalk, smarty, smithy, smpl, smt, snakemake, solidity, sourcepawn, sparql, sqf, sql, sqlpl, squirrel, srecode_template, stan, standard_ml, starlark, stata, stl, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, svg, sway, sweave, swift, swig, systemverilog, talon, tcl, tcsh, templ, terra, terraform_template, tex, textgrid, textile, textmate_properties, thrift, ti_program, tl_verilog, tla, toit, toml, tsql, tsv, tsx, turing, twig, txl, typescript, typst, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vala, valve_data_format, vba, vbscript, vcl, velocity_template_language, verilog, vhdl, vim_help_file, vim_script, vim_snippet, visual_basic_6_0, visual_basic__net, volt, vue, vyper, wdl, web_ontology_language, webassembly, webassembly_interface_type, webidl, wgsl, whiley, wikitext, windows_registry_entries, wisp, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xbase, xc, xml, xml_property_list, xojo, xonsh, xproc, xquery, xs, xslt, xtend, yacc, yaml, yara, yasnippet, yul, zap, zeek, zenscript, zephir, zig, zil, zimpl)
+module GithubColors exposing (Color, Language(..), abap, abap_cds, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, ags_script, aidl, al, alloy, alpine_abuild, altium_designer, ampl, angelscript, ant_build_system, antlers, antlr, apacheconf, apex, api_blueprint, apl, apollo_guidance_computer, applescript, arc, asciidoc, asl, asp_net, aspectj, assembly, astro, asymptote, ats, augeas, autohotkey, autoit, avro_idl, awk, ballerina, basic, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, bluespec_bh, boo, boogie, bqn, brainfuck, brighterscript, brightscript, browserslist, c, c2hs_haskell, c_sharp, cabal_config, caddyfile, cadence, cairo, cameligo, cap_cds, cap_n_proto, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clips, clojure, closure_templates, cloud_firestore_security_rules, cmake, cobol, codeql, coffeescript, coldfusion, coldfusion_cfc, collada, common_lisp, common_workflow_language, component_pascal, cool, coq, cpp, crontab, crystal, cson, csound, csound_document, csound_score, css, csv, cuda, cue, curry, cweb, cycript, cypher, cython, d, d2, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, digital_command_language, directx_3d_file, dm, dockerfile, dogescript, dotenv, dtrace, dylan, e, earthly, easybuild, ec, ecere_projects, ecl, eclipse, ecmarkup, edge, edgeql, editorconfig, eiffel, ejs, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, eq, erlang, euphoria, f_sharp, f_star, factor, fancy, fantom, faust, fennel, figlet_font, filebench_wml, filterscript, firrtl, fish, fluent, flux, forth, fortran, fortran_free_form, freebasic, freemarker, frege, fromString, futhark, g_code, game_maker_language, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, gemfile_lock, gemini, genero_4gl, genero_per, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glimmer_js, glimmer_ts, glsl, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, gradle_kotlin_dsl, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, gsc, hack, haml, handlebars, haproxy, harbour, haskell, haxe, hcl, hiveql, hlsl, hocon, holyc, hoon, hosts_file, html, html_plus_ecr, html_plus_eex, html_plus_erb, html_plus_php, html_plus_razor, http, hxml, hy, hyphy, idl, idris, ignore_list, igor_pro, imagej_macro, imba, inform_7, ini, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, janet, jar_manifest, jasmin, java, java_properties, java_server_pages, javascript, javascript_plus_erb, jcl, jest_snapshot, jetbrains_mps, jflex, jinja, jison, jison_lex, jolie, jq, json, json5, json_with_comments, jsoniq, jsonld, jsonnet, julia, julia_repl, jupyter_notebook, just, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, krl, kvlang, labview, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, lark, lasso, latte, lean, lean_4, less, lex, lfe, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livescript, llvm, logos, logtalk, lolcode, lookml, loomscript, lsl, lua, luau, m, m4, m4sugar, macaulay2, makefile, mako, markdown, marko, mask, mathematica, matlab, max, maxscript, mcfunction, mdx, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, mirc_script, mlir, modelica, modula_2, modula_3, module_management_system, mojo, monkey, monkey_c, moocode, moonscript, motoko, motorola_68k_assembly, move, mql4, mql5, mtml, muf, mupad, mustache, myghty, nanorc, nasal, nasl, ncl, nearley, nemerle, nesc, netlinx, netlinx_plus_erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, nmodl, npm_config, nsis, nu, numpy, nunjucks, nushell, nwscript, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, oberon, objective_c, objective_cpp, objective_j, objectscript, ocaml, odin, omgrofl, ooc, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pddl, peg_js, pep8, perl, php, picolisp, piglatin, pike, pip_requirements, pkl, plantuml, plpgsql, plsql, pogoscript, polar, pony, portugol, postcss, postscript, pov_ray_sdl, powerbuilder, powershell, praat, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q, q_sharp, qmake, qml, qt_script, quake, r, racket, ragel, raku, raml, rascal, rbs, rdoc, realbasic, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, rescript, restructuredtext, rexx, rez, ring, riot, rmarkdown, robotframework, roc, roff, roff_manpage, ron, rouge, routeros_script, rpc, rpgle, ruby, runoff, rust, sage, saltstack, sas, sass, scala, scaml, scenic, scheme, scilab, scss, sed, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, slint, smali, smalltalk, smarty, smithy, smpl, smt, snakemake, solidity, sourcepawn, sparql, sqf, sql, sqlpl, squirrel, srecode_template, stan, standard_ml, starlark, stata, stl, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, svg, sway, sweave, swift, swig, systemverilog, talon, tcl, tcsh, templ, terra, terraform_template, tex, textgrid, textile, textmate_properties, thrift, ti_program, tl_verilog, tla, toColor, toString, toit, toml, tsql, tsv, tsx, turing, twig, txl, typescript, typst, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vala, valve_data_format, vba, vbscript, vcl, velocity_template_language, verilog, vhdl, vim_help_file, vim_script, vim_snippet, visual_basic_6_0, visual_basic__net, volt, vue, vyper, wdl, web_ontology_language, webassembly, webassembly_interface_type, webidl, wgsl, whiley, wikitext, windows_registry_entries, wisp, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xbase, xc, xml, xml_property_list, xojo, xonsh, xproc, xquery, xs, xslt, xtend, yacc, yaml, yara, yasnippet, yul, zap, zeek, zenscript, zephir, zig, zil, zimpl)
 
 {-| 
 This module exposes the color values for all supported languages on Github. Color data is taken from [ozh/github-colors](https://github.com/ozh/github-colors).
@@ -10,16 +10,17 @@ This module exposes the color values for all supported languages on Github. Colo
 
 @docs Color
 
+## Language
+
+@docs Language
+
 ## Language Colors
 
-@docs lang_1c_enterprise, lang_2_dimensional_array, lang_4d, abap, abap_cds, ags_script, aidl, al, ampl, antlr, api_blueprint, apl, asl, asp_net, ats, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, alloy, alpine_abuild, altium_designer, angelscript, ant_build_system, antlers, apacheconf, apex, apollo_guidance_computer, applescript, arc, asciidoc, aspectj, assembly, astro, asymptote, augeas, autohotkey, autoit, avro_idl, awk, basic, bqn, ballerina, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, bluespec_bh, boo, boogie, brainfuck, brighterscript, brightscript, browserslist, c, c_sharp, cpp, c2hs_haskell, cap_cds, clips, cmake, cobol, collada, cson, css, csv, cue, cweb, cabal_config, caddyfile, cadence, cairo, cameligo, cap_n_proto, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clojure, closure_templates, cloud_firestore_security_rules, codeql, coffeescript, coldfusion, coldfusion_cfc, common_lisp, common_workflow_language, component_pascal, cool, coq, crystal, csound, csound_document, csound_score, cuda, curry, cycript, cypher, cython, d, d2, digital_command_language, dm, dtrace, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, directx_3d_file, dockerfile, dogescript, dotenv, dylan, e, ecl, eclipse, ejs, eq, earthly, easybuild, ecere_projects, ecmarkup, edge, edgeql, editorconfig, eiffel, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, erlang, euphoria, f_sharp, f_star, figlet_font, firrtl, flux, factor, fancy, fantom, faust, fennel, filebench_wml, filterscript, fluent, forth, fortran, fortran_free_form, freebasic, freemarker, frege, futhark, g_code, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, glsl, gsc, game_maker_language, gemfile_lock, gemini, genero_4gl, genero_per, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glimmer_js, glimmer_ts, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, gradle_kotlin_dsl, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, haproxy, hcl, hlsl, hocon, html, html_plus_ecr, html_plus_eex, html_plus_erb, html_plus_php, html_plus_razor, http, hxml, hack, haml, handlebars, harbour, haskell, haxe, hiveql, holyc, hosts_file, hy, hyphy, idl, igor_pro, ini, idris, ignore_list, imagej_macro, imba, inform_7, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, jar_manifest, jcl, jflex, json, json_with_comments, json5, jsonld, jsoniq, janet, jasmin, java, java_properties, java_server_pages, javascript, javascript_plus_erb, jest_snapshot, jetbrains_mps, jinja, jison, jison_lex, jolie, jsonnet, julia, julia_repl, jupyter_notebook, just, krl, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, lfe, llvm, lolcode, lsl, labview, lark, lasso, latte, lean, lean_4, less, lex, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livescript, logos, logtalk, lookml, loomscript, lua, luau, m, m4, m4sugar, matlab, maxscript, mdx, mlir, mql4, mql5, mtml, muf, macaulay2, makefile, mako, markdown, marko, mask, mathematica, max, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, modelica, modula_2, modula_3, module_management_system, mojo, monkey, monkey_c, moocode, moonscript, motoko, motorola_68k_assembly, move, mustache, myghty, nasl, ncl, nmodl, npm_config, nsis, nwscript, nasal, nearley, nemerle, netlinx, netlinx_plus_erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, nu, numpy, nunjucks, nushell, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, ocaml, oberon, objectscript, objective_c, objective_cpp, objective_j, odin, omgrofl, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pddl, peg_js, php, plsql, plpgsql, pov_ray_sdl, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pep8, perl, picolisp, piglatin, pike, pip_requirements, pkl, plantuml, pogoscript, polar, pony, portugol, postcss, postscript, powerbuilder, powershell, praat, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q_sharp, qml, qmake, qt_script, quake, r, raml, rbs, rdoc, realbasic, rexx, rmarkdown, ron, rpc, rpgle, runoff, racket, ragel, raku, rascal, rescript, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, rez, ring, riot, robotframework, roc, roff, roff_manpage, rouge, routeros_script, ruby, rust, sas, scss, smt, sparql, sqf, sql, sqlpl, srecode_template, stl, svg, swig, sage, saltstack, sass, scala, scaml, scenic, scheme, scilab, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, slint, smpl, smali, smalltalk, smarty, smithy, snakemake, solidity, sourcepawn, squirrel, stan, standard_ml, starlark, stata, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, sway, sweave, swift, systemverilog, ti_program, tl_verilog, tla, toml, tsql, tsv, tsx, txl, talon, tcl, tcsh, tex, terra, terraform_template, textgrid, textmate_properties, textile, thrift, toit, turing, twig, typescript, typst, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vba, vbscript, vcl, vhdl, vala, valve_data_format, velocity_template_language, verilog, vim_help_file, vim_script, vim_snippet, visual_basic__net, visual_basic_6_0, volt, vue, vyper, wdl, wgsl, web_ontology_language, webassembly, webassembly_interface_type, webidl, whiley, wikitext, windows_registry_entries, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xc, xml, xml_property_list, xproc, xquery, xs, xslt, xojo, xonsh, xtend, yaml, yara, yasnippet, yacc, yul, zap, zil, zeek, zenscript, zephir, zig, zimpl, crontab, ec, fish, hoon, jq, kvlang, mirc_script, mcfunction, mupad, nanorc, nesc, ooc, q, restructuredtext, sed, templ, wisp, xbase
-
-@docs languageDict
+@docs fromString, toString, toColor, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, abap, abap_cds, ags_script, aidl, al, ampl, antlr, api_blueprint, apl, asl, asp_net, ats, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, alloy, alpine_abuild, altium_designer, angelscript, ant_build_system, antlers, apacheconf, apex, apollo_guidance_computer, applescript, arc, asciidoc, aspectj, assembly, astro, asymptote, augeas, autohotkey, autoit, avro_idl, awk, basic, bqn, ballerina, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, bluespec_bh, boo, boogie, brainfuck, brighterscript, brightscript, browserslist, c, c_sharp, cpp, c2hs_haskell, cap_cds, clips, cmake, cobol, collada, cson, css, csv, cue, cweb, cabal_config, caddyfile, cadence, cairo, cameligo, cap_n_proto, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clojure, closure_templates, cloud_firestore_security_rules, codeql, coffeescript, coldfusion, coldfusion_cfc, common_lisp, common_workflow_language, component_pascal, cool, coq, crystal, csound, csound_document, csound_score, cuda, curry, cycript, cypher, cython, d, d2, digital_command_language, dm, dtrace, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, directx_3d_file, dockerfile, dogescript, dotenv, dylan, e, ecl, eclipse, ejs, eq, earthly, easybuild, ecere_projects, ecmarkup, edge, edgeql, editorconfig, eiffel, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, erlang, euphoria, f_sharp, f_star, figlet_font, firrtl, flux, factor, fancy, fantom, faust, fennel, filebench_wml, filterscript, fluent, forth, fortran, fortran_free_form, freebasic, freemarker, frege, futhark, g_code, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, glsl, gsc, game_maker_language, gemfile_lock, gemini, genero_4gl, genero_per, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glimmer_js, glimmer_ts, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, gradle_kotlin_dsl, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, haproxy, hcl, hlsl, hocon, html, html_plus_ecr, html_plus_eex, html_plus_erb, html_plus_php, html_plus_razor, http, hxml, hack, haml, handlebars, harbour, haskell, haxe, hiveql, holyc, hosts_file, hy, hyphy, idl, igor_pro, ini, idris, ignore_list, imagej_macro, imba, inform_7, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, jar_manifest, jcl, jflex, json, json_with_comments, json5, jsonld, jsoniq, janet, jasmin, java, java_properties, java_server_pages, javascript, javascript_plus_erb, jest_snapshot, jetbrains_mps, jinja, jison, jison_lex, jolie, jsonnet, julia, julia_repl, jupyter_notebook, just, krl, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, lfe, llvm, lolcode, lsl, labview, lark, lasso, latte, lean, lean_4, less, lex, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livescript, logos, logtalk, lookml, loomscript, lua, luau, m, m4, m4sugar, matlab, maxscript, mdx, mlir, mql4, mql5, mtml, muf, macaulay2, makefile, mako, markdown, marko, mask, mathematica, max, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, modelica, modula_2, modula_3, module_management_system, mojo, monkey, monkey_c, moocode, moonscript, motoko, motorola_68k_assembly, move, mustache, myghty, nasl, ncl, nmodl, npm_config, nsis, nwscript, nasal, nearley, nemerle, netlinx, netlinx_plus_erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, nu, numpy, nunjucks, nushell, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, ocaml, oberon, objectscript, objective_c, objective_cpp, objective_j, odin, omgrofl, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pddl, peg_js, php, plsql, plpgsql, pov_ray_sdl, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pep8, perl, picolisp, piglatin, pike, pip_requirements, pkl, plantuml, pogoscript, polar, pony, portugol, postcss, postscript, powerbuilder, powershell, praat, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q_sharp, qml, qmake, qt_script, quake, r, raml, rbs, rdoc, realbasic, rexx, rmarkdown, ron, rpc, rpgle, runoff, racket, ragel, raku, rascal, rescript, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, rez, ring, riot, robotframework, roc, roff, roff_manpage, rouge, routeros_script, ruby, rust, sas, scss, smt, sparql, sqf, sql, sqlpl, srecode_template, stl, svg, swig, sage, saltstack, sass, scala, scaml, scenic, scheme, scilab, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, slint, smpl, smali, smalltalk, smarty, smithy, snakemake, solidity, sourcepawn, squirrel, stan, standard_ml, starlark, stata, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, sway, sweave, swift, systemverilog, ti_program, tl_verilog, tla, toml, tsql, tsv, tsx, txl, talon, tcl, tcsh, tex, terra, terraform_template, textgrid, textmate_properties, textile, thrift, toit, turing, twig, typescript, typst, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vba, vbscript, vcl, vhdl, vala, valve_data_format, velocity_template_language, verilog, vim_help_file, vim_script, vim_snippet, visual_basic__net, visual_basic_6_0, volt, vue, vyper, wdl, wgsl, web_ontology_language, webassembly, webassembly_interface_type, webidl, whiley, wikitext, windows_registry_entries, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xc, xml, xml_property_list, xproc, xquery, xs, xslt, xojo, xonsh, xtend, yaml, yara, yasnippet, yacc, yul, zap, zil, zeek, zenscript, zephir, zig, zimpl, crontab, ec, fish, hoon, jq, kvlang, mirc_script, mcfunction, mupad, nanorc, nesc, ooc, q, restructuredtext, sed, templ, wisp, xbase
 -}
 
 
 import Color
-import Dict
 import Element
 
 
@@ -41,663 +42,6516 @@ type alias Color =
     }
 
 
-{-| Maps language string names to their respective color values.
+{-| A type representing all supported languages on Github. -}
+type Language
+    = Lang_lang_1c_enterprise
+    | Lang_lang_2_dimensional_array
+    | Lang_lang_4d
+    | Lang_abap
+    | Lang_abap_cds
+    | Lang_ags_script
+    | Lang_aidl
+    | Lang_al
+    | Lang_ampl
+    | Lang_antlr
+    | Lang_api_blueprint
+    | Lang_apl
+    | Lang_asl
+    | Lang_asp_net
+    | Lang_ats
+    | Lang_actionscript
+    | Lang_ada
+    | Lang_adblock_filter_list
+    | Lang_adobe_font_metrics
+    | Lang_agda
+    | Lang_alloy
+    | Lang_alpine_abuild
+    | Lang_altium_designer
+    | Lang_angelscript
+    | Lang_ant_build_system
+    | Lang_antlers
+    | Lang_apacheconf
+    | Lang_apex
+    | Lang_apollo_guidance_computer
+    | Lang_applescript
+    | Lang_arc
+    | Lang_asciidoc
+    | Lang_aspectj
+    | Lang_assembly
+    | Lang_astro
+    | Lang_asymptote
+    | Lang_augeas
+    | Lang_autohotkey
+    | Lang_autoit
+    | Lang_avro_idl
+    | Lang_awk
+    | Lang_basic
+    | Lang_bqn
+    | Lang_ballerina
+    | Lang_batchfile
+    | Lang_beef
+    | Lang_befunge
+    | Lang_berry
+    | Lang_bibtex
+    | Lang_bicep
+    | Lang_bikeshed
+    | Lang_bison
+    | Lang_bitbake
+    | Lang_blade
+    | Lang_blitzbasic
+    | Lang_blitzmax
+    | Lang_bluespec
+    | Lang_bluespec_bh
+    | Lang_boo
+    | Lang_boogie
+    | Lang_brainfuck
+    | Lang_brighterscript
+    | Lang_brightscript
+    | Lang_browserslist
+    | Lang_c
+    | Lang_c_sharp
+    | Lang_cpp
+    | Lang_c2hs_haskell
+    | Lang_cap_cds
+    | Lang_clips
+    | Lang_cmake
+    | Lang_cobol
+    | Lang_collada
+    | Lang_cson
+    | Lang_css
+    | Lang_csv
+    | Lang_cue
+    | Lang_cweb
+    | Lang_cabal_config
+    | Lang_caddyfile
+    | Lang_cadence
+    | Lang_cairo
+    | Lang_cameligo
+    | Lang_cap_n_proto
+    | Lang_cartocss
+    | Lang_ceylon
+    | Lang_chapel
+    | Lang_charity
+    | Lang_chuck
+    | Lang_circom
+    | Lang_cirru
+    | Lang_clarion
+    | Lang_clarity
+    | Lang_classic_asp
+    | Lang_clean
+    | Lang_click
+    | Lang_clojure
+    | Lang_closure_templates
+    | Lang_cloud_firestore_security_rules
+    | Lang_codeql
+    | Lang_coffeescript
+    | Lang_coldfusion
+    | Lang_coldfusion_cfc
+    | Lang_common_lisp
+    | Lang_common_workflow_language
+    | Lang_component_pascal
+    | Lang_cool
+    | Lang_coq
+    | Lang_crystal
+    | Lang_csound
+    | Lang_csound_document
+    | Lang_csound_score
+    | Lang_cuda
+    | Lang_curry
+    | Lang_cycript
+    | Lang_cypher
+    | Lang_cython
+    | Lang_d
+    | Lang_d2
+    | Lang_digital_command_language
+    | Lang_dm
+    | Lang_dtrace
+    | Lang_dafny
+    | Lang_darcs_patch
+    | Lang_dart
+    | Lang_dataweave
+    | Lang_debian_package_control_file
+    | Lang_denizenscript
+    | Lang_dhall
+    | Lang_directx_3d_file
+    | Lang_dockerfile
+    | Lang_dogescript
+    | Lang_dotenv
+    | Lang_dylan
+    | Lang_e
+    | Lang_ecl
+    | Lang_eclipse
+    | Lang_ejs
+    | Lang_eq
+    | Lang_earthly
+    | Lang_easybuild
+    | Lang_ecere_projects
+    | Lang_ecmarkup
+    | Lang_edge
+    | Lang_edgeql
+    | Lang_editorconfig
+    | Lang_eiffel
+    | Lang_elixir
+    | Lang_elm
+    | Lang_elvish
+    | Lang_elvish_transcript
+    | Lang_emacs_lisp
+    | Lang_emberscript
+    | Lang_erlang
+    | Lang_euphoria
+    | Lang_f_sharp
+    | Lang_f_star
+    | Lang_figlet_font
+    | Lang_firrtl
+    | Lang_flux
+    | Lang_factor
+    | Lang_fancy
+    | Lang_fantom
+    | Lang_faust
+    | Lang_fennel
+    | Lang_filebench_wml
+    | Lang_filterscript
+    | Lang_fluent
+    | Lang_forth
+    | Lang_fortran
+    | Lang_fortran_free_form
+    | Lang_freebasic
+    | Lang_freemarker
+    | Lang_frege
+    | Lang_futhark
+    | Lang_g_code
+    | Lang_gaml
+    | Lang_gams
+    | Lang_gap
+    | Lang_gcc_machine_description
+    | Lang_gdb
+    | Lang_gdscript
+    | Lang_gedcom
+    | Lang_glsl
+    | Lang_gsc
+    | Lang_game_maker_language
+    | Lang_gemfile_lock
+    | Lang_gemini
+    | Lang_genero_4gl
+    | Lang_genero_per
+    | Lang_genie
+    | Lang_genshi
+    | Lang_gentoo_ebuild
+    | Lang_gentoo_eclass
+    | Lang_gerber_image
+    | Lang_gherkin
+    | Lang_git_attributes
+    | Lang_git_config
+    | Lang_git_revision_list
+    | Lang_gleam
+    | Lang_glimmer_js
+    | Lang_glimmer_ts
+    | Lang_glyph
+    | Lang_gnuplot
+    | Lang_go
+    | Lang_go_checksums
+    | Lang_go_module
+    | Lang_go_workspace
+    | Lang_godot_resource
+    | Lang_golo
+    | Lang_gosu
+    | Lang_grace
+    | Lang_gradle
+    | Lang_gradle_kotlin_dsl
+    | Lang_grammatical_framework
+    | Lang_graphql
+    | Lang_graphviz__dot_
+    | Lang_groovy
+    | Lang_groovy_server_pages
+    | Lang_haproxy
+    | Lang_hcl
+    | Lang_hlsl
+    | Lang_hocon
+    | Lang_html
+    | Lang_html_plus_ecr
+    | Lang_html_plus_eex
+    | Lang_html_plus_erb
+    | Lang_html_plus_php
+    | Lang_html_plus_razor
+    | Lang_http
+    | Lang_hxml
+    | Lang_hack
+    | Lang_haml
+    | Lang_handlebars
+    | Lang_harbour
+    | Lang_haskell
+    | Lang_haxe
+    | Lang_hiveql
+    | Lang_holyc
+    | Lang_hosts_file
+    | Lang_hy
+    | Lang_hyphy
+    | Lang_idl
+    | Lang_igor_pro
+    | Lang_ini
+    | Lang_idris
+    | Lang_ignore_list
+    | Lang_imagej_macro
+    | Lang_imba
+    | Lang_inform_7
+    | Lang_ink
+    | Lang_inno_setup
+    | Lang_io
+    | Lang_ioke
+    | Lang_isabelle
+    | Lang_isabelle_root
+    | Lang_j
+    | Lang_jar_manifest
+    | Lang_jcl
+    | Lang_jflex
+    | Lang_json
+    | Lang_json_with_comments
+    | Lang_json5
+    | Lang_jsonld
+    | Lang_jsoniq
+    | Lang_janet
+    | Lang_jasmin
+    | Lang_java
+    | Lang_java_properties
+    | Lang_java_server_pages
+    | Lang_javascript
+    | Lang_javascript_plus_erb
+    | Lang_jest_snapshot
+    | Lang_jetbrains_mps
+    | Lang_jinja
+    | Lang_jison
+    | Lang_jison_lex
+    | Lang_jolie
+    | Lang_jsonnet
+    | Lang_julia
+    | Lang_julia_repl
+    | Lang_jupyter_notebook
+    | Lang_just
+    | Lang_krl
+    | Lang_kaitai_struct
+    | Lang_kakounescript
+    | Lang_kerboscript
+    | Lang_kicad_layout
+    | Lang_kicad_legacy_layout
+    | Lang_kicad_schematic
+    | Lang_kotlin
+    | Lang_lfe
+    | Lang_llvm
+    | Lang_lolcode
+    | Lang_lsl
+    | Lang_labview
+    | Lang_lark
+    | Lang_lasso
+    | Lang_latte
+    | Lang_lean
+    | Lang_lean_4
+    | Lang_less
+    | Lang_lex
+    | Lang_ligolang
+    | Lang_lilypond
+    | Lang_limbo
+    | Lang_liquid
+    | Lang_literate_agda
+    | Lang_literate_coffeescript
+    | Lang_literate_haskell
+    | Lang_livescript
+    | Lang_logos
+    | Lang_logtalk
+    | Lang_lookml
+    | Lang_loomscript
+    | Lang_lua
+    | Lang_luau
+    | Lang_m
+    | Lang_m4
+    | Lang_m4sugar
+    | Lang_matlab
+    | Lang_maxscript
+    | Lang_mdx
+    | Lang_mlir
+    | Lang_mql4
+    | Lang_mql5
+    | Lang_mtml
+    | Lang_muf
+    | Lang_macaulay2
+    | Lang_makefile
+    | Lang_mako
+    | Lang_markdown
+    | Lang_marko
+    | Lang_mask
+    | Lang_mathematica
+    | Lang_max
+    | Lang_mercury
+    | Lang_mermaid
+    | Lang_meson
+    | Lang_metal
+    | Lang_minid
+    | Lang_miniyaml
+    | Lang_mint
+    | Lang_mirah
+    | Lang_modelica
+    | Lang_modula_2
+    | Lang_modula_3
+    | Lang_module_management_system
+    | Lang_mojo
+    | Lang_monkey
+    | Lang_monkey_c
+    | Lang_moocode
+    | Lang_moonscript
+    | Lang_motoko
+    | Lang_motorola_68k_assembly
+    | Lang_move
+    | Lang_mustache
+    | Lang_myghty
+    | Lang_nasl
+    | Lang_ncl
+    | Lang_nmodl
+    | Lang_npm_config
+    | Lang_nsis
+    | Lang_nwscript
+    | Lang_nasal
+    | Lang_nearley
+    | Lang_nemerle
+    | Lang_netlinx
+    | Lang_netlinx_plus_erb
+    | Lang_netlogo
+    | Lang_newlisp
+    | Lang_nextflow
+    | Lang_nginx
+    | Lang_nim
+    | Lang_nit
+    | Lang_nix
+    | Lang_nu
+    | Lang_numpy
+    | Lang_nunjucks
+    | Lang_nushell
+    | Lang_oasv2_json
+    | Lang_oasv2_yaml
+    | Lang_oasv3_json
+    | Lang_oasv3_yaml
+    | Lang_ocaml
+    | Lang_oberon
+    | Lang_objectscript
+    | Lang_objective_c
+    | Lang_objective_cpp
+    | Lang_objective_j
+    | Lang_odin
+    | Lang_omgrofl
+    | Lang_opa
+    | Lang_opal
+    | Lang_open_policy_agent
+    | Lang_openapi_specification_v2
+    | Lang_openapi_specification_v3
+    | Lang_opencl
+    | Lang_openedge_abl
+    | Lang_openqasm
+    | Lang_openrc_runscript
+    | Lang_openscad
+    | Lang_option_list
+    | Lang_org
+    | Lang_ox
+    | Lang_oxygene
+    | Lang_oz
+    | Lang_p4
+    | Lang_pddl
+    | Lang_peg_js
+    | Lang_php
+    | Lang_plsql
+    | Lang_plpgsql
+    | Lang_pov_ray_sdl
+    | Lang_pact
+    | Lang_pan
+    | Lang_papyrus
+    | Lang_parrot
+    | Lang_parrot_assembly
+    | Lang_parrot_internal_representation
+    | Lang_pascal
+    | Lang_pawn
+    | Lang_pep8
+    | Lang_perl
+    | Lang_picolisp
+    | Lang_piglatin
+    | Lang_pike
+    | Lang_pip_requirements
+    | Lang_pkl
+    | Lang_plantuml
+    | Lang_pogoscript
+    | Lang_polar
+    | Lang_pony
+    | Lang_portugol
+    | Lang_postcss
+    | Lang_postscript
+    | Lang_powerbuilder
+    | Lang_powershell
+    | Lang_praat
+    | Lang_prisma
+    | Lang_processing
+    | Lang_procfile
+    | Lang_prolog
+    | Lang_promela
+    | Lang_propeller_spin
+    | Lang_pug
+    | Lang_puppet
+    | Lang_purebasic
+    | Lang_purescript
+    | Lang_pyret
+    | Lang_python
+    | Lang_python_console
+    | Lang_python_traceback
+    | Lang_q_sharp
+    | Lang_qml
+    | Lang_qmake
+    | Lang_qt_script
+    | Lang_quake
+    | Lang_r
+    | Lang_raml
+    | Lang_rbs
+    | Lang_rdoc
+    | Lang_realbasic
+    | Lang_rexx
+    | Lang_rmarkdown
+    | Lang_ron
+    | Lang_rpc
+    | Lang_rpgle
+    | Lang_runoff
+    | Lang_racket
+    | Lang_ragel
+    | Lang_raku
+    | Lang_rascal
+    | Lang_rescript
+    | Lang_reason
+    | Lang_reasonligo
+    | Lang_rebol
+    | Lang_record_jar
+    | Lang_red
+    | Lang_redcode
+    | Lang_regular_expression
+    | Lang_ren_py
+    | Lang_renderscript
+    | Lang_rez
+    | Lang_ring
+    | Lang_riot
+    | Lang_robotframework
+    | Lang_roc
+    | Lang_roff
+    | Lang_roff_manpage
+    | Lang_rouge
+    | Lang_routeros_script
+    | Lang_ruby
+    | Lang_rust
+    | Lang_sas
+    | Lang_scss
+    | Lang_smt
+    | Lang_sparql
+    | Lang_sqf
+    | Lang_sql
+    | Lang_sqlpl
+    | Lang_srecode_template
+    | Lang_stl
+    | Lang_svg
+    | Lang_swig
+    | Lang_sage
+    | Lang_saltstack
+    | Lang_sass
+    | Lang_scala
+    | Lang_scaml
+    | Lang_scenic
+    | Lang_scheme
+    | Lang_scilab
+    | Lang_self
+    | Lang_shaderlab
+    | Lang_shell
+    | Lang_shellcheck_config
+    | Lang_shellsession
+    | Lang_shen
+    | Lang_sieve
+    | Lang_simple_file_verification
+    | Lang_singularity
+    | Lang_slash
+    | Lang_slice
+    | Lang_slim
+    | Lang_slint
+    | Lang_smpl
+    | Lang_smali
+    | Lang_smalltalk
+    | Lang_smarty
+    | Lang_smithy
+    | Lang_snakemake
+    | Lang_solidity
+    | Lang_sourcepawn
+    | Lang_squirrel
+    | Lang_stan
+    | Lang_standard_ml
+    | Lang_starlark
+    | Lang_stata
+    | Lang_stringtemplate
+    | Lang_stylus
+    | Lang_subrip_text
+    | Lang_sugarss
+    | Lang_supercollider
+    | Lang_svelte
+    | Lang_sway
+    | Lang_sweave
+    | Lang_swift
+    | Lang_systemverilog
+    | Lang_ti_program
+    | Lang_tl_verilog
+    | Lang_tla
+    | Lang_toml
+    | Lang_tsql
+    | Lang_tsv
+    | Lang_tsx
+    | Lang_txl
+    | Lang_talon
+    | Lang_tcl
+    | Lang_tcsh
+    | Lang_tex
+    | Lang_terra
+    | Lang_terraform_template
+    | Lang_textgrid
+    | Lang_textmate_properties
+    | Lang_textile
+    | Lang_thrift
+    | Lang_toit
+    | Lang_turing
+    | Lang_twig
+    | Lang_typescript
+    | Lang_typst
+    | Lang_unified_parallel_c
+    | Lang_unity3d_asset
+    | Lang_unix_assembly
+    | Lang_uno
+    | Lang_unrealscript
+    | Lang_urweb
+    | Lang_v
+    | Lang_vba
+    | Lang_vbscript
+    | Lang_vcl
+    | Lang_vhdl
+    | Lang_vala
+    | Lang_valve_data_format
+    | Lang_velocity_template_language
+    | Lang_verilog
+    | Lang_vim_help_file
+    | Lang_vim_script
+    | Lang_vim_snippet
+    | Lang_visual_basic__net
+    | Lang_visual_basic_6_0
+    | Lang_volt
+    | Lang_vue
+    | Lang_vyper
+    | Lang_wdl
+    | Lang_wgsl
+    | Lang_web_ontology_language
+    | Lang_webassembly
+    | Lang_webassembly_interface_type
+    | Lang_webidl
+    | Lang_whiley
+    | Lang_wikitext
+    | Lang_windows_registry_entries
+    | Lang_witcher_script
+    | Lang_wollok
+    | Lang_world_of_warcraft_addon_data
+    | Lang_wren
+    | Lang_x10
+    | Lang_xc
+    | Lang_xml
+    | Lang_xml_property_list
+    | Lang_xproc
+    | Lang_xquery
+    | Lang_xs
+    | Lang_xslt
+    | Lang_xojo
+    | Lang_xonsh
+    | Lang_xtend
+    | Lang_yaml
+    | Lang_yara
+    | Lang_yasnippet
+    | Lang_yacc
+    | Lang_yul
+    | Lang_zap
+    | Lang_zil
+    | Lang_zeek
+    | Lang_zenscript
+    | Lang_zephir
+    | Lang_zig
+    | Lang_zimpl
+    | Lang_crontab
+    | Lang_ec
+    | Lang_fish
+    | Lang_hoon
+    | Lang_jq
+    | Lang_kvlang
+    | Lang_mirc_script
+    | Lang_mcfunction
+    | Lang_mupad
+    | Lang_nanorc
+    | Lang_nesc
+    | Lang_ooc
+    | Lang_q
+    | Lang_restructuredtext
+    | Lang_sed
+    | Lang_templ
+    | Lang_wisp
+    | Lang_xbase
 
-Access it by `Dict.get "language" languageDict`. which returns a `Maybe Color` value.
--}
-languageDict : Dict.Dict String Color
-languageDict =
-    Dict.fromList
-        [ ( "lang_1c_enterprise", lang_1c_enterprise )
-        , ( "lang_2_dimensional_array", lang_2_dimensional_array )
-        , ( "lang_4d", lang_4d )
-        , ( "abap", abap )
-        , ( "abap_cds", abap_cds )
-        , ( "ags_script", ags_script )
-        , ( "aidl", aidl )
-        , ( "al", al )
-        , ( "ampl", ampl )
-        , ( "antlr", antlr )
-        , ( "api_blueprint", api_blueprint )
-        , ( "apl", apl )
-        , ( "asl", asl )
-        , ( "asp_net", asp_net )
-        , ( "ats", ats )
-        , ( "actionscript", actionscript )
-        , ( "ada", ada )
-        , ( "adblock_filter_list", adblock_filter_list )
-        , ( "adobe_font_metrics", adobe_font_metrics )
-        , ( "agda", agda )
-        , ( "alloy", alloy )
-        , ( "alpine_abuild", alpine_abuild )
-        , ( "altium_designer", altium_designer )
-        , ( "angelscript", angelscript )
-        , ( "ant_build_system", ant_build_system )
-        , ( "antlers", antlers )
-        , ( "apacheconf", apacheconf )
-        , ( "apex", apex )
-        , ( "apollo_guidance_computer", apollo_guidance_computer )
-        , ( "applescript", applescript )
-        , ( "arc", arc )
-        , ( "asciidoc", asciidoc )
-        , ( "aspectj", aspectj )
-        , ( "assembly", assembly )
-        , ( "astro", astro )
-        , ( "asymptote", asymptote )
-        , ( "augeas", augeas )
-        , ( "autohotkey", autohotkey )
-        , ( "autoit", autoit )
-        , ( "avro_idl", avro_idl )
-        , ( "awk", awk )
-        , ( "basic", basic )
-        , ( "bqn", bqn )
-        , ( "ballerina", ballerina )
-        , ( "batchfile", batchfile )
-        , ( "beef", beef )
-        , ( "befunge", befunge )
-        , ( "berry", berry )
-        , ( "bibtex", bibtex )
-        , ( "bicep", bicep )
-        , ( "bikeshed", bikeshed )
-        , ( "bison", bison )
-        , ( "bitbake", bitbake )
-        , ( "blade", blade )
-        , ( "blitzbasic", blitzbasic )
-        , ( "blitzmax", blitzmax )
-        , ( "bluespec", bluespec )
-        , ( "bluespec_bh", bluespec_bh )
-        , ( "boo", boo )
-        , ( "boogie", boogie )
-        , ( "brainfuck", brainfuck )
-        , ( "brighterscript", brighterscript )
-        , ( "brightscript", brightscript )
-        , ( "browserslist", browserslist )
-        , ( "c", c )
-        , ( "c_sharp", c_sharp )
-        , ( "cpp", cpp )
-        , ( "c2hs_haskell", c2hs_haskell )
-        , ( "cap_cds", cap_cds )
-        , ( "clips", clips )
-        , ( "cmake", cmake )
-        , ( "cobol", cobol )
-        , ( "collada", collada )
-        , ( "cson", cson )
-        , ( "css", css )
-        , ( "csv", csv )
-        , ( "cue", cue )
-        , ( "cweb", cweb )
-        , ( "cabal_config", cabal_config )
-        , ( "caddyfile", caddyfile )
-        , ( "cadence", cadence )
-        , ( "cairo", cairo )
-        , ( "cameligo", cameligo )
-        , ( "cap_n_proto", cap_n_proto )
-        , ( "cartocss", cartocss )
-        , ( "ceylon", ceylon )
-        , ( "chapel", chapel )
-        , ( "charity", charity )
-        , ( "chuck", chuck )
-        , ( "circom", circom )
-        , ( "cirru", cirru )
-        , ( "clarion", clarion )
-        , ( "clarity", clarity )
-        , ( "classic_asp", classic_asp )
-        , ( "clean", clean )
-        , ( "click", click )
-        , ( "clojure", clojure )
-        , ( "closure_templates", closure_templates )
-        , ( "cloud_firestore_security_rules", cloud_firestore_security_rules )
-        , ( "codeql", codeql )
-        , ( "coffeescript", coffeescript )
-        , ( "coldfusion", coldfusion )
-        , ( "coldfusion_cfc", coldfusion_cfc )
-        , ( "common_lisp", common_lisp )
-        , ( "common_workflow_language", common_workflow_language )
-        , ( "component_pascal", component_pascal )
-        , ( "cool", cool )
-        , ( "coq", coq )
-        , ( "crystal", crystal )
-        , ( "csound", csound )
-        , ( "csound_document", csound_document )
-        , ( "csound_score", csound_score )
-        , ( "cuda", cuda )
-        , ( "curry", curry )
-        , ( "cycript", cycript )
-        , ( "cypher", cypher )
-        , ( "cython", cython )
-        , ( "d", d )
-        , ( "d2", d2 )
-        , ( "digital_command_language", digital_command_language )
-        , ( "dm", dm )
-        , ( "dtrace", dtrace )
-        , ( "dafny", dafny )
-        , ( "darcs_patch", darcs_patch )
-        , ( "dart", dart )
-        , ( "dataweave", dataweave )
-        , ( "debian_package_control_file", debian_package_control_file )
-        , ( "denizenscript", denizenscript )
-        , ( "dhall", dhall )
-        , ( "directx_3d_file", directx_3d_file )
-        , ( "dockerfile", dockerfile )
-        , ( "dogescript", dogescript )
-        , ( "dotenv", dotenv )
-        , ( "dylan", dylan )
-        , ( "e", e )
-        , ( "ecl", ecl )
-        , ( "eclipse", eclipse )
-        , ( "ejs", ejs )
-        , ( "eq", eq )
-        , ( "earthly", earthly )
-        , ( "easybuild", easybuild )
-        , ( "ecere_projects", ecere_projects )
-        , ( "ecmarkup", ecmarkup )
-        , ( "edge", edge )
-        , ( "edgeql", edgeql )
-        , ( "editorconfig", editorconfig )
-        , ( "eiffel", eiffel )
-        , ( "elixir", elixir )
-        , ( "elm", elm )
-        , ( "elvish", elvish )
-        , ( "elvish_transcript", elvish_transcript )
-        , ( "emacs_lisp", emacs_lisp )
-        , ( "emberscript", emberscript )
-        , ( "erlang", erlang )
-        , ( "euphoria", euphoria )
-        , ( "f_sharp", f_sharp )
-        , ( "f_star", f_star )
-        , ( "figlet_font", figlet_font )
-        , ( "firrtl", firrtl )
-        , ( "flux", flux )
-        , ( "factor", factor )
-        , ( "fancy", fancy )
-        , ( "fantom", fantom )
-        , ( "faust", faust )
-        , ( "fennel", fennel )
-        , ( "filebench_wml", filebench_wml )
-        , ( "filterscript", filterscript )
-        , ( "fluent", fluent )
-        , ( "forth", forth )
-        , ( "fortran", fortran )
-        , ( "fortran_free_form", fortran_free_form )
-        , ( "freebasic", freebasic )
-        , ( "freemarker", freemarker )
-        , ( "frege", frege )
-        , ( "futhark", futhark )
-        , ( "g_code", g_code )
-        , ( "gaml", gaml )
-        , ( "gams", gams )
-        , ( "gap", gap )
-        , ( "gcc_machine_description", gcc_machine_description )
-        , ( "gdb", gdb )
-        , ( "gdscript", gdscript )
-        , ( "gedcom", gedcom )
-        , ( "glsl", glsl )
-        , ( "gsc", gsc )
-        , ( "game_maker_language", game_maker_language )
-        , ( "gemfile_lock", gemfile_lock )
-        , ( "gemini", gemini )
-        , ( "genero_4gl", genero_4gl )
-        , ( "genero_per", genero_per )
-        , ( "genie", genie )
-        , ( "genshi", genshi )
-        , ( "gentoo_ebuild", gentoo_ebuild )
-        , ( "gentoo_eclass", gentoo_eclass )
-        , ( "gerber_image", gerber_image )
-        , ( "gherkin", gherkin )
-        , ( "git_attributes", git_attributes )
-        , ( "git_config", git_config )
-        , ( "git_revision_list", git_revision_list )
-        , ( "gleam", gleam )
-        , ( "glimmer_js", glimmer_js )
-        , ( "glimmer_ts", glimmer_ts )
-        , ( "glyph", glyph )
-        , ( "gnuplot", gnuplot )
-        , ( "go", go )
-        , ( "go_checksums", go_checksums )
-        , ( "go_module", go_module )
-        , ( "go_workspace", go_workspace )
-        , ( "godot_resource", godot_resource )
-        , ( "golo", golo )
-        , ( "gosu", gosu )
-        , ( "grace", grace )
-        , ( "gradle", gradle )
-        , ( "gradle_kotlin_dsl", gradle_kotlin_dsl )
-        , ( "grammatical_framework", grammatical_framework )
-        , ( "graphql", graphql )
-        , ( "graphviz__dot_", graphviz__dot_ )
-        , ( "groovy", groovy )
-        , ( "groovy_server_pages", groovy_server_pages )
-        , ( "haproxy", haproxy )
-        , ( "hcl", hcl )
-        , ( "hlsl", hlsl )
-        , ( "hocon", hocon )
-        , ( "html", html )
-        , ( "html_plus_ecr", html_plus_ecr )
-        , ( "html_plus_eex", html_plus_eex )
-        , ( "html_plus_erb", html_plus_erb )
-        , ( "html_plus_php", html_plus_php )
-        , ( "html_plus_razor", html_plus_razor )
-        , ( "http", http )
-        , ( "hxml", hxml )
-        , ( "hack", hack )
-        , ( "haml", haml )
-        , ( "handlebars", handlebars )
-        , ( "harbour", harbour )
-        , ( "haskell", haskell )
-        , ( "haxe", haxe )
-        , ( "hiveql", hiveql )
-        , ( "holyc", holyc )
-        , ( "hosts_file", hosts_file )
-        , ( "hy", hy )
-        , ( "hyphy", hyphy )
-        , ( "idl", idl )
-        , ( "igor_pro", igor_pro )
-        , ( "ini", ini )
-        , ( "idris", idris )
-        , ( "ignore_list", ignore_list )
-        , ( "imagej_macro", imagej_macro )
-        , ( "imba", imba )
-        , ( "inform_7", inform_7 )
-        , ( "ink", ink )
-        , ( "inno_setup", inno_setup )
-        , ( "io", io )
-        , ( "ioke", ioke )
-        , ( "isabelle", isabelle )
-        , ( "isabelle_root", isabelle_root )
-        , ( "j", j )
-        , ( "jar_manifest", jar_manifest )
-        , ( "jcl", jcl )
-        , ( "jflex", jflex )
-        , ( "json", json )
-        , ( "json_with_comments", json_with_comments )
-        , ( "json5", json5 )
-        , ( "jsonld", jsonld )
-        , ( "jsoniq", jsoniq )
-        , ( "janet", janet )
-        , ( "jasmin", jasmin )
-        , ( "java", java )
-        , ( "java_properties", java_properties )
-        , ( "java_server_pages", java_server_pages )
-        , ( "javascript", javascript )
-        , ( "javascript_plus_erb", javascript_plus_erb )
-        , ( "jest_snapshot", jest_snapshot )
-        , ( "jetbrains_mps", jetbrains_mps )
-        , ( "jinja", jinja )
-        , ( "jison", jison )
-        , ( "jison_lex", jison_lex )
-        , ( "jolie", jolie )
-        , ( "jsonnet", jsonnet )
-        , ( "julia", julia )
-        , ( "julia_repl", julia_repl )
-        , ( "jupyter_notebook", jupyter_notebook )
-        , ( "just", just )
-        , ( "krl", krl )
-        , ( "kaitai_struct", kaitai_struct )
-        , ( "kakounescript", kakounescript )
-        , ( "kerboscript", kerboscript )
-        , ( "kicad_layout", kicad_layout )
-        , ( "kicad_legacy_layout", kicad_legacy_layout )
-        , ( "kicad_schematic", kicad_schematic )
-        , ( "kotlin", kotlin )
-        , ( "lfe", lfe )
-        , ( "llvm", llvm )
-        , ( "lolcode", lolcode )
-        , ( "lsl", lsl )
-        , ( "labview", labview )
-        , ( "lark", lark )
-        , ( "lasso", lasso )
-        , ( "latte", latte )
-        , ( "lean", lean )
-        , ( "lean_4", lean_4 )
-        , ( "less", less )
-        , ( "lex", lex )
-        , ( "ligolang", ligolang )
-        , ( "lilypond", lilypond )
-        , ( "limbo", limbo )
-        , ( "liquid", liquid )
-        , ( "literate_agda", literate_agda )
-        , ( "literate_coffeescript", literate_coffeescript )
-        , ( "literate_haskell", literate_haskell )
-        , ( "livescript", livescript )
-        , ( "logos", logos )
-        , ( "logtalk", logtalk )
-        , ( "lookml", lookml )
-        , ( "loomscript", loomscript )
-        , ( "lua", lua )
-        , ( "luau", luau )
-        , ( "m", m )
-        , ( "m4", m4 )
-        , ( "m4sugar", m4sugar )
-        , ( "matlab", matlab )
-        , ( "maxscript", maxscript )
-        , ( "mdx", mdx )
-        , ( "mlir", mlir )
-        , ( "mql4", mql4 )
-        , ( "mql5", mql5 )
-        , ( "mtml", mtml )
-        , ( "muf", muf )
-        , ( "macaulay2", macaulay2 )
-        , ( "makefile", makefile )
-        , ( "mako", mako )
-        , ( "markdown", markdown )
-        , ( "marko", marko )
-        , ( "mask", mask )
-        , ( "mathematica", mathematica )
-        , ( "max", max )
-        , ( "mercury", mercury )
-        , ( "mermaid", mermaid )
-        , ( "meson", meson )
-        , ( "metal", metal )
-        , ( "minid", minid )
-        , ( "miniyaml", miniyaml )
-        , ( "mint", mint )
-        , ( "mirah", mirah )
-        , ( "modelica", modelica )
-        , ( "modula_2", modula_2 )
-        , ( "modula_3", modula_3 )
-        , ( "module_management_system", module_management_system )
-        , ( "mojo", mojo )
-        , ( "monkey", monkey )
-        , ( "monkey_c", monkey_c )
-        , ( "moocode", moocode )
-        , ( "moonscript", moonscript )
-        , ( "motoko", motoko )
-        , ( "motorola_68k_assembly", motorola_68k_assembly )
-        , ( "move", move )
-        , ( "mustache", mustache )
-        , ( "myghty", myghty )
-        , ( "nasl", nasl )
-        , ( "ncl", ncl )
-        , ( "nmodl", nmodl )
-        , ( "npm_config", npm_config )
-        , ( "nsis", nsis )
-        , ( "nwscript", nwscript )
-        , ( "nasal", nasal )
-        , ( "nearley", nearley )
-        , ( "nemerle", nemerle )
-        , ( "netlinx", netlinx )
-        , ( "netlinx_plus_erb", netlinx_plus_erb )
-        , ( "netlogo", netlogo )
-        , ( "newlisp", newlisp )
-        , ( "nextflow", nextflow )
-        , ( "nginx", nginx )
-        , ( "nim", nim )
-        , ( "nit", nit )
-        , ( "nix", nix )
-        , ( "nu", nu )
-        , ( "numpy", numpy )
-        , ( "nunjucks", nunjucks )
-        , ( "nushell", nushell )
-        , ( "oasv2_json", oasv2_json )
-        , ( "oasv2_yaml", oasv2_yaml )
-        , ( "oasv3_json", oasv3_json )
-        , ( "oasv3_yaml", oasv3_yaml )
-        , ( "ocaml", ocaml )
-        , ( "oberon", oberon )
-        , ( "objectscript", objectscript )
-        , ( "objective_c", objective_c )
-        , ( "objective_cpp", objective_cpp )
-        , ( "objective_j", objective_j )
-        , ( "odin", odin )
-        , ( "omgrofl", omgrofl )
-        , ( "opa", opa )
-        , ( "opal", opal )
-        , ( "open_policy_agent", open_policy_agent )
-        , ( "openapi_specification_v2", openapi_specification_v2 )
-        , ( "openapi_specification_v3", openapi_specification_v3 )
-        , ( "opencl", opencl )
-        , ( "openedge_abl", openedge_abl )
-        , ( "openqasm", openqasm )
-        , ( "openrc_runscript", openrc_runscript )
-        , ( "openscad", openscad )
-        , ( "option_list", option_list )
-        , ( "org", org )
-        , ( "ox", ox )
-        , ( "oxygene", oxygene )
-        , ( "oz", oz )
-        , ( "p4", p4 )
-        , ( "pddl", pddl )
-        , ( "peg_js", peg_js )
-        , ( "php", php )
-        , ( "plsql", plsql )
-        , ( "plpgsql", plpgsql )
-        , ( "pov_ray_sdl", pov_ray_sdl )
-        , ( "pact", pact )
-        , ( "pan", pan )
-        , ( "papyrus", papyrus )
-        , ( "parrot", parrot )
-        , ( "parrot_assembly", parrot_assembly )
-        , ( "parrot_internal_representation", parrot_internal_representation )
-        , ( "pascal", pascal )
-        , ( "pawn", pawn )
-        , ( "pep8", pep8 )
-        , ( "perl", perl )
-        , ( "picolisp", picolisp )
-        , ( "piglatin", piglatin )
-        , ( "pike", pike )
-        , ( "pip_requirements", pip_requirements )
-        , ( "pkl", pkl )
-        , ( "plantuml", plantuml )
-        , ( "pogoscript", pogoscript )
-        , ( "polar", polar )
-        , ( "pony", pony )
-        , ( "portugol", portugol )
-        , ( "postcss", postcss )
-        , ( "postscript", postscript )
-        , ( "powerbuilder", powerbuilder )
-        , ( "powershell", powershell )
-        , ( "praat", praat )
-        , ( "prisma", prisma )
-        , ( "processing", processing )
-        , ( "procfile", procfile )
-        , ( "prolog", prolog )
-        , ( "promela", promela )
-        , ( "propeller_spin", propeller_spin )
-        , ( "pug", pug )
-        , ( "puppet", puppet )
-        , ( "purebasic", purebasic )
-        , ( "purescript", purescript )
-        , ( "pyret", pyret )
-        , ( "python", python )
-        , ( "python_console", python_console )
-        , ( "python_traceback", python_traceback )
-        , ( "q_sharp", q_sharp )
-        , ( "qml", qml )
-        , ( "qmake", qmake )
-        , ( "qt_script", qt_script )
-        , ( "quake", quake )
-        , ( "r", r )
-        , ( "raml", raml )
-        , ( "rbs", rbs )
-        , ( "rdoc", rdoc )
-        , ( "realbasic", realbasic )
-        , ( "rexx", rexx )
-        , ( "rmarkdown", rmarkdown )
-        , ( "ron", ron )
-        , ( "rpc", rpc )
-        , ( "rpgle", rpgle )
-        , ( "runoff", runoff )
-        , ( "racket", racket )
-        , ( "ragel", ragel )
-        , ( "raku", raku )
-        , ( "rascal", rascal )
-        , ( "rescript", rescript )
-        , ( "reason", reason )
-        , ( "reasonligo", reasonligo )
-        , ( "rebol", rebol )
-        , ( "record_jar", record_jar )
-        , ( "red", red )
-        , ( "redcode", redcode )
-        , ( "regular_expression", regular_expression )
-        , ( "ren_py", ren_py )
-        , ( "renderscript", renderscript )
-        , ( "rez", rez )
-        , ( "ring", ring )
-        , ( "riot", riot )
-        , ( "robotframework", robotframework )
-        , ( "roc", roc )
-        , ( "roff", roff )
-        , ( "roff_manpage", roff_manpage )
-        , ( "rouge", rouge )
-        , ( "routeros_script", routeros_script )
-        , ( "ruby", ruby )
-        , ( "rust", rust )
-        , ( "sas", sas )
-        , ( "scss", scss )
-        , ( "smt", smt )
-        , ( "sparql", sparql )
-        , ( "sqf", sqf )
-        , ( "sql", sql )
-        , ( "sqlpl", sqlpl )
-        , ( "srecode_template", srecode_template )
-        , ( "stl", stl )
-        , ( "svg", svg )
-        , ( "swig", swig )
-        , ( "sage", sage )
-        , ( "saltstack", saltstack )
-        , ( "sass", sass )
-        , ( "scala", scala )
-        , ( "scaml", scaml )
-        , ( "scenic", scenic )
-        , ( "scheme", scheme )
-        , ( "scilab", scilab )
-        , ( "self", self )
-        , ( "shaderlab", shaderlab )
-        , ( "shell", shell )
-        , ( "shellcheck_config", shellcheck_config )
-        , ( "shellsession", shellsession )
-        , ( "shen", shen )
-        , ( "sieve", sieve )
-        , ( "simple_file_verification", simple_file_verification )
-        , ( "singularity", singularity )
-        , ( "slash", slash )
-        , ( "slice", slice )
-        , ( "slim", slim )
-        , ( "slint", slint )
-        , ( "smpl", smpl )
-        , ( "smali", smali )
-        , ( "smalltalk", smalltalk )
-        , ( "smarty", smarty )
-        , ( "smithy", smithy )
-        , ( "snakemake", snakemake )
-        , ( "solidity", solidity )
-        , ( "sourcepawn", sourcepawn )
-        , ( "squirrel", squirrel )
-        , ( "stan", stan )
-        , ( "standard_ml", standard_ml )
-        , ( "starlark", starlark )
-        , ( "stata", stata )
-        , ( "stringtemplate", stringtemplate )
-        , ( "stylus", stylus )
-        , ( "subrip_text", subrip_text )
-        , ( "sugarss", sugarss )
-        , ( "supercollider", supercollider )
-        , ( "svelte", svelte )
-        , ( "sway", sway )
-        , ( "sweave", sweave )
-        , ( "swift", swift )
-        , ( "systemverilog", systemverilog )
-        , ( "ti_program", ti_program )
-        , ( "tl_verilog", tl_verilog )
-        , ( "tla", tla )
-        , ( "toml", toml )
-        , ( "tsql", tsql )
-        , ( "tsv", tsv )
-        , ( "tsx", tsx )
-        , ( "txl", txl )
-        , ( "talon", talon )
-        , ( "tcl", tcl )
-        , ( "tcsh", tcsh )
-        , ( "tex", tex )
-        , ( "terra", terra )
-        , ( "terraform_template", terraform_template )
-        , ( "textgrid", textgrid )
-        , ( "textmate_properties", textmate_properties )
-        , ( "textile", textile )
-        , ( "thrift", thrift )
-        , ( "toit", toit )
-        , ( "turing", turing )
-        , ( "twig", twig )
-        , ( "typescript", typescript )
-        , ( "typst", typst )
-        , ( "unified_parallel_c", unified_parallel_c )
-        , ( "unity3d_asset", unity3d_asset )
-        , ( "unix_assembly", unix_assembly )
-        , ( "uno", uno )
-        , ( "unrealscript", unrealscript )
-        , ( "urweb", urweb )
-        , ( "v", v )
-        , ( "vba", vba )
-        , ( "vbscript", vbscript )
-        , ( "vcl", vcl )
-        , ( "vhdl", vhdl )
-        , ( "vala", vala )
-        , ( "valve_data_format", valve_data_format )
-        , ( "velocity_template_language", velocity_template_language )
-        , ( "verilog", verilog )
-        , ( "vim_help_file", vim_help_file )
-        , ( "vim_script", vim_script )
-        , ( "vim_snippet", vim_snippet )
-        , ( "visual_basic__net", visual_basic__net )
-        , ( "visual_basic_6_0", visual_basic_6_0 )
-        , ( "volt", volt )
-        , ( "vue", vue )
-        , ( "vyper", vyper )
-        , ( "wdl", wdl )
-        , ( "wgsl", wgsl )
-        , ( "web_ontology_language", web_ontology_language )
-        , ( "webassembly", webassembly )
-        , ( "webassembly_interface_type", webassembly_interface_type )
-        , ( "webidl", webidl )
-        , ( "whiley", whiley )
-        , ( "wikitext", wikitext )
-        , ( "windows_registry_entries", windows_registry_entries )
-        , ( "witcher_script", witcher_script )
-        , ( "wollok", wollok )
-        , ( "world_of_warcraft_addon_data", world_of_warcraft_addon_data )
-        , ( "wren", wren )
-        , ( "x10", x10 )
-        , ( "xc", xc )
-        , ( "xml", xml )
-        , ( "xml_property_list", xml_property_list )
-        , ( "xproc", xproc )
-        , ( "xquery", xquery )
-        , ( "xs", xs )
-        , ( "xslt", xslt )
-        , ( "xojo", xojo )
-        , ( "xonsh", xonsh )
-        , ( "xtend", xtend )
-        , ( "yaml", yaml )
-        , ( "yara", yara )
-        , ( "yasnippet", yasnippet )
-        , ( "yacc", yacc )
-        , ( "yul", yul )
-        , ( "zap", zap )
-        , ( "zil", zil )
-        , ( "zeek", zeek )
-        , ( "zenscript", zenscript )
-        , ( "zephir", zephir )
-        , ( "zig", zig )
-        , ( "zimpl", zimpl )
-        , ( "crontab", crontab )
-        , ( "ec", ec )
-        , ( "fish", fish )
-        , ( "hoon", hoon )
-        , ( "jq", jq )
-        , ( "kvlang", kvlang )
-        , ( "mirc_script", mirc_script )
-        , ( "mcfunction", mcfunction )
-        , ( "mupad", mupad )
-        , ( "nanorc", nanorc )
-        , ( "nesc", nesc )
-        , ( "ooc", ooc )
-        , ( "q", q )
-        , ( "restructuredtext", restructuredtext )
-        , ( "sed", sed )
-        , ( "templ", templ )
-        , ( "wisp", wisp )
-        , ( "xbase", xbase )
-        ]
+
+{-| Converts a language name to a `Maybe Language` value. For example, "C++" -> `Just Lang_Cpp` -}
+fromString : String -> Maybe Language
+fromString string =
+    case string of
+        "1C Enterprise" ->
+            Just Lang_lang_1c_enterprise
+
+        "2-Dimensional Array" ->
+            Just Lang_lang_2_dimensional_array
+
+        "4D" ->
+            Just Lang_lang_4d
+
+        "ABAP" ->
+            Just Lang_abap
+
+        "ABAP CDS" ->
+            Just Lang_abap_cds
+
+        "AGS Script" ->
+            Just Lang_ags_script
+
+        "AIDL" ->
+            Just Lang_aidl
+
+        "AL" ->
+            Just Lang_al
+
+        "AMPL" ->
+            Just Lang_ampl
+
+        "ANTLR" ->
+            Just Lang_antlr
+
+        "API Blueprint" ->
+            Just Lang_api_blueprint
+
+        "APL" ->
+            Just Lang_apl
+
+        "ASL" ->
+            Just Lang_asl
+
+        "ASP.NET" ->
+            Just Lang_asp_net
+
+        "ATS" ->
+            Just Lang_ats
+
+        "ActionScript" ->
+            Just Lang_actionscript
+
+        "Ada" ->
+            Just Lang_ada
+
+        "Adblock Filter List" ->
+            Just Lang_adblock_filter_list
+
+        "Adobe Font Metrics" ->
+            Just Lang_adobe_font_metrics
+
+        "Agda" ->
+            Just Lang_agda
+
+        "Alloy" ->
+            Just Lang_alloy
+
+        "Alpine Abuild" ->
+            Just Lang_alpine_abuild
+
+        "Altium Designer" ->
+            Just Lang_altium_designer
+
+        "AngelScript" ->
+            Just Lang_angelscript
+
+        "Ant Build System" ->
+            Just Lang_ant_build_system
+
+        "Antlers" ->
+            Just Lang_antlers
+
+        "ApacheConf" ->
+            Just Lang_apacheconf
+
+        "Apex" ->
+            Just Lang_apex
+
+        "Apollo Guidance Computer" ->
+            Just Lang_apollo_guidance_computer
+
+        "AppleScript" ->
+            Just Lang_applescript
+
+        "Arc" ->
+            Just Lang_arc
+
+        "AsciiDoc" ->
+            Just Lang_asciidoc
+
+        "AspectJ" ->
+            Just Lang_aspectj
+
+        "Assembly" ->
+            Just Lang_assembly
+
+        "Astro" ->
+            Just Lang_astro
+
+        "Asymptote" ->
+            Just Lang_asymptote
+
+        "Augeas" ->
+            Just Lang_augeas
+
+        "AutoHotkey" ->
+            Just Lang_autohotkey
+
+        "AutoIt" ->
+            Just Lang_autoit
+
+        "Avro IDL" ->
+            Just Lang_avro_idl
+
+        "Awk" ->
+            Just Lang_awk
+
+        "BASIC" ->
+            Just Lang_basic
+
+        "BQN" ->
+            Just Lang_bqn
+
+        "Ballerina" ->
+            Just Lang_ballerina
+
+        "Batchfile" ->
+            Just Lang_batchfile
+
+        "Beef" ->
+            Just Lang_beef
+
+        "Befunge" ->
+            Just Lang_befunge
+
+        "Berry" ->
+            Just Lang_berry
+
+        "BibTeX" ->
+            Just Lang_bibtex
+
+        "Bicep" ->
+            Just Lang_bicep
+
+        "Bikeshed" ->
+            Just Lang_bikeshed
+
+        "Bison" ->
+            Just Lang_bison
+
+        "BitBake" ->
+            Just Lang_bitbake
+
+        "Blade" ->
+            Just Lang_blade
+
+        "BlitzBasic" ->
+            Just Lang_blitzbasic
+
+        "BlitzMax" ->
+            Just Lang_blitzmax
+
+        "Bluespec" ->
+            Just Lang_bluespec
+
+        "Bluespec BH" ->
+            Just Lang_bluespec_bh
+
+        "Boo" ->
+            Just Lang_boo
+
+        "Boogie" ->
+            Just Lang_boogie
+
+        "Brainfuck" ->
+            Just Lang_brainfuck
+
+        "BrighterScript" ->
+            Just Lang_brighterscript
+
+        "Brightscript" ->
+            Just Lang_brightscript
+
+        "Browserslist" ->
+            Just Lang_browserslist
+
+        "C" ->
+            Just Lang_c
+
+        "C#" ->
+            Just Lang_c_sharp
+
+        "C++" ->
+            Just Lang_cpp
+
+        "C2hs Haskell" ->
+            Just Lang_c2hs_haskell
+
+        "CAP CDS" ->
+            Just Lang_cap_cds
+
+        "CLIPS" ->
+            Just Lang_clips
+
+        "CMake" ->
+            Just Lang_cmake
+
+        "COBOL" ->
+            Just Lang_cobol
+
+        "COLLADA" ->
+            Just Lang_collada
+
+        "CSON" ->
+            Just Lang_cson
+
+        "CSS" ->
+            Just Lang_css
+
+        "CSV" ->
+            Just Lang_csv
+
+        "CUE" ->
+            Just Lang_cue
+
+        "CWeb" ->
+            Just Lang_cweb
+
+        "Cabal Config" ->
+            Just Lang_cabal_config
+
+        "Caddyfile" ->
+            Just Lang_caddyfile
+
+        "Cadence" ->
+            Just Lang_cadence
+
+        "Cairo" ->
+            Just Lang_cairo
+
+        "CameLIGO" ->
+            Just Lang_cameligo
+
+        "Cap'n Proto" ->
+            Just Lang_cap_n_proto
+
+        "CartoCSS" ->
+            Just Lang_cartocss
+
+        "Ceylon" ->
+            Just Lang_ceylon
+
+        "Chapel" ->
+            Just Lang_chapel
+
+        "Charity" ->
+            Just Lang_charity
+
+        "ChucK" ->
+            Just Lang_chuck
+
+        "Circom" ->
+            Just Lang_circom
+
+        "Cirru" ->
+            Just Lang_cirru
+
+        "Clarion" ->
+            Just Lang_clarion
+
+        "Clarity" ->
+            Just Lang_clarity
+
+        "Classic ASP" ->
+            Just Lang_classic_asp
+
+        "Clean" ->
+            Just Lang_clean
+
+        "Click" ->
+            Just Lang_click
+
+        "Clojure" ->
+            Just Lang_clojure
+
+        "Closure Templates" ->
+            Just Lang_closure_templates
+
+        "Cloud Firestore Security Rules" ->
+            Just Lang_cloud_firestore_security_rules
+
+        "CodeQL" ->
+            Just Lang_codeql
+
+        "CoffeeScript" ->
+            Just Lang_coffeescript
+
+        "ColdFusion" ->
+            Just Lang_coldfusion
+
+        "ColdFusion CFC" ->
+            Just Lang_coldfusion_cfc
+
+        "Common Lisp" ->
+            Just Lang_common_lisp
+
+        "Common Workflow Language" ->
+            Just Lang_common_workflow_language
+
+        "Component Pascal" ->
+            Just Lang_component_pascal
+
+        "Cool" ->
+            Just Lang_cool
+
+        "Coq" ->
+            Just Lang_coq
+
+        "Crystal" ->
+            Just Lang_crystal
+
+        "Csound" ->
+            Just Lang_csound
+
+        "Csound Document" ->
+            Just Lang_csound_document
+
+        "Csound Score" ->
+            Just Lang_csound_score
+
+        "Cuda" ->
+            Just Lang_cuda
+
+        "Curry" ->
+            Just Lang_curry
+
+        "Cycript" ->
+            Just Lang_cycript
+
+        "Cypher" ->
+            Just Lang_cypher
+
+        "Cython" ->
+            Just Lang_cython
+
+        "D" ->
+            Just Lang_d
+
+        "D2" ->
+            Just Lang_d2
+
+        "DIGITAL Command Language" ->
+            Just Lang_digital_command_language
+
+        "DM" ->
+            Just Lang_dm
+
+        "DTrace" ->
+            Just Lang_dtrace
+
+        "Dafny" ->
+            Just Lang_dafny
+
+        "Darcs Patch" ->
+            Just Lang_darcs_patch
+
+        "Dart" ->
+            Just Lang_dart
+
+        "DataWeave" ->
+            Just Lang_dataweave
+
+        "Debian Package Control File" ->
+            Just Lang_debian_package_control_file
+
+        "DenizenScript" ->
+            Just Lang_denizenscript
+
+        "Dhall" ->
+            Just Lang_dhall
+
+        "DirectX 3D File" ->
+            Just Lang_directx_3d_file
+
+        "Dockerfile" ->
+            Just Lang_dockerfile
+
+        "Dogescript" ->
+            Just Lang_dogescript
+
+        "Dotenv" ->
+            Just Lang_dotenv
+
+        "Dylan" ->
+            Just Lang_dylan
+
+        "E" ->
+            Just Lang_e
+
+        "ECL" ->
+            Just Lang_ecl
+
+        "ECLiPSe" ->
+            Just Lang_eclipse
+
+        "EJS" ->
+            Just Lang_ejs
+
+        "EQ" ->
+            Just Lang_eq
+
+        "Earthly" ->
+            Just Lang_earthly
+
+        "Easybuild" ->
+            Just Lang_easybuild
+
+        "Ecere Projects" ->
+            Just Lang_ecere_projects
+
+        "Ecmarkup" ->
+            Just Lang_ecmarkup
+
+        "Edge" ->
+            Just Lang_edge
+
+        "EdgeQL" ->
+            Just Lang_edgeql
+
+        "EditorConfig" ->
+            Just Lang_editorconfig
+
+        "Eiffel" ->
+            Just Lang_eiffel
+
+        "Elixir" ->
+            Just Lang_elixir
+
+        "Elm" ->
+            Just Lang_elm
+
+        "Elvish" ->
+            Just Lang_elvish
+
+        "Elvish Transcript" ->
+            Just Lang_elvish_transcript
+
+        "Emacs Lisp" ->
+            Just Lang_emacs_lisp
+
+        "EmberScript" ->
+            Just Lang_emberscript
+
+        "Erlang" ->
+            Just Lang_erlang
+
+        "Euphoria" ->
+            Just Lang_euphoria
+
+        "F#" ->
+            Just Lang_f_sharp
+
+        "F*" ->
+            Just Lang_f_star
+
+        "FIGlet Font" ->
+            Just Lang_figlet_font
+
+        "FIRRTL" ->
+            Just Lang_firrtl
+
+        "FLUX" ->
+            Just Lang_flux
+
+        "Factor" ->
+            Just Lang_factor
+
+        "Fancy" ->
+            Just Lang_fancy
+
+        "Fantom" ->
+            Just Lang_fantom
+
+        "Faust" ->
+            Just Lang_faust
+
+        "Fennel" ->
+            Just Lang_fennel
+
+        "Filebench WML" ->
+            Just Lang_filebench_wml
+
+        "Filterscript" ->
+            Just Lang_filterscript
+
+        "Fluent" ->
+            Just Lang_fluent
+
+        "Forth" ->
+            Just Lang_forth
+
+        "Fortran" ->
+            Just Lang_fortran
+
+        "Fortran Free Form" ->
+            Just Lang_fortran_free_form
+
+        "FreeBasic" ->
+            Just Lang_freebasic
+
+        "FreeMarker" ->
+            Just Lang_freemarker
+
+        "Frege" ->
+            Just Lang_frege
+
+        "Futhark" ->
+            Just Lang_futhark
+
+        "G-code" ->
+            Just Lang_g_code
+
+        "GAML" ->
+            Just Lang_gaml
+
+        "GAMS" ->
+            Just Lang_gams
+
+        "GAP" ->
+            Just Lang_gap
+
+        "GCC Machine Description" ->
+            Just Lang_gcc_machine_description
+
+        "GDB" ->
+            Just Lang_gdb
+
+        "GDScript" ->
+            Just Lang_gdscript
+
+        "GEDCOM" ->
+            Just Lang_gedcom
+
+        "GLSL" ->
+            Just Lang_glsl
+
+        "GSC" ->
+            Just Lang_gsc
+
+        "Game Maker Language" ->
+            Just Lang_game_maker_language
+
+        "Gemfile.lock" ->
+            Just Lang_gemfile_lock
+
+        "Gemini" ->
+            Just Lang_gemini
+
+        "Genero 4gl" ->
+            Just Lang_genero_4gl
+
+        "Genero per" ->
+            Just Lang_genero_per
+
+        "Genie" ->
+            Just Lang_genie
+
+        "Genshi" ->
+            Just Lang_genshi
+
+        "Gentoo Ebuild" ->
+            Just Lang_gentoo_ebuild
+
+        "Gentoo Eclass" ->
+            Just Lang_gentoo_eclass
+
+        "Gerber Image" ->
+            Just Lang_gerber_image
+
+        "Gherkin" ->
+            Just Lang_gherkin
+
+        "Git Attributes" ->
+            Just Lang_git_attributes
+
+        "Git Config" ->
+            Just Lang_git_config
+
+        "Git Revision List" ->
+            Just Lang_git_revision_list
+
+        "Gleam" ->
+            Just Lang_gleam
+
+        "Glimmer JS" ->
+            Just Lang_glimmer_js
+
+        "Glimmer TS" ->
+            Just Lang_glimmer_ts
+
+        "Glyph" ->
+            Just Lang_glyph
+
+        "Gnuplot" ->
+            Just Lang_gnuplot
+
+        "Go" ->
+            Just Lang_go
+
+        "Go Checksums" ->
+            Just Lang_go_checksums
+
+        "Go Module" ->
+            Just Lang_go_module
+
+        "Go Workspace" ->
+            Just Lang_go_workspace
+
+        "Godot Resource" ->
+            Just Lang_godot_resource
+
+        "Golo" ->
+            Just Lang_golo
+
+        "Gosu" ->
+            Just Lang_gosu
+
+        "Grace" ->
+            Just Lang_grace
+
+        "Gradle" ->
+            Just Lang_gradle
+
+        "Gradle Kotlin DSL" ->
+            Just Lang_gradle_kotlin_dsl
+
+        "Grammatical Framework" ->
+            Just Lang_grammatical_framework
+
+        "GraphQL" ->
+            Just Lang_graphql
+
+        "Graphviz (DOT)" ->
+            Just Lang_graphviz__dot_
+
+        "Groovy" ->
+            Just Lang_groovy
+
+        "Groovy Server Pages" ->
+            Just Lang_groovy_server_pages
+
+        "HAProxy" ->
+            Just Lang_haproxy
+
+        "HCL" ->
+            Just Lang_hcl
+
+        "HLSL" ->
+            Just Lang_hlsl
+
+        "HOCON" ->
+            Just Lang_hocon
+
+        "HTML" ->
+            Just Lang_html
+
+        "HTML+ECR" ->
+            Just Lang_html_plus_ecr
+
+        "HTML+EEX" ->
+            Just Lang_html_plus_eex
+
+        "HTML+ERB" ->
+            Just Lang_html_plus_erb
+
+        "HTML+PHP" ->
+            Just Lang_html_plus_php
+
+        "HTML+Razor" ->
+            Just Lang_html_plus_razor
+
+        "HTTP" ->
+            Just Lang_http
+
+        "HXML" ->
+            Just Lang_hxml
+
+        "Hack" ->
+            Just Lang_hack
+
+        "Haml" ->
+            Just Lang_haml
+
+        "Handlebars" ->
+            Just Lang_handlebars
+
+        "Harbour" ->
+            Just Lang_harbour
+
+        "Haskell" ->
+            Just Lang_haskell
+
+        "Haxe" ->
+            Just Lang_haxe
+
+        "HiveQL" ->
+            Just Lang_hiveql
+
+        "HolyC" ->
+            Just Lang_holyc
+
+        "Hosts File" ->
+            Just Lang_hosts_file
+
+        "Hy" ->
+            Just Lang_hy
+
+        "HyPhy" ->
+            Just Lang_hyphy
+
+        "IDL" ->
+            Just Lang_idl
+
+        "IGOR Pro" ->
+            Just Lang_igor_pro
+
+        "INI" ->
+            Just Lang_ini
+
+        "Idris" ->
+            Just Lang_idris
+
+        "Ignore List" ->
+            Just Lang_ignore_list
+
+        "ImageJ Macro" ->
+            Just Lang_imagej_macro
+
+        "Imba" ->
+            Just Lang_imba
+
+        "Inform 7" ->
+            Just Lang_inform_7
+
+        "Ink" ->
+            Just Lang_ink
+
+        "Inno Setup" ->
+            Just Lang_inno_setup
+
+        "Io" ->
+            Just Lang_io
+
+        "Ioke" ->
+            Just Lang_ioke
+
+        "Isabelle" ->
+            Just Lang_isabelle
+
+        "Isabelle ROOT" ->
+            Just Lang_isabelle_root
+
+        "J" ->
+            Just Lang_j
+
+        "JAR Manifest" ->
+            Just Lang_jar_manifest
+
+        "JCL" ->
+            Just Lang_jcl
+
+        "JFlex" ->
+            Just Lang_jflex
+
+        "JSON" ->
+            Just Lang_json
+
+        "JSON with Comments" ->
+            Just Lang_json_with_comments
+
+        "JSON5" ->
+            Just Lang_json5
+
+        "JSONLD" ->
+            Just Lang_jsonld
+
+        "JSONiq" ->
+            Just Lang_jsoniq
+
+        "Janet" ->
+            Just Lang_janet
+
+        "Jasmin" ->
+            Just Lang_jasmin
+
+        "Java" ->
+            Just Lang_java
+
+        "Java Properties" ->
+            Just Lang_java_properties
+
+        "Java Server Pages" ->
+            Just Lang_java_server_pages
+
+        "JavaScript" ->
+            Just Lang_javascript
+
+        "JavaScript+ERB" ->
+            Just Lang_javascript_plus_erb
+
+        "Jest Snapshot" ->
+            Just Lang_jest_snapshot
+
+        "JetBrains MPS" ->
+            Just Lang_jetbrains_mps
+
+        "Jinja" ->
+            Just Lang_jinja
+
+        "Jison" ->
+            Just Lang_jison
+
+        "Jison Lex" ->
+            Just Lang_jison_lex
+
+        "Jolie" ->
+            Just Lang_jolie
+
+        "Jsonnet" ->
+            Just Lang_jsonnet
+
+        "Julia" ->
+            Just Lang_julia
+
+        "Julia REPL" ->
+            Just Lang_julia_repl
+
+        "Jupyter Notebook" ->
+            Just Lang_jupyter_notebook
+
+        "Just" ->
+            Just Lang_just
+
+        "KRL" ->
+            Just Lang_krl
+
+        "Kaitai Struct" ->
+            Just Lang_kaitai_struct
+
+        "KakouneScript" ->
+            Just Lang_kakounescript
+
+        "KerboScript" ->
+            Just Lang_kerboscript
+
+        "KiCad Layout" ->
+            Just Lang_kicad_layout
+
+        "KiCad Legacy Layout" ->
+            Just Lang_kicad_legacy_layout
+
+        "KiCad Schematic" ->
+            Just Lang_kicad_schematic
+
+        "Kotlin" ->
+            Just Lang_kotlin
+
+        "LFE" ->
+            Just Lang_lfe
+
+        "LLVM" ->
+            Just Lang_llvm
+
+        "LOLCODE" ->
+            Just Lang_lolcode
+
+        "LSL" ->
+            Just Lang_lsl
+
+        "LabVIEW" ->
+            Just Lang_labview
+
+        "Lark" ->
+            Just Lang_lark
+
+        "Lasso" ->
+            Just Lang_lasso
+
+        "Latte" ->
+            Just Lang_latte
+
+        "Lean" ->
+            Just Lang_lean
+
+        "Lean 4" ->
+            Just Lang_lean_4
+
+        "Less" ->
+            Just Lang_less
+
+        "Lex" ->
+            Just Lang_lex
+
+        "LigoLANG" ->
+            Just Lang_ligolang
+
+        "LilyPond" ->
+            Just Lang_lilypond
+
+        "Limbo" ->
+            Just Lang_limbo
+
+        "Liquid" ->
+            Just Lang_liquid
+
+        "Literate Agda" ->
+            Just Lang_literate_agda
+
+        "Literate CoffeeScript" ->
+            Just Lang_literate_coffeescript
+
+        "Literate Haskell" ->
+            Just Lang_literate_haskell
+
+        "LiveScript" ->
+            Just Lang_livescript
+
+        "Logos" ->
+            Just Lang_logos
+
+        "Logtalk" ->
+            Just Lang_logtalk
+
+        "LookML" ->
+            Just Lang_lookml
+
+        "LoomScript" ->
+            Just Lang_loomscript
+
+        "Lua" ->
+            Just Lang_lua
+
+        "Luau" ->
+            Just Lang_luau
+
+        "M" ->
+            Just Lang_m
+
+        "M4" ->
+            Just Lang_m4
+
+        "M4Sugar" ->
+            Just Lang_m4sugar
+
+        "MATLAB" ->
+            Just Lang_matlab
+
+        "MAXScript" ->
+            Just Lang_maxscript
+
+        "MDX" ->
+            Just Lang_mdx
+
+        "MLIR" ->
+            Just Lang_mlir
+
+        "MQL4" ->
+            Just Lang_mql4
+
+        "MQL5" ->
+            Just Lang_mql5
+
+        "MTML" ->
+            Just Lang_mtml
+
+        "MUF" ->
+            Just Lang_muf
+
+        "Macaulay2" ->
+            Just Lang_macaulay2
+
+        "Makefile" ->
+            Just Lang_makefile
+
+        "Mako" ->
+            Just Lang_mako
+
+        "Markdown" ->
+            Just Lang_markdown
+
+        "Marko" ->
+            Just Lang_marko
+
+        "Mask" ->
+            Just Lang_mask
+
+        "Mathematica" ->
+            Just Lang_mathematica
+
+        "Max" ->
+            Just Lang_max
+
+        "Mercury" ->
+            Just Lang_mercury
+
+        "Mermaid" ->
+            Just Lang_mermaid
+
+        "Meson" ->
+            Just Lang_meson
+
+        "Metal" ->
+            Just Lang_metal
+
+        "MiniD" ->
+            Just Lang_minid
+
+        "MiniYAML" ->
+            Just Lang_miniyaml
+
+        "Mint" ->
+            Just Lang_mint
+
+        "Mirah" ->
+            Just Lang_mirah
+
+        "Modelica" ->
+            Just Lang_modelica
+
+        "Modula-2" ->
+            Just Lang_modula_2
+
+        "Modula-3" ->
+            Just Lang_modula_3
+
+        "Module Management System" ->
+            Just Lang_module_management_system
+
+        "Mojo" ->
+            Just Lang_mojo
+
+        "Monkey" ->
+            Just Lang_monkey
+
+        "Monkey C" ->
+            Just Lang_monkey_c
+
+        "Moocode" ->
+            Just Lang_moocode
+
+        "MoonScript" ->
+            Just Lang_moonscript
+
+        "Motoko" ->
+            Just Lang_motoko
+
+        "Motorola 68K Assembly" ->
+            Just Lang_motorola_68k_assembly
+
+        "Move" ->
+            Just Lang_move
+
+        "Mustache" ->
+            Just Lang_mustache
+
+        "Myghty" ->
+            Just Lang_myghty
+
+        "NASL" ->
+            Just Lang_nasl
+
+        "NCL" ->
+            Just Lang_ncl
+
+        "NMODL" ->
+            Just Lang_nmodl
+
+        "NPM Config" ->
+            Just Lang_npm_config
+
+        "NSIS" ->
+            Just Lang_nsis
+
+        "NWScript" ->
+            Just Lang_nwscript
+
+        "Nasal" ->
+            Just Lang_nasal
+
+        "Nearley" ->
+            Just Lang_nearley
+
+        "Nemerle" ->
+            Just Lang_nemerle
+
+        "NetLinx" ->
+            Just Lang_netlinx
+
+        "NetLinx+ERB" ->
+            Just Lang_netlinx_plus_erb
+
+        "NetLogo" ->
+            Just Lang_netlogo
+
+        "NewLisp" ->
+            Just Lang_newlisp
+
+        "Nextflow" ->
+            Just Lang_nextflow
+
+        "Nginx" ->
+            Just Lang_nginx
+
+        "Nim" ->
+            Just Lang_nim
+
+        "Nit" ->
+            Just Lang_nit
+
+        "Nix" ->
+            Just Lang_nix
+
+        "Nu" ->
+            Just Lang_nu
+
+        "NumPy" ->
+            Just Lang_numpy
+
+        "Nunjucks" ->
+            Just Lang_nunjucks
+
+        "Nushell" ->
+            Just Lang_nushell
+
+        "OASv2-json" ->
+            Just Lang_oasv2_json
+
+        "OASv2-yaml" ->
+            Just Lang_oasv2_yaml
+
+        "OASv3-json" ->
+            Just Lang_oasv3_json
+
+        "OASv3-yaml" ->
+            Just Lang_oasv3_yaml
+
+        "OCaml" ->
+            Just Lang_ocaml
+
+        "Oberon" ->
+            Just Lang_oberon
+
+        "ObjectScript" ->
+            Just Lang_objectscript
+
+        "Objective-C" ->
+            Just Lang_objective_c
+
+        "Objective-C++" ->
+            Just Lang_objective_cpp
+
+        "Objective-J" ->
+            Just Lang_objective_j
+
+        "Odin" ->
+            Just Lang_odin
+
+        "Omgrofl" ->
+            Just Lang_omgrofl
+
+        "Opa" ->
+            Just Lang_opa
+
+        "Opal" ->
+            Just Lang_opal
+
+        "Open Policy Agent" ->
+            Just Lang_open_policy_agent
+
+        "OpenAPI Specification v2" ->
+            Just Lang_openapi_specification_v2
+
+        "OpenAPI Specification v3" ->
+            Just Lang_openapi_specification_v3
+
+        "OpenCL" ->
+            Just Lang_opencl
+
+        "OpenEdge ABL" ->
+            Just Lang_openedge_abl
+
+        "OpenQASM" ->
+            Just Lang_openqasm
+
+        "OpenRC runscript" ->
+            Just Lang_openrc_runscript
+
+        "OpenSCAD" ->
+            Just Lang_openscad
+
+        "Option List" ->
+            Just Lang_option_list
+
+        "Org" ->
+            Just Lang_org
+
+        "Ox" ->
+            Just Lang_ox
+
+        "Oxygene" ->
+            Just Lang_oxygene
+
+        "Oz" ->
+            Just Lang_oz
+
+        "P4" ->
+            Just Lang_p4
+
+        "PDDL" ->
+            Just Lang_pddl
+
+        "PEG.js" ->
+            Just Lang_peg_js
+
+        "PHP" ->
+            Just Lang_php
+
+        "PLSQL" ->
+            Just Lang_plsql
+
+        "PLpgSQL" ->
+            Just Lang_plpgsql
+
+        "POV-Ray SDL" ->
+            Just Lang_pov_ray_sdl
+
+        "Pact" ->
+            Just Lang_pact
+
+        "Pan" ->
+            Just Lang_pan
+
+        "Papyrus" ->
+            Just Lang_papyrus
+
+        "Parrot" ->
+            Just Lang_parrot
+
+        "Parrot Assembly" ->
+            Just Lang_parrot_assembly
+
+        "Parrot Internal Representation" ->
+            Just Lang_parrot_internal_representation
+
+        "Pascal" ->
+            Just Lang_pascal
+
+        "Pawn" ->
+            Just Lang_pawn
+
+        "Pep8" ->
+            Just Lang_pep8
+
+        "Perl" ->
+            Just Lang_perl
+
+        "PicoLisp" ->
+            Just Lang_picolisp
+
+        "PigLatin" ->
+            Just Lang_piglatin
+
+        "Pike" ->
+            Just Lang_pike
+
+        "Pip Requirements" ->
+            Just Lang_pip_requirements
+
+        "Pkl" ->
+            Just Lang_pkl
+
+        "PlantUML" ->
+            Just Lang_plantuml
+
+        "PogoScript" ->
+            Just Lang_pogoscript
+
+        "Polar" ->
+            Just Lang_polar
+
+        "Pony" ->
+            Just Lang_pony
+
+        "Portugol" ->
+            Just Lang_portugol
+
+        "PostCSS" ->
+            Just Lang_postcss
+
+        "PostScript" ->
+            Just Lang_postscript
+
+        "PowerBuilder" ->
+            Just Lang_powerbuilder
+
+        "PowerShell" ->
+            Just Lang_powershell
+
+        "Praat" ->
+            Just Lang_praat
+
+        "Prisma" ->
+            Just Lang_prisma
+
+        "Processing" ->
+            Just Lang_processing
+
+        "Procfile" ->
+            Just Lang_procfile
+
+        "Prolog" ->
+            Just Lang_prolog
+
+        "Promela" ->
+            Just Lang_promela
+
+        "Propeller Spin" ->
+            Just Lang_propeller_spin
+
+        "Pug" ->
+            Just Lang_pug
+
+        "Puppet" ->
+            Just Lang_puppet
+
+        "PureBasic" ->
+            Just Lang_purebasic
+
+        "PureScript" ->
+            Just Lang_purescript
+
+        "Pyret" ->
+            Just Lang_pyret
+
+        "Python" ->
+            Just Lang_python
+
+        "Python console" ->
+            Just Lang_python_console
+
+        "Python traceback" ->
+            Just Lang_python_traceback
+
+        "Q#" ->
+            Just Lang_q_sharp
+
+        "QML" ->
+            Just Lang_qml
+
+        "QMake" ->
+            Just Lang_qmake
+
+        "Qt Script" ->
+            Just Lang_qt_script
+
+        "Quake" ->
+            Just Lang_quake
+
+        "R" ->
+            Just Lang_r
+
+        "RAML" ->
+            Just Lang_raml
+
+        "RBS" ->
+            Just Lang_rbs
+
+        "RDoc" ->
+            Just Lang_rdoc
+
+        "REALbasic" ->
+            Just Lang_realbasic
+
+        "REXX" ->
+            Just Lang_rexx
+
+        "RMarkdown" ->
+            Just Lang_rmarkdown
+
+        "RON" ->
+            Just Lang_ron
+
+        "RPC" ->
+            Just Lang_rpc
+
+        "RPGLE" ->
+            Just Lang_rpgle
+
+        "RUNOFF" ->
+            Just Lang_runoff
+
+        "Racket" ->
+            Just Lang_racket
+
+        "Ragel" ->
+            Just Lang_ragel
+
+        "Raku" ->
+            Just Lang_raku
+
+        "Rascal" ->
+            Just Lang_rascal
+
+        "ReScript" ->
+            Just Lang_rescript
+
+        "Reason" ->
+            Just Lang_reason
+
+        "ReasonLIGO" ->
+            Just Lang_reasonligo
+
+        "Rebol" ->
+            Just Lang_rebol
+
+        "Record Jar" ->
+            Just Lang_record_jar
+
+        "Red" ->
+            Just Lang_red
+
+        "Redcode" ->
+            Just Lang_redcode
+
+        "Regular Expression" ->
+            Just Lang_regular_expression
+
+        "Ren'Py" ->
+            Just Lang_ren_py
+
+        "RenderScript" ->
+            Just Lang_renderscript
+
+        "Rez" ->
+            Just Lang_rez
+
+        "Ring" ->
+            Just Lang_ring
+
+        "Riot" ->
+            Just Lang_riot
+
+        "RobotFramework" ->
+            Just Lang_robotframework
+
+        "Roc" ->
+            Just Lang_roc
+
+        "Roff" ->
+            Just Lang_roff
+
+        "Roff Manpage" ->
+            Just Lang_roff_manpage
+
+        "Rouge" ->
+            Just Lang_rouge
+
+        "RouterOS Script" ->
+            Just Lang_routeros_script
+
+        "Ruby" ->
+            Just Lang_ruby
+
+        "Rust" ->
+            Just Lang_rust
+
+        "SAS" ->
+            Just Lang_sas
+
+        "SCSS" ->
+            Just Lang_scss
+
+        "SMT" ->
+            Just Lang_smt
+
+        "SPARQL" ->
+            Just Lang_sparql
+
+        "SQF" ->
+            Just Lang_sqf
+
+        "SQL" ->
+            Just Lang_sql
+
+        "SQLPL" ->
+            Just Lang_sqlpl
+
+        "SRecode Template" ->
+            Just Lang_srecode_template
+
+        "STL" ->
+            Just Lang_stl
+
+        "SVG" ->
+            Just Lang_svg
+
+        "SWIG" ->
+            Just Lang_swig
+
+        "Sage" ->
+            Just Lang_sage
+
+        "SaltStack" ->
+            Just Lang_saltstack
+
+        "Sass" ->
+            Just Lang_sass
+
+        "Scala" ->
+            Just Lang_scala
+
+        "Scaml" ->
+            Just Lang_scaml
+
+        "Scenic" ->
+            Just Lang_scenic
+
+        "Scheme" ->
+            Just Lang_scheme
+
+        "Scilab" ->
+            Just Lang_scilab
+
+        "Self" ->
+            Just Lang_self
+
+        "ShaderLab" ->
+            Just Lang_shaderlab
+
+        "Shell" ->
+            Just Lang_shell
+
+        "ShellCheck Config" ->
+            Just Lang_shellcheck_config
+
+        "ShellSession" ->
+            Just Lang_shellsession
+
+        "Shen" ->
+            Just Lang_shen
+
+        "Sieve" ->
+            Just Lang_sieve
+
+        "Simple File Verification" ->
+            Just Lang_simple_file_verification
+
+        "Singularity" ->
+            Just Lang_singularity
+
+        "Slash" ->
+            Just Lang_slash
+
+        "Slice" ->
+            Just Lang_slice
+
+        "Slim" ->
+            Just Lang_slim
+
+        "Slint" ->
+            Just Lang_slint
+
+        "SmPL" ->
+            Just Lang_smpl
+
+        "Smali" ->
+            Just Lang_smali
+
+        "Smalltalk" ->
+            Just Lang_smalltalk
+
+        "Smarty" ->
+            Just Lang_smarty
+
+        "Smithy" ->
+            Just Lang_smithy
+
+        "Snakemake" ->
+            Just Lang_snakemake
+
+        "Solidity" ->
+            Just Lang_solidity
+
+        "SourcePawn" ->
+            Just Lang_sourcepawn
+
+        "Squirrel" ->
+            Just Lang_squirrel
+
+        "Stan" ->
+            Just Lang_stan
+
+        "Standard ML" ->
+            Just Lang_standard_ml
+
+        "Starlark" ->
+            Just Lang_starlark
+
+        "Stata" ->
+            Just Lang_stata
+
+        "StringTemplate" ->
+            Just Lang_stringtemplate
+
+        "Stylus" ->
+            Just Lang_stylus
+
+        "SubRip Text" ->
+            Just Lang_subrip_text
+
+        "SugarSS" ->
+            Just Lang_sugarss
+
+        "SuperCollider" ->
+            Just Lang_supercollider
+
+        "Svelte" ->
+            Just Lang_svelte
+
+        "Sway" ->
+            Just Lang_sway
+
+        "Sweave" ->
+            Just Lang_sweave
+
+        "Swift" ->
+            Just Lang_swift
+
+        "SystemVerilog" ->
+            Just Lang_systemverilog
+
+        "TI Program" ->
+            Just Lang_ti_program
+
+        "TL-Verilog" ->
+            Just Lang_tl_verilog
+
+        "TLA" ->
+            Just Lang_tla
+
+        "TOML" ->
+            Just Lang_toml
+
+        "TSQL" ->
+            Just Lang_tsql
+
+        "TSV" ->
+            Just Lang_tsv
+
+        "TSX" ->
+            Just Lang_tsx
+
+        "TXL" ->
+            Just Lang_txl
+
+        "Talon" ->
+            Just Lang_talon
+
+        "Tcl" ->
+            Just Lang_tcl
+
+        "Tcsh" ->
+            Just Lang_tcsh
+
+        "TeX" ->
+            Just Lang_tex
+
+        "Terra" ->
+            Just Lang_terra
+
+        "Terraform Template" ->
+            Just Lang_terraform_template
+
+        "TextGrid" ->
+            Just Lang_textgrid
+
+        "TextMate Properties" ->
+            Just Lang_textmate_properties
+
+        "Textile" ->
+            Just Lang_textile
+
+        "Thrift" ->
+            Just Lang_thrift
+
+        "Toit" ->
+            Just Lang_toit
+
+        "Turing" ->
+            Just Lang_turing
+
+        "Twig" ->
+            Just Lang_twig
+
+        "TypeScript" ->
+            Just Lang_typescript
+
+        "Typst" ->
+            Just Lang_typst
+
+        "Unified Parallel C" ->
+            Just Lang_unified_parallel_c
+
+        "Unity3D Asset" ->
+            Just Lang_unity3d_asset
+
+        "Unix Assembly" ->
+            Just Lang_unix_assembly
+
+        "Uno" ->
+            Just Lang_uno
+
+        "UnrealScript" ->
+            Just Lang_unrealscript
+
+        "UrWeb" ->
+            Just Lang_urweb
+
+        "V" ->
+            Just Lang_v
+
+        "VBA" ->
+            Just Lang_vba
+
+        "VBScript" ->
+            Just Lang_vbscript
+
+        "VCL" ->
+            Just Lang_vcl
+
+        "VHDL" ->
+            Just Lang_vhdl
+
+        "Vala" ->
+            Just Lang_vala
+
+        "Valve Data Format" ->
+            Just Lang_valve_data_format
+
+        "Velocity Template Language" ->
+            Just Lang_velocity_template_language
+
+        "Verilog" ->
+            Just Lang_verilog
+
+        "Vim Help File" ->
+            Just Lang_vim_help_file
+
+        "Vim Script" ->
+            Just Lang_vim_script
+
+        "Vim Snippet" ->
+            Just Lang_vim_snippet
+
+        "Visual Basic .NET" ->
+            Just Lang_visual_basic__net
+
+        "Visual Basic 6.0" ->
+            Just Lang_visual_basic_6_0
+
+        "Volt" ->
+            Just Lang_volt
+
+        "Vue" ->
+            Just Lang_vue
+
+        "Vyper" ->
+            Just Lang_vyper
+
+        "WDL" ->
+            Just Lang_wdl
+
+        "WGSL" ->
+            Just Lang_wgsl
+
+        "Web Ontology Language" ->
+            Just Lang_web_ontology_language
+
+        "WebAssembly" ->
+            Just Lang_webassembly
+
+        "WebAssembly Interface Type" ->
+            Just Lang_webassembly_interface_type
+
+        "WebIDL" ->
+            Just Lang_webidl
+
+        "Whiley" ->
+            Just Lang_whiley
+
+        "Wikitext" ->
+            Just Lang_wikitext
+
+        "Windows Registry Entries" ->
+            Just Lang_windows_registry_entries
+
+        "Witcher Script" ->
+            Just Lang_witcher_script
+
+        "Wollok" ->
+            Just Lang_wollok
+
+        "World of Warcraft Addon Data" ->
+            Just Lang_world_of_warcraft_addon_data
+
+        "Wren" ->
+            Just Lang_wren
+
+        "X10" ->
+            Just Lang_x10
+
+        "XC" ->
+            Just Lang_xc
+
+        "XML" ->
+            Just Lang_xml
+
+        "XML Property List" ->
+            Just Lang_xml_property_list
+
+        "XProc" ->
+            Just Lang_xproc
+
+        "XQuery" ->
+            Just Lang_xquery
+
+        "XS" ->
+            Just Lang_xs
+
+        "XSLT" ->
+            Just Lang_xslt
+
+        "Xojo" ->
+            Just Lang_xojo
+
+        "Xonsh" ->
+            Just Lang_xonsh
+
+        "Xtend" ->
+            Just Lang_xtend
+
+        "YAML" ->
+            Just Lang_yaml
+
+        "YARA" ->
+            Just Lang_yara
+
+        "YASnippet" ->
+            Just Lang_yasnippet
+
+        "Yacc" ->
+            Just Lang_yacc
+
+        "Yul" ->
+            Just Lang_yul
+
+        "ZAP" ->
+            Just Lang_zap
+
+        "ZIL" ->
+            Just Lang_zil
+
+        "Zeek" ->
+            Just Lang_zeek
+
+        "ZenScript" ->
+            Just Lang_zenscript
+
+        "Zephir" ->
+            Just Lang_zephir
+
+        "Zig" ->
+            Just Lang_zig
+
+        "Zimpl" ->
+            Just Lang_zimpl
+
+        "crontab" ->
+            Just Lang_crontab
+
+        "eC" ->
+            Just Lang_ec
+
+        "fish" ->
+            Just Lang_fish
+
+        "hoon" ->
+            Just Lang_hoon
+
+        "jq" ->
+            Just Lang_jq
+
+        "kvlang" ->
+            Just Lang_kvlang
+
+        "mIRC Script" ->
+            Just Lang_mirc_script
+
+        "mcfunction" ->
+            Just Lang_mcfunction
+
+        "mupad" ->
+            Just Lang_mupad
+
+        "nanorc" ->
+            Just Lang_nanorc
+
+        "nesC" ->
+            Just Lang_nesc
+
+        "ooc" ->
+            Just Lang_ooc
+
+        "q" ->
+            Just Lang_q
+
+        "reStructuredText" ->
+            Just Lang_restructuredtext
+
+        "sed" ->
+            Just Lang_sed
+
+        "templ" ->
+            Just Lang_templ
+
+        "wisp" ->
+            Just Lang_wisp
+
+        "xBase" ->
+            Just Lang_xbase
+
+        _ ->
+            Nothing
+
+
+{-| Converts a `Language` value to its name -}
+toString : Language -> String
+toString language =
+    case language of
+        Lang_lang_1c_enterprise ->
+            "1C Enterprise"
+
+        Lang_lang_2_dimensional_array ->
+            "2-Dimensional Array"
+
+        Lang_lang_4d ->
+            "4D"
+
+        Lang_abap ->
+            "ABAP"
+
+        Lang_abap_cds ->
+            "ABAP CDS"
+
+        Lang_ags_script ->
+            "AGS Script"
+
+        Lang_aidl ->
+            "AIDL"
+
+        Lang_al ->
+            "AL"
+
+        Lang_ampl ->
+            "AMPL"
+
+        Lang_antlr ->
+            "ANTLR"
+
+        Lang_api_blueprint ->
+            "API Blueprint"
+
+        Lang_apl ->
+            "APL"
+
+        Lang_asl ->
+            "ASL"
+
+        Lang_asp_net ->
+            "ASP.NET"
+
+        Lang_ats ->
+            "ATS"
+
+        Lang_actionscript ->
+            "ActionScript"
+
+        Lang_ada ->
+            "Ada"
+
+        Lang_adblock_filter_list ->
+            "Adblock Filter List"
+
+        Lang_adobe_font_metrics ->
+            "Adobe Font Metrics"
+
+        Lang_agda ->
+            "Agda"
+
+        Lang_alloy ->
+            "Alloy"
+
+        Lang_alpine_abuild ->
+            "Alpine Abuild"
+
+        Lang_altium_designer ->
+            "Altium Designer"
+
+        Lang_angelscript ->
+            "AngelScript"
+
+        Lang_ant_build_system ->
+            "Ant Build System"
+
+        Lang_antlers ->
+            "Antlers"
+
+        Lang_apacheconf ->
+            "ApacheConf"
+
+        Lang_apex ->
+            "Apex"
+
+        Lang_apollo_guidance_computer ->
+            "Apollo Guidance Computer"
+
+        Lang_applescript ->
+            "AppleScript"
+
+        Lang_arc ->
+            "Arc"
+
+        Lang_asciidoc ->
+            "AsciiDoc"
+
+        Lang_aspectj ->
+            "AspectJ"
+
+        Lang_assembly ->
+            "Assembly"
+
+        Lang_astro ->
+            "Astro"
+
+        Lang_asymptote ->
+            "Asymptote"
+
+        Lang_augeas ->
+            "Augeas"
+
+        Lang_autohotkey ->
+            "AutoHotkey"
+
+        Lang_autoit ->
+            "AutoIt"
+
+        Lang_avro_idl ->
+            "Avro IDL"
+
+        Lang_awk ->
+            "Awk"
+
+        Lang_basic ->
+            "BASIC"
+
+        Lang_bqn ->
+            "BQN"
+
+        Lang_ballerina ->
+            "Ballerina"
+
+        Lang_batchfile ->
+            "Batchfile"
+
+        Lang_beef ->
+            "Beef"
+
+        Lang_befunge ->
+            "Befunge"
+
+        Lang_berry ->
+            "Berry"
+
+        Lang_bibtex ->
+            "BibTeX"
+
+        Lang_bicep ->
+            "Bicep"
+
+        Lang_bikeshed ->
+            "Bikeshed"
+
+        Lang_bison ->
+            "Bison"
+
+        Lang_bitbake ->
+            "BitBake"
+
+        Lang_blade ->
+            "Blade"
+
+        Lang_blitzbasic ->
+            "BlitzBasic"
+
+        Lang_blitzmax ->
+            "BlitzMax"
+
+        Lang_bluespec ->
+            "Bluespec"
+
+        Lang_bluespec_bh ->
+            "Bluespec BH"
+
+        Lang_boo ->
+            "Boo"
+
+        Lang_boogie ->
+            "Boogie"
+
+        Lang_brainfuck ->
+            "Brainfuck"
+
+        Lang_brighterscript ->
+            "BrighterScript"
+
+        Lang_brightscript ->
+            "Brightscript"
+
+        Lang_browserslist ->
+            "Browserslist"
+
+        Lang_c ->
+            "C"
+
+        Lang_c_sharp ->
+            "C#"
+
+        Lang_cpp ->
+            "C++"
+
+        Lang_c2hs_haskell ->
+            "C2hs Haskell"
+
+        Lang_cap_cds ->
+            "CAP CDS"
+
+        Lang_clips ->
+            "CLIPS"
+
+        Lang_cmake ->
+            "CMake"
+
+        Lang_cobol ->
+            "COBOL"
+
+        Lang_collada ->
+            "COLLADA"
+
+        Lang_cson ->
+            "CSON"
+
+        Lang_css ->
+            "CSS"
+
+        Lang_csv ->
+            "CSV"
+
+        Lang_cue ->
+            "CUE"
+
+        Lang_cweb ->
+            "CWeb"
+
+        Lang_cabal_config ->
+            "Cabal Config"
+
+        Lang_caddyfile ->
+            "Caddyfile"
+
+        Lang_cadence ->
+            "Cadence"
+
+        Lang_cairo ->
+            "Cairo"
+
+        Lang_cameligo ->
+            "CameLIGO"
+
+        Lang_cap_n_proto ->
+            "Cap'n Proto"
+
+        Lang_cartocss ->
+            "CartoCSS"
+
+        Lang_ceylon ->
+            "Ceylon"
+
+        Lang_chapel ->
+            "Chapel"
+
+        Lang_charity ->
+            "Charity"
+
+        Lang_chuck ->
+            "ChucK"
+
+        Lang_circom ->
+            "Circom"
+
+        Lang_cirru ->
+            "Cirru"
+
+        Lang_clarion ->
+            "Clarion"
+
+        Lang_clarity ->
+            "Clarity"
+
+        Lang_classic_asp ->
+            "Classic ASP"
+
+        Lang_clean ->
+            "Clean"
+
+        Lang_click ->
+            "Click"
+
+        Lang_clojure ->
+            "Clojure"
+
+        Lang_closure_templates ->
+            "Closure Templates"
+
+        Lang_cloud_firestore_security_rules ->
+            "Cloud Firestore Security Rules"
+
+        Lang_codeql ->
+            "CodeQL"
+
+        Lang_coffeescript ->
+            "CoffeeScript"
+
+        Lang_coldfusion ->
+            "ColdFusion"
+
+        Lang_coldfusion_cfc ->
+            "ColdFusion CFC"
+
+        Lang_common_lisp ->
+            "Common Lisp"
+
+        Lang_common_workflow_language ->
+            "Common Workflow Language"
+
+        Lang_component_pascal ->
+            "Component Pascal"
+
+        Lang_cool ->
+            "Cool"
+
+        Lang_coq ->
+            "Coq"
+
+        Lang_crystal ->
+            "Crystal"
+
+        Lang_csound ->
+            "Csound"
+
+        Lang_csound_document ->
+            "Csound Document"
+
+        Lang_csound_score ->
+            "Csound Score"
+
+        Lang_cuda ->
+            "Cuda"
+
+        Lang_curry ->
+            "Curry"
+
+        Lang_cycript ->
+            "Cycript"
+
+        Lang_cypher ->
+            "Cypher"
+
+        Lang_cython ->
+            "Cython"
+
+        Lang_d ->
+            "D"
+
+        Lang_d2 ->
+            "D2"
+
+        Lang_digital_command_language ->
+            "DIGITAL Command Language"
+
+        Lang_dm ->
+            "DM"
+
+        Lang_dtrace ->
+            "DTrace"
+
+        Lang_dafny ->
+            "Dafny"
+
+        Lang_darcs_patch ->
+            "Darcs Patch"
+
+        Lang_dart ->
+            "Dart"
+
+        Lang_dataweave ->
+            "DataWeave"
+
+        Lang_debian_package_control_file ->
+            "Debian Package Control File"
+
+        Lang_denizenscript ->
+            "DenizenScript"
+
+        Lang_dhall ->
+            "Dhall"
+
+        Lang_directx_3d_file ->
+            "DirectX 3D File"
+
+        Lang_dockerfile ->
+            "Dockerfile"
+
+        Lang_dogescript ->
+            "Dogescript"
+
+        Lang_dotenv ->
+            "Dotenv"
+
+        Lang_dylan ->
+            "Dylan"
+
+        Lang_e ->
+            "E"
+
+        Lang_ecl ->
+            "ECL"
+
+        Lang_eclipse ->
+            "ECLiPSe"
+
+        Lang_ejs ->
+            "EJS"
+
+        Lang_eq ->
+            "EQ"
+
+        Lang_earthly ->
+            "Earthly"
+
+        Lang_easybuild ->
+            "Easybuild"
+
+        Lang_ecere_projects ->
+            "Ecere Projects"
+
+        Lang_ecmarkup ->
+            "Ecmarkup"
+
+        Lang_edge ->
+            "Edge"
+
+        Lang_edgeql ->
+            "EdgeQL"
+
+        Lang_editorconfig ->
+            "EditorConfig"
+
+        Lang_eiffel ->
+            "Eiffel"
+
+        Lang_elixir ->
+            "Elixir"
+
+        Lang_elm ->
+            "Elm"
+
+        Lang_elvish ->
+            "Elvish"
+
+        Lang_elvish_transcript ->
+            "Elvish Transcript"
+
+        Lang_emacs_lisp ->
+            "Emacs Lisp"
+
+        Lang_emberscript ->
+            "EmberScript"
+
+        Lang_erlang ->
+            "Erlang"
+
+        Lang_euphoria ->
+            "Euphoria"
+
+        Lang_f_sharp ->
+            "F#"
+
+        Lang_f_star ->
+            "F*"
+
+        Lang_figlet_font ->
+            "FIGlet Font"
+
+        Lang_firrtl ->
+            "FIRRTL"
+
+        Lang_flux ->
+            "FLUX"
+
+        Lang_factor ->
+            "Factor"
+
+        Lang_fancy ->
+            "Fancy"
+
+        Lang_fantom ->
+            "Fantom"
+
+        Lang_faust ->
+            "Faust"
+
+        Lang_fennel ->
+            "Fennel"
+
+        Lang_filebench_wml ->
+            "Filebench WML"
+
+        Lang_filterscript ->
+            "Filterscript"
+
+        Lang_fluent ->
+            "Fluent"
+
+        Lang_forth ->
+            "Forth"
+
+        Lang_fortran ->
+            "Fortran"
+
+        Lang_fortran_free_form ->
+            "Fortran Free Form"
+
+        Lang_freebasic ->
+            "FreeBasic"
+
+        Lang_freemarker ->
+            "FreeMarker"
+
+        Lang_frege ->
+            "Frege"
+
+        Lang_futhark ->
+            "Futhark"
+
+        Lang_g_code ->
+            "G-code"
+
+        Lang_gaml ->
+            "GAML"
+
+        Lang_gams ->
+            "GAMS"
+
+        Lang_gap ->
+            "GAP"
+
+        Lang_gcc_machine_description ->
+            "GCC Machine Description"
+
+        Lang_gdb ->
+            "GDB"
+
+        Lang_gdscript ->
+            "GDScript"
+
+        Lang_gedcom ->
+            "GEDCOM"
+
+        Lang_glsl ->
+            "GLSL"
+
+        Lang_gsc ->
+            "GSC"
+
+        Lang_game_maker_language ->
+            "Game Maker Language"
+
+        Lang_gemfile_lock ->
+            "Gemfile.lock"
+
+        Lang_gemini ->
+            "Gemini"
+
+        Lang_genero_4gl ->
+            "Genero 4gl"
+
+        Lang_genero_per ->
+            "Genero per"
+
+        Lang_genie ->
+            "Genie"
+
+        Lang_genshi ->
+            "Genshi"
+
+        Lang_gentoo_ebuild ->
+            "Gentoo Ebuild"
+
+        Lang_gentoo_eclass ->
+            "Gentoo Eclass"
+
+        Lang_gerber_image ->
+            "Gerber Image"
+
+        Lang_gherkin ->
+            "Gherkin"
+
+        Lang_git_attributes ->
+            "Git Attributes"
+
+        Lang_git_config ->
+            "Git Config"
+
+        Lang_git_revision_list ->
+            "Git Revision List"
+
+        Lang_gleam ->
+            "Gleam"
+
+        Lang_glimmer_js ->
+            "Glimmer JS"
+
+        Lang_glimmer_ts ->
+            "Glimmer TS"
+
+        Lang_glyph ->
+            "Glyph"
+
+        Lang_gnuplot ->
+            "Gnuplot"
+
+        Lang_go ->
+            "Go"
+
+        Lang_go_checksums ->
+            "Go Checksums"
+
+        Lang_go_module ->
+            "Go Module"
+
+        Lang_go_workspace ->
+            "Go Workspace"
+
+        Lang_godot_resource ->
+            "Godot Resource"
+
+        Lang_golo ->
+            "Golo"
+
+        Lang_gosu ->
+            "Gosu"
+
+        Lang_grace ->
+            "Grace"
+
+        Lang_gradle ->
+            "Gradle"
+
+        Lang_gradle_kotlin_dsl ->
+            "Gradle Kotlin DSL"
+
+        Lang_grammatical_framework ->
+            "Grammatical Framework"
+
+        Lang_graphql ->
+            "GraphQL"
+
+        Lang_graphviz__dot_ ->
+            "Graphviz (DOT)"
+
+        Lang_groovy ->
+            "Groovy"
+
+        Lang_groovy_server_pages ->
+            "Groovy Server Pages"
+
+        Lang_haproxy ->
+            "HAProxy"
+
+        Lang_hcl ->
+            "HCL"
+
+        Lang_hlsl ->
+            "HLSL"
+
+        Lang_hocon ->
+            "HOCON"
+
+        Lang_html ->
+            "HTML"
+
+        Lang_html_plus_ecr ->
+            "HTML+ECR"
+
+        Lang_html_plus_eex ->
+            "HTML+EEX"
+
+        Lang_html_plus_erb ->
+            "HTML+ERB"
+
+        Lang_html_plus_php ->
+            "HTML+PHP"
+
+        Lang_html_plus_razor ->
+            "HTML+Razor"
+
+        Lang_http ->
+            "HTTP"
+
+        Lang_hxml ->
+            "HXML"
+
+        Lang_hack ->
+            "Hack"
+
+        Lang_haml ->
+            "Haml"
+
+        Lang_handlebars ->
+            "Handlebars"
+
+        Lang_harbour ->
+            "Harbour"
+
+        Lang_haskell ->
+            "Haskell"
+
+        Lang_haxe ->
+            "Haxe"
+
+        Lang_hiveql ->
+            "HiveQL"
+
+        Lang_holyc ->
+            "HolyC"
+
+        Lang_hosts_file ->
+            "Hosts File"
+
+        Lang_hy ->
+            "Hy"
+
+        Lang_hyphy ->
+            "HyPhy"
+
+        Lang_idl ->
+            "IDL"
+
+        Lang_igor_pro ->
+            "IGOR Pro"
+
+        Lang_ini ->
+            "INI"
+
+        Lang_idris ->
+            "Idris"
+
+        Lang_ignore_list ->
+            "Ignore List"
+
+        Lang_imagej_macro ->
+            "ImageJ Macro"
+
+        Lang_imba ->
+            "Imba"
+
+        Lang_inform_7 ->
+            "Inform 7"
+
+        Lang_ink ->
+            "Ink"
+
+        Lang_inno_setup ->
+            "Inno Setup"
+
+        Lang_io ->
+            "Io"
+
+        Lang_ioke ->
+            "Ioke"
+
+        Lang_isabelle ->
+            "Isabelle"
+
+        Lang_isabelle_root ->
+            "Isabelle ROOT"
+
+        Lang_j ->
+            "J"
+
+        Lang_jar_manifest ->
+            "JAR Manifest"
+
+        Lang_jcl ->
+            "JCL"
+
+        Lang_jflex ->
+            "JFlex"
+
+        Lang_json ->
+            "JSON"
+
+        Lang_json_with_comments ->
+            "JSON with Comments"
+
+        Lang_json5 ->
+            "JSON5"
+
+        Lang_jsonld ->
+            "JSONLD"
+
+        Lang_jsoniq ->
+            "JSONiq"
+
+        Lang_janet ->
+            "Janet"
+
+        Lang_jasmin ->
+            "Jasmin"
+
+        Lang_java ->
+            "Java"
+
+        Lang_java_properties ->
+            "Java Properties"
+
+        Lang_java_server_pages ->
+            "Java Server Pages"
+
+        Lang_javascript ->
+            "JavaScript"
+
+        Lang_javascript_plus_erb ->
+            "JavaScript+ERB"
+
+        Lang_jest_snapshot ->
+            "Jest Snapshot"
+
+        Lang_jetbrains_mps ->
+            "JetBrains MPS"
+
+        Lang_jinja ->
+            "Jinja"
+
+        Lang_jison ->
+            "Jison"
+
+        Lang_jison_lex ->
+            "Jison Lex"
+
+        Lang_jolie ->
+            "Jolie"
+
+        Lang_jsonnet ->
+            "Jsonnet"
+
+        Lang_julia ->
+            "Julia"
+
+        Lang_julia_repl ->
+            "Julia REPL"
+
+        Lang_jupyter_notebook ->
+            "Jupyter Notebook"
+
+        Lang_just ->
+            "Just"
+
+        Lang_krl ->
+            "KRL"
+
+        Lang_kaitai_struct ->
+            "Kaitai Struct"
+
+        Lang_kakounescript ->
+            "KakouneScript"
+
+        Lang_kerboscript ->
+            "KerboScript"
+
+        Lang_kicad_layout ->
+            "KiCad Layout"
+
+        Lang_kicad_legacy_layout ->
+            "KiCad Legacy Layout"
+
+        Lang_kicad_schematic ->
+            "KiCad Schematic"
+
+        Lang_kotlin ->
+            "Kotlin"
+
+        Lang_lfe ->
+            "LFE"
+
+        Lang_llvm ->
+            "LLVM"
+
+        Lang_lolcode ->
+            "LOLCODE"
+
+        Lang_lsl ->
+            "LSL"
+
+        Lang_labview ->
+            "LabVIEW"
+
+        Lang_lark ->
+            "Lark"
+
+        Lang_lasso ->
+            "Lasso"
+
+        Lang_latte ->
+            "Latte"
+
+        Lang_lean ->
+            "Lean"
+
+        Lang_lean_4 ->
+            "Lean 4"
+
+        Lang_less ->
+            "Less"
+
+        Lang_lex ->
+            "Lex"
+
+        Lang_ligolang ->
+            "LigoLANG"
+
+        Lang_lilypond ->
+            "LilyPond"
+
+        Lang_limbo ->
+            "Limbo"
+
+        Lang_liquid ->
+            "Liquid"
+
+        Lang_literate_agda ->
+            "Literate Agda"
+
+        Lang_literate_coffeescript ->
+            "Literate CoffeeScript"
+
+        Lang_literate_haskell ->
+            "Literate Haskell"
+
+        Lang_livescript ->
+            "LiveScript"
+
+        Lang_logos ->
+            "Logos"
+
+        Lang_logtalk ->
+            "Logtalk"
+
+        Lang_lookml ->
+            "LookML"
+
+        Lang_loomscript ->
+            "LoomScript"
+
+        Lang_lua ->
+            "Lua"
+
+        Lang_luau ->
+            "Luau"
+
+        Lang_m ->
+            "M"
+
+        Lang_m4 ->
+            "M4"
+
+        Lang_m4sugar ->
+            "M4Sugar"
+
+        Lang_matlab ->
+            "MATLAB"
+
+        Lang_maxscript ->
+            "MAXScript"
+
+        Lang_mdx ->
+            "MDX"
+
+        Lang_mlir ->
+            "MLIR"
+
+        Lang_mql4 ->
+            "MQL4"
+
+        Lang_mql5 ->
+            "MQL5"
+
+        Lang_mtml ->
+            "MTML"
+
+        Lang_muf ->
+            "MUF"
+
+        Lang_macaulay2 ->
+            "Macaulay2"
+
+        Lang_makefile ->
+            "Makefile"
+
+        Lang_mako ->
+            "Mako"
+
+        Lang_markdown ->
+            "Markdown"
+
+        Lang_marko ->
+            "Marko"
+
+        Lang_mask ->
+            "Mask"
+
+        Lang_mathematica ->
+            "Mathematica"
+
+        Lang_max ->
+            "Max"
+
+        Lang_mercury ->
+            "Mercury"
+
+        Lang_mermaid ->
+            "Mermaid"
+
+        Lang_meson ->
+            "Meson"
+
+        Lang_metal ->
+            "Metal"
+
+        Lang_minid ->
+            "MiniD"
+
+        Lang_miniyaml ->
+            "MiniYAML"
+
+        Lang_mint ->
+            "Mint"
+
+        Lang_mirah ->
+            "Mirah"
+
+        Lang_modelica ->
+            "Modelica"
+
+        Lang_modula_2 ->
+            "Modula-2"
+
+        Lang_modula_3 ->
+            "Modula-3"
+
+        Lang_module_management_system ->
+            "Module Management System"
+
+        Lang_mojo ->
+            "Mojo"
+
+        Lang_monkey ->
+            "Monkey"
+
+        Lang_monkey_c ->
+            "Monkey C"
+
+        Lang_moocode ->
+            "Moocode"
+
+        Lang_moonscript ->
+            "MoonScript"
+
+        Lang_motoko ->
+            "Motoko"
+
+        Lang_motorola_68k_assembly ->
+            "Motorola 68K Assembly"
+
+        Lang_move ->
+            "Move"
+
+        Lang_mustache ->
+            "Mustache"
+
+        Lang_myghty ->
+            "Myghty"
+
+        Lang_nasl ->
+            "NASL"
+
+        Lang_ncl ->
+            "NCL"
+
+        Lang_nmodl ->
+            "NMODL"
+
+        Lang_npm_config ->
+            "NPM Config"
+
+        Lang_nsis ->
+            "NSIS"
+
+        Lang_nwscript ->
+            "NWScript"
+
+        Lang_nasal ->
+            "Nasal"
+
+        Lang_nearley ->
+            "Nearley"
+
+        Lang_nemerle ->
+            "Nemerle"
+
+        Lang_netlinx ->
+            "NetLinx"
+
+        Lang_netlinx_plus_erb ->
+            "NetLinx+ERB"
+
+        Lang_netlogo ->
+            "NetLogo"
+
+        Lang_newlisp ->
+            "NewLisp"
+
+        Lang_nextflow ->
+            "Nextflow"
+
+        Lang_nginx ->
+            "Nginx"
+
+        Lang_nim ->
+            "Nim"
+
+        Lang_nit ->
+            "Nit"
+
+        Lang_nix ->
+            "Nix"
+
+        Lang_nu ->
+            "Nu"
+
+        Lang_numpy ->
+            "NumPy"
+
+        Lang_nunjucks ->
+            "Nunjucks"
+
+        Lang_nushell ->
+            "Nushell"
+
+        Lang_oasv2_json ->
+            "OASv2-json"
+
+        Lang_oasv2_yaml ->
+            "OASv2-yaml"
+
+        Lang_oasv3_json ->
+            "OASv3-json"
+
+        Lang_oasv3_yaml ->
+            "OASv3-yaml"
+
+        Lang_ocaml ->
+            "OCaml"
+
+        Lang_oberon ->
+            "Oberon"
+
+        Lang_objectscript ->
+            "ObjectScript"
+
+        Lang_objective_c ->
+            "Objective-C"
+
+        Lang_objective_cpp ->
+            "Objective-C++"
+
+        Lang_objective_j ->
+            "Objective-J"
+
+        Lang_odin ->
+            "Odin"
+
+        Lang_omgrofl ->
+            "Omgrofl"
+
+        Lang_opa ->
+            "Opa"
+
+        Lang_opal ->
+            "Opal"
+
+        Lang_open_policy_agent ->
+            "Open Policy Agent"
+
+        Lang_openapi_specification_v2 ->
+            "OpenAPI Specification v2"
+
+        Lang_openapi_specification_v3 ->
+            "OpenAPI Specification v3"
+
+        Lang_opencl ->
+            "OpenCL"
+
+        Lang_openedge_abl ->
+            "OpenEdge ABL"
+
+        Lang_openqasm ->
+            "OpenQASM"
+
+        Lang_openrc_runscript ->
+            "OpenRC runscript"
+
+        Lang_openscad ->
+            "OpenSCAD"
+
+        Lang_option_list ->
+            "Option List"
+
+        Lang_org ->
+            "Org"
+
+        Lang_ox ->
+            "Ox"
+
+        Lang_oxygene ->
+            "Oxygene"
+
+        Lang_oz ->
+            "Oz"
+
+        Lang_p4 ->
+            "P4"
+
+        Lang_pddl ->
+            "PDDL"
+
+        Lang_peg_js ->
+            "PEG.js"
+
+        Lang_php ->
+            "PHP"
+
+        Lang_plsql ->
+            "PLSQL"
+
+        Lang_plpgsql ->
+            "PLpgSQL"
+
+        Lang_pov_ray_sdl ->
+            "POV-Ray SDL"
+
+        Lang_pact ->
+            "Pact"
+
+        Lang_pan ->
+            "Pan"
+
+        Lang_papyrus ->
+            "Papyrus"
+
+        Lang_parrot ->
+            "Parrot"
+
+        Lang_parrot_assembly ->
+            "Parrot Assembly"
+
+        Lang_parrot_internal_representation ->
+            "Parrot Internal Representation"
+
+        Lang_pascal ->
+            "Pascal"
+
+        Lang_pawn ->
+            "Pawn"
+
+        Lang_pep8 ->
+            "Pep8"
+
+        Lang_perl ->
+            "Perl"
+
+        Lang_picolisp ->
+            "PicoLisp"
+
+        Lang_piglatin ->
+            "PigLatin"
+
+        Lang_pike ->
+            "Pike"
+
+        Lang_pip_requirements ->
+            "Pip Requirements"
+
+        Lang_pkl ->
+            "Pkl"
+
+        Lang_plantuml ->
+            "PlantUML"
+
+        Lang_pogoscript ->
+            "PogoScript"
+
+        Lang_polar ->
+            "Polar"
+
+        Lang_pony ->
+            "Pony"
+
+        Lang_portugol ->
+            "Portugol"
+
+        Lang_postcss ->
+            "PostCSS"
+
+        Lang_postscript ->
+            "PostScript"
+
+        Lang_powerbuilder ->
+            "PowerBuilder"
+
+        Lang_powershell ->
+            "PowerShell"
+
+        Lang_praat ->
+            "Praat"
+
+        Lang_prisma ->
+            "Prisma"
+
+        Lang_processing ->
+            "Processing"
+
+        Lang_procfile ->
+            "Procfile"
+
+        Lang_prolog ->
+            "Prolog"
+
+        Lang_promela ->
+            "Promela"
+
+        Lang_propeller_spin ->
+            "Propeller Spin"
+
+        Lang_pug ->
+            "Pug"
+
+        Lang_puppet ->
+            "Puppet"
+
+        Lang_purebasic ->
+            "PureBasic"
+
+        Lang_purescript ->
+            "PureScript"
+
+        Lang_pyret ->
+            "Pyret"
+
+        Lang_python ->
+            "Python"
+
+        Lang_python_console ->
+            "Python console"
+
+        Lang_python_traceback ->
+            "Python traceback"
+
+        Lang_q_sharp ->
+            "Q#"
+
+        Lang_qml ->
+            "QML"
+
+        Lang_qmake ->
+            "QMake"
+
+        Lang_qt_script ->
+            "Qt Script"
+
+        Lang_quake ->
+            "Quake"
+
+        Lang_r ->
+            "R"
+
+        Lang_raml ->
+            "RAML"
+
+        Lang_rbs ->
+            "RBS"
+
+        Lang_rdoc ->
+            "RDoc"
+
+        Lang_realbasic ->
+            "REALbasic"
+
+        Lang_rexx ->
+            "REXX"
+
+        Lang_rmarkdown ->
+            "RMarkdown"
+
+        Lang_ron ->
+            "RON"
+
+        Lang_rpc ->
+            "RPC"
+
+        Lang_rpgle ->
+            "RPGLE"
+
+        Lang_runoff ->
+            "RUNOFF"
+
+        Lang_racket ->
+            "Racket"
+
+        Lang_ragel ->
+            "Ragel"
+
+        Lang_raku ->
+            "Raku"
+
+        Lang_rascal ->
+            "Rascal"
+
+        Lang_rescript ->
+            "ReScript"
+
+        Lang_reason ->
+            "Reason"
+
+        Lang_reasonligo ->
+            "ReasonLIGO"
+
+        Lang_rebol ->
+            "Rebol"
+
+        Lang_record_jar ->
+            "Record Jar"
+
+        Lang_red ->
+            "Red"
+
+        Lang_redcode ->
+            "Redcode"
+
+        Lang_regular_expression ->
+            "Regular Expression"
+
+        Lang_ren_py ->
+            "Ren'Py"
+
+        Lang_renderscript ->
+            "RenderScript"
+
+        Lang_rez ->
+            "Rez"
+
+        Lang_ring ->
+            "Ring"
+
+        Lang_riot ->
+            "Riot"
+
+        Lang_robotframework ->
+            "RobotFramework"
+
+        Lang_roc ->
+            "Roc"
+
+        Lang_roff ->
+            "Roff"
+
+        Lang_roff_manpage ->
+            "Roff Manpage"
+
+        Lang_rouge ->
+            "Rouge"
+
+        Lang_routeros_script ->
+            "RouterOS Script"
+
+        Lang_ruby ->
+            "Ruby"
+
+        Lang_rust ->
+            "Rust"
+
+        Lang_sas ->
+            "SAS"
+
+        Lang_scss ->
+            "SCSS"
+
+        Lang_smt ->
+            "SMT"
+
+        Lang_sparql ->
+            "SPARQL"
+
+        Lang_sqf ->
+            "SQF"
+
+        Lang_sql ->
+            "SQL"
+
+        Lang_sqlpl ->
+            "SQLPL"
+
+        Lang_srecode_template ->
+            "SRecode Template"
+
+        Lang_stl ->
+            "STL"
+
+        Lang_svg ->
+            "SVG"
+
+        Lang_swig ->
+            "SWIG"
+
+        Lang_sage ->
+            "Sage"
+
+        Lang_saltstack ->
+            "SaltStack"
+
+        Lang_sass ->
+            "Sass"
+
+        Lang_scala ->
+            "Scala"
+
+        Lang_scaml ->
+            "Scaml"
+
+        Lang_scenic ->
+            "Scenic"
+
+        Lang_scheme ->
+            "Scheme"
+
+        Lang_scilab ->
+            "Scilab"
+
+        Lang_self ->
+            "Self"
+
+        Lang_shaderlab ->
+            "ShaderLab"
+
+        Lang_shell ->
+            "Shell"
+
+        Lang_shellcheck_config ->
+            "ShellCheck Config"
+
+        Lang_shellsession ->
+            "ShellSession"
+
+        Lang_shen ->
+            "Shen"
+
+        Lang_sieve ->
+            "Sieve"
+
+        Lang_simple_file_verification ->
+            "Simple File Verification"
+
+        Lang_singularity ->
+            "Singularity"
+
+        Lang_slash ->
+            "Slash"
+
+        Lang_slice ->
+            "Slice"
+
+        Lang_slim ->
+            "Slim"
+
+        Lang_slint ->
+            "Slint"
+
+        Lang_smpl ->
+            "SmPL"
+
+        Lang_smali ->
+            "Smali"
+
+        Lang_smalltalk ->
+            "Smalltalk"
+
+        Lang_smarty ->
+            "Smarty"
+
+        Lang_smithy ->
+            "Smithy"
+
+        Lang_snakemake ->
+            "Snakemake"
+
+        Lang_solidity ->
+            "Solidity"
+
+        Lang_sourcepawn ->
+            "SourcePawn"
+
+        Lang_squirrel ->
+            "Squirrel"
+
+        Lang_stan ->
+            "Stan"
+
+        Lang_standard_ml ->
+            "Standard ML"
+
+        Lang_starlark ->
+            "Starlark"
+
+        Lang_stata ->
+            "Stata"
+
+        Lang_stringtemplate ->
+            "StringTemplate"
+
+        Lang_stylus ->
+            "Stylus"
+
+        Lang_subrip_text ->
+            "SubRip Text"
+
+        Lang_sugarss ->
+            "SugarSS"
+
+        Lang_supercollider ->
+            "SuperCollider"
+
+        Lang_svelte ->
+            "Svelte"
+
+        Lang_sway ->
+            "Sway"
+
+        Lang_sweave ->
+            "Sweave"
+
+        Lang_swift ->
+            "Swift"
+
+        Lang_systemverilog ->
+            "SystemVerilog"
+
+        Lang_ti_program ->
+            "TI Program"
+
+        Lang_tl_verilog ->
+            "TL-Verilog"
+
+        Lang_tla ->
+            "TLA"
+
+        Lang_toml ->
+            "TOML"
+
+        Lang_tsql ->
+            "TSQL"
+
+        Lang_tsv ->
+            "TSV"
+
+        Lang_tsx ->
+            "TSX"
+
+        Lang_txl ->
+            "TXL"
+
+        Lang_talon ->
+            "Talon"
+
+        Lang_tcl ->
+            "Tcl"
+
+        Lang_tcsh ->
+            "Tcsh"
+
+        Lang_tex ->
+            "TeX"
+
+        Lang_terra ->
+            "Terra"
+
+        Lang_terraform_template ->
+            "Terraform Template"
+
+        Lang_textgrid ->
+            "TextGrid"
+
+        Lang_textmate_properties ->
+            "TextMate Properties"
+
+        Lang_textile ->
+            "Textile"
+
+        Lang_thrift ->
+            "Thrift"
+
+        Lang_toit ->
+            "Toit"
+
+        Lang_turing ->
+            "Turing"
+
+        Lang_twig ->
+            "Twig"
+
+        Lang_typescript ->
+            "TypeScript"
+
+        Lang_typst ->
+            "Typst"
+
+        Lang_unified_parallel_c ->
+            "Unified Parallel C"
+
+        Lang_unity3d_asset ->
+            "Unity3D Asset"
+
+        Lang_unix_assembly ->
+            "Unix Assembly"
+
+        Lang_uno ->
+            "Uno"
+
+        Lang_unrealscript ->
+            "UnrealScript"
+
+        Lang_urweb ->
+            "UrWeb"
+
+        Lang_v ->
+            "V"
+
+        Lang_vba ->
+            "VBA"
+
+        Lang_vbscript ->
+            "VBScript"
+
+        Lang_vcl ->
+            "VCL"
+
+        Lang_vhdl ->
+            "VHDL"
+
+        Lang_vala ->
+            "Vala"
+
+        Lang_valve_data_format ->
+            "Valve Data Format"
+
+        Lang_velocity_template_language ->
+            "Velocity Template Language"
+
+        Lang_verilog ->
+            "Verilog"
+
+        Lang_vim_help_file ->
+            "Vim Help File"
+
+        Lang_vim_script ->
+            "Vim Script"
+
+        Lang_vim_snippet ->
+            "Vim Snippet"
+
+        Lang_visual_basic__net ->
+            "Visual Basic .NET"
+
+        Lang_visual_basic_6_0 ->
+            "Visual Basic 6.0"
+
+        Lang_volt ->
+            "Volt"
+
+        Lang_vue ->
+            "Vue"
+
+        Lang_vyper ->
+            "Vyper"
+
+        Lang_wdl ->
+            "WDL"
+
+        Lang_wgsl ->
+            "WGSL"
+
+        Lang_web_ontology_language ->
+            "Web Ontology Language"
+
+        Lang_webassembly ->
+            "WebAssembly"
+
+        Lang_webassembly_interface_type ->
+            "WebAssembly Interface Type"
+
+        Lang_webidl ->
+            "WebIDL"
+
+        Lang_whiley ->
+            "Whiley"
+
+        Lang_wikitext ->
+            "Wikitext"
+
+        Lang_windows_registry_entries ->
+            "Windows Registry Entries"
+
+        Lang_witcher_script ->
+            "Witcher Script"
+
+        Lang_wollok ->
+            "Wollok"
+
+        Lang_world_of_warcraft_addon_data ->
+            "World of Warcraft Addon Data"
+
+        Lang_wren ->
+            "Wren"
+
+        Lang_x10 ->
+            "X10"
+
+        Lang_xc ->
+            "XC"
+
+        Lang_xml ->
+            "XML"
+
+        Lang_xml_property_list ->
+            "XML Property List"
+
+        Lang_xproc ->
+            "XProc"
+
+        Lang_xquery ->
+            "XQuery"
+
+        Lang_xs ->
+            "XS"
+
+        Lang_xslt ->
+            "XSLT"
+
+        Lang_xojo ->
+            "Xojo"
+
+        Lang_xonsh ->
+            "Xonsh"
+
+        Lang_xtend ->
+            "Xtend"
+
+        Lang_yaml ->
+            "YAML"
+
+        Lang_yara ->
+            "YARA"
+
+        Lang_yasnippet ->
+            "YASnippet"
+
+        Lang_yacc ->
+            "Yacc"
+
+        Lang_yul ->
+            "Yul"
+
+        Lang_zap ->
+            "ZAP"
+
+        Lang_zil ->
+            "ZIL"
+
+        Lang_zeek ->
+            "Zeek"
+
+        Lang_zenscript ->
+            "ZenScript"
+
+        Lang_zephir ->
+            "Zephir"
+
+        Lang_zig ->
+            "Zig"
+
+        Lang_zimpl ->
+            "Zimpl"
+
+        Lang_crontab ->
+            "crontab"
+
+        Lang_ec ->
+            "eC"
+
+        Lang_fish ->
+            "fish"
+
+        Lang_hoon ->
+            "hoon"
+
+        Lang_jq ->
+            "jq"
+
+        Lang_kvlang ->
+            "kvlang"
+
+        Lang_mirc_script ->
+            "mIRC Script"
+
+        Lang_mcfunction ->
+            "mcfunction"
+
+        Lang_mupad ->
+            "mupad"
+
+        Lang_nanorc ->
+            "nanorc"
+
+        Lang_nesc ->
+            "nesC"
+
+        Lang_ooc ->
+            "ooc"
+
+        Lang_q ->
+            "q"
+
+        Lang_restructuredtext ->
+            "reStructuredText"
+
+        Lang_sed ->
+            "sed"
+
+        Lang_templ ->
+            "templ"
+
+        Lang_wisp ->
+            "wisp"
+
+        Lang_xbase ->
+            "xBase"
+
+
+{-| Converts a `Language` value to its name -}
+toColor : Language -> xbase
+toColor language =
+    case language of
+        Lang_lang_1c_enterprise ->
+            lang_1c_enterprise
+
+        Lang_lang_2_dimensional_array ->
+            lang_2_dimensional_array
+
+        Lang_lang_4d ->
+            lang_4d
+
+        Lang_abap ->
+            abap
+
+        Lang_abap_cds ->
+            abap_cds
+
+        Lang_ags_script ->
+            ags_script
+
+        Lang_aidl ->
+            aidl
+
+        Lang_al ->
+            al
+
+        Lang_ampl ->
+            ampl
+
+        Lang_antlr ->
+            antlr
+
+        Lang_api_blueprint ->
+            api_blueprint
+
+        Lang_apl ->
+            apl
+
+        Lang_asl ->
+            asl
+
+        Lang_asp_net ->
+            asp_net
+
+        Lang_ats ->
+            ats
+
+        Lang_actionscript ->
+            actionscript
+
+        Lang_ada ->
+            ada
+
+        Lang_adblock_filter_list ->
+            adblock_filter_list
+
+        Lang_adobe_font_metrics ->
+            adobe_font_metrics
+
+        Lang_agda ->
+            agda
+
+        Lang_alloy ->
+            alloy
+
+        Lang_alpine_abuild ->
+            alpine_abuild
+
+        Lang_altium_designer ->
+            altium_designer
+
+        Lang_angelscript ->
+            angelscript
+
+        Lang_ant_build_system ->
+            ant_build_system
+
+        Lang_antlers ->
+            antlers
+
+        Lang_apacheconf ->
+            apacheconf
+
+        Lang_apex ->
+            apex
+
+        Lang_apollo_guidance_computer ->
+            apollo_guidance_computer
+
+        Lang_applescript ->
+            applescript
+
+        Lang_arc ->
+            arc
+
+        Lang_asciidoc ->
+            asciidoc
+
+        Lang_aspectj ->
+            aspectj
+
+        Lang_assembly ->
+            assembly
+
+        Lang_astro ->
+            astro
+
+        Lang_asymptote ->
+            asymptote
+
+        Lang_augeas ->
+            augeas
+
+        Lang_autohotkey ->
+            autohotkey
+
+        Lang_autoit ->
+            autoit
+
+        Lang_avro_idl ->
+            avro_idl
+
+        Lang_awk ->
+            awk
+
+        Lang_basic ->
+            basic
+
+        Lang_bqn ->
+            bqn
+
+        Lang_ballerina ->
+            ballerina
+
+        Lang_batchfile ->
+            batchfile
+
+        Lang_beef ->
+            beef
+
+        Lang_befunge ->
+            befunge
+
+        Lang_berry ->
+            berry
+
+        Lang_bibtex ->
+            bibtex
+
+        Lang_bicep ->
+            bicep
+
+        Lang_bikeshed ->
+            bikeshed
+
+        Lang_bison ->
+            bison
+
+        Lang_bitbake ->
+            bitbake
+
+        Lang_blade ->
+            blade
+
+        Lang_blitzbasic ->
+            blitzbasic
+
+        Lang_blitzmax ->
+            blitzmax
+
+        Lang_bluespec ->
+            bluespec
+
+        Lang_bluespec_bh ->
+            bluespec_bh
+
+        Lang_boo ->
+            boo
+
+        Lang_boogie ->
+            boogie
+
+        Lang_brainfuck ->
+            brainfuck
+
+        Lang_brighterscript ->
+            brighterscript
+
+        Lang_brightscript ->
+            brightscript
+
+        Lang_browserslist ->
+            browserslist
+
+        Lang_c ->
+            c
+
+        Lang_c_sharp ->
+            c_sharp
+
+        Lang_cpp ->
+            cpp
+
+        Lang_c2hs_haskell ->
+            c2hs_haskell
+
+        Lang_cap_cds ->
+            cap_cds
+
+        Lang_clips ->
+            clips
+
+        Lang_cmake ->
+            cmake
+
+        Lang_cobol ->
+            cobol
+
+        Lang_collada ->
+            collada
+
+        Lang_cson ->
+            cson
+
+        Lang_css ->
+            css
+
+        Lang_csv ->
+            csv
+
+        Lang_cue ->
+            cue
+
+        Lang_cweb ->
+            cweb
+
+        Lang_cabal_config ->
+            cabal_config
+
+        Lang_caddyfile ->
+            caddyfile
+
+        Lang_cadence ->
+            cadence
+
+        Lang_cairo ->
+            cairo
+
+        Lang_cameligo ->
+            cameligo
+
+        Lang_cap_n_proto ->
+            cap_n_proto
+
+        Lang_cartocss ->
+            cartocss
+
+        Lang_ceylon ->
+            ceylon
+
+        Lang_chapel ->
+            chapel
+
+        Lang_charity ->
+            charity
+
+        Lang_chuck ->
+            chuck
+
+        Lang_circom ->
+            circom
+
+        Lang_cirru ->
+            cirru
+
+        Lang_clarion ->
+            clarion
+
+        Lang_clarity ->
+            clarity
+
+        Lang_classic_asp ->
+            classic_asp
+
+        Lang_clean ->
+            clean
+
+        Lang_click ->
+            click
+
+        Lang_clojure ->
+            clojure
+
+        Lang_closure_templates ->
+            closure_templates
+
+        Lang_cloud_firestore_security_rules ->
+            cloud_firestore_security_rules
+
+        Lang_codeql ->
+            codeql
+
+        Lang_coffeescript ->
+            coffeescript
+
+        Lang_coldfusion ->
+            coldfusion
+
+        Lang_coldfusion_cfc ->
+            coldfusion_cfc
+
+        Lang_common_lisp ->
+            common_lisp
+
+        Lang_common_workflow_language ->
+            common_workflow_language
+
+        Lang_component_pascal ->
+            component_pascal
+
+        Lang_cool ->
+            cool
+
+        Lang_coq ->
+            coq
+
+        Lang_crystal ->
+            crystal
+
+        Lang_csound ->
+            csound
+
+        Lang_csound_document ->
+            csound_document
+
+        Lang_csound_score ->
+            csound_score
+
+        Lang_cuda ->
+            cuda
+
+        Lang_curry ->
+            curry
+
+        Lang_cycript ->
+            cycript
+
+        Lang_cypher ->
+            cypher
+
+        Lang_cython ->
+            cython
+
+        Lang_d ->
+            d
+
+        Lang_d2 ->
+            d2
+
+        Lang_digital_command_language ->
+            digital_command_language
+
+        Lang_dm ->
+            dm
+
+        Lang_dtrace ->
+            dtrace
+
+        Lang_dafny ->
+            dafny
+
+        Lang_darcs_patch ->
+            darcs_patch
+
+        Lang_dart ->
+            dart
+
+        Lang_dataweave ->
+            dataweave
+
+        Lang_debian_package_control_file ->
+            debian_package_control_file
+
+        Lang_denizenscript ->
+            denizenscript
+
+        Lang_dhall ->
+            dhall
+
+        Lang_directx_3d_file ->
+            directx_3d_file
+
+        Lang_dockerfile ->
+            dockerfile
+
+        Lang_dogescript ->
+            dogescript
+
+        Lang_dotenv ->
+            dotenv
+
+        Lang_dylan ->
+            dylan
+
+        Lang_e ->
+            e
+
+        Lang_ecl ->
+            ecl
+
+        Lang_eclipse ->
+            eclipse
+
+        Lang_ejs ->
+            ejs
+
+        Lang_eq ->
+            eq
+
+        Lang_earthly ->
+            earthly
+
+        Lang_easybuild ->
+            easybuild
+
+        Lang_ecere_projects ->
+            ecere_projects
+
+        Lang_ecmarkup ->
+            ecmarkup
+
+        Lang_edge ->
+            edge
+
+        Lang_edgeql ->
+            edgeql
+
+        Lang_editorconfig ->
+            editorconfig
+
+        Lang_eiffel ->
+            eiffel
+
+        Lang_elixir ->
+            elixir
+
+        Lang_elm ->
+            elm
+
+        Lang_elvish ->
+            elvish
+
+        Lang_elvish_transcript ->
+            elvish_transcript
+
+        Lang_emacs_lisp ->
+            emacs_lisp
+
+        Lang_emberscript ->
+            emberscript
+
+        Lang_erlang ->
+            erlang
+
+        Lang_euphoria ->
+            euphoria
+
+        Lang_f_sharp ->
+            f_sharp
+
+        Lang_f_star ->
+            f_star
+
+        Lang_figlet_font ->
+            figlet_font
+
+        Lang_firrtl ->
+            firrtl
+
+        Lang_flux ->
+            flux
+
+        Lang_factor ->
+            factor
+
+        Lang_fancy ->
+            fancy
+
+        Lang_fantom ->
+            fantom
+
+        Lang_faust ->
+            faust
+
+        Lang_fennel ->
+            fennel
+
+        Lang_filebench_wml ->
+            filebench_wml
+
+        Lang_filterscript ->
+            filterscript
+
+        Lang_fluent ->
+            fluent
+
+        Lang_forth ->
+            forth
+
+        Lang_fortran ->
+            fortran
+
+        Lang_fortran_free_form ->
+            fortran_free_form
+
+        Lang_freebasic ->
+            freebasic
+
+        Lang_freemarker ->
+            freemarker
+
+        Lang_frege ->
+            frege
+
+        Lang_futhark ->
+            futhark
+
+        Lang_g_code ->
+            g_code
+
+        Lang_gaml ->
+            gaml
+
+        Lang_gams ->
+            gams
+
+        Lang_gap ->
+            gap
+
+        Lang_gcc_machine_description ->
+            gcc_machine_description
+
+        Lang_gdb ->
+            gdb
+
+        Lang_gdscript ->
+            gdscript
+
+        Lang_gedcom ->
+            gedcom
+
+        Lang_glsl ->
+            glsl
+
+        Lang_gsc ->
+            gsc
+
+        Lang_game_maker_language ->
+            game_maker_language
+
+        Lang_gemfile_lock ->
+            gemfile_lock
+
+        Lang_gemini ->
+            gemini
+
+        Lang_genero_4gl ->
+            genero_4gl
+
+        Lang_genero_per ->
+            genero_per
+
+        Lang_genie ->
+            genie
+
+        Lang_genshi ->
+            genshi
+
+        Lang_gentoo_ebuild ->
+            gentoo_ebuild
+
+        Lang_gentoo_eclass ->
+            gentoo_eclass
+
+        Lang_gerber_image ->
+            gerber_image
+
+        Lang_gherkin ->
+            gherkin
+
+        Lang_git_attributes ->
+            git_attributes
+
+        Lang_git_config ->
+            git_config
+
+        Lang_git_revision_list ->
+            git_revision_list
+
+        Lang_gleam ->
+            gleam
+
+        Lang_glimmer_js ->
+            glimmer_js
+
+        Lang_glimmer_ts ->
+            glimmer_ts
+
+        Lang_glyph ->
+            glyph
+
+        Lang_gnuplot ->
+            gnuplot
+
+        Lang_go ->
+            go
+
+        Lang_go_checksums ->
+            go_checksums
+
+        Lang_go_module ->
+            go_module
+
+        Lang_go_workspace ->
+            go_workspace
+
+        Lang_godot_resource ->
+            godot_resource
+
+        Lang_golo ->
+            golo
+
+        Lang_gosu ->
+            gosu
+
+        Lang_grace ->
+            grace
+
+        Lang_gradle ->
+            gradle
+
+        Lang_gradle_kotlin_dsl ->
+            gradle_kotlin_dsl
+
+        Lang_grammatical_framework ->
+            grammatical_framework
+
+        Lang_graphql ->
+            graphql
+
+        Lang_graphviz__dot_ ->
+            graphviz__dot_
+
+        Lang_groovy ->
+            groovy
+
+        Lang_groovy_server_pages ->
+            groovy_server_pages
+
+        Lang_haproxy ->
+            haproxy
+
+        Lang_hcl ->
+            hcl
+
+        Lang_hlsl ->
+            hlsl
+
+        Lang_hocon ->
+            hocon
+
+        Lang_html ->
+            html
+
+        Lang_html_plus_ecr ->
+            html_plus_ecr
+
+        Lang_html_plus_eex ->
+            html_plus_eex
+
+        Lang_html_plus_erb ->
+            html_plus_erb
+
+        Lang_html_plus_php ->
+            html_plus_php
+
+        Lang_html_plus_razor ->
+            html_plus_razor
+
+        Lang_http ->
+            http
+
+        Lang_hxml ->
+            hxml
+
+        Lang_hack ->
+            hack
+
+        Lang_haml ->
+            haml
+
+        Lang_handlebars ->
+            handlebars
+
+        Lang_harbour ->
+            harbour
+
+        Lang_haskell ->
+            haskell
+
+        Lang_haxe ->
+            haxe
+
+        Lang_hiveql ->
+            hiveql
+
+        Lang_holyc ->
+            holyc
+
+        Lang_hosts_file ->
+            hosts_file
+
+        Lang_hy ->
+            hy
+
+        Lang_hyphy ->
+            hyphy
+
+        Lang_idl ->
+            idl
+
+        Lang_igor_pro ->
+            igor_pro
+
+        Lang_ini ->
+            ini
+
+        Lang_idris ->
+            idris
+
+        Lang_ignore_list ->
+            ignore_list
+
+        Lang_imagej_macro ->
+            imagej_macro
+
+        Lang_imba ->
+            imba
+
+        Lang_inform_7 ->
+            inform_7
+
+        Lang_ink ->
+            ink
+
+        Lang_inno_setup ->
+            inno_setup
+
+        Lang_io ->
+            io
+
+        Lang_ioke ->
+            ioke
+
+        Lang_isabelle ->
+            isabelle
+
+        Lang_isabelle_root ->
+            isabelle_root
+
+        Lang_j ->
+            j
+
+        Lang_jar_manifest ->
+            jar_manifest
+
+        Lang_jcl ->
+            jcl
+
+        Lang_jflex ->
+            jflex
+
+        Lang_json ->
+            json
+
+        Lang_json_with_comments ->
+            json_with_comments
+
+        Lang_json5 ->
+            json5
+
+        Lang_jsonld ->
+            jsonld
+
+        Lang_jsoniq ->
+            jsoniq
+
+        Lang_janet ->
+            janet
+
+        Lang_jasmin ->
+            jasmin
+
+        Lang_java ->
+            java
+
+        Lang_java_properties ->
+            java_properties
+
+        Lang_java_server_pages ->
+            java_server_pages
+
+        Lang_javascript ->
+            javascript
+
+        Lang_javascript_plus_erb ->
+            javascript_plus_erb
+
+        Lang_jest_snapshot ->
+            jest_snapshot
+
+        Lang_jetbrains_mps ->
+            jetbrains_mps
+
+        Lang_jinja ->
+            jinja
+
+        Lang_jison ->
+            jison
+
+        Lang_jison_lex ->
+            jison_lex
+
+        Lang_jolie ->
+            jolie
+
+        Lang_jsonnet ->
+            jsonnet
+
+        Lang_julia ->
+            julia
+
+        Lang_julia_repl ->
+            julia_repl
+
+        Lang_jupyter_notebook ->
+            jupyter_notebook
+
+        Lang_just ->
+            just
+
+        Lang_krl ->
+            krl
+
+        Lang_kaitai_struct ->
+            kaitai_struct
+
+        Lang_kakounescript ->
+            kakounescript
+
+        Lang_kerboscript ->
+            kerboscript
+
+        Lang_kicad_layout ->
+            kicad_layout
+
+        Lang_kicad_legacy_layout ->
+            kicad_legacy_layout
+
+        Lang_kicad_schematic ->
+            kicad_schematic
+
+        Lang_kotlin ->
+            kotlin
+
+        Lang_lfe ->
+            lfe
+
+        Lang_llvm ->
+            llvm
+
+        Lang_lolcode ->
+            lolcode
+
+        Lang_lsl ->
+            lsl
+
+        Lang_labview ->
+            labview
+
+        Lang_lark ->
+            lark
+
+        Lang_lasso ->
+            lasso
+
+        Lang_latte ->
+            latte
+
+        Lang_lean ->
+            lean
+
+        Lang_lean_4 ->
+            lean_4
+
+        Lang_less ->
+            less
+
+        Lang_lex ->
+            lex
+
+        Lang_ligolang ->
+            ligolang
+
+        Lang_lilypond ->
+            lilypond
+
+        Lang_limbo ->
+            limbo
+
+        Lang_liquid ->
+            liquid
+
+        Lang_literate_agda ->
+            literate_agda
+
+        Lang_literate_coffeescript ->
+            literate_coffeescript
+
+        Lang_literate_haskell ->
+            literate_haskell
+
+        Lang_livescript ->
+            livescript
+
+        Lang_logos ->
+            logos
+
+        Lang_logtalk ->
+            logtalk
+
+        Lang_lookml ->
+            lookml
+
+        Lang_loomscript ->
+            loomscript
+
+        Lang_lua ->
+            lua
+
+        Lang_luau ->
+            luau
+
+        Lang_m ->
+            m
+
+        Lang_m4 ->
+            m4
+
+        Lang_m4sugar ->
+            m4sugar
+
+        Lang_matlab ->
+            matlab
+
+        Lang_maxscript ->
+            maxscript
+
+        Lang_mdx ->
+            mdx
+
+        Lang_mlir ->
+            mlir
+
+        Lang_mql4 ->
+            mql4
+
+        Lang_mql5 ->
+            mql5
+
+        Lang_mtml ->
+            mtml
+
+        Lang_muf ->
+            muf
+
+        Lang_macaulay2 ->
+            macaulay2
+
+        Lang_makefile ->
+            makefile
+
+        Lang_mako ->
+            mako
+
+        Lang_markdown ->
+            markdown
+
+        Lang_marko ->
+            marko
+
+        Lang_mask ->
+            mask
+
+        Lang_mathematica ->
+            mathematica
+
+        Lang_max ->
+            max
+
+        Lang_mercury ->
+            mercury
+
+        Lang_mermaid ->
+            mermaid
+
+        Lang_meson ->
+            meson
+
+        Lang_metal ->
+            metal
+
+        Lang_minid ->
+            minid
+
+        Lang_miniyaml ->
+            miniyaml
+
+        Lang_mint ->
+            mint
+
+        Lang_mirah ->
+            mirah
+
+        Lang_modelica ->
+            modelica
+
+        Lang_modula_2 ->
+            modula_2
+
+        Lang_modula_3 ->
+            modula_3
+
+        Lang_module_management_system ->
+            module_management_system
+
+        Lang_mojo ->
+            mojo
+
+        Lang_monkey ->
+            monkey
+
+        Lang_monkey_c ->
+            monkey_c
+
+        Lang_moocode ->
+            moocode
+
+        Lang_moonscript ->
+            moonscript
+
+        Lang_motoko ->
+            motoko
+
+        Lang_motorola_68k_assembly ->
+            motorola_68k_assembly
+
+        Lang_move ->
+            move
+
+        Lang_mustache ->
+            mustache
+
+        Lang_myghty ->
+            myghty
+
+        Lang_nasl ->
+            nasl
+
+        Lang_ncl ->
+            ncl
+
+        Lang_nmodl ->
+            nmodl
+
+        Lang_npm_config ->
+            npm_config
+
+        Lang_nsis ->
+            nsis
+
+        Lang_nwscript ->
+            nwscript
+
+        Lang_nasal ->
+            nasal
+
+        Lang_nearley ->
+            nearley
+
+        Lang_nemerle ->
+            nemerle
+
+        Lang_netlinx ->
+            netlinx
+
+        Lang_netlinx_plus_erb ->
+            netlinx_plus_erb
+
+        Lang_netlogo ->
+            netlogo
+
+        Lang_newlisp ->
+            newlisp
+
+        Lang_nextflow ->
+            nextflow
+
+        Lang_nginx ->
+            nginx
+
+        Lang_nim ->
+            nim
+
+        Lang_nit ->
+            nit
+
+        Lang_nix ->
+            nix
+
+        Lang_nu ->
+            nu
+
+        Lang_numpy ->
+            numpy
+
+        Lang_nunjucks ->
+            nunjucks
+
+        Lang_nushell ->
+            nushell
+
+        Lang_oasv2_json ->
+            oasv2_json
+
+        Lang_oasv2_yaml ->
+            oasv2_yaml
+
+        Lang_oasv3_json ->
+            oasv3_json
+
+        Lang_oasv3_yaml ->
+            oasv3_yaml
+
+        Lang_ocaml ->
+            ocaml
+
+        Lang_oberon ->
+            oberon
+
+        Lang_objectscript ->
+            objectscript
+
+        Lang_objective_c ->
+            objective_c
+
+        Lang_objective_cpp ->
+            objective_cpp
+
+        Lang_objective_j ->
+            objective_j
+
+        Lang_odin ->
+            odin
+
+        Lang_omgrofl ->
+            omgrofl
+
+        Lang_opa ->
+            opa
+
+        Lang_opal ->
+            opal
+
+        Lang_open_policy_agent ->
+            open_policy_agent
+
+        Lang_openapi_specification_v2 ->
+            openapi_specification_v2
+
+        Lang_openapi_specification_v3 ->
+            openapi_specification_v3
+
+        Lang_opencl ->
+            opencl
+
+        Lang_openedge_abl ->
+            openedge_abl
+
+        Lang_openqasm ->
+            openqasm
+
+        Lang_openrc_runscript ->
+            openrc_runscript
+
+        Lang_openscad ->
+            openscad
+
+        Lang_option_list ->
+            option_list
+
+        Lang_org ->
+            org
+
+        Lang_ox ->
+            ox
+
+        Lang_oxygene ->
+            oxygene
+
+        Lang_oz ->
+            oz
+
+        Lang_p4 ->
+            p4
+
+        Lang_pddl ->
+            pddl
+
+        Lang_peg_js ->
+            peg_js
+
+        Lang_php ->
+            php
+
+        Lang_plsql ->
+            plsql
+
+        Lang_plpgsql ->
+            plpgsql
+
+        Lang_pov_ray_sdl ->
+            pov_ray_sdl
+
+        Lang_pact ->
+            pact
+
+        Lang_pan ->
+            pan
+
+        Lang_papyrus ->
+            papyrus
+
+        Lang_parrot ->
+            parrot
+
+        Lang_parrot_assembly ->
+            parrot_assembly
+
+        Lang_parrot_internal_representation ->
+            parrot_internal_representation
+
+        Lang_pascal ->
+            pascal
+
+        Lang_pawn ->
+            pawn
+
+        Lang_pep8 ->
+            pep8
+
+        Lang_perl ->
+            perl
+
+        Lang_picolisp ->
+            picolisp
+
+        Lang_piglatin ->
+            piglatin
+
+        Lang_pike ->
+            pike
+
+        Lang_pip_requirements ->
+            pip_requirements
+
+        Lang_pkl ->
+            pkl
+
+        Lang_plantuml ->
+            plantuml
+
+        Lang_pogoscript ->
+            pogoscript
+
+        Lang_polar ->
+            polar
+
+        Lang_pony ->
+            pony
+
+        Lang_portugol ->
+            portugol
+
+        Lang_postcss ->
+            postcss
+
+        Lang_postscript ->
+            postscript
+
+        Lang_powerbuilder ->
+            powerbuilder
+
+        Lang_powershell ->
+            powershell
+
+        Lang_praat ->
+            praat
+
+        Lang_prisma ->
+            prisma
+
+        Lang_processing ->
+            processing
+
+        Lang_procfile ->
+            procfile
+
+        Lang_prolog ->
+            prolog
+
+        Lang_promela ->
+            promela
+
+        Lang_propeller_spin ->
+            propeller_spin
+
+        Lang_pug ->
+            pug
+
+        Lang_puppet ->
+            puppet
+
+        Lang_purebasic ->
+            purebasic
+
+        Lang_purescript ->
+            purescript
+
+        Lang_pyret ->
+            pyret
+
+        Lang_python ->
+            python
+
+        Lang_python_console ->
+            python_console
+
+        Lang_python_traceback ->
+            python_traceback
+
+        Lang_q_sharp ->
+            q_sharp
+
+        Lang_qml ->
+            qml
+
+        Lang_qmake ->
+            qmake
+
+        Lang_qt_script ->
+            qt_script
+
+        Lang_quake ->
+            quake
+
+        Lang_r ->
+            r
+
+        Lang_raml ->
+            raml
+
+        Lang_rbs ->
+            rbs
+
+        Lang_rdoc ->
+            rdoc
+
+        Lang_realbasic ->
+            realbasic
+
+        Lang_rexx ->
+            rexx
+
+        Lang_rmarkdown ->
+            rmarkdown
+
+        Lang_ron ->
+            ron
+
+        Lang_rpc ->
+            rpc
+
+        Lang_rpgle ->
+            rpgle
+
+        Lang_runoff ->
+            runoff
+
+        Lang_racket ->
+            racket
+
+        Lang_ragel ->
+            ragel
+
+        Lang_raku ->
+            raku
+
+        Lang_rascal ->
+            rascal
+
+        Lang_rescript ->
+            rescript
+
+        Lang_reason ->
+            reason
+
+        Lang_reasonligo ->
+            reasonligo
+
+        Lang_rebol ->
+            rebol
+
+        Lang_record_jar ->
+            record_jar
+
+        Lang_red ->
+            red
+
+        Lang_redcode ->
+            redcode
+
+        Lang_regular_expression ->
+            regular_expression
+
+        Lang_ren_py ->
+            ren_py
+
+        Lang_renderscript ->
+            renderscript
+
+        Lang_rez ->
+            rez
+
+        Lang_ring ->
+            ring
+
+        Lang_riot ->
+            riot
+
+        Lang_robotframework ->
+            robotframework
+
+        Lang_roc ->
+            roc
+
+        Lang_roff ->
+            roff
+
+        Lang_roff_manpage ->
+            roff_manpage
+
+        Lang_rouge ->
+            rouge
+
+        Lang_routeros_script ->
+            routeros_script
+
+        Lang_ruby ->
+            ruby
+
+        Lang_rust ->
+            rust
+
+        Lang_sas ->
+            sas
+
+        Lang_scss ->
+            scss
+
+        Lang_smt ->
+            smt
+
+        Lang_sparql ->
+            sparql
+
+        Lang_sqf ->
+            sqf
+
+        Lang_sql ->
+            sql
+
+        Lang_sqlpl ->
+            sqlpl
+
+        Lang_srecode_template ->
+            srecode_template
+
+        Lang_stl ->
+            stl
+
+        Lang_svg ->
+            svg
+
+        Lang_swig ->
+            swig
+
+        Lang_sage ->
+            sage
+
+        Lang_saltstack ->
+            saltstack
+
+        Lang_sass ->
+            sass
+
+        Lang_scala ->
+            scala
+
+        Lang_scaml ->
+            scaml
+
+        Lang_scenic ->
+            scenic
+
+        Lang_scheme ->
+            scheme
+
+        Lang_scilab ->
+            scilab
+
+        Lang_self ->
+            self
+
+        Lang_shaderlab ->
+            shaderlab
+
+        Lang_shell ->
+            shell
+
+        Lang_shellcheck_config ->
+            shellcheck_config
+
+        Lang_shellsession ->
+            shellsession
+
+        Lang_shen ->
+            shen
+
+        Lang_sieve ->
+            sieve
+
+        Lang_simple_file_verification ->
+            simple_file_verification
+
+        Lang_singularity ->
+            singularity
+
+        Lang_slash ->
+            slash
+
+        Lang_slice ->
+            slice
+
+        Lang_slim ->
+            slim
+
+        Lang_slint ->
+            slint
+
+        Lang_smpl ->
+            smpl
+
+        Lang_smali ->
+            smali
+
+        Lang_smalltalk ->
+            smalltalk
+
+        Lang_smarty ->
+            smarty
+
+        Lang_smithy ->
+            smithy
+
+        Lang_snakemake ->
+            snakemake
+
+        Lang_solidity ->
+            solidity
+
+        Lang_sourcepawn ->
+            sourcepawn
+
+        Lang_squirrel ->
+            squirrel
+
+        Lang_stan ->
+            stan
+
+        Lang_standard_ml ->
+            standard_ml
+
+        Lang_starlark ->
+            starlark
+
+        Lang_stata ->
+            stata
+
+        Lang_stringtemplate ->
+            stringtemplate
+
+        Lang_stylus ->
+            stylus
+
+        Lang_subrip_text ->
+            subrip_text
+
+        Lang_sugarss ->
+            sugarss
+
+        Lang_supercollider ->
+            supercollider
+
+        Lang_svelte ->
+            svelte
+
+        Lang_sway ->
+            sway
+
+        Lang_sweave ->
+            sweave
+
+        Lang_swift ->
+            swift
+
+        Lang_systemverilog ->
+            systemverilog
+
+        Lang_ti_program ->
+            ti_program
+
+        Lang_tl_verilog ->
+            tl_verilog
+
+        Lang_tla ->
+            tla
+
+        Lang_toml ->
+            toml
+
+        Lang_tsql ->
+            tsql
+
+        Lang_tsv ->
+            tsv
+
+        Lang_tsx ->
+            tsx
+
+        Lang_txl ->
+            txl
+
+        Lang_talon ->
+            talon
+
+        Lang_tcl ->
+            tcl
+
+        Lang_tcsh ->
+            tcsh
+
+        Lang_tex ->
+            tex
+
+        Lang_terra ->
+            terra
+
+        Lang_terraform_template ->
+            terraform_template
+
+        Lang_textgrid ->
+            textgrid
+
+        Lang_textmate_properties ->
+            textmate_properties
+
+        Lang_textile ->
+            textile
+
+        Lang_thrift ->
+            thrift
+
+        Lang_toit ->
+            toit
+
+        Lang_turing ->
+            turing
+
+        Lang_twig ->
+            twig
+
+        Lang_typescript ->
+            typescript
+
+        Lang_typst ->
+            typst
+
+        Lang_unified_parallel_c ->
+            unified_parallel_c
+
+        Lang_unity3d_asset ->
+            unity3d_asset
+
+        Lang_unix_assembly ->
+            unix_assembly
+
+        Lang_uno ->
+            uno
+
+        Lang_unrealscript ->
+            unrealscript
+
+        Lang_urweb ->
+            urweb
+
+        Lang_v ->
+            v
+
+        Lang_vba ->
+            vba
+
+        Lang_vbscript ->
+            vbscript
+
+        Lang_vcl ->
+            vcl
+
+        Lang_vhdl ->
+            vhdl
+
+        Lang_vala ->
+            vala
+
+        Lang_valve_data_format ->
+            valve_data_format
+
+        Lang_velocity_template_language ->
+            velocity_template_language
+
+        Lang_verilog ->
+            verilog
+
+        Lang_vim_help_file ->
+            vim_help_file
+
+        Lang_vim_script ->
+            vim_script
+
+        Lang_vim_snippet ->
+            vim_snippet
+
+        Lang_visual_basic__net ->
+            visual_basic__net
+
+        Lang_visual_basic_6_0 ->
+            visual_basic_6_0
+
+        Lang_volt ->
+            volt
+
+        Lang_vue ->
+            vue
+
+        Lang_vyper ->
+            vyper
+
+        Lang_wdl ->
+            wdl
+
+        Lang_wgsl ->
+            wgsl
+
+        Lang_web_ontology_language ->
+            web_ontology_language
+
+        Lang_webassembly ->
+            webassembly
+
+        Lang_webassembly_interface_type ->
+            webassembly_interface_type
+
+        Lang_webidl ->
+            webidl
+
+        Lang_whiley ->
+            whiley
+
+        Lang_wikitext ->
+            wikitext
+
+        Lang_windows_registry_entries ->
+            windows_registry_entries
+
+        Lang_witcher_script ->
+            witcher_script
+
+        Lang_wollok ->
+            wollok
+
+        Lang_world_of_warcraft_addon_data ->
+            world_of_warcraft_addon_data
+
+        Lang_wren ->
+            wren
+
+        Lang_x10 ->
+            x10
+
+        Lang_xc ->
+            xc
+
+        Lang_xml ->
+            xml
+
+        Lang_xml_property_list ->
+            xml_property_list
+
+        Lang_xproc ->
+            xproc
+
+        Lang_xquery ->
+            xquery
+
+        Lang_xs ->
+            xs
+
+        Lang_xslt ->
+            xslt
+
+        Lang_xojo ->
+            xojo
+
+        Lang_xonsh ->
+            xonsh
+
+        Lang_xtend ->
+            xtend
+
+        Lang_yaml ->
+            yaml
+
+        Lang_yara ->
+            yara
+
+        Lang_yasnippet ->
+            yasnippet
+
+        Lang_yacc ->
+            yacc
+
+        Lang_yul ->
+            yul
+
+        Lang_zap ->
+            zap
+
+        Lang_zil ->
+            zil
+
+        Lang_zeek ->
+            zeek
+
+        Lang_zenscript ->
+            zenscript
+
+        Lang_zephir ->
+            zephir
+
+        Lang_zig ->
+            zig
+
+        Lang_zimpl ->
+            zimpl
+
+        Lang_crontab ->
+            crontab
+
+        Lang_ec ->
+            ec
+
+        Lang_fish ->
+            fish
+
+        Lang_hoon ->
+            hoon
+
+        Lang_jq ->
+            jq
+
+        Lang_kvlang ->
+            kvlang
+
+        Lang_mirc_script ->
+            mirc_script
+
+        Lang_mcfunction ->
+            mcfunction
+
+        Lang_mupad ->
+            mupad
+
+        Lang_nanorc ->
+            nanorc
+
+        Lang_nesc ->
+            nesc
+
+        Lang_ooc ->
+            ooc
+
+        Lang_q ->
+            q
+
+        Lang_restructuredtext ->
+            restructuredtext
+
+        Lang_sed ->
+            sed
+
+        Lang_templ ->
+            templ
+
+        Lang_wisp ->
+            wisp
+
+        Lang_xbase ->
+            xbase
 
 
 {-| Github language color for '1C Enterprise' -}
