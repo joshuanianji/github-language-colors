@@ -58,7 +58,6 @@ jobs:
 
       - name: Run `elm-review --fix`
         run: echo "yes" | pnpm elm-review --fix
-        continue-on-error: true
 
       - name: Commit and Push to PR
         if: env.new_version != env.previous_version
