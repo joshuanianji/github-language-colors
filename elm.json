@@ -3,7 +3,7 @@
     "name": "joshuanianji/github-language-colors",
     "summary": "A collection of all of Github's language colours in Elm.",
     "license": "MIT",
-    "version": "3.0.0",
+    "version": "4.0.0",
     "exposed-modules": [
         "GithubColors"
     ],
