@@ -14,7 +14,7 @@
     "author": "",
     "license": "ISC",
     "devDependencies": {
-        "elm-codegen": "0.5.3",
+        "elm-codegen": "0.6.1",
         "elm-doc-preview": "5.0.5",
         "elm-review": "2.12.0",
         "elm-test": "0.19.1-revision12",
