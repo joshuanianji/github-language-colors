@@ -21,7 +21,7 @@ main =
         [ Html.text "Elm" ]
 ```
 
-A full list of languages can be found in the [docs](https://package.elm-lang.org/packages/joshuanianji/github-language-colors/4.0.0/GithubColors/).
+A full list of languages can be found in the [docs](https://package.elm-lang.org/packages/joshuanianji/github-language-colors/5.0.0/GithubColors/).
 
 ## Colors
 
