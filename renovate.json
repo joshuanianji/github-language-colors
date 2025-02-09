@@ -1,12 +1,6 @@
 {
-    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-    "rangeStrategy": "pin",
-    "extends": [
-      "config:base",
-      "schedule:weekly",
-      "group:allNonMajor"
-    ],
-    "labels": [
-      "dependencies"
-    ]
-  }
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "rangeStrategy": "pin",
+  "extends": ["config:recommended", "schedule:weekly", "group:allNonMajor"],
+  "labels": ["dependencies"]
+}
