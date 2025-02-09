@@ -40,6 +40,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           message: "chore: update colors"
           branch: update-colours
+          force: true
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
