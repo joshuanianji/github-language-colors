@@ -1,4 +1,4 @@
-module GithubColors exposing (Color, Language(..), abap, abap_cds, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, ags_script, aidl, al, alloy, alpine_abuild, altium_designer, ampl, angelscript, ant_build_system, antlers, antlr, apacheconf, apex, api_blueprint, apl, apollo_guidance_computer, applescript, arc, asciidoc, asl, asp_net, aspectj, assembly, astro, asymptote, ats, augeas, autohotkey, autoit, avro_idl, awk, b4x, ballerina, basic, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, bluespec_bh, boo, boogie, bqn, brainfuck, brighterscript, brightscript, browserslist, c, c2hs_haskell, c_sharp, cabal_config, caddyfile, cadence, cairo, cairo_zero, cameligo, cap_cds, cap_n_proto, carbon, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clips, clojure, closure_templates, cloud_firestore_security_rules, cmake, cobol, codeql, coffeescript, coldfusion, coldfusion_cfc, collada, common_lisp, common_workflow_language, component_pascal, cool, coq, cpp, crontab, crystal, cson, csound, csound_document, csound_score, css, csv, cuda, cue, curry, cweb, cycript, cylc, cypher, cython, d, d2, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, digital_command_language, directx_3d_file, dm, dockerfile, dogescript, dotenv, dtrace, dune, dylan, e, earthly, easybuild, ec, ecere_projects, ecl, eclipse, ecmarkup, edge, edgeql, editorconfig, eiffel, ejs, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, eq, erlang, euphoria, f_sharp, f_star, factor, fancy, fantom, faust, fennel, figlet_font, filebench_wml, filterscript, firrtl, fish, fluent, flux, forth, fortran, fortran_free_form, freebasic, freemarker, frege, fromString, futhark, g_code, game_maker_language, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, gemfile_lock, gemini, genero_4gl, genero_per, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glimmer_js, glimmer_ts, glsl, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, gradle_kotlin_dsl, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, gsc, hack, haml, handlebars, haproxy, harbour, hare, haskell, haxe, hcl, hiveql, hlsl, hocon, holyc, hoon, hosts_file, html, html_plus_ecr, html_plus_eex, html_plus_erb, html_plus_php, html_plus_razor, http, hxml, hy, hyphy, icalendar, idl, idris, ignore_list, igor_pro, imagej_macro, imba, inform_7, ini, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, janet, jar_manifest, jasmin, java, java_properties, java_server_pages, java_template_engine, javascript, javascript_plus_erb, jcl, jest_snapshot, jetbrains_mps, jflex, jinja, jison, jison_lex, jolie, jq, json, json5, json_with_comments, jsoniq, jsonld, jsonnet, julia, julia_repl, jupyter_notebook, just, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, krl, kvlang, labview, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, lark, lasso, latte, lean, lean_4, less, lex, lfe, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livecode_script, livescript, llvm, logos, logtalk, lolcode, lookml, loomscript, lsl, lua, luau, m, m4, m4sugar, macaulay2, makefile, mako, markdown, marko, mask, mathematica, matlab, max, maxscript, mcfunction, mdx, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, mirc_script, mlir, modelica, modula_2, modula_3, module_management_system, mojo, monkey, monkey_c, moocode, moonbit, moonscript, motoko, motorola_68k_assembly, move, mql4, mql5, mtml, muf, mupad, mustache, myghty, nanorc, nasal, nasl, ncl, nearley, nemerle, nesc, netlinx, netlinx_plus_erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, nmodl, noir, npm_config, nsis, nu, numpy, nunjucks, nushell, nwscript, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, oberon, objective_c, objective_cpp, objective_j, objectscript, ocaml, odin, omgrofl, omnetpp_msg, omnetpp_ned, ooc, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pddl, peg_js, pep8, perl, php, picolisp, piglatin, pike, pip_requirements, pkl, plantuml, plpgsql, plsql, pogoscript, polar, pony, portugol, postcss, postscript, pov_ray_sdl, powerbuilder, powershell, praat, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q, q_sharp, qmake, qml, qt_script, quake, quickbasic, r, racket, ragel, raku, raml, rascal, rbs, rdoc, realbasic, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, rescript, restructuredtext, rexx, rez, ring, riot, rmarkdown, robotframework, roc, roff, roff_manpage, ron, rouge, routeros_script, rpc, rpgle, ruby, runoff, rust, sage, saltstack, sas, sass, scala, scaml, scenic, scheme, scilab, scss, sed, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, slint, smali, smalltalk, smarty, smithy, smpl, smt, snakemake, solidity, sourcepawn, sparql, sqf, sql, sqlpl, squirrel, srecode_template, stan, standard_ml, starlark, stata, stl, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, svg, sway, sweave, swift, swig, systemverilog, tact, talon, tcl, tcsh, templ, terra, terraform_template, tex, textgrid, textile, textmate_properties, thrift, ti_program, tl_verilog, tla, toColor, toString, toit, toml, tsql, tsv, tsx, turing, twig, txl, typescript, typespec, typst, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vala, valve_data_format, vba, vbscript, vcard, vcl, velocity_template_language, verilog, vhdl, vim_help_file, vim_script, vim_snippet, visual_basic_6_0, visual_basic__net, volt, vue, vyper, wdl, web_ontology_language, webassembly, webassembly_interface_type, webidl, wgsl, whiley, wikitext, windows_registry_entries, wisp, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xbase, xc, xml, xml_property_list, xojo, xonsh, xproc, xquery, xs, xslt, xtend, yacc, yaml, yara, yasnippet, yul, zap, zeek, zenscript, zephir, zig, zil, zimpl)
+module GithubColors exposing (Color, Language(..), abap, abap_cds, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, ags_script, aidl, al, alloy, alpine_abuild, altium_designer, ampl, angelscript, answer_set_programming, ant_build_system, antlers, antlr, apacheconf, apex, api_blueprint, apl, apollo_guidance_computer, applescript, arc, asciidoc, asl, asp_net, aspectj, assembly, astro, asymptote, ats, augeas, autohotkey, autoit, avro_idl, awk, b4x, ballerina, basic, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, bluespec_bh, boo, boogie, bqn, brainfuck, brighterscript, brightscript, browserslist, c, c2hs_haskell, c_sharp, cabal_config, caddyfile, cadence, cairo, cairo_zero, cameligo, cap_cds, cap_n_proto, carbon, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clips, clojure, closure_templates, cloud_firestore_security_rules, cmake, cobol, codeql, coffeescript, coldfusion, coldfusion_cfc, collada, common_lisp, common_workflow_language, component_pascal, cool, coq, cpp, crontab, crystal, cson, csound, csound_document, csound_score, css, csv, cuda, cue, curry, cweb, cycript, cylc, cypher, cython, d, d2, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, digital_command_language, directx_3d_file, dm, dockerfile, dogescript, dotenv, dtrace, dune, dylan, e, earthly, easybuild, ec, ecere_projects, ecl, eclipse, ecmarkup, edge, edgeql, editorconfig, eiffel, ejs, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, eq, erlang, euphoria, f_sharp, f_star, factor, fancy, fantom, faust, fennel, figlet_font, filebench_wml, filterscript, firrtl, fish, fluent, flux, forth, fortran, fortran_free_form, freebasic, freemarker, frege, fromString, futhark, g_code, game_maker_language, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, gemfile_lock, gemini, genero_4gl, genero_per, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glimmer_js, glimmer_ts, glsl, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, gradle_kotlin_dsl, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, gsc, hack, haml, handlebars, haproxy, harbour, hare, haskell, haxe, hcl, hiveql, hlsl, hocon, holyc, hoon, hosts_file, html, html_plus_ecr, html_plus_eex, html_plus_erb, html_plus_php, html_plus_razor, http, hxml, hy, hyphy, icalendar, idl, idris, ignore_list, igor_pro, imagej_macro, imba, inform_7, ini, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, jai, janet, jar_manifest, jasmin, java, java_properties, java_server_pages, java_template_engine, javascript, javascript_plus_erb, jcl, jest_snapshot, jetbrains_mps, jflex, jinja, jison, jison_lex, jolie, jq, json, json5, json_with_comments, jsoniq, jsonld, jsonnet, julia, julia_repl, jupyter_notebook, just, kaitai_struct, kakounescript, kdl, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, krl, kvlang, labview, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, lark, lasso, latte, lean, lean_4, less, lex, lfe, ligolang, lilypond, limbo, linear_programming, liquid, literate_agda, literate_coffeescript, literate_haskell, livecode_script, livescript, llvm, logos, logtalk, lolcode, lookml, loomscript, lsl, lua, luau, m, m4, m4sugar, macaulay2, makefile, mako, markdown, marko, mask, mathematica, matlab, max, maxscript, mcfunction, mdsvex, mdx, mercury, mermaid, meson, metal, minid, miniyaml, minizinc, mint, mirah, mirc_script, mlir, modelica, modula_2, modula_3, module_management_system, mojo, monkey, monkey_c, moocode, moonbit, moonscript, motoko, motorola_68k_assembly, move, mql4, mql5, mtml, muf, mupad, mustache, myghty, nanorc, nasal, nasl, ncl, nearley, nemerle, nesc, netlinx, netlinx_plus_erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, nmodl, noir, npm_config, nsis, nu, numpy, nunjucks, nushell, nwscript, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, oberon, objective_c, objective_cpp, objective_j, objectscript, ocaml, odin, omgrofl, omnetpp_msg, omnetpp_ned, ooc, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, overpassql, ox, oxygene, oz, p4, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pddl, peg_js, pep8, perl, php, picolisp, piglatin, pike, pip_requirements, pkl, plantuml, plpgsql, plsql, pogoscript, polar, pony, portugol, postcss, postscript, pov_ray_sdl, powerbuilder, powershell, praat, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q, q_sharp, qmake, qml, qt_script, quake, quickbasic, r, racket, ragel, raku, raml, rascal, rbs, rdoc, realbasic, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, rescript, restructuredtext, rexx, rez, ring, riot, rmarkdown, robotframework, roc, roff, roff_manpage, ron, rouge, routeros_script, rpc, rpgle, ruby, runoff, rust, sage, saltstack, sas, sass, scala, scaml, scenic, scheme, scilab, scss, sed, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, slint, smali, smalltalk, smarty, smithy, smpl, smt, snakemake, solidity, sourcepawn, sparql, sqf, sql, sqlpl, squirrel, srecode_template, stan, standard_ml, starlark, stata, stl, stringtemplate, stylus, subrip_text, sugarss, supercollider, survex_data, svelte, svg, sway, sweave, swift, swig, systemverilog, tact, talon, tcl, tcsh, templ, terra, terraform_template, tex, textgrid, textile, textmate_properties, thrift, ti_program, tl_verilog, tla, toColor, toString, toit, toml, tsql, tsv, tsx, turing, twig, txl, typescript, typespec, typst, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vala, valve_data_format, vba, vbscript, vcard, vcl, velocity_template_language, verilog, vhdl, vim_help_file, vim_script, vim_snippet, visual_basic_6_0, visual_basic__net, volt, vue, vyper, wdl, web_ontology_language, webassembly, webassembly_interface_type, webidl, wgsl, whiley, wikitext, windows_registry_entries, wisp, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xbase, xc, xmake, xml, xml_property_list, xojo, xonsh, xproc, xquery, xs, xslt, xtend, yacc, yaml, yara, yasnippet, yul, zap, zeek, zenscript, zephir, zig, zil, zimpl)
 
 {-| 
 This module exposes the color values for all supported languages on Github. Color data is taken from [ozh/github-colors](https://github.com/ozh/github-colors).
@@ -16,7 +16,7 @@ This module exposes the color values for all supported languages on Github. Colo
 
 ## Language Colors
 
-@docs fromString, toString, toColor, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, abap, abap_cds, ags_script, aidl, al, ampl, antlr, api_blueprint, apl, asl, asp_net, ats, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, alloy, alpine_abuild, altium_designer, angelscript, ant_build_system, antlers, apacheconf, apex, apollo_guidance_computer, applescript, arc, asciidoc, aspectj, assembly, astro, asymptote, augeas, autohotkey, autoit, avro_idl, awk, b4x, basic, bqn, ballerina, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, bluespec_bh, boo, boogie, brainfuck, brighterscript, brightscript, browserslist, c, c_sharp, cpp, c2hs_haskell, cap_cds, clips, cmake, cobol, collada, cson, css, csv, cue, cweb, cabal_config, caddyfile, cadence, cairo, cairo_zero, cameligo, cap_n_proto, carbon, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clojure, closure_templates, cloud_firestore_security_rules, codeql, coffeescript, coldfusion, coldfusion_cfc, common_lisp, common_workflow_language, component_pascal, cool, coq, crystal, csound, csound_document, csound_score, cuda, curry, cycript, cylc, cypher, cython, d, d2, digital_command_language, dm, dtrace, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, directx_3d_file, dockerfile, dogescript, dotenv, dune, dylan, e, ecl, eclipse, ejs, eq, earthly, easybuild, ecere_projects, ecmarkup, edge, edgeql, editorconfig, eiffel, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, erlang, euphoria, f_sharp, f_star, figlet_font, firrtl, flux, factor, fancy, fantom, faust, fennel, filebench_wml, filterscript, fluent, forth, fortran, fortran_free_form, freebasic, freemarker, frege, futhark, g_code, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, glsl, gsc, game_maker_language, gemfile_lock, gemini, genero_4gl, genero_per, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glimmer_js, glimmer_ts, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, gradle_kotlin_dsl, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, haproxy, hcl, hlsl, hocon, html, html_plus_ecr, html_plus_eex, html_plus_erb, html_plus_php, html_plus_razor, http, hxml, hack, haml, handlebars, harbour, hare, haskell, haxe, hiveql, holyc, hosts_file, hy, hyphy, idl, igor_pro, ini, idris, ignore_list, imagej_macro, imba, inform_7, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, jar_manifest, jcl, jflex, json, json_with_comments, json5, jsonld, jsoniq, janet, jasmin, java, java_properties, java_server_pages, java_template_engine, javascript, javascript_plus_erb, jest_snapshot, jetbrains_mps, jinja, jison, jison_lex, jolie, jsonnet, julia, julia_repl, jupyter_notebook, just, krl, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, lfe, llvm, lolcode, lsl, labview, lark, lasso, latte, lean, lean_4, less, lex, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livecode_script, livescript, logos, logtalk, lookml, loomscript, lua, luau, m, m4, m4sugar, matlab, maxscript, mdx, mlir, mql4, mql5, mtml, muf, macaulay2, makefile, mako, markdown, marko, mask, mathematica, max, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, modelica, modula_2, modula_3, module_management_system, mojo, monkey, monkey_c, moocode, moonbit, moonscript, motoko, motorola_68k_assembly, move, mustache, myghty, nasl, ncl, nmodl, npm_config, nsis, nwscript, nasal, nearley, nemerle, netlinx, netlinx_plus_erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, noir, nu, numpy, nunjucks, nushell, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, ocaml, oberon, objectscript, objective_c, objective_cpp, objective_j, odin, omgrofl, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pddl, peg_js, php, plsql, plpgsql, pov_ray_sdl, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pep8, perl, picolisp, piglatin, pike, pip_requirements, pkl, plantuml, pogoscript, polar, pony, portugol, postcss, postscript, powerbuilder, powershell, praat, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q_sharp, qml, qmake, qt_script, quake, quickbasic, r, raml, rbs, rdoc, realbasic, rexx, rmarkdown, ron, rpc, rpgle, runoff, racket, ragel, raku, rascal, rescript, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, rez, ring, riot, robotframework, roc, roff, roff_manpage, rouge, routeros_script, ruby, rust, sas, scss, smt, sparql, sqf, sql, sqlpl, srecode_template, stl, svg, swig, sage, saltstack, sass, scala, scaml, scenic, scheme, scilab, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, slint, smpl, smali, smalltalk, smarty, smithy, snakemake, solidity, sourcepawn, squirrel, stan, standard_ml, starlark, stata, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, sway, sweave, swift, systemverilog, ti_program, tl_verilog, tla, toml, tsql, tsv, tsx, txl, tact, talon, tcl, tcsh, tex, terra, terraform_template, textgrid, textmate_properties, textile, thrift, toit, turing, twig, typescript, typespec, typst, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vba, vbscript, vcl, vhdl, vala, valve_data_format, velocity_template_language, verilog, vim_help_file, vim_script, vim_snippet, visual_basic__net, visual_basic_6_0, volt, vue, vyper, wdl, wgsl, web_ontology_language, webassembly, webassembly_interface_type, webidl, whiley, wikitext, windows_registry_entries, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xc, xml, xml_property_list, xproc, xquery, xs, xslt, xojo, xonsh, xtend, yaml, yara, yasnippet, yacc, yul, zap, zil, zeek, zenscript, zephir, zig, zimpl, crontab, ec, fish, hoon, icalendar, jq, kvlang, mirc_script, mcfunction, mupad, nanorc, nesc, omnetpp_msg, omnetpp_ned, ooc, q, restructuredtext, sed, templ, vcard, wisp, xbase
+@docs fromString, toString, toColor, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, abap, abap_cds, ags_script, aidl, al, ampl, antlr, api_blueprint, apl, asl, asp_net, ats, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, alloy, alpine_abuild, altium_designer, angelscript, answer_set_programming, ant_build_system, antlers, apacheconf, apex, apollo_guidance_computer, applescript, arc, asciidoc, aspectj, assembly, astro, asymptote, augeas, autohotkey, autoit, avro_idl, awk, b4x, basic, bqn, ballerina, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, bluespec_bh, boo, boogie, brainfuck, brighterscript, brightscript, browserslist, c, c_sharp, cpp, c2hs_haskell, cap_cds, clips, cmake, cobol, collada, cson, css, csv, cue, cweb, cabal_config, caddyfile, cadence, cairo, cairo_zero, cameligo, cap_n_proto, carbon, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clojure, closure_templates, cloud_firestore_security_rules, codeql, coffeescript, coldfusion, coldfusion_cfc, common_lisp, common_workflow_language, component_pascal, cool, coq, crystal, csound, csound_document, csound_score, cuda, curry, cycript, cylc, cypher, cython, d, d2, digital_command_language, dm, dtrace, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, directx_3d_file, dockerfile, dogescript, dotenv, dune, dylan, e, ecl, eclipse, ejs, eq, earthly, easybuild, ecere_projects, ecmarkup, edge, edgeql, editorconfig, eiffel, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, erlang, euphoria, f_sharp, f_star, figlet_font, firrtl, flux, factor, fancy, fantom, faust, fennel, filebench_wml, filterscript, fluent, forth, fortran, fortran_free_form, freebasic, freemarker, frege, futhark, g_code, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, glsl, gsc, game_maker_language, gemfile_lock, gemini, genero_4gl, genero_per, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glimmer_js, glimmer_ts, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, gradle_kotlin_dsl, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, haproxy, hcl, hlsl, hocon, html, html_plus_ecr, html_plus_eex, html_plus_erb, html_plus_php, html_plus_razor, http, hxml, hack, haml, handlebars, harbour, hare, haskell, haxe, hiveql, holyc, hosts_file, hy, hyphy, idl, igor_pro, ini, idris, ignore_list, imagej_macro, imba, inform_7, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, jar_manifest, jcl, jflex, json, json_with_comments, json5, jsonld, jsoniq, jai, janet, jasmin, java, java_properties, java_server_pages, java_template_engine, javascript, javascript_plus_erb, jest_snapshot, jetbrains_mps, jinja, jison, jison_lex, jolie, jsonnet, julia, julia_repl, jupyter_notebook, just, kdl, krl, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, lfe, llvm, lolcode, lsl, labview, lark, lasso, latte, lean, lean_4, less, lex, ligolang, lilypond, limbo, linear_programming, liquid, literate_agda, literate_coffeescript, literate_haskell, livecode_script, livescript, logos, logtalk, lookml, loomscript, lua, luau, m, m4, m4sugar, matlab, maxscript, mdx, mlir, mql4, mql5, mtml, muf, macaulay2, makefile, mako, markdown, marko, mask, mathematica, max, mercury, mermaid, meson, metal, minid, miniyaml, minizinc, mint, mirah, modelica, modula_2, modula_3, module_management_system, mojo, monkey, monkey_c, moocode, moonbit, moonscript, motoko, motorola_68k_assembly, move, mustache, myghty, nasl, ncl, nmodl, npm_config, nsis, nwscript, nasal, nearley, nemerle, netlinx, netlinx_plus_erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, noir, nu, numpy, nunjucks, nushell, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, ocaml, omnetpp_msg, omnetpp_ned, oberon, objectscript, objective_c, objective_cpp, objective_j, odin, omgrofl, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, overpassql, ox, oxygene, oz, p4, pddl, peg_js, php, plsql, plpgsql, pov_ray_sdl, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pep8, perl, picolisp, piglatin, pike, pip_requirements, pkl, plantuml, pogoscript, polar, pony, portugol, postcss, postscript, powerbuilder, powershell, praat, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q_sharp, qml, qmake, qt_script, quake, quickbasic, r, raml, rbs, rdoc, realbasic, rexx, rmarkdown, ron, rpc, rpgle, runoff, racket, ragel, raku, rascal, rescript, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, rez, ring, riot, robotframework, roc, roff, roff_manpage, rouge, routeros_script, ruby, rust, sas, scss, smt, sparql, sqf, sql, sqlpl, srecode_template, stl, svg, swig, sage, saltstack, sass, scala, scaml, scenic, scheme, scilab, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, slint, smpl, smali, smalltalk, smarty, smithy, snakemake, solidity, sourcepawn, squirrel, stan, standard_ml, starlark, stata, stringtemplate, stylus, subrip_text, sugarss, supercollider, survex_data, svelte, sway, sweave, swift, systemverilog, ti_program, tl_verilog, tla, toml, tsql, tsv, tsx, txl, tact, talon, tcl, tcsh, tex, terra, terraform_template, textgrid, textmate_properties, textile, thrift, toit, turing, twig, typescript, typespec, typst, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vba, vbscript, vcl, vhdl, vala, valve_data_format, velocity_template_language, verilog, vim_help_file, vim_script, vim_snippet, visual_basic__net, visual_basic_6_0, volt, vue, vyper, wdl, wgsl, web_ontology_language, webassembly, webassembly_interface_type, webidl, whiley, wikitext, windows_registry_entries, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xc, xml, xml_property_list, xproc, xquery, xs, xslt, xmake, xojo, xonsh, xtend, yaml, yara, yasnippet, yacc, yul, zap, zil, zeek, zenscript, zephir, zig, zimpl, crontab, ec, fish, hoon, icalendar, jq, kvlang, mirc_script, mcfunction, mdsvex, mupad, nanorc, nesc, ooc, q, restructuredtext, sed, templ, vcard, wisp, xbase
 -}
 
 
@@ -68,6 +68,7 @@ type Language
     | Lang_alpine_abuild
     | Lang_altium_designer
     | Lang_angelscript
+    | Lang_answer_set_programming
     | Lang_ant_build_system
     | Lang_antlers
     | Lang_apacheconf
@@ -315,6 +316,7 @@ type Language
     | Lang_json5
     | Lang_jsonld
     | Lang_jsoniq
+    | Lang_jai
     | Lang_janet
     | Lang_jasmin
     | Lang_java
@@ -334,6 +336,7 @@ type Language
     | Lang_julia_repl
     | Lang_jupyter_notebook
     | Lang_just
+    | Lang_kdl
     | Lang_krl
     | Lang_kaitai_struct
     | Lang_kakounescript
@@ -357,6 +360,7 @@ type Language
     | Lang_ligolang
     | Lang_lilypond
     | Lang_limbo
+    | Lang_linear_programming
     | Lang_liquid
     | Lang_literate_agda
     | Lang_literate_coffeescript
@@ -394,6 +398,7 @@ type Language
     | Lang_metal
     | Lang_minid
     | Lang_miniyaml
+    | Lang_minizinc
     | Lang_mint
     | Lang_mirah
     | Lang_modelica
@@ -439,6 +444,8 @@ type Language
     | Lang_oasv3_json
     | Lang_oasv3_yaml
     | Lang_ocaml
+    | Lang_omnetpp_msg
+    | Lang_omnetpp_ned
     | Lang_oberon
     | Lang_objectscript
     | Lang_objective_c
@@ -458,6 +465,7 @@ type Language
     | Lang_openscad
     | Lang_option_list
     | Lang_org
+    | Lang_overpassql
     | Lang_ox
     | Lang_oxygene
     | Lang_oz
@@ -599,6 +607,7 @@ type Language
     | Lang_subrip_text
     | Lang_sugarss
     | Lang_supercollider
+    | Lang_survex_data
     | Lang_svelte
     | Lang_sway
     | Lang_sweave
@@ -673,6 +682,7 @@ type Language
     | Lang_xquery
     | Lang_xs
     | Lang_xslt
+    | Lang_xmake
     | Lang_xojo
     | Lang_xonsh
     | Lang_xtend
@@ -697,11 +707,10 @@ type Language
     | Lang_kvlang
     | Lang_mirc_script
     | Lang_mcfunction
+    | Lang_mdsvex
     | Lang_mupad
     | Lang_nanorc
     | Lang_nesc
-    | Lang_omnetpp_msg
-    | Lang_omnetpp_ned
     | Lang_ooc
     | Lang_q
     | Lang_restructuredtext
@@ -787,6 +796,9 @@ fromString string =
 
         "AngelScript" ->
             Just Lang_angelscript
+
+        "Answer Set Programming" ->
+            Just Lang_answer_set_programming
 
         "Ant Build System" ->
             Just Lang_ant_build_system
@@ -1529,6 +1541,9 @@ fromString string =
         "JSONiq" ->
             Just Lang_jsoniq
 
+        "Jai" ->
+            Just Lang_jai
+
         "Janet" ->
             Just Lang_janet
 
@@ -1585,6 +1600,9 @@ fromString string =
 
         "Just" ->
             Just Lang_just
+
+        "KDL" ->
+            Just Lang_kdl
 
         "KRL" ->
             Just Lang_krl
@@ -1654,6 +1672,9 @@ fromString string =
 
         "Limbo" ->
             Just Lang_limbo
+
+        "Linear Programming" ->
+            Just Lang_linear_programming
 
         "Liquid" ->
             Just Lang_liquid
@@ -1765,6 +1786,9 @@ fromString string =
 
         "MiniYAML" ->
             Just Lang_miniyaml
+
+        "MiniZinc" ->
+            Just Lang_minizinc
 
         "Mint" ->
             Just Lang_mint
@@ -1901,6 +1925,12 @@ fromString string =
         "OCaml" ->
             Just Lang_ocaml
 
+        "OMNeT++ MSG" ->
+            Just Lang_omnetpp_msg
+
+        "OMNeT++ NED" ->
+            Just Lang_omnetpp_ned
+
         "Oberon" ->
             Just Lang_oberon
 
@@ -1957,6 +1987,9 @@ fromString string =
 
         "Org" ->
             Just Lang_org
+
+        "OverpassQL" ->
+            Just Lang_overpassql
 
         "Ox" ->
             Just Lang_ox
@@ -2381,6 +2414,9 @@ fromString string =
         "SuperCollider" ->
             Just Lang_supercollider
 
+        "Survex data" ->
+            Just Lang_survex_data
+
         "Svelte" ->
             Just Lang_svelte
 
@@ -2603,6 +2639,9 @@ fromString string =
         "XSLT" ->
             Just Lang_xslt
 
+        "Xmake" ->
+            Just Lang_xmake
+
         "Xojo" ->
             Just Lang_xojo
 
@@ -2675,6 +2714,9 @@ fromString string =
         "mcfunction" ->
             Just Lang_mcfunction
 
+        "mdsvex" ->
+            Just Lang_mdsvex
+
         "mupad" ->
             Just Lang_mupad
 
@@ -2683,12 +2725,6 @@ fromString string =
 
         "nesC" ->
             Just Lang_nesc
-
-        "omnetpp-msg" ->
-            Just Lang_omnetpp_msg
-
-        "omnetpp-ned" ->
-            Just Lang_omnetpp_ned
 
         "ooc" ->
             Just Lang_ooc
@@ -2793,6 +2829,9 @@ toString language =
 
         Lang_angelscript ->
             "AngelScript"
+
+        Lang_answer_set_programming ->
+            "Answer Set Programming"
 
         Lang_ant_build_system ->
             "Ant Build System"
@@ -3535,6 +3574,9 @@ toString language =
         Lang_jsoniq ->
             "JSONiq"
 
+        Lang_jai ->
+            "Jai"
+
         Lang_janet ->
             "Janet"
 
@@ -3591,6 +3633,9 @@ toString language =
 
         Lang_just ->
             "Just"
+
+        Lang_kdl ->
+            "KDL"
 
         Lang_krl ->
             "KRL"
@@ -3660,6 +3705,9 @@ toString language =
 
         Lang_limbo ->
             "Limbo"
+
+        Lang_linear_programming ->
+            "Linear Programming"
 
         Lang_liquid ->
             "Liquid"
@@ -3771,6 +3819,9 @@ toString language =
 
         Lang_miniyaml ->
             "MiniYAML"
+
+        Lang_minizinc ->
+            "MiniZinc"
 
         Lang_mint ->
             "Mint"
@@ -3907,6 +3958,12 @@ toString language =
         Lang_ocaml ->
             "OCaml"
 
+        Lang_omnetpp_msg ->
+            "OMNeT++ MSG"
+
+        Lang_omnetpp_ned ->
+            "OMNeT++ NED"
+
         Lang_oberon ->
             "Oberon"
 
@@ -3963,6 +4020,9 @@ toString language =
 
         Lang_org ->
             "Org"
+
+        Lang_overpassql ->
+            "OverpassQL"
 
         Lang_ox ->
             "Ox"
@@ -4387,6 +4447,9 @@ toString language =
         Lang_supercollider ->
             "SuperCollider"
 
+        Lang_survex_data ->
+            "Survex data"
+
         Lang_svelte ->
             "Svelte"
 
@@ -4609,6 +4672,9 @@ toString language =
         Lang_xslt ->
             "XSLT"
 
+        Lang_xmake ->
+            "Xmake"
+
         Lang_xojo ->
             "Xojo"
 
@@ -4681,6 +4747,9 @@ toString language =
         Lang_mcfunction ->
             "mcfunction"
 
+        Lang_mdsvex ->
+            "mdsvex"
+
         Lang_mupad ->
             "mupad"
 
@@ -4689,12 +4758,6 @@ toString language =
 
         Lang_nesc ->
             "nesC"
-
-        Lang_omnetpp_msg ->
-            "omnetpp-msg"
-
-        Lang_omnetpp_ned ->
-            "omnetpp-ned"
 
         Lang_ooc ->
             "ooc"
@@ -4796,6 +4859,9 @@ toColor language =
 
         Lang_angelscript ->
             angelscript
+
+        Lang_answer_set_programming ->
+            answer_set_programming
 
         Lang_ant_build_system ->
             ant_build_system
@@ -5538,6 +5604,9 @@ toColor language =
         Lang_jsoniq ->
             jsoniq
 
+        Lang_jai ->
+            jai
+
         Lang_janet ->
             janet
 
@@ -5594,6 +5663,9 @@ toColor language =
 
         Lang_just ->
             just
+
+        Lang_kdl ->
+            kdl
 
         Lang_krl ->
             krl
@@ -5663,6 +5735,9 @@ toColor language =
 
         Lang_limbo ->
             limbo
+
+        Lang_linear_programming ->
+            linear_programming
 
         Lang_liquid ->
             liquid
@@ -5774,6 +5849,9 @@ toColor language =
 
         Lang_miniyaml ->
             miniyaml
+
+        Lang_minizinc ->
+            minizinc
 
         Lang_mint ->
             mint
@@ -5910,6 +5988,12 @@ toColor language =
         Lang_ocaml ->
             ocaml
 
+        Lang_omnetpp_msg ->
+            omnetpp_msg
+
+        Lang_omnetpp_ned ->
+            omnetpp_ned
+
         Lang_oberon ->
             oberon
 
@@ -5966,6 +6050,9 @@ toColor language =
 
         Lang_org ->
             org
+
+        Lang_overpassql ->
+            overpassql
 
         Lang_ox ->
             ox
@@ -6390,6 +6477,9 @@ toColor language =
         Lang_supercollider ->
             supercollider
 
+        Lang_survex_data ->
+            survex_data
+
         Lang_svelte ->
             svelte
 
@@ -6612,6 +6702,9 @@ toColor language =
         Lang_xslt ->
             xslt
 
+        Lang_xmake ->
+            xmake
+
         Lang_xojo ->
             xojo
 
@@ -6684,6 +6777,9 @@ toColor language =
         Lang_mcfunction ->
             mcfunction
 
+        Lang_mdsvex ->
+            mdsvex
+
         Lang_mupad ->
             mupad
 
@@ -6692,12 +6788,6 @@ toColor language =
 
         Lang_nesc ->
             nesc
-
-        Lang_omnetpp_msg ->
-            omnetpp_msg
-
-        Lang_omnetpp_ned ->
-            omnetpp_ned
 
         Lang_ooc ->
             ooc
@@ -6984,6 +7074,17 @@ angelscript =
     , color = Color.rgb255 199 215 220
     , hex = "#C7D7DC"
     , rgb = ( 199, 215, 220 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Answer Set Programming' -}
+answer_set_programming : Color
+answer_set_programming =
+    { elmui = Element.rgb255 169 204 41
+    , color = Color.rgb255 169 204 41
+    , hex = "#A9CC29"
+    , rgb = ( 169, 204, 41 )
     , hasColor = True
     }
 
@@ -9705,6 +9806,17 @@ jsoniq =
     }
 
 
+{-| Github language color for 'Jai' -}
+jai : Color
+jai =
+    { elmui = Element.rgb255 171 139 75
+    , color = Color.rgb255 171 139 75
+    , hex = "#ab8b4b"
+    , rgb = ( 171, 139, 75 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Janet' -}
 janet : Color
 janet =
@@ -9910,6 +10022,17 @@ just =
     , color = Color.rgb255 56 77 84
     , hex = "#384d54"
     , rgb = ( 56, 77, 84 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'KDL' -}
+kdl : Color
+kdl =
+    { elmui = Element.rgb255 255 179 179
+    , color = Color.rgb255 255 179 179
+    , hex = "#ffb3b3"
+    , rgb = ( 255, 179, 179 )
     , hasColor = True
     }
 
@@ -10159,6 +10282,17 @@ lilypond =
 {-| Github language color for 'Limbo' -}
 limbo : Color
 limbo =
+    { elmui = Element.rgb255 204 204 204
+    , color = Color.rgb255 204 204 204
+    , hex = "#ccc"
+    , rgb = ( 204, 204, 204 )
+    , hasColor = False
+    }
+
+
+{-| Github language color for 'Linear Programming' -}
+linear_programming : Color
+linear_programming =
     { elmui = Element.rgb255 204 204 204
     , color = Color.rgb255 204 204 204
     , hex = "#ccc"
@@ -10570,6 +10704,17 @@ miniyaml =
     , color = Color.rgb255 255 17 17
     , hex = "#ff1111"
     , rgb = ( 255, 17, 17 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'MiniZinc' -}
+minizinc : Color
+minizinc =
+    { elmui = Element.rgb255 6 169 230
+    , color = Color.rgb255 6 169 230
+    , hex = "#06a9e6"
+    , rgb = ( 6, 169, 230 )
     , hasColor = True
     }
 
@@ -11069,6 +11214,28 @@ ocaml =
     }
 
 
+{-| Github language color for 'OMNeT++ MSG' -}
+omnetpp_msg : Color
+omnetpp_msg =
+    { elmui = Element.rgb255 160 224 160
+    , color = Color.rgb255 160 224 160
+    , hex = "#a0e0a0"
+    , rgb = ( 160, 224, 160 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'OMNeT++ NED' -}
+omnetpp_ned : Color
+omnetpp_ned =
+    { elmui = Element.rgb255 8 96 124
+    , color = Color.rgb255 8 96 124
+    , hex = "#08607c"
+    , rgb = ( 8, 96, 124 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Oberon' -}
 oberon : Color
 oberon =
@@ -11274,6 +11441,17 @@ org =
     , color = Color.rgb255 119 170 153
     , hex = "#77aa99"
     , rgb = ( 119, 170, 153 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'OverpassQL' -}
+overpassql : Color
+overpassql =
+    { elmui = Element.rgb255 204 226 170
+    , color = Color.rgb255 204 226 170
+    , hex = "#cce2aa"
+    , rgb = ( 204, 226, 170 )
     , hasColor = True
     }
 
@@ -12829,6 +13007,17 @@ supercollider =
     }
 
 
+{-| Github language color for 'Survex data' -}
+survex_data : Color
+survex_data =
+    { elmui = Element.rgb255 255 204 153
+    , color = Color.rgb255 255 204 153
+    , hex = "#ffcc99"
+    , rgb = ( 255, 204, 153 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Svelte' -}
 svelte : Color
 svelte =
@@ -13643,6 +13832,17 @@ xslt =
     }
 
 
+{-| Github language color for 'Xmake' -}
+xmake : Color
+xmake =
+    { elmui = Element.rgb255 34 160 121
+    , color = Color.rgb255 34 160 121
+    , hex = "#22a079"
+    , rgb = ( 34, 160, 121 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Xojo' -}
 xojo : Color
 xojo =
@@ -13907,6 +14107,17 @@ mcfunction =
     }
 
 
+{-| Github language color for 'mdsvex' -}
+mdsvex : Color
+mdsvex =
+    { elmui = Element.rgb255 95 158 160
+    , color = Color.rgb255 95 158 160
+    , hex = "#5f9ea0"
+    , rgb = ( 95, 158, 160 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'mupad' -}
 mupad : Color
 mupad =
@@ -13936,28 +14147,6 @@ nesc =
     , color = Color.rgb255 148 176 199
     , hex = "#94B0C7"
     , rgb = ( 148, 176, 199 )
-    , hasColor = True
-    }
-
-
-{-| Github language color for 'omnetpp-msg' -}
-omnetpp_msg : Color
-omnetpp_msg =
-    { elmui = Element.rgb255 160 224 160
-    , color = Color.rgb255 160 224 160
-    , hex = "#a0e0a0"
-    , rgb = ( 160, 224, 160 )
-    , hasColor = True
-    }
-
-
-{-| Github language color for 'omnetpp-ned' -}
-omnetpp_ned : Color
-omnetpp_ned =
-    { elmui = Element.rgb255 8 96 124
-    , color = Color.rgb255 8 96 124
-    , hex = "#08607c"
-    , rgb = ( 8, 96, 124 )
     , hasColor = True
     }
 
