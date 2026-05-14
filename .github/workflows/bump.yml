@@ -28,7 +28,7 @@ jobs:
       - name: Setup pnpm and Install
         uses: pnpm/action-setup@v3
         with:
-          version: 8
+          version: 11
           run_install: true
 
       - name: Get previous version
