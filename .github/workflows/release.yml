@@ -18,12 +18,12 @@ jobs:
       - name: Install Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: 18
+          node-version: 18.20.8
 
       - name: Setup pnpm and Install
-        uses: pnpm/action-setup@v3
+        uses: pnpm/action-setup@v3.0.0
         with:
-          version: 8
+          version: 8.15.9
           run_install: true
 
       - name: Run `elm-review`
