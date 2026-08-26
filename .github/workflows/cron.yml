@@ -35,7 +35,7 @@ jobs:
         run: pnpm review
 
       - name: Commit and push changes
-        uses: actions-js/push@v1.5
+        uses: actions-js/push@v1.6
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           message: "chore: update colors"
