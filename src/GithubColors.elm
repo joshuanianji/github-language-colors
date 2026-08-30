@@ -1,4 +1,4 @@
-module GithubColors exposing (Color, Language(..), abap, abap_cds, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, ags_script, aidl, al, alloy, alpine_abuild, altium_designer, ampl, angelscript, ant_build_system, antlers, antlr, apacheconf, apex, api_blueprint, apl, apollo_guidance_computer, applescript, arc, asciidoc, asl, asp_net, aspectj, assembly, astro, asymptote, ats, augeas, autohotkey, autoit, avro_idl, awk, b4x, ballerina, basic, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, bluespec_bh, boo, boogie, bqn, brainfuck, brighterscript, brightscript, browserslist, c, c2hs_haskell, c_sharp, cabal_config, caddyfile, cadence, cairo, cairo_zero, cameligo, cap_cds, cap_n_proto, carbon, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clips, clojure, closure_templates, cloud_firestore_security_rules, cmake, cobol, codeql, coffeescript, coldfusion, coldfusion_cfc, collada, common_lisp, common_workflow_language, component_pascal, cool, coq, cpp, crontab, crystal, cson, csound, csound_document, csound_score, css, csv, cuda, cue, curry, cweb, cycript, cylc, cypher, cython, d, d2, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, digital_command_language, directx_3d_file, dm, dockerfile, dogescript, dotenv, dtrace, dune, dylan, e, earthly, easybuild, ec, ecere_projects, ecl, eclipse, ecmarkup, edge, edgeql, editorconfig, eiffel, ejs, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, eq, erlang, euphoria, f_sharp, f_star, factor, fancy, fantom, faust, fennel, figlet_font, filebench_wml, filterscript, firrtl, fish, fluent, flux, forth, fortran, fortran_free_form, freebasic, freemarker, frege, fromString, futhark, g_code, game_maker_language, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, gemfile_lock, gemini, genero_4gl, genero_per, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glimmer_js, glimmer_ts, glsl, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, gradle_kotlin_dsl, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, gsc, hack, haml, handlebars, haproxy, harbour, hare, haskell, haxe, hcl, hiveql, hlsl, hocon, holyc, hoon, hosts_file, html, html_plus_ecr, html_plus_eex, html_plus_erb, html_plus_php, html_plus_razor, http, hxml, hy, hyphy, icalendar, idl, idris, ignore_list, igor_pro, imagej_macro, imba, inform_7, ini, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, janet, jar_manifest, jasmin, java, java_properties, java_server_pages, java_template_engine, javascript, javascript_plus_erb, jcl, jest_snapshot, jetbrains_mps, jflex, jinja, jison, jison_lex, jolie, jq, json, json5, json_with_comments, jsoniq, jsonld, jsonnet, julia, julia_repl, jupyter_notebook, just, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, krl, kvlang, labview, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, lark, lasso, latte, lean, lean_4, less, lex, lfe, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livecode_script, livescript, llvm, logos, logtalk, lolcode, lookml, loomscript, lsl, lua, luau, m, m4, m4sugar, macaulay2, makefile, mako, markdown, marko, mask, mathematica, matlab, max, maxscript, mcfunction, mdx, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, mirc_script, mlir, modelica, modula_2, modula_3, module_management_system, mojo, monkey, monkey_c, moocode, moonbit, moonscript, motoko, motorola_68k_assembly, move, mql4, mql5, mtml, muf, mupad, mustache, myghty, nanorc, nasal, nasl, ncl, nearley, nemerle, nesc, netlinx, netlinx_plus_erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, nmodl, noir, npm_config, nsis, nu, numpy, nunjucks, nushell, nwscript, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, oberon, objective_c, objective_cpp, objective_j, objectscript, ocaml, odin, omgrofl, omnetpp_msg, omnetpp_ned, ooc, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pddl, peg_js, pep8, perl, php, picolisp, piglatin, pike, pip_requirements, pkl, plantuml, plpgsql, plsql, pogoscript, polar, pony, portugol, postcss, postscript, pov_ray_sdl, powerbuilder, powershell, praat, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q, q_sharp, qmake, qml, qt_script, quake, quickbasic, r, racket, ragel, raku, raml, rascal, rbs, rdoc, realbasic, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, rescript, restructuredtext, rexx, rez, ring, riot, rmarkdown, robotframework, roc, roff, roff_manpage, ron, rouge, routeros_script, rpc, rpgle, ruby, runoff, rust, sage, saltstack, sas, sass, scala, scaml, scenic, scheme, scilab, scss, sed, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, slint, smali, smalltalk, smarty, smithy, smpl, smt, snakemake, solidity, sourcepawn, sparql, sqf, sql, sqlpl, squirrel, srecode_template, stan, standard_ml, starlark, stata, stl, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, svg, sway, sweave, swift, swig, systemverilog, tact, talon, tcl, tcsh, templ, terra, terraform_template, tex, textgrid, textile, textmate_properties, thrift, ti_program, tl_verilog, tla, toColor, toString, toit, toml, tsql, tsv, tsx, turing, twig, txl, typescript, typespec, typst, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vala, valve_data_format, vba, vbscript, vcard, vcl, velocity_template_language, verilog, vhdl, vim_help_file, vim_script, vim_snippet, visual_basic_6_0, visual_basic__net, volt, vue, vyper, wdl, web_ontology_language, webassembly, webassembly_interface_type, webidl, wgsl, whiley, wikitext, windows_registry_entries, wisp, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xbase, xc, xml, xml_property_list, xojo, xonsh, xproc, xquery, xs, xslt, xtend, yacc, yaml, yara, yasnippet, yul, zap, zeek, zenscript, zephir, zig, zil, zimpl)
+module GithubColors exposing (Color, Language(..), abap, abap_cds, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, ags_script, aidl, aiken, al, aleo, algol, alloy, alpine_abuild, altium_designer, ampl, angelscript, answer_set_programming, ant_build_system, antlers, antlr, apacheconf, apex, api_blueprint, apl, apollo_guidance_computer, applescript, arc, asciidoc, asl, asp_net, aspectj, assembly, astro, asymptote, ats, augeas, autohotkey, autoit, avro_idl, awk, b, b4x, b__formal_method_, ballerina, baml, basic, batchfile, bbcode, beef, befunge, berry, bibtex, bibtex_style, bicep, bikeshed, bird2, bison, bitbake, blade, blitzbasic, blitzmax, blueprint, bluespec, bluespec_bh, boo, boogie, bqn, brainfuck, brighterscript, brightscript, browserslist, bru, buildstream, c, c2hs_haskell, c3, c_sharp, cabal_config, caddyfile, cadence, cairo, cairo_zero, cameligo, cangjie, cap_cds, cap_n_proto, carbon, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clips, clojure, closure_templates, cloud_firestore_security_rules, clue, cmake, cobol, codeql, coffeescript, coldfusion, coldfusion_cfc, collada, common_lisp, common_workflow_language, component_pascal, cooklang, cool, cpp, cql, crontab, crystal, cson, csound, csound_document, csound_score, css, csv, cuda, cue, curry, cweb, cycript, cylc, cypher, cython, d, d2, dafny, darcs_patch, dart, daslang, dataweave, debian_package_control_file, denizenscript, dhall, digital_command_language, directx_3d_file, dm, dockerfile, dogescript, dotenv, dtrace, dune, dylan, e, earthly, easybuild, ec, ecere_projects, ecl, eclipse, ecmarkup, edge, edgeql, editorconfig, eiffel, ejs, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, eq, erlang, euphoria, f_sharp, f_star, factor, fancy, fantom, faust, fennel, figlet_font, filebench_wml, filterscript, firrtl, fish, flatbuffers, flix, fluent, flux, forth, fortran, fortran_free_form, fpp, freebasic, freemarker, frege, fromString, futhark, g_code, game_maker_language, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gdshader, gedcom, gemfile_lock, gemini, genero_4gl, genero_per, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_commit, git_config, git_revision_list, gleam, glimmer_js, glimmer_ts, glsl, glyph, gno, gnuplot, go, go_checksums, go_module, go_template, go_workspace, godot_resource, golo, gosu, grace, gradle, gradle_kotlin_dsl, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, gsc, gtkrc, hack, haml, handlebars, haproxy, harbour, hare, haskell, haxe, hcl, hip, hiveql, hlsl, hocon, holyc, hoon, hosts_file, html, html_plus_ecr, html_plus_eex, html_plus_erb, html_plus_php, html_plus_razor, http, hurl, hxml, hy, hyphy, icalendar, idl, idris, ignore_list, igor_pro, il_assembly, imagej_macro, imba, imhex_pattern_language, inform_7, ini, ink, inno_setup, io, ioke, isabelle, isabelle_root, ispc, j, jac, jai, janet, jar_manifest, jasmin, jass, java, java_properties, java_server_pages, java_template_engine, javascript, javascript_plus_erb, jcl, jest_snapshot, jetbrains_mps, jflex, jinja, jison, jison_lex, jolie, jq, json, json5, json_with_comments, jsoniq, jsonld, jsonnet, julia, julia_repl, jupyter_notebook, just, kaitai_struct, kakounescript, kcl, kdl, kerboscript, kframework, kicad_layout, kicad_legacy_layout, kicad_schematic, koka, kolmafia_ash, kotlin, krl, kvlang, labview, lambdapi, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, langium, lark, lasso, latte, lean, lean_4, leo, less, lex, lfe, ligolang, lilypond, limbo, linear_programming, linker_script, liquid, liquidsoap, literate_agda, literate_coffeescript, literate_haskell, livecode_script, livescript, llvm, lobster, logos, logtalk, lolcode, lookml, loomscript, lsl, lua, luau, m, m3u, m4, m4sugar, macaulay2, makefile, mako, markdown, marko, mask, mathematical_programming_system, matlab, max, maxscript, mcfunction, mdsvex, mdx, mercury, mermaid, meson, metal, metta, minid, miniscript, miniyaml, minizinc, mint, mirah, mirc_script, mlir, modelica, modula_2, modula_3, module_management_system, mojo, monkey, monkey_c, moocode, moonbit, moonscript, motoko, motorola_68k_assembly, move, mql4, mql5, mtml, muf, mupad, mustache, myghty, nanorc, nasal, nasl, ncl, nearley, nemerle, nesc, netlinx, netlinx_plus_erb, netlogo, newlisp, nextflow, nginx, nickel, nim, nit, nix, nmodl, noir, npm_config, nsis, nu, numpy, nunjucks, nushell, nwscript, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, oberon, objective_c, objective_cpp, objective_j, objectscript, ocaml, odin, omgrofl, omnetpp_msg, omnetpp_ned, ooc, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, overpassql, overpy, ox, oxygene, oz, p4, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pddl, peg_js, pep8, perl, php, picolisp, piglatin, pike, pip_requirements, pkg_config, pkl, plantuml, plpgsql, plsql, pogoscript, polar, pony, portugol, postcss, postscript, pov_ray_sdl, power_query, powerbuilder, powershell, praat, prisma, pro_starc, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q, q_sharp, qmake, qml, qt_script, quake, quakec, quickbasic, quint, r, racket, ragel, raku, raml, rascal, rascript, rbs, rdoc, realbasic, reason, reasonligo, rebol, record_jar, red, redcode, redscript, regular_expression, ren_py, renderscript, rescript, restructuredtext, rexx, rez, ring, riot, rmarkdown, robotframework, roc, rocq_prover, roff, roff_manpage, ron, ros_interface, rouge, routeros_script, rpc, rpgle, ruby, runoff, rust, sage, sail, salt, sas, sass, scala, scaml, scenic, scheme, scilab, scss, sed, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slang, slash, slice, slim, slint, smali, smalltalk, smarty, smithy, smpl, smt, snakemake, solidity, sourcepawn, sparql, spicedb_schema, sqf, sql, sqlpl, squirrel, srecode_template, stan, standard_ml, starlark, stata, stl, stringtemplate, stylus, subrip_text, sugarss, supercollider, surrealql, survex_data, svelte, svg, sway, sweave, swift, swig, systemverilog, tact, talon, tape, tcl, tcsh, teal, templ, terra, terraform_template, tex, textgrid, textile, textmate_properties, thrift, ti_program, tl_verilog, tla, tmdl, toColor, toString, toit, tolk, toml, tor_config, tree_sitter_query, tsql, tsv, tsx, turing, twig, txl, typescript, typespec, typst, ucode, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, untyped_plutus_core, urweb, v, vala, valve_data_format, vba, vbscript, vcard, vcl, velocity_template_language, vento, verilog, verse, vespa_schema_definition, vhdl, vim_help_file, vim_script, vim_snippet, visual_basic_6_0, visual_basic__net, volt, vue, vyper, wdl, web_ontology_language, webassembly, webassembly_interface_type, webidl, wgsl, whiley, wikitext, windows_registry_entries, wisp, witcher_script, wolfram_language, wollok, world_of_warcraft_addon_data, wren, x10, xbase, xc, xmake, xml, xml_property_list, xojo, xonsh, xproc, xquery, xs, xslt, xtend, yacc, yaml, yara, yasnippet, yul, zap, zeek, zenscript, zephir, zig, zil, zimpl, zmodel)
 
 {-| 
 This module exposes the color values for all supported languages on Github. Color data is taken from [ozh/github-colors](https://github.com/ozh/github-colors).
@@ -16,7 +16,7 @@ This module exposes the color values for all supported languages on Github. Colo
 
 ## Language Colors
 
-@docs fromString, toString, toColor, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, abap, abap_cds, ags_script, aidl, al, ampl, antlr, api_blueprint, apl, asl, asp_net, ats, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, alloy, alpine_abuild, altium_designer, angelscript, ant_build_system, antlers, apacheconf, apex, apollo_guidance_computer, applescript, arc, asciidoc, aspectj, assembly, astro, asymptote, augeas, autohotkey, autoit, avro_idl, awk, b4x, basic, bqn, ballerina, batchfile, beef, befunge, berry, bibtex, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, bluespec, bluespec_bh, boo, boogie, brainfuck, brighterscript, brightscript, browserslist, c, c_sharp, cpp, c2hs_haskell, cap_cds, clips, cmake, cobol, collada, cson, css, csv, cue, cweb, cabal_config, caddyfile, cadence, cairo, cairo_zero, cameligo, cap_n_proto, carbon, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clojure, closure_templates, cloud_firestore_security_rules, codeql, coffeescript, coldfusion, coldfusion_cfc, common_lisp, common_workflow_language, component_pascal, cool, coq, crystal, csound, csound_document, csound_score, cuda, curry, cycript, cylc, cypher, cython, d, d2, digital_command_language, dm, dtrace, dafny, darcs_patch, dart, dataweave, debian_package_control_file, denizenscript, dhall, directx_3d_file, dockerfile, dogescript, dotenv, dune, dylan, e, ecl, eclipse, ejs, eq, earthly, easybuild, ecere_projects, ecmarkup, edge, edgeql, editorconfig, eiffel, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, erlang, euphoria, f_sharp, f_star, figlet_font, firrtl, flux, factor, fancy, fantom, faust, fennel, filebench_wml, filterscript, fluent, forth, fortran, fortran_free_form, freebasic, freemarker, frege, futhark, g_code, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gedcom, glsl, gsc, game_maker_language, gemfile_lock, gemini, genero_4gl, genero_per, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_config, git_revision_list, gleam, glimmer_js, glimmer_ts, glyph, gnuplot, go, go_checksums, go_module, go_workspace, godot_resource, golo, gosu, grace, gradle, gradle_kotlin_dsl, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, haproxy, hcl, hlsl, hocon, html, html_plus_ecr, html_plus_eex, html_plus_erb, html_plus_php, html_plus_razor, http, hxml, hack, haml, handlebars, harbour, hare, haskell, haxe, hiveql, holyc, hosts_file, hy, hyphy, idl, igor_pro, ini, idris, ignore_list, imagej_macro, imba, inform_7, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, jar_manifest, jcl, jflex, json, json_with_comments, json5, jsonld, jsoniq, janet, jasmin, java, java_properties, java_server_pages, java_template_engine, javascript, javascript_plus_erb, jest_snapshot, jetbrains_mps, jinja, jison, jison_lex, jolie, jsonnet, julia, julia_repl, jupyter_notebook, just, krl, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kotlin, lfe, llvm, lolcode, lsl, labview, lark, lasso, latte, lean, lean_4, less, lex, ligolang, lilypond, limbo, liquid, literate_agda, literate_coffeescript, literate_haskell, livecode_script, livescript, logos, logtalk, lookml, loomscript, lua, luau, m, m4, m4sugar, matlab, maxscript, mdx, mlir, mql4, mql5, mtml, muf, macaulay2, makefile, mako, markdown, marko, mask, mathematica, max, mercury, mermaid, meson, metal, minid, miniyaml, mint, mirah, modelica, modula_2, modula_3, module_management_system, mojo, monkey, monkey_c, moocode, moonbit, moonscript, motoko, motorola_68k_assembly, move, mustache, myghty, nasl, ncl, nmodl, npm_config, nsis, nwscript, nasal, nearley, nemerle, netlinx, netlinx_plus_erb, netlogo, newlisp, nextflow, nginx, nim, nit, nix, noir, nu, numpy, nunjucks, nushell, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, ocaml, oberon, objectscript, objective_c, objective_cpp, objective_j, odin, omgrofl, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, ox, oxygene, oz, p4, pddl, peg_js, php, plsql, plpgsql, pov_ray_sdl, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pep8, perl, picolisp, piglatin, pike, pip_requirements, pkl, plantuml, pogoscript, polar, pony, portugol, postcss, postscript, powerbuilder, powershell, praat, prisma, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q_sharp, qml, qmake, qt_script, quake, quickbasic, r, raml, rbs, rdoc, realbasic, rexx, rmarkdown, ron, rpc, rpgle, runoff, racket, ragel, raku, rascal, rescript, reason, reasonligo, rebol, record_jar, red, redcode, regular_expression, ren_py, renderscript, rez, ring, riot, robotframework, roc, roff, roff_manpage, rouge, routeros_script, ruby, rust, sas, scss, smt, sparql, sqf, sql, sqlpl, srecode_template, stl, svg, swig, sage, saltstack, sass, scala, scaml, scenic, scheme, scilab, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slash, slice, slim, slint, smpl, smali, smalltalk, smarty, smithy, snakemake, solidity, sourcepawn, squirrel, stan, standard_ml, starlark, stata, stringtemplate, stylus, subrip_text, sugarss, supercollider, svelte, sway, sweave, swift, systemverilog, ti_program, tl_verilog, tla, toml, tsql, tsv, tsx, txl, tact, talon, tcl, tcsh, tex, terra, terraform_template, textgrid, textmate_properties, textile, thrift, toit, turing, twig, typescript, typespec, typst, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, urweb, v, vba, vbscript, vcl, vhdl, vala, valve_data_format, velocity_template_language, verilog, vim_help_file, vim_script, vim_snippet, visual_basic__net, visual_basic_6_0, volt, vue, vyper, wdl, wgsl, web_ontology_language, webassembly, webassembly_interface_type, webidl, whiley, wikitext, windows_registry_entries, witcher_script, wollok, world_of_warcraft_addon_data, wren, x10, xc, xml, xml_property_list, xproc, xquery, xs, xslt, xojo, xonsh, xtend, yaml, yara, yasnippet, yacc, yul, zap, zil, zeek, zenscript, zephir, zig, zimpl, crontab, ec, fish, hoon, icalendar, jq, kvlang, mirc_script, mcfunction, mupad, nanorc, nesc, omnetpp_msg, omnetpp_ned, ooc, q, restructuredtext, sed, templ, vcard, wisp, xbase
+@docs fromString, toString, toColor, lang_1c_enterprise, lang_2_dimensional_array, lang_4d, abap, abap_cds, ags_script, aidl, al, algol, ampl, antlr, api_blueprint, apl, asl, asp_net, ats, actionscript, ada, adblock_filter_list, adobe_font_metrics, agda, aiken, aleo, alloy, alpine_abuild, altium_designer, angelscript, answer_set_programming, ant_build_system, antlers, apacheconf, apex, apollo_guidance_computer, applescript, arc, asciidoc, aspectj, assembly, astro, asymptote, augeas, autohotkey, autoit, avro_idl, awk, b, b__formal_method_, b4x, baml, basic, bbcode, bird2, bqn, ballerina, batchfile, beef, befunge, berry, bibtex, bibtex_style, bicep, bikeshed, bison, bitbake, blade, blitzbasic, blitzmax, blueprint, bluespec, bluespec_bh, boo, boogie, brainfuck, brighterscript, brightscript, browserslist, bru, buildstream, c, c_sharp, cpp, c2hs_haskell, c3, cap_cds, clips, cmake, cobol, collada, cql, cson, css, csv, cue, cweb, cabal_config, caddyfile, cadence, cairo, cairo_zero, cameligo, cangjie, cap_n_proto, carbon, cartocss, ceylon, chapel, charity, chuck, circom, cirru, clarion, clarity, classic_asp, clean, click, clojure, closure_templates, cloud_firestore_security_rules, clue, codeql, coffeescript, coldfusion, coldfusion_cfc, common_lisp, common_workflow_language, component_pascal, cooklang, cool, crystal, csound, csound_document, csound_score, cuda, curry, cycript, cylc, cypher, cython, d, d2, digital_command_language, dm, dtrace, dafny, darcs_patch, dart, daslang, dataweave, debian_package_control_file, denizenscript, dhall, directx_3d_file, dockerfile, dogescript, dotenv, dune, dylan, e, ecl, eclipse, ejs, eq, earthly, easybuild, ecere_projects, ecmarkup, edge, edgeql, editorconfig, eiffel, elixir, elm, elvish, elvish_transcript, emacs_lisp, emberscript, erlang, euphoria, f_sharp, f_star, figlet_font, firrtl, flux, fpp, factor, fancy, fantom, faust, fennel, filebench_wml, filterscript, flatbuffers, flix, fluent, forth, fortran, fortran_free_form, freebasic, freemarker, frege, futhark, g_code, gaml, gams, gap, gcc_machine_description, gdb, gdscript, gdshader, gedcom, glsl, gsc, game_maker_language, gemfile_lock, gemini, genero_4gl, genero_per, genie, genshi, gentoo_ebuild, gentoo_eclass, gerber_image, gherkin, git_attributes, git_commit, git_config, git_revision_list, gleam, glimmer_js, glimmer_ts, glyph, gno, gnuplot, go, go_checksums, go_module, go_template, go_workspace, godot_resource, golo, gosu, grace, gradle, gradle_kotlin_dsl, grammatical_framework, graphql, graphviz__dot_, groovy, groovy_server_pages, gtkrc, haproxy, hcl, hip, hlsl, hocon, html, html_plus_ecr, html_plus_eex, html_plus_erb, html_plus_php, html_plus_razor, http, hxml, hack, haml, handlebars, harbour, hare, haskell, haxe, hiveql, holyc, hosts_file, hurl, hy, hyphy, idl, igor_pro, il_assembly, ini, ispc, idris, ignore_list, imhex_pattern_language, imagej_macro, imba, inform_7, ink, inno_setup, io, ioke, isabelle, isabelle_root, j, jar_manifest, jass, jcl, jflex, json, json_with_comments, json5, jsonld, jsoniq, jac, jai, janet, jasmin, java, java_properties, java_server_pages, java_template_engine, javascript, javascript_plus_erb, jest_snapshot, jetbrains_mps, jinja, jison, jison_lex, jolie, jsonnet, julia, julia_repl, jupyter_notebook, just, kcl, kdl, kframework, krl, kaitai_struct, kakounescript, kerboscript, kicad_layout, kicad_legacy_layout, kicad_schematic, kolmafia_ash, koka, kotlin, lfe, llvm, lolcode, lsl, labview, lambdapi, langium, lark, lasso, latte, lean, lean_4, leo, less, lex, ligolang, lilypond, limbo, linear_programming, linker_script, liquid, liquidsoap, literate_agda, literate_coffeescript, literate_haskell, livecode_script, livescript, lobster, logos, logtalk, lookml, loomscript, lua, luau, m, m3u, m4, m4sugar, matlab, maxscript, mdx, mlir, mql4, mql5, mtml, muf, macaulay2, makefile, mako, markdown, marko, mask, mathematical_programming_system, max, metta, mercury, mermaid, meson, metal, minid, miniscript, miniyaml, minizinc, mint, mirah, modelica, modula_2, modula_3, module_management_system, mojo, monkey, monkey_c, moocode, moonbit, moonscript, motoko, motorola_68k_assembly, move, mustache, myghty, nasl, ncl, nmodl, npm_config, nsis, nwscript, nasal, nearley, nemerle, netlinx, netlinx_plus_erb, netlogo, newlisp, nextflow, nginx, nickel, nim, nit, nix, noir, nu, numpy, nunjucks, nushell, oasv2_json, oasv2_yaml, oasv3_json, oasv3_yaml, ocaml, omnetpp_msg, omnetpp_ned, oberon, objectscript, objective_c, objective_cpp, objective_j, odin, omgrofl, opa, opal, open_policy_agent, openapi_specification_v2, openapi_specification_v3, opencl, openedge_abl, openqasm, openrc_runscript, openscad, option_list, org, overpy, overpassql, ox, oxygene, oz, p4, pddl, peg_js, php, plsql, plpgsql, pov_ray_sdl, pact, pan, papyrus, parrot, parrot_assembly, parrot_internal_representation, pascal, pawn, pep8, perl, picolisp, piglatin, pike, pip_requirements, pkl, plantuml, pogoscript, polar, pony, portugol, postcss, postscript, power_query, powerbuilder, powershell, praat, prisma, pro_starc, processing, procfile, prolog, promela, propeller_spin, pug, puppet, purebasic, purescript, pyret, python, python_console, python_traceback, q_sharp, qml, qmake, qt_script, quake, quakec, quickbasic, quint, r, raml, rascript, rbs, rdoc, realbasic, rexx, rmarkdown, ron, ros_interface, rpc, rpgle, runoff, racket, ragel, raku, rascal, rescript, reason, reasonligo, rebol, record_jar, red, redcode, redscript, regular_expression, ren_py, renderscript, rez, ring, riot, robotframework, roc, rocq_prover, roff, roff_manpage, rouge, routeros_script, ruby, rust, sas, scss, smt, sparql, sqf, sql, sqlpl, srecode_template, stl, svg, swig, sage, sail, salt, sass, scala, scaml, scenic, scheme, scilab, self, shaderlab, shell, shellcheck_config, shellsession, shen, sieve, simple_file_verification, singularity, slang, slash, slice, slim, slint, smpl, smali, smalltalk, smarty, smithy, snakemake, solidity, sourcepawn, spicedb_schema, squirrel, stan, standard_ml, starlark, stata, stringtemplate, stylus, subrip_text, sugarss, supercollider, surrealql, survex_data, svelte, sway, sweave, swift, systemverilog, ti_program, tl_verilog, tla, tmdl, toml, tsql, tsv, tsx, txl, tact, talon, tape, tcl, tcsh, tex, teal, terra, terraform_template, textgrid, textmate_properties, textile, thrift, toit, tolk, tor_config, tree_sitter_query, turing, twig, typescript, typespec, typst, unified_parallel_c, unity3d_asset, unix_assembly, uno, unrealscript, untyped_plutus_core, urweb, v, vba, vbscript, vcl, vhdl, vala, valve_data_format, velocity_template_language, vento, verilog, verse, vespa_schema_definition, vim_help_file, vim_snippet, vim_script, visual_basic__net, visual_basic_6_0, volt, vue, vyper, wdl, wgsl, web_ontology_language, webassembly, webassembly_interface_type, webidl, whiley, wikitext, windows_registry_entries, witcher_script, wolfram_language, wollok, world_of_warcraft_addon_data, wren, x10, xc, xml, xml_property_list, xproc, xquery, xs, xslt, xmake, xojo, xonsh, xtend, yaml, yara, yasnippet, yacc, yul, zap, zil, zeek, zenscript, zephir, zig, zimpl, zmodel, crontab, ec, fish, hoon, icalendar, jq, kvlang, mirc_script, mcfunction, mdsvex, mupad, nanorc, nesc, ooc, pkg_config, q, restructuredtext, sed, templ, ucode, vcard, wisp, xbase
 -}
 
 
@@ -52,6 +52,7 @@ type Language
     | Lang_ags_script
     | Lang_aidl
     | Lang_al
+    | Lang_algol
     | Lang_ampl
     | Lang_antlr
     | Lang_api_blueprint
@@ -64,10 +65,13 @@ type Language
     | Lang_adblock_filter_list
     | Lang_adobe_font_metrics
     | Lang_agda
+    | Lang_aiken
+    | Lang_aleo
     | Lang_alloy
     | Lang_alpine_abuild
     | Lang_altium_designer
     | Lang_angelscript
+    | Lang_answer_set_programming
     | Lang_ant_build_system
     | Lang_antlers
     | Lang_apacheconf
@@ -85,8 +89,13 @@ type Language
     | Lang_autoit
     | Lang_avro_idl
     | Lang_awk
+    | Lang_b
+    | Lang_b__formal_method_
     | Lang_b4x
+    | Lang_baml
     | Lang_basic
+    | Lang_bbcode
+    | Lang_bird2
     | Lang_bqn
     | Lang_ballerina
     | Lang_batchfile
@@ -94,6 +103,7 @@ type Language
     | Lang_befunge
     | Lang_berry
     | Lang_bibtex
+    | Lang_bibtex_style
     | Lang_bicep
     | Lang_bikeshed
     | Lang_bison
@@ -101,6 +111,7 @@ type Language
     | Lang_blade
     | Lang_blitzbasic
     | Lang_blitzmax
+    | Lang_blueprint
     | Lang_bluespec
     | Lang_bluespec_bh
     | Lang_boo
@@ -109,15 +120,19 @@ type Language
     | Lang_brighterscript
     | Lang_brightscript
     | Lang_browserslist
+    | Lang_bru
+    | Lang_buildstream
     | Lang_c
     | Lang_c_sharp
     | Lang_cpp
     | Lang_c2hs_haskell
+    | Lang_c3
     | Lang_cap_cds
     | Lang_clips
     | Lang_cmake
     | Lang_cobol
     | Lang_collada
+    | Lang_cql
     | Lang_cson
     | Lang_css
     | Lang_csv
@@ -129,6 +144,7 @@ type Language
     | Lang_cairo
     | Lang_cairo_zero
     | Lang_cameligo
+    | Lang_cangjie
     | Lang_cap_n_proto
     | Lang_carbon
     | Lang_cartocss
@@ -146,6 +162,7 @@ type Language
     | Lang_clojure
     | Lang_closure_templates
     | Lang_cloud_firestore_security_rules
+    | Lang_clue
     | Lang_codeql
     | Lang_coffeescript
     | Lang_coldfusion
@@ -153,8 +170,8 @@ type Language
     | Lang_common_lisp
     | Lang_common_workflow_language
     | Lang_component_pascal
+    | Lang_cooklang
     | Lang_cool
-    | Lang_coq
     | Lang_crystal
     | Lang_csound
     | Lang_csound_document
@@ -173,6 +190,7 @@ type Language
     | Lang_dafny
     | Lang_darcs_patch
     | Lang_dart
+    | Lang_daslang
     | Lang_dataweave
     | Lang_debian_package_control_file
     | Lang_denizenscript
@@ -209,6 +227,7 @@ type Language
     | Lang_figlet_font
     | Lang_firrtl
     | Lang_flux
+    | Lang_fpp
     | Lang_factor
     | Lang_fancy
     | Lang_fantom
@@ -216,6 +235,8 @@ type Language
     | Lang_fennel
     | Lang_filebench_wml
     | Lang_filterscript
+    | Lang_flatbuffers
+    | Lang_flix
     | Lang_fluent
     | Lang_forth
     | Lang_fortran
@@ -231,6 +252,7 @@ type Language
     | Lang_gcc_machine_description
     | Lang_gdb
     | Lang_gdscript
+    | Lang_gdshader
     | Lang_gedcom
     | Lang_glsl
     | Lang_gsc
@@ -246,16 +268,19 @@ type Language
     | Lang_gerber_image
     | Lang_gherkin
     | Lang_git_attributes
+    | Lang_git_commit
     | Lang_git_config
     | Lang_git_revision_list
     | Lang_gleam
     | Lang_glimmer_js
     | Lang_glimmer_ts
     | Lang_glyph
+    | Lang_gno
     | Lang_gnuplot
     | Lang_go
     | Lang_go_checksums
     | Lang_go_module
+    | Lang_go_template
     | Lang_go_workspace
     | Lang_godot_resource
     | Lang_golo
@@ -268,8 +293,10 @@ type Language
     | Lang_graphviz__dot_
     | Lang_groovy
     | Lang_groovy_server_pages
+    | Lang_gtkrc
     | Lang_haproxy
     | Lang_hcl
+    | Lang_hip
     | Lang_hlsl
     | Lang_hocon
     | Lang_html
@@ -290,13 +317,17 @@ type Language
     | Lang_hiveql
     | Lang_holyc
     | Lang_hosts_file
+    | Lang_hurl
     | Lang_hy
     | Lang_hyphy
     | Lang_idl
     | Lang_igor_pro
+    | Lang_il_assembly
     | Lang_ini
+    | Lang_ispc
     | Lang_idris
     | Lang_ignore_list
+    | Lang_imhex_pattern_language
     | Lang_imagej_macro
     | Lang_imba
     | Lang_inform_7
@@ -308,6 +339,7 @@ type Language
     | Lang_isabelle_root
     | Lang_j
     | Lang_jar_manifest
+    | Lang_jass
     | Lang_jcl
     | Lang_jflex
     | Lang_json
@@ -315,6 +347,8 @@ type Language
     | Lang_json5
     | Lang_jsonld
     | Lang_jsoniq
+    | Lang_jac
+    | Lang_jai
     | Lang_janet
     | Lang_jasmin
     | Lang_java
@@ -334,6 +368,9 @@ type Language
     | Lang_julia_repl
     | Lang_jupyter_notebook
     | Lang_just
+    | Lang_kcl
+    | Lang_kdl
+    | Lang_kframework
     | Lang_krl
     | Lang_kaitai_struct
     | Lang_kakounescript
@@ -341,28 +378,37 @@ type Language
     | Lang_kicad_layout
     | Lang_kicad_legacy_layout
     | Lang_kicad_schematic
+    | Lang_kolmafia_ash
+    | Lang_koka
     | Lang_kotlin
     | Lang_lfe
     | Lang_llvm
     | Lang_lolcode
     | Lang_lsl
     | Lang_labview
+    | Lang_lambdapi
+    | Lang_langium
     | Lang_lark
     | Lang_lasso
     | Lang_latte
     | Lang_lean
     | Lang_lean_4
+    | Lang_leo
     | Lang_less
     | Lang_lex
     | Lang_ligolang
     | Lang_lilypond
     | Lang_limbo
+    | Lang_linear_programming
+    | Lang_linker_script
     | Lang_liquid
+    | Lang_liquidsoap
     | Lang_literate_agda
     | Lang_literate_coffeescript
     | Lang_literate_haskell
     | Lang_livecode_script
     | Lang_livescript
+    | Lang_lobster
     | Lang_logos
     | Lang_logtalk
     | Lang_lookml
@@ -370,6 +416,7 @@ type Language
     | Lang_lua
     | Lang_luau
     | Lang_m
+    | Lang_m3u
     | Lang_m4
     | Lang_m4sugar
     | Lang_matlab
@@ -386,14 +433,17 @@ type Language
     | Lang_markdown
     | Lang_marko
     | Lang_mask
-    | Lang_mathematica
+    | Lang_mathematical_programming_system
     | Lang_max
+    | Lang_metta
     | Lang_mercury
     | Lang_mermaid
     | Lang_meson
     | Lang_metal
     | Lang_minid
+    | Lang_miniscript
     | Lang_miniyaml
+    | Lang_minizinc
     | Lang_mint
     | Lang_mirah
     | Lang_modelica
@@ -426,6 +476,7 @@ type Language
     | Lang_newlisp
     | Lang_nextflow
     | Lang_nginx
+    | Lang_nickel
     | Lang_nim
     | Lang_nit
     | Lang_nix
@@ -439,6 +490,8 @@ type Language
     | Lang_oasv3_json
     | Lang_oasv3_yaml
     | Lang_ocaml
+    | Lang_omnetpp_msg
+    | Lang_omnetpp_ned
     | Lang_oberon
     | Lang_objectscript
     | Lang_objective_c
@@ -458,6 +511,8 @@ type Language
     | Lang_openscad
     | Lang_option_list
     | Lang_org
+    | Lang_overpy
+    | Lang_overpassql
     | Lang_ox
     | Lang_oxygene
     | Lang_oz
@@ -490,10 +545,12 @@ type Language
     | Lang_portugol
     | Lang_postcss
     | Lang_postscript
+    | Lang_power_query
     | Lang_powerbuilder
     | Lang_powershell
     | Lang_praat
     | Lang_prisma
+    | Lang_pro_starc
     | Lang_processing
     | Lang_procfile
     | Lang_prolog
@@ -512,15 +569,19 @@ type Language
     | Lang_qmake
     | Lang_qt_script
     | Lang_quake
+    | Lang_quakec
     | Lang_quickbasic
+    | Lang_quint
     | Lang_r
     | Lang_raml
+    | Lang_rascript
     | Lang_rbs
     | Lang_rdoc
     | Lang_realbasic
     | Lang_rexx
     | Lang_rmarkdown
     | Lang_ron
+    | Lang_ros_interface
     | Lang_rpc
     | Lang_rpgle
     | Lang_runoff
@@ -535,6 +596,7 @@ type Language
     | Lang_record_jar
     | Lang_red
     | Lang_redcode
+    | Lang_redscript
     | Lang_regular_expression
     | Lang_ren_py
     | Lang_renderscript
@@ -543,6 +605,7 @@ type Language
     | Lang_riot
     | Lang_robotframework
     | Lang_roc
+    | Lang_rocq_prover
     | Lang_roff
     | Lang_roff_manpage
     | Lang_rouge
@@ -561,7 +624,8 @@ type Language
     | Lang_svg
     | Lang_swig
     | Lang_sage
-    | Lang_saltstack
+    | Lang_sail
+    | Lang_salt
     | Lang_sass
     | Lang_scala
     | Lang_scaml
@@ -577,6 +641,7 @@ type Language
     | Lang_sieve
     | Lang_simple_file_verification
     | Lang_singularity
+    | Lang_slang
     | Lang_slash
     | Lang_slice
     | Lang_slim
@@ -589,6 +654,7 @@ type Language
     | Lang_snakemake
     | Lang_solidity
     | Lang_sourcepawn
+    | Lang_spicedb_schema
     | Lang_squirrel
     | Lang_stan
     | Lang_standard_ml
@@ -599,6 +665,8 @@ type Language
     | Lang_subrip_text
     | Lang_sugarss
     | Lang_supercollider
+    | Lang_surrealql
+    | Lang_survex_data
     | Lang_svelte
     | Lang_sway
     | Lang_sweave
@@ -607,6 +675,7 @@ type Language
     | Lang_ti_program
     | Lang_tl_verilog
     | Lang_tla
+    | Lang_tmdl
     | Lang_toml
     | Lang_tsql
     | Lang_tsv
@@ -614,9 +683,11 @@ type Language
     | Lang_txl
     | Lang_tact
     | Lang_talon
+    | Lang_tape
     | Lang_tcl
     | Lang_tcsh
     | Lang_tex
+    | Lang_teal
     | Lang_terra
     | Lang_terraform_template
     | Lang_textgrid
@@ -624,6 +695,9 @@ type Language
     | Lang_textile
     | Lang_thrift
     | Lang_toit
+    | Lang_tolk
+    | Lang_tor_config
+    | Lang_tree_sitter_query
     | Lang_turing
     | Lang_twig
     | Lang_typescript
@@ -634,6 +708,7 @@ type Language
     | Lang_unix_assembly
     | Lang_uno
     | Lang_unrealscript
+    | Lang_untyped_plutus_core
     | Lang_urweb
     | Lang_v
     | Lang_vba
@@ -643,10 +718,13 @@ type Language
     | Lang_vala
     | Lang_valve_data_format
     | Lang_velocity_template_language
+    | Lang_vento
     | Lang_verilog
+    | Lang_verse
+    | Lang_vespa_schema_definition
     | Lang_vim_help_file
-    | Lang_vim_script
     | Lang_vim_snippet
+    | Lang_vim_script
     | Lang_visual_basic__net
     | Lang_visual_basic_6_0
     | Lang_volt
@@ -662,6 +740,7 @@ type Language
     | Lang_wikitext
     | Lang_windows_registry_entries
     | Lang_witcher_script
+    | Lang_wolfram_language
     | Lang_wollok
     | Lang_world_of_warcraft_addon_data
     | Lang_wren
@@ -673,6 +752,7 @@ type Language
     | Lang_xquery
     | Lang_xs
     | Lang_xslt
+    | Lang_xmake
     | Lang_xojo
     | Lang_xonsh
     | Lang_xtend
@@ -688,6 +768,7 @@ type Language
     | Lang_zephir
     | Lang_zig
     | Lang_zimpl
+    | Lang_zmodel
     | Lang_crontab
     | Lang_ec
     | Lang_fish
@@ -697,16 +778,17 @@ type Language
     | Lang_kvlang
     | Lang_mirc_script
     | Lang_mcfunction
+    | Lang_mdsvex
     | Lang_mupad
     | Lang_nanorc
     | Lang_nesc
-    | Lang_omnetpp_msg
-    | Lang_omnetpp_ned
     | Lang_ooc
+    | Lang_pkg_config
     | Lang_q
     | Lang_restructuredtext
     | Lang_sed
     | Lang_templ
+    | Lang_ucode
     | Lang_vcard
     | Lang_wisp
     | Lang_xbase
@@ -739,6 +821,9 @@ fromString string =
 
         "AL" ->
             Just Lang_al
+
+        "ALGOL" ->
+            Just Lang_algol
 
         "AMPL" ->
             Just Lang_ampl
@@ -776,6 +861,12 @@ fromString string =
         "Agda" ->
             Just Lang_agda
 
+        "Aiken" ->
+            Just Lang_aiken
+
+        "Aleo" ->
+            Just Lang_aleo
+
         "Alloy" ->
             Just Lang_alloy
 
@@ -787,6 +878,9 @@ fromString string =
 
         "AngelScript" ->
             Just Lang_angelscript
+
+        "Answer Set Programming" ->
+            Just Lang_answer_set_programming
 
         "Ant Build System" ->
             Just Lang_ant_build_system
@@ -839,11 +933,26 @@ fromString string =
         "Awk" ->
             Just Lang_awk
 
+        "B" ->
+            Just Lang_b
+
+        "B (Formal Method)" ->
+            Just Lang_b__formal_method_
+
         "B4X" ->
             Just Lang_b4x
 
+        "BAML" ->
+            Just Lang_baml
+
         "BASIC" ->
             Just Lang_basic
+
+        "BBCode" ->
+            Just Lang_bbcode
+
+        "BIRD2" ->
+            Just Lang_bird2
 
         "BQN" ->
             Just Lang_bqn
@@ -866,6 +975,9 @@ fromString string =
         "BibTeX" ->
             Just Lang_bibtex
 
+        "BibTeX Style" ->
+            Just Lang_bibtex_style
+
         "Bicep" ->
             Just Lang_bicep
 
@@ -886,6 +998,9 @@ fromString string =
 
         "BlitzMax" ->
             Just Lang_blitzmax
+
+        "Blueprint" ->
+            Just Lang_blueprint
 
         "Bluespec" ->
             Just Lang_bluespec
@@ -911,6 +1026,12 @@ fromString string =
         "Browserslist" ->
             Just Lang_browserslist
 
+        "Bru" ->
+            Just Lang_bru
+
+        "BuildStream" ->
+            Just Lang_buildstream
+
         "C" ->
             Just Lang_c
 
@@ -922,6 +1043,9 @@ fromString string =
 
         "C2hs Haskell" ->
             Just Lang_c2hs_haskell
+
+        "C3" ->
+            Just Lang_c3
 
         "CAP CDS" ->
             Just Lang_cap_cds
@@ -937,6 +1061,9 @@ fromString string =
 
         "COLLADA" ->
             Just Lang_collada
+
+        "CQL" ->
+            Just Lang_cql
 
         "CSON" ->
             Just Lang_cson
@@ -970,6 +1097,9 @@ fromString string =
 
         "CameLIGO" ->
             Just Lang_cameligo
+
+        "Cangjie" ->
+            Just Lang_cangjie
 
         "Cap'n Proto" ->
             Just Lang_cap_n_proto
@@ -1022,6 +1152,9 @@ fromString string =
         "Cloud Firestore Security Rules" ->
             Just Lang_cloud_firestore_security_rules
 
+        "Clue" ->
+            Just Lang_clue
+
         "CodeQL" ->
             Just Lang_codeql
 
@@ -1043,11 +1176,11 @@ fromString string =
         "Component Pascal" ->
             Just Lang_component_pascal
 
+        "Cooklang" ->
+            Just Lang_cooklang
+
         "Cool" ->
             Just Lang_cool
-
-        "Coq" ->
-            Just Lang_coq
 
         "Crystal" ->
             Just Lang_crystal
@@ -1102,6 +1235,9 @@ fromString string =
 
         "Dart" ->
             Just Lang_dart
+
+        "Daslang" ->
+            Just Lang_daslang
 
         "DataWeave" ->
             Just Lang_dataweave
@@ -1211,6 +1347,9 @@ fromString string =
         "FLUX" ->
             Just Lang_flux
 
+        "FPP" ->
+            Just Lang_fpp
+
         "Factor" ->
             Just Lang_factor
 
@@ -1231,6 +1370,12 @@ fromString string =
 
         "Filterscript" ->
             Just Lang_filterscript
+
+        "FlatBuffers" ->
+            Just Lang_flatbuffers
+
+        "Flix" ->
+            Just Lang_flix
 
         "Fluent" ->
             Just Lang_fluent
@@ -1277,6 +1422,9 @@ fromString string =
         "GDScript" ->
             Just Lang_gdscript
 
+        "GDShader" ->
+            Just Lang_gdshader
+
         "GEDCOM" ->
             Just Lang_gedcom
 
@@ -1322,6 +1470,9 @@ fromString string =
         "Git Attributes" ->
             Just Lang_git_attributes
 
+        "Git Commit" ->
+            Just Lang_git_commit
+
         "Git Config" ->
             Just Lang_git_config
 
@@ -1340,6 +1491,9 @@ fromString string =
         "Glyph" ->
             Just Lang_glyph
 
+        "Gno" ->
+            Just Lang_gno
+
         "Gnuplot" ->
             Just Lang_gnuplot
 
@@ -1351,6 +1505,9 @@ fromString string =
 
         "Go Module" ->
             Just Lang_go_module
+
+        "Go Template" ->
+            Just Lang_go_template
 
         "Go Workspace" ->
             Just Lang_go_workspace
@@ -1388,11 +1545,17 @@ fromString string =
         "Groovy Server Pages" ->
             Just Lang_groovy_server_pages
 
+        "GtkRC" ->
+            Just Lang_gtkrc
+
         "HAProxy" ->
             Just Lang_haproxy
 
         "HCL" ->
             Just Lang_hcl
+
+        "HIP" ->
+            Just Lang_hip
 
         "HLSL" ->
             Just Lang_hlsl
@@ -1454,6 +1617,9 @@ fromString string =
         "Hosts File" ->
             Just Lang_hosts_file
 
+        "Hurl" ->
+            Just Lang_hurl
+
         "Hy" ->
             Just Lang_hy
 
@@ -1466,14 +1632,23 @@ fromString string =
         "IGOR Pro" ->
             Just Lang_igor_pro
 
+        "IL Assembly" ->
+            Just Lang_il_assembly
+
         "INI" ->
             Just Lang_ini
+
+        "ISPC" ->
+            Just Lang_ispc
 
         "Idris" ->
             Just Lang_idris
 
         "Ignore List" ->
             Just Lang_ignore_list
+
+        "ImHex Pattern Language" ->
+            Just Lang_imhex_pattern_language
 
         "ImageJ Macro" ->
             Just Lang_imagej_macro
@@ -1508,6 +1683,9 @@ fromString string =
         "JAR Manifest" ->
             Just Lang_jar_manifest
 
+        "JASS" ->
+            Just Lang_jass
+
         "JCL" ->
             Just Lang_jcl
 
@@ -1528,6 +1706,12 @@ fromString string =
 
         "JSONiq" ->
             Just Lang_jsoniq
+
+        "Jac" ->
+            Just Lang_jac
+
+        "Jai" ->
+            Just Lang_jai
 
         "Janet" ->
             Just Lang_janet
@@ -1586,6 +1770,15 @@ fromString string =
         "Just" ->
             Just Lang_just
 
+        "KCL" ->
+            Just Lang_kcl
+
+        "KDL" ->
+            Just Lang_kdl
+
+        "KFramework" ->
+            Just Lang_kframework
+
         "KRL" ->
             Just Lang_krl
 
@@ -1607,6 +1800,12 @@ fromString string =
         "KiCad Schematic" ->
             Just Lang_kicad_schematic
 
+        "KoLmafia ASH" ->
+            Just Lang_kolmafia_ash
+
+        "Koka" ->
+            Just Lang_koka
+
         "Kotlin" ->
             Just Lang_kotlin
 
@@ -1625,6 +1824,12 @@ fromString string =
         "LabVIEW" ->
             Just Lang_labview
 
+        "Lambdapi" ->
+            Just Lang_lambdapi
+
+        "Langium" ->
+            Just Lang_langium
+
         "Lark" ->
             Just Lang_lark
 
@@ -1639,6 +1844,9 @@ fromString string =
 
         "Lean 4" ->
             Just Lang_lean_4
+
+        "Leo" ->
+            Just Lang_leo
 
         "Less" ->
             Just Lang_less
@@ -1655,8 +1863,17 @@ fromString string =
         "Limbo" ->
             Just Lang_limbo
 
+        "Linear Programming" ->
+            Just Lang_linear_programming
+
+        "Linker Script" ->
+            Just Lang_linker_script
+
         "Liquid" ->
             Just Lang_liquid
+
+        "Liquidsoap" ->
+            Just Lang_liquidsoap
 
         "Literate Agda" ->
             Just Lang_literate_agda
@@ -1672,6 +1889,9 @@ fromString string =
 
         "LiveScript" ->
             Just Lang_livescript
+
+        "Lobster" ->
+            Just Lang_lobster
 
         "Logos" ->
             Just Lang_logos
@@ -1693,6 +1913,9 @@ fromString string =
 
         "M" ->
             Just Lang_m
+
+        "M3U" ->
+            Just Lang_m3u
 
         "M4" ->
             Just Lang_m4
@@ -1742,11 +1965,14 @@ fromString string =
         "Mask" ->
             Just Lang_mask
 
-        "Mathematica" ->
-            Just Lang_mathematica
+        "Mathematical Programming System" ->
+            Just Lang_mathematical_programming_system
 
         "Max" ->
             Just Lang_max
+
+        "MeTTa" ->
+            Just Lang_metta
 
         "Mercury" ->
             Just Lang_mercury
@@ -1763,8 +1989,14 @@ fromString string =
         "MiniD" ->
             Just Lang_minid
 
+        "MiniScript" ->
+            Just Lang_miniscript
+
         "MiniYAML" ->
             Just Lang_miniyaml
+
+        "MiniZinc" ->
+            Just Lang_minizinc
 
         "Mint" ->
             Just Lang_mint
@@ -1862,6 +2094,9 @@ fromString string =
         "Nginx" ->
             Just Lang_nginx
 
+        "Nickel" ->
+            Just Lang_nickel
+
         "Nim" ->
             Just Lang_nim
 
@@ -1900,6 +2135,12 @@ fromString string =
 
         "OCaml" ->
             Just Lang_ocaml
+
+        "OMNeT++ MSG" ->
+            Just Lang_omnetpp_msg
+
+        "OMNeT++ NED" ->
+            Just Lang_omnetpp_ned
 
         "Oberon" ->
             Just Lang_oberon
@@ -1957,6 +2198,12 @@ fromString string =
 
         "Org" ->
             Just Lang_org
+
+        "OverPy" ->
+            Just Lang_overpy
+
+        "OverpassQL" ->
+            Just Lang_overpassql
 
         "Ox" ->
             Just Lang_ox
@@ -2054,6 +2301,9 @@ fromString string =
         "PostScript" ->
             Just Lang_postscript
 
+        "Power Query" ->
+            Just Lang_power_query
+
         "PowerBuilder" ->
             Just Lang_powerbuilder
 
@@ -2065,6 +2315,9 @@ fromString string =
 
         "Prisma" ->
             Just Lang_prisma
+
+        "Pro*C" ->
+            Just Lang_pro_starc
 
         "Processing" ->
             Just Lang_processing
@@ -2120,14 +2373,23 @@ fromString string =
         "Quake" ->
             Just Lang_quake
 
+        "QuakeC" ->
+            Just Lang_quakec
+
         "QuickBASIC" ->
             Just Lang_quickbasic
+
+        "Quint" ->
+            Just Lang_quint
 
         "R" ->
             Just Lang_r
 
         "RAML" ->
             Just Lang_raml
+
+        "RAScript" ->
+            Just Lang_rascript
 
         "RBS" ->
             Just Lang_rbs
@@ -2146,6 +2408,9 @@ fromString string =
 
         "RON" ->
             Just Lang_ron
+
+        "ROS Interface" ->
+            Just Lang_ros_interface
 
         "RPC" ->
             Just Lang_rpc
@@ -2189,6 +2454,9 @@ fromString string =
         "Redcode" ->
             Just Lang_redcode
 
+        "Redscript" ->
+            Just Lang_redscript
+
         "Regular Expression" ->
             Just Lang_regular_expression
 
@@ -2212,6 +2480,9 @@ fromString string =
 
         "Roc" ->
             Just Lang_roc
+
+        "Rocq Prover" ->
+            Just Lang_rocq_prover
 
         "Roff" ->
             Just Lang_roff
@@ -2267,8 +2538,11 @@ fromString string =
         "Sage" ->
             Just Lang_sage
 
-        "SaltStack" ->
-            Just Lang_saltstack
+        "Sail" ->
+            Just Lang_sail
+
+        "Salt" ->
+            Just Lang_salt
 
         "Sass" ->
             Just Lang_sass
@@ -2315,6 +2589,9 @@ fromString string =
         "Singularity" ->
             Just Lang_singularity
 
+        "Slang" ->
+            Just Lang_slang
+
         "Slash" ->
             Just Lang_slash
 
@@ -2351,6 +2628,9 @@ fromString string =
         "SourcePawn" ->
             Just Lang_sourcepawn
 
+        "SpiceDB Schema" ->
+            Just Lang_spicedb_schema
+
         "Squirrel" ->
             Just Lang_squirrel
 
@@ -2381,6 +2661,12 @@ fromString string =
         "SuperCollider" ->
             Just Lang_supercollider
 
+        "SurrealQL" ->
+            Just Lang_surrealql
+
+        "Survex data" ->
+            Just Lang_survex_data
+
         "Svelte" ->
             Just Lang_svelte
 
@@ -2405,6 +2691,9 @@ fromString string =
         "TLA" ->
             Just Lang_tla
 
+        "TMDL" ->
+            Just Lang_tmdl
+
         "TOML" ->
             Just Lang_toml
 
@@ -2426,6 +2715,9 @@ fromString string =
         "Talon" ->
             Just Lang_talon
 
+        "Tape" ->
+            Just Lang_tape
+
         "Tcl" ->
             Just Lang_tcl
 
@@ -2434,6 +2726,9 @@ fromString string =
 
         "TeX" ->
             Just Lang_tex
+
+        "Teal" ->
+            Just Lang_teal
 
         "Terra" ->
             Just Lang_terra
@@ -2455,6 +2750,15 @@ fromString string =
 
         "Toit" ->
             Just Lang_toit
+
+        "Tolk" ->
+            Just Lang_tolk
+
+        "Tor Config" ->
+            Just Lang_tor_config
+
+        "Tree-sitter Query" ->
+            Just Lang_tree_sitter_query
 
         "Turing" ->
             Just Lang_turing
@@ -2486,6 +2790,9 @@ fromString string =
         "UnrealScript" ->
             Just Lang_unrealscript
 
+        "Untyped Plutus Core" ->
+            Just Lang_untyped_plutus_core
+
         "UrWeb" ->
             Just Lang_urweb
 
@@ -2513,17 +2820,26 @@ fromString string =
         "Velocity Template Language" ->
             Just Lang_velocity_template_language
 
+        "Vento" ->
+            Just Lang_vento
+
         "Verilog" ->
             Just Lang_verilog
+
+        "Verse" ->
+            Just Lang_verse
+
+        "Vespa Schema Definition" ->
+            Just Lang_vespa_schema_definition
 
         "Vim Help File" ->
             Just Lang_vim_help_file
 
-        "Vim Script" ->
-            Just Lang_vim_script
-
         "Vim Snippet" ->
             Just Lang_vim_snippet
+
+        "Vim script" ->
+            Just Lang_vim_script
 
         "Visual Basic .NET" ->
             Just Lang_visual_basic__net
@@ -2570,6 +2886,9 @@ fromString string =
         "Witcher Script" ->
             Just Lang_witcher_script
 
+        "Wolfram Language" ->
+            Just Lang_wolfram_language
+
         "Wollok" ->
             Just Lang_wollok
 
@@ -2602,6 +2921,9 @@ fromString string =
 
         "XSLT" ->
             Just Lang_xslt
+
+        "Xmake" ->
+            Just Lang_xmake
 
         "Xojo" ->
             Just Lang_xojo
@@ -2648,6 +2970,9 @@ fromString string =
         "Zimpl" ->
             Just Lang_zimpl
 
+        "Zmodel" ->
+            Just Lang_zmodel
+
         "crontab" ->
             Just Lang_crontab
 
@@ -2675,6 +3000,9 @@ fromString string =
         "mcfunction" ->
             Just Lang_mcfunction
 
+        "mdsvex" ->
+            Just Lang_mdsvex
+
         "mupad" ->
             Just Lang_mupad
 
@@ -2684,14 +3012,11 @@ fromString string =
         "nesC" ->
             Just Lang_nesc
 
-        "omnetpp-msg" ->
-            Just Lang_omnetpp_msg
-
-        "omnetpp-ned" ->
-            Just Lang_omnetpp_ned
-
         "ooc" ->
             Just Lang_ooc
+
+        "pkg-config" ->
+            Just Lang_pkg_config
 
         "q" ->
             Just Lang_q
@@ -2704,6 +3029,9 @@ fromString string =
 
         "templ" ->
             Just Lang_templ
+
+        "ucode" ->
+            Just Lang_ucode
 
         "vCard" ->
             Just Lang_vcard
@@ -2746,6 +3074,9 @@ toString language =
         Lang_al ->
             "AL"
 
+        Lang_algol ->
+            "ALGOL"
+
         Lang_ampl ->
             "AMPL"
 
@@ -2782,6 +3113,12 @@ toString language =
         Lang_agda ->
             "Agda"
 
+        Lang_aiken ->
+            "Aiken"
+
+        Lang_aleo ->
+            "Aleo"
+
         Lang_alloy ->
             "Alloy"
 
@@ -2793,6 +3130,9 @@ toString language =
 
         Lang_angelscript ->
             "AngelScript"
+
+        Lang_answer_set_programming ->
+            "Answer Set Programming"
 
         Lang_ant_build_system ->
             "Ant Build System"
@@ -2845,11 +3185,26 @@ toString language =
         Lang_awk ->
             "Awk"
 
+        Lang_b ->
+            "B"
+
+        Lang_b__formal_method_ ->
+            "B (Formal Method)"
+
         Lang_b4x ->
             "B4X"
 
+        Lang_baml ->
+            "BAML"
+
         Lang_basic ->
             "BASIC"
+
+        Lang_bbcode ->
+            "BBCode"
+
+        Lang_bird2 ->
+            "BIRD2"
 
         Lang_bqn ->
             "BQN"
@@ -2872,6 +3227,9 @@ toString language =
         Lang_bibtex ->
             "BibTeX"
 
+        Lang_bibtex_style ->
+            "BibTeX Style"
+
         Lang_bicep ->
             "Bicep"
 
@@ -2892,6 +3250,9 @@ toString language =
 
         Lang_blitzmax ->
             "BlitzMax"
+
+        Lang_blueprint ->
+            "Blueprint"
 
         Lang_bluespec ->
             "Bluespec"
@@ -2917,6 +3278,12 @@ toString language =
         Lang_browserslist ->
             "Browserslist"
 
+        Lang_bru ->
+            "Bru"
+
+        Lang_buildstream ->
+            "BuildStream"
+
         Lang_c ->
             "C"
 
@@ -2928,6 +3295,9 @@ toString language =
 
         Lang_c2hs_haskell ->
             "C2hs Haskell"
+
+        Lang_c3 ->
+            "C3"
 
         Lang_cap_cds ->
             "CAP CDS"
@@ -2943,6 +3313,9 @@ toString language =
 
         Lang_collada ->
             "COLLADA"
+
+        Lang_cql ->
+            "CQL"
 
         Lang_cson ->
             "CSON"
@@ -2976,6 +3349,9 @@ toString language =
 
         Lang_cameligo ->
             "CameLIGO"
+
+        Lang_cangjie ->
+            "Cangjie"
 
         Lang_cap_n_proto ->
             "Cap'n Proto"
@@ -3028,6 +3404,9 @@ toString language =
         Lang_cloud_firestore_security_rules ->
             "Cloud Firestore Security Rules"
 
+        Lang_clue ->
+            "Clue"
+
         Lang_codeql ->
             "CodeQL"
 
@@ -3049,11 +3428,11 @@ toString language =
         Lang_component_pascal ->
             "Component Pascal"
 
+        Lang_cooklang ->
+            "Cooklang"
+
         Lang_cool ->
             "Cool"
-
-        Lang_coq ->
-            "Coq"
 
         Lang_crystal ->
             "Crystal"
@@ -3108,6 +3487,9 @@ toString language =
 
         Lang_dart ->
             "Dart"
+
+        Lang_daslang ->
+            "Daslang"
 
         Lang_dataweave ->
             "DataWeave"
@@ -3217,6 +3599,9 @@ toString language =
         Lang_flux ->
             "FLUX"
 
+        Lang_fpp ->
+            "FPP"
+
         Lang_factor ->
             "Factor"
 
@@ -3237,6 +3622,12 @@ toString language =
 
         Lang_filterscript ->
             "Filterscript"
+
+        Lang_flatbuffers ->
+            "FlatBuffers"
+
+        Lang_flix ->
+            "Flix"
 
         Lang_fluent ->
             "Fluent"
@@ -3283,6 +3674,9 @@ toString language =
         Lang_gdscript ->
             "GDScript"
 
+        Lang_gdshader ->
+            "GDShader"
+
         Lang_gedcom ->
             "GEDCOM"
 
@@ -3328,6 +3722,9 @@ toString language =
         Lang_git_attributes ->
             "Git Attributes"
 
+        Lang_git_commit ->
+            "Git Commit"
+
         Lang_git_config ->
             "Git Config"
 
@@ -3346,6 +3743,9 @@ toString language =
         Lang_glyph ->
             "Glyph"
 
+        Lang_gno ->
+            "Gno"
+
         Lang_gnuplot ->
             "Gnuplot"
 
@@ -3357,6 +3757,9 @@ toString language =
 
         Lang_go_module ->
             "Go Module"
+
+        Lang_go_template ->
+            "Go Template"
 
         Lang_go_workspace ->
             "Go Workspace"
@@ -3394,11 +3797,17 @@ toString language =
         Lang_groovy_server_pages ->
             "Groovy Server Pages"
 
+        Lang_gtkrc ->
+            "GtkRC"
+
         Lang_haproxy ->
             "HAProxy"
 
         Lang_hcl ->
             "HCL"
+
+        Lang_hip ->
+            "HIP"
 
         Lang_hlsl ->
             "HLSL"
@@ -3460,6 +3869,9 @@ toString language =
         Lang_hosts_file ->
             "Hosts File"
 
+        Lang_hurl ->
+            "Hurl"
+
         Lang_hy ->
             "Hy"
 
@@ -3472,14 +3884,23 @@ toString language =
         Lang_igor_pro ->
             "IGOR Pro"
 
+        Lang_il_assembly ->
+            "IL Assembly"
+
         Lang_ini ->
             "INI"
+
+        Lang_ispc ->
+            "ISPC"
 
         Lang_idris ->
             "Idris"
 
         Lang_ignore_list ->
             "Ignore List"
+
+        Lang_imhex_pattern_language ->
+            "ImHex Pattern Language"
 
         Lang_imagej_macro ->
             "ImageJ Macro"
@@ -3514,6 +3935,9 @@ toString language =
         Lang_jar_manifest ->
             "JAR Manifest"
 
+        Lang_jass ->
+            "JASS"
+
         Lang_jcl ->
             "JCL"
 
@@ -3534,6 +3958,12 @@ toString language =
 
         Lang_jsoniq ->
             "JSONiq"
+
+        Lang_jac ->
+            "Jac"
+
+        Lang_jai ->
+            "Jai"
 
         Lang_janet ->
             "Janet"
@@ -3592,6 +4022,15 @@ toString language =
         Lang_just ->
             "Just"
 
+        Lang_kcl ->
+            "KCL"
+
+        Lang_kdl ->
+            "KDL"
+
+        Lang_kframework ->
+            "KFramework"
+
         Lang_krl ->
             "KRL"
 
@@ -3613,6 +4052,12 @@ toString language =
         Lang_kicad_schematic ->
             "KiCad Schematic"
 
+        Lang_kolmafia_ash ->
+            "KoLmafia ASH"
+
+        Lang_koka ->
+            "Koka"
+
         Lang_kotlin ->
             "Kotlin"
 
@@ -3631,6 +4076,12 @@ toString language =
         Lang_labview ->
             "LabVIEW"
 
+        Lang_lambdapi ->
+            "Lambdapi"
+
+        Lang_langium ->
+            "Langium"
+
         Lang_lark ->
             "Lark"
 
@@ -3645,6 +4096,9 @@ toString language =
 
         Lang_lean_4 ->
             "Lean 4"
+
+        Lang_leo ->
+            "Leo"
 
         Lang_less ->
             "Less"
@@ -3661,8 +4115,17 @@ toString language =
         Lang_limbo ->
             "Limbo"
 
+        Lang_linear_programming ->
+            "Linear Programming"
+
+        Lang_linker_script ->
+            "Linker Script"
+
         Lang_liquid ->
             "Liquid"
+
+        Lang_liquidsoap ->
+            "Liquidsoap"
 
         Lang_literate_agda ->
             "Literate Agda"
@@ -3678,6 +4141,9 @@ toString language =
 
         Lang_livescript ->
             "LiveScript"
+
+        Lang_lobster ->
+            "Lobster"
 
         Lang_logos ->
             "Logos"
@@ -3699,6 +4165,9 @@ toString language =
 
         Lang_m ->
             "M"
+
+        Lang_m3u ->
+            "M3U"
 
         Lang_m4 ->
             "M4"
@@ -3748,11 +4217,14 @@ toString language =
         Lang_mask ->
             "Mask"
 
-        Lang_mathematica ->
-            "Mathematica"
+        Lang_mathematical_programming_system ->
+            "Mathematical Programming System"
 
         Lang_max ->
             "Max"
+
+        Lang_metta ->
+            "MeTTa"
 
         Lang_mercury ->
             "Mercury"
@@ -3769,8 +4241,14 @@ toString language =
         Lang_minid ->
             "MiniD"
 
+        Lang_miniscript ->
+            "MiniScript"
+
         Lang_miniyaml ->
             "MiniYAML"
+
+        Lang_minizinc ->
+            "MiniZinc"
 
         Lang_mint ->
             "Mint"
@@ -3868,6 +4346,9 @@ toString language =
         Lang_nginx ->
             "Nginx"
 
+        Lang_nickel ->
+            "Nickel"
+
         Lang_nim ->
             "Nim"
 
@@ -3906,6 +4387,12 @@ toString language =
 
         Lang_ocaml ->
             "OCaml"
+
+        Lang_omnetpp_msg ->
+            "OMNeT++ MSG"
+
+        Lang_omnetpp_ned ->
+            "OMNeT++ NED"
 
         Lang_oberon ->
             "Oberon"
@@ -3963,6 +4450,12 @@ toString language =
 
         Lang_org ->
             "Org"
+
+        Lang_overpy ->
+            "OverPy"
+
+        Lang_overpassql ->
+            "OverpassQL"
 
         Lang_ox ->
             "Ox"
@@ -4060,6 +4553,9 @@ toString language =
         Lang_postscript ->
             "PostScript"
 
+        Lang_power_query ->
+            "Power Query"
+
         Lang_powerbuilder ->
             "PowerBuilder"
 
@@ -4071,6 +4567,9 @@ toString language =
 
         Lang_prisma ->
             "Prisma"
+
+        Lang_pro_starc ->
+            "Pro*C"
 
         Lang_processing ->
             "Processing"
@@ -4126,14 +4625,23 @@ toString language =
         Lang_quake ->
             "Quake"
 
+        Lang_quakec ->
+            "QuakeC"
+
         Lang_quickbasic ->
             "QuickBASIC"
+
+        Lang_quint ->
+            "Quint"
 
         Lang_r ->
             "R"
 
         Lang_raml ->
             "RAML"
+
+        Lang_rascript ->
+            "RAScript"
 
         Lang_rbs ->
             "RBS"
@@ -4152,6 +4660,9 @@ toString language =
 
         Lang_ron ->
             "RON"
+
+        Lang_ros_interface ->
+            "ROS Interface"
 
         Lang_rpc ->
             "RPC"
@@ -4195,6 +4706,9 @@ toString language =
         Lang_redcode ->
             "Redcode"
 
+        Lang_redscript ->
+            "Redscript"
+
         Lang_regular_expression ->
             "Regular Expression"
 
@@ -4218,6 +4732,9 @@ toString language =
 
         Lang_roc ->
             "Roc"
+
+        Lang_rocq_prover ->
+            "Rocq Prover"
 
         Lang_roff ->
             "Roff"
@@ -4273,8 +4790,11 @@ toString language =
         Lang_sage ->
             "Sage"
 
-        Lang_saltstack ->
-            "SaltStack"
+        Lang_sail ->
+            "Sail"
+
+        Lang_salt ->
+            "Salt"
 
         Lang_sass ->
             "Sass"
@@ -4321,6 +4841,9 @@ toString language =
         Lang_singularity ->
             "Singularity"
 
+        Lang_slang ->
+            "Slang"
+
         Lang_slash ->
             "Slash"
 
@@ -4357,6 +4880,9 @@ toString language =
         Lang_sourcepawn ->
             "SourcePawn"
 
+        Lang_spicedb_schema ->
+            "SpiceDB Schema"
+
         Lang_squirrel ->
             "Squirrel"
 
@@ -4387,6 +4913,12 @@ toString language =
         Lang_supercollider ->
             "SuperCollider"
 
+        Lang_surrealql ->
+            "SurrealQL"
+
+        Lang_survex_data ->
+            "Survex data"
+
         Lang_svelte ->
             "Svelte"
 
@@ -4411,6 +4943,9 @@ toString language =
         Lang_tla ->
             "TLA"
 
+        Lang_tmdl ->
+            "TMDL"
+
         Lang_toml ->
             "TOML"
 
@@ -4432,6 +4967,9 @@ toString language =
         Lang_talon ->
             "Talon"
 
+        Lang_tape ->
+            "Tape"
+
         Lang_tcl ->
             "Tcl"
 
@@ -4440,6 +4978,9 @@ toString language =
 
         Lang_tex ->
             "TeX"
+
+        Lang_teal ->
+            "Teal"
 
         Lang_terra ->
             "Terra"
@@ -4461,6 +5002,15 @@ toString language =
 
         Lang_toit ->
             "Toit"
+
+        Lang_tolk ->
+            "Tolk"
+
+        Lang_tor_config ->
+            "Tor Config"
+
+        Lang_tree_sitter_query ->
+            "Tree-sitter Query"
 
         Lang_turing ->
             "Turing"
@@ -4492,6 +5042,9 @@ toString language =
         Lang_unrealscript ->
             "UnrealScript"
 
+        Lang_untyped_plutus_core ->
+            "Untyped Plutus Core"
+
         Lang_urweb ->
             "UrWeb"
 
@@ -4519,17 +5072,26 @@ toString language =
         Lang_velocity_template_language ->
             "Velocity Template Language"
 
+        Lang_vento ->
+            "Vento"
+
         Lang_verilog ->
             "Verilog"
+
+        Lang_verse ->
+            "Verse"
+
+        Lang_vespa_schema_definition ->
+            "Vespa Schema Definition"
 
         Lang_vim_help_file ->
             "Vim Help File"
 
-        Lang_vim_script ->
-            "Vim Script"
-
         Lang_vim_snippet ->
             "Vim Snippet"
+
+        Lang_vim_script ->
+            "Vim script"
 
         Lang_visual_basic__net ->
             "Visual Basic .NET"
@@ -4576,6 +5138,9 @@ toString language =
         Lang_witcher_script ->
             "Witcher Script"
 
+        Lang_wolfram_language ->
+            "Wolfram Language"
+
         Lang_wollok ->
             "Wollok"
 
@@ -4608,6 +5173,9 @@ toString language =
 
         Lang_xslt ->
             "XSLT"
+
+        Lang_xmake ->
+            "Xmake"
 
         Lang_xojo ->
             "Xojo"
@@ -4654,6 +5222,9 @@ toString language =
         Lang_zimpl ->
             "Zimpl"
 
+        Lang_zmodel ->
+            "Zmodel"
+
         Lang_crontab ->
             "crontab"
 
@@ -4681,6 +5252,9 @@ toString language =
         Lang_mcfunction ->
             "mcfunction"
 
+        Lang_mdsvex ->
+            "mdsvex"
+
         Lang_mupad ->
             "mupad"
 
@@ -4690,14 +5264,11 @@ toString language =
         Lang_nesc ->
             "nesC"
 
-        Lang_omnetpp_msg ->
-            "omnetpp-msg"
-
-        Lang_omnetpp_ned ->
-            "omnetpp-ned"
-
         Lang_ooc ->
             "ooc"
+
+        Lang_pkg_config ->
+            "pkg-config"
 
         Lang_q ->
             "q"
@@ -4710,6 +5281,9 @@ toString language =
 
         Lang_templ ->
             "templ"
+
+        Lang_ucode ->
+            "ucode"
 
         Lang_vcard ->
             "vCard"
@@ -4749,6 +5323,9 @@ toColor language =
         Lang_al ->
             al
 
+        Lang_algol ->
+            algol
+
         Lang_ampl ->
             ampl
 
@@ -4785,6 +5362,12 @@ toColor language =
         Lang_agda ->
             agda
 
+        Lang_aiken ->
+            aiken
+
+        Lang_aleo ->
+            aleo
+
         Lang_alloy ->
             alloy
 
@@ -4796,6 +5379,9 @@ toColor language =
 
         Lang_angelscript ->
             angelscript
+
+        Lang_answer_set_programming ->
+            answer_set_programming
 
         Lang_ant_build_system ->
             ant_build_system
@@ -4848,11 +5434,26 @@ toColor language =
         Lang_awk ->
             awk
 
+        Lang_b ->
+            b
+
+        Lang_b__formal_method_ ->
+            b__formal_method_
+
         Lang_b4x ->
             b4x
 
+        Lang_baml ->
+            baml
+
         Lang_basic ->
             basic
+
+        Lang_bbcode ->
+            bbcode
+
+        Lang_bird2 ->
+            bird2
 
         Lang_bqn ->
             bqn
@@ -4875,6 +5476,9 @@ toColor language =
         Lang_bibtex ->
             bibtex
 
+        Lang_bibtex_style ->
+            bibtex_style
+
         Lang_bicep ->
             bicep
 
@@ -4895,6 +5499,9 @@ toColor language =
 
         Lang_blitzmax ->
             blitzmax
+
+        Lang_blueprint ->
+            blueprint
 
         Lang_bluespec ->
             bluespec
@@ -4920,6 +5527,12 @@ toColor language =
         Lang_browserslist ->
             browserslist
 
+        Lang_bru ->
+            bru
+
+        Lang_buildstream ->
+            buildstream
+
         Lang_c ->
             c
 
@@ -4931,6 +5544,9 @@ toColor language =
 
         Lang_c2hs_haskell ->
             c2hs_haskell
+
+        Lang_c3 ->
+            c3
 
         Lang_cap_cds ->
             cap_cds
@@ -4946,6 +5562,9 @@ toColor language =
 
         Lang_collada ->
             collada
+
+        Lang_cql ->
+            cql
 
         Lang_cson ->
             cson
@@ -4979,6 +5598,9 @@ toColor language =
 
         Lang_cameligo ->
             cameligo
+
+        Lang_cangjie ->
+            cangjie
 
         Lang_cap_n_proto ->
             cap_n_proto
@@ -5031,6 +5653,9 @@ toColor language =
         Lang_cloud_firestore_security_rules ->
             cloud_firestore_security_rules
 
+        Lang_clue ->
+            clue
+
         Lang_codeql ->
             codeql
 
@@ -5052,11 +5677,11 @@ toColor language =
         Lang_component_pascal ->
             component_pascal
 
+        Lang_cooklang ->
+            cooklang
+
         Lang_cool ->
             cool
-
-        Lang_coq ->
-            coq
 
         Lang_crystal ->
             crystal
@@ -5111,6 +5736,9 @@ toColor language =
 
         Lang_dart ->
             dart
+
+        Lang_daslang ->
+            daslang
 
         Lang_dataweave ->
             dataweave
@@ -5220,6 +5848,9 @@ toColor language =
         Lang_flux ->
             flux
 
+        Lang_fpp ->
+            fpp
+
         Lang_factor ->
             factor
 
@@ -5240,6 +5871,12 @@ toColor language =
 
         Lang_filterscript ->
             filterscript
+
+        Lang_flatbuffers ->
+            flatbuffers
+
+        Lang_flix ->
+            flix
 
         Lang_fluent ->
             fluent
@@ -5286,6 +5923,9 @@ toColor language =
         Lang_gdscript ->
             gdscript
 
+        Lang_gdshader ->
+            gdshader
+
         Lang_gedcom ->
             gedcom
 
@@ -5331,6 +5971,9 @@ toColor language =
         Lang_git_attributes ->
             git_attributes
 
+        Lang_git_commit ->
+            git_commit
+
         Lang_git_config ->
             git_config
 
@@ -5349,6 +5992,9 @@ toColor language =
         Lang_glyph ->
             glyph
 
+        Lang_gno ->
+            gno
+
         Lang_gnuplot ->
             gnuplot
 
@@ -5360,6 +6006,9 @@ toColor language =
 
         Lang_go_module ->
             go_module
+
+        Lang_go_template ->
+            go_template
 
         Lang_go_workspace ->
             go_workspace
@@ -5397,11 +6046,17 @@ toColor language =
         Lang_groovy_server_pages ->
             groovy_server_pages
 
+        Lang_gtkrc ->
+            gtkrc
+
         Lang_haproxy ->
             haproxy
 
         Lang_hcl ->
             hcl
+
+        Lang_hip ->
+            hip
 
         Lang_hlsl ->
             hlsl
@@ -5463,6 +6118,9 @@ toColor language =
         Lang_hosts_file ->
             hosts_file
 
+        Lang_hurl ->
+            hurl
+
         Lang_hy ->
             hy
 
@@ -5475,14 +6133,23 @@ toColor language =
         Lang_igor_pro ->
             igor_pro
 
+        Lang_il_assembly ->
+            il_assembly
+
         Lang_ini ->
             ini
+
+        Lang_ispc ->
+            ispc
 
         Lang_idris ->
             idris
 
         Lang_ignore_list ->
             ignore_list
+
+        Lang_imhex_pattern_language ->
+            imhex_pattern_language
 
         Lang_imagej_macro ->
             imagej_macro
@@ -5517,6 +6184,9 @@ toColor language =
         Lang_jar_manifest ->
             jar_manifest
 
+        Lang_jass ->
+            jass
+
         Lang_jcl ->
             jcl
 
@@ -5537,6 +6207,12 @@ toColor language =
 
         Lang_jsoniq ->
             jsoniq
+
+        Lang_jac ->
+            jac
+
+        Lang_jai ->
+            jai
 
         Lang_janet ->
             janet
@@ -5595,6 +6271,15 @@ toColor language =
         Lang_just ->
             just
 
+        Lang_kcl ->
+            kcl
+
+        Lang_kdl ->
+            kdl
+
+        Lang_kframework ->
+            kframework
+
         Lang_krl ->
             krl
 
@@ -5616,6 +6301,12 @@ toColor language =
         Lang_kicad_schematic ->
             kicad_schematic
 
+        Lang_kolmafia_ash ->
+            kolmafia_ash
+
+        Lang_koka ->
+            koka
+
         Lang_kotlin ->
             kotlin
 
@@ -5634,6 +6325,12 @@ toColor language =
         Lang_labview ->
             labview
 
+        Lang_lambdapi ->
+            lambdapi
+
+        Lang_langium ->
+            langium
+
         Lang_lark ->
             lark
 
@@ -5648,6 +6345,9 @@ toColor language =
 
         Lang_lean_4 ->
             lean_4
+
+        Lang_leo ->
+            leo
 
         Lang_less ->
             less
@@ -5664,8 +6364,17 @@ toColor language =
         Lang_limbo ->
             limbo
 
+        Lang_linear_programming ->
+            linear_programming
+
+        Lang_linker_script ->
+            linker_script
+
         Lang_liquid ->
             liquid
+
+        Lang_liquidsoap ->
+            liquidsoap
 
         Lang_literate_agda ->
             literate_agda
@@ -5681,6 +6390,9 @@ toColor language =
 
         Lang_livescript ->
             livescript
+
+        Lang_lobster ->
+            lobster
 
         Lang_logos ->
             logos
@@ -5702,6 +6414,9 @@ toColor language =
 
         Lang_m ->
             m
+
+        Lang_m3u ->
+            m3u
 
         Lang_m4 ->
             m4
@@ -5751,11 +6466,14 @@ toColor language =
         Lang_mask ->
             mask
 
-        Lang_mathematica ->
-            mathematica
+        Lang_mathematical_programming_system ->
+            mathematical_programming_system
 
         Lang_max ->
             max
+
+        Lang_metta ->
+            metta
 
         Lang_mercury ->
             mercury
@@ -5772,8 +6490,14 @@ toColor language =
         Lang_minid ->
             minid
 
+        Lang_miniscript ->
+            miniscript
+
         Lang_miniyaml ->
             miniyaml
+
+        Lang_minizinc ->
+            minizinc
 
         Lang_mint ->
             mint
@@ -5871,6 +6595,9 @@ toColor language =
         Lang_nginx ->
             nginx
 
+        Lang_nickel ->
+            nickel
+
         Lang_nim ->
             nim
 
@@ -5909,6 +6636,12 @@ toColor language =
 
         Lang_ocaml ->
             ocaml
+
+        Lang_omnetpp_msg ->
+            omnetpp_msg
+
+        Lang_omnetpp_ned ->
+            omnetpp_ned
 
         Lang_oberon ->
             oberon
@@ -5966,6 +6699,12 @@ toColor language =
 
         Lang_org ->
             org
+
+        Lang_overpy ->
+            overpy
+
+        Lang_overpassql ->
+            overpassql
 
         Lang_ox ->
             ox
@@ -6063,6 +6802,9 @@ toColor language =
         Lang_postscript ->
             postscript
 
+        Lang_power_query ->
+            power_query
+
         Lang_powerbuilder ->
             powerbuilder
 
@@ -6074,6 +6816,9 @@ toColor language =
 
         Lang_prisma ->
             prisma
+
+        Lang_pro_starc ->
+            pro_starc
 
         Lang_processing ->
             processing
@@ -6129,14 +6874,23 @@ toColor language =
         Lang_quake ->
             quake
 
+        Lang_quakec ->
+            quakec
+
         Lang_quickbasic ->
             quickbasic
+
+        Lang_quint ->
+            quint
 
         Lang_r ->
             r
 
         Lang_raml ->
             raml
+
+        Lang_rascript ->
+            rascript
 
         Lang_rbs ->
             rbs
@@ -6155,6 +6909,9 @@ toColor language =
 
         Lang_ron ->
             ron
+
+        Lang_ros_interface ->
+            ros_interface
 
         Lang_rpc ->
             rpc
@@ -6198,6 +6955,9 @@ toColor language =
         Lang_redcode ->
             redcode
 
+        Lang_redscript ->
+            redscript
+
         Lang_regular_expression ->
             regular_expression
 
@@ -6221,6 +6981,9 @@ toColor language =
 
         Lang_roc ->
             roc
+
+        Lang_rocq_prover ->
+            rocq_prover
 
         Lang_roff ->
             roff
@@ -6276,8 +7039,11 @@ toColor language =
         Lang_sage ->
             sage
 
-        Lang_saltstack ->
-            saltstack
+        Lang_sail ->
+            sail
+
+        Lang_salt ->
+            salt
 
         Lang_sass ->
             sass
@@ -6324,6 +7090,9 @@ toColor language =
         Lang_singularity ->
             singularity
 
+        Lang_slang ->
+            slang
+
         Lang_slash ->
             slash
 
@@ -6360,6 +7129,9 @@ toColor language =
         Lang_sourcepawn ->
             sourcepawn
 
+        Lang_spicedb_schema ->
+            spicedb_schema
+
         Lang_squirrel ->
             squirrel
 
@@ -6390,6 +7162,12 @@ toColor language =
         Lang_supercollider ->
             supercollider
 
+        Lang_surrealql ->
+            surrealql
+
+        Lang_survex_data ->
+            survex_data
+
         Lang_svelte ->
             svelte
 
@@ -6414,6 +7192,9 @@ toColor language =
         Lang_tla ->
             tla
 
+        Lang_tmdl ->
+            tmdl
+
         Lang_toml ->
             toml
 
@@ -6435,6 +7216,9 @@ toColor language =
         Lang_talon ->
             talon
 
+        Lang_tape ->
+            tape
+
         Lang_tcl ->
             tcl
 
@@ -6443,6 +7227,9 @@ toColor language =
 
         Lang_tex ->
             tex
+
+        Lang_teal ->
+            teal
 
         Lang_terra ->
             terra
@@ -6464,6 +7251,15 @@ toColor language =
 
         Lang_toit ->
             toit
+
+        Lang_tolk ->
+            tolk
+
+        Lang_tor_config ->
+            tor_config
+
+        Lang_tree_sitter_query ->
+            tree_sitter_query
 
         Lang_turing ->
             turing
@@ -6495,6 +7291,9 @@ toColor language =
         Lang_unrealscript ->
             unrealscript
 
+        Lang_untyped_plutus_core ->
+            untyped_plutus_core
+
         Lang_urweb ->
             urweb
 
@@ -6522,17 +7321,26 @@ toColor language =
         Lang_velocity_template_language ->
             velocity_template_language
 
+        Lang_vento ->
+            vento
+
         Lang_verilog ->
             verilog
+
+        Lang_verse ->
+            verse
+
+        Lang_vespa_schema_definition ->
+            vespa_schema_definition
 
         Lang_vim_help_file ->
             vim_help_file
 
-        Lang_vim_script ->
-            vim_script
-
         Lang_vim_snippet ->
             vim_snippet
+
+        Lang_vim_script ->
+            vim_script
 
         Lang_visual_basic__net ->
             visual_basic__net
@@ -6579,6 +7387,9 @@ toColor language =
         Lang_witcher_script ->
             witcher_script
 
+        Lang_wolfram_language ->
+            wolfram_language
+
         Lang_wollok ->
             wollok
 
@@ -6611,6 +7422,9 @@ toColor language =
 
         Lang_xslt ->
             xslt
+
+        Lang_xmake ->
+            xmake
 
         Lang_xojo ->
             xojo
@@ -6657,6 +7471,9 @@ toColor language =
         Lang_zimpl ->
             zimpl
 
+        Lang_zmodel ->
+            zmodel
+
         Lang_crontab ->
             crontab
 
@@ -6684,6 +7501,9 @@ toColor language =
         Lang_mcfunction ->
             mcfunction
 
+        Lang_mdsvex ->
+            mdsvex
+
         Lang_mupad ->
             mupad
 
@@ -6693,14 +7513,11 @@ toColor language =
         Lang_nesc ->
             nesc
 
-        Lang_omnetpp_msg ->
-            omnetpp_msg
-
-        Lang_omnetpp_ned ->
-            omnetpp_ned
-
         Lang_ooc ->
             ooc
+
+        Lang_pkg_config ->
+            pkg_config
 
         Lang_q ->
             q
@@ -6713,6 +7530,9 @@ toColor language =
 
         Lang_templ ->
             templ
+
+        Lang_ucode ->
+            ucode
 
         Lang_vcard ->
             vcard
@@ -6808,6 +7628,17 @@ al =
     , color = Color.rgb255 58 162 181
     , hex = "#3AA2B5"
     , rgb = ( 58, 162, 181 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'ALGOL' -}
+algol : Color
+algol =
+    { elmui = Element.rgb255 209 224 219
+    , color = Color.rgb255 209 224 219
+    , hex = "#D1E0DB"
+    , rgb = ( 209, 224, 219 )
     , hasColor = True
     }
 
@@ -6944,6 +7775,28 @@ agda =
     }
 
 
+{-| Github language color for 'Aiken' -}
+aiken : Color
+aiken =
+    { elmui = Element.rgb255 100 15 248
+    , color = Color.rgb255 100 15 248
+    , hex = "#640ff8"
+    , rgb = ( 100, 15, 248 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Aleo' -}
+aleo : Color
+aleo =
+    { elmui = Element.rgb255 21 75 249
+    , color = Color.rgb255 21 75 249
+    , hex = "#154BF9"
+    , rgb = ( 21, 75, 249 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Alloy' -}
 alloy : Color
 alloy =
@@ -6984,6 +7837,17 @@ angelscript =
     , color = Color.rgb255 199 215 220
     , hex = "#C7D7DC"
     , rgb = ( 199, 215, 220 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Answer Set Programming' -}
+answer_set_programming : Color
+answer_set_programming =
+    { elmui = Element.rgb255 169 204 41
+    , color = Color.rgb255 169 204 41
+    , hex = "#A9CC29"
+    , rgb = ( 169, 204, 41 )
     , hasColor = True
     }
 
@@ -7175,6 +8039,28 @@ awk =
     }
 
 
+{-| Github language color for 'B' -}
+b : Color
+b =
+    { elmui = Element.rgb255 218 118 102
+    , color = Color.rgb255 218 118 102
+    , hex = "#da7666"
+    , rgb = ( 218, 118, 102 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'B (Formal Method)' -}
+b__formal_method_ : Color
+b__formal_method_ =
+    { elmui = Element.rgb255 138 168 197
+    , color = Color.rgb255 138 168 197
+    , hex = "#8aa8c5"
+    , rgb = ( 138, 168, 197 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'B4X' -}
 b4x : Color
 b4x =
@@ -7186,6 +8072,17 @@ b4x =
     }
 
 
+{-| Github language color for 'BAML' -}
+baml : Color
+baml =
+    { elmui = Element.rgb255 168 85 247
+    , color = Color.rgb255 168 85 247
+    , hex = "#a855f7"
+    , rgb = ( 168, 85, 247 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'BASIC' -}
 basic : Color
 basic =
@@ -7193,6 +8090,28 @@ basic =
     , color = Color.rgb255 255 0 0
     , hex = "#ff0000"
     , rgb = ( 255, 0, 0 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'BBCode' -}
+bbcode : Color
+bbcode =
+    { elmui = Element.rgb255 202 255 66
+    , color = Color.rgb255 202 255 66
+    , hex = "#CAFF42"
+    , rgb = ( 202, 255, 66 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'BIRD2' -}
+bird2 : Color
+bird2 =
+    { elmui = Element.rgb255 182 215 228
+    , color = Color.rgb255 182 215 228
+    , hex = "#b6d7e4"
+    , rgb = ( 182, 215, 228 )
     , hasColor = True
     }
 
@@ -7274,6 +8193,17 @@ bibtex =
     }
 
 
+{-| Github language color for 'BibTeX Style' -}
+bibtex_style : Color
+bibtex_style =
+    { elmui = Element.rgb255 204 204 204
+    , color = Color.rgb255 204 204 204
+    , hex = "#ccc"
+    , rgb = ( 204, 204, 204 )
+    , hasColor = False
+    }
+
+
 {-| Github language color for 'Bicep' -}
 bicep : Color
 bicep =
@@ -7347,6 +8277,17 @@ blitzmax =
     , color = Color.rgb255 205 100 0
     , hex = "#cd6400"
     , rgb = ( 205, 100, 0 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Blueprint' -}
+blueprint : Color
+blueprint =
+    { elmui = Element.rgb255 53 132 228
+    , color = Color.rgb255 53 132 228
+    , hex = "#3584E4"
+    , rgb = ( 53, 132, 228 )
     , hasColor = True
     }
 
@@ -7439,6 +8380,28 @@ browserslist =
     }
 
 
+{-| Github language color for 'Bru' -}
+bru : Color
+bru =
+    { elmui = Element.rgb255 244 170 65
+    , color = Color.rgb255 244 170 65
+    , hex = "#F4AA41"
+    , rgb = ( 244, 170, 65 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'BuildStream' -}
+buildstream : Color
+buildstream =
+    { elmui = Element.rgb255 0 107 255
+    , color = Color.rgb255 0 107 255
+    , hex = "#006bff"
+    , rgb = ( 0, 107, 255 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'C' -}
 c : Color
 c =
@@ -7453,10 +8416,10 @@ c =
 {-| Github language color for 'C#' -}
 c_sharp : Color
 c_sharp =
-    { elmui = Element.rgb255 23 134 0
-    , color = Color.rgb255 23 134 0
-    , hex = "#178600"
-    , rgb = ( 23, 134, 0 )
+    { elmui = Element.rgb255 115 85 221
+    , color = Color.rgb255 115 85 221
+    , hex = "#7355dd"
+    , rgb = ( 115, 85, 221 )
     , hasColor = True
     }
 
@@ -7480,6 +8443,17 @@ c2hs_haskell =
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
     , hasColor = False
+    }
+
+
+{-| Github language color for 'C3' -}
+c3 : Color
+c3 =
+    { elmui = Element.rgb255 37 99 235
+    , color = Color.rgb255 37 99 235
+    , hex = "#2563eb"
+    , rgb = ( 37, 99, 235 )
+    , hasColor = True
     }
 
 
@@ -7534,6 +8508,17 @@ collada =
     , color = Color.rgb255 241 164 43
     , hex = "#F1A42B"
     , rgb = ( 241, 164, 43 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'CQL' -}
+cql : Color
+cql =
+    { elmui = Element.rgb255 0 96 145
+    , color = Color.rgb255 0 96 145
+    , hex = "#006091"
+    , rgb = ( 0, 96, 145 )
     , hasColor = True
     }
 
@@ -7655,6 +8640,17 @@ cameligo =
     , color = Color.rgb255 59 225 51
     , hex = "#3be133"
     , rgb = ( 59, 225, 51 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Cangjie' -}
+cangjie : Color
+cangjie =
+    { elmui = Element.rgb255 0 134 139
+    , color = Color.rgb255 0 134 139
+    , hex = "#00868B"
+    , rgb = ( 0, 134, 139 )
     , hasColor = True
     }
 
@@ -7846,6 +8842,17 @@ cloud_firestore_security_rules =
     }
 
 
+{-| Github language color for 'Clue' -}
+clue : Color
+clue =
+    { elmui = Element.rgb255 0 9 181
+    , color = Color.rgb255 0 9 181
+    , hex = "#0009b5"
+    , rgb = ( 0, 9, 181 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'CodeQL' -}
 codeql : Color
 codeql =
@@ -7923,6 +8930,17 @@ component_pascal =
     }
 
 
+{-| Github language color for 'Cooklang' -}
+cooklang : Color
+cooklang =
+    { elmui = Element.rgb255 225 90 41
+    , color = Color.rgb255 225 90 41
+    , hex = "#E15A29"
+    , rgb = ( 225, 90, 41 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Cool' -}
 cool : Color
 cool =
@@ -7931,17 +8949,6 @@ cool =
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
     , hasColor = False
-    }
-
-
-{-| Github language color for 'Coq' -}
-coq : Color
-coq =
-    { elmui = Element.rgb255 208 182 140
-    , color = Color.rgb255 208 182 140
-    , hex = "#d0b68c"
-    , rgb = ( 208, 182, 140 )
-    , hasColor = True
     }
 
 
@@ -8139,6 +9146,17 @@ dart =
     , color = Color.rgb255 0 180 171
     , hex = "#00B4AB"
     , rgb = ( 0, 180, 171 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Daslang' -}
+daslang : Color
+daslang =
+    { elmui = Element.rgb255 211 211 211
+    , color = Color.rgb255 211 211 211
+    , hex = "#d3d3d3"
+    , rgb = ( 211, 211, 211 )
     , hasColor = True
     }
 
@@ -8539,6 +9557,17 @@ flux =
     }
 
 
+{-| Github language color for 'FPP' -}
+fpp : Color
+fpp =
+    { elmui = Element.rgb255 211 115 39
+    , color = Color.rgb255 211 115 39
+    , hex = "#d37327"
+    , rgb = ( 211, 115, 39 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Factor' -}
 factor : Color
 factor =
@@ -8613,6 +9642,28 @@ filterscript =
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
     , hasColor = False
+    }
+
+
+{-| Github language color for 'FlatBuffers' -}
+flatbuffers : Color
+flatbuffers =
+    { elmui = Element.rgb255 237 40 74
+    , color = Color.rgb255 237 40 74
+    , hex = "#ed284a"
+    , rgb = ( 237, 40, 74 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Flix' -}
+flix : Color
+flix =
+    { elmui = Element.rgb255 212 74 69
+    , color = Color.rgb255 212 74 69
+    , hex = "#d44a45"
+    , rgb = ( 212, 74, 69 )
+    , hasColor = True
     }
 
 
@@ -8777,6 +9828,17 @@ gdscript =
     , color = Color.rgb255 53 85 112
     , hex = "#355570"
     , rgb = ( 53, 85, 112 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'GDShader' -}
+gdshader : Color
+gdshader =
+    { elmui = Element.rgb255 71 140 191
+    , color = Color.rgb255 71 140 191
+    , hex = "#478CBF"
+    , rgb = ( 71, 140, 191 )
     , hasColor = True
     }
 
@@ -8946,6 +10008,17 @@ git_attributes =
     }
 
 
+{-| Github language color for 'Git Commit' -}
+git_commit : Color
+git_commit =
+    { elmui = Element.rgb255 244 77 39
+    , color = Color.rgb255 244 77 39
+    , hex = "#F44D27"
+    , rgb = ( 244, 77, 39 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Git Config' -}
 git_config : Color
 git_config =
@@ -9012,6 +10085,17 @@ glyph =
     }
 
 
+{-| Github language color for 'Gno' -}
+gno : Color
+gno =
+    { elmui = Element.rgb255 34 108 87
+    , color = Color.rgb255 34 108 87
+    , hex = "#226c57"
+    , rgb = ( 34, 108, 87 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Gnuplot' -}
 gnuplot : Color
 gnuplot =
@@ -9048,6 +10132,17 @@ go_checksums =
 {-| Github language color for 'Go Module' -}
 go_module : Color
 go_module =
+    { elmui = Element.rgb255 0 173 216
+    , color = Color.rgb255 0 173 216
+    , hex = "#00ADD8"
+    , rgb = ( 0, 173, 216 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Go Template' -}
+go_template : Color
+go_template =
     { elmui = Element.rgb255 0 173 216
     , color = Color.rgb255 0 173 216
     , hex = "#00ADD8"
@@ -9188,6 +10283,17 @@ groovy_server_pages =
     }
 
 
+{-| Github language color for 'GtkRC' -}
+gtkrc : Color
+gtkrc =
+    { elmui = Element.rgb255 127 231 25
+    , color = Color.rgb255 127 231 25
+    , hex = "#7fe719"
+    , rgb = ( 127, 231, 25 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'HAProxy' -}
 haproxy : Color
 haproxy =
@@ -9206,6 +10312,17 @@ hcl =
     , color = Color.rgb255 132 79 186
     , hex = "#844FBA"
     , rgb = ( 132, 79, 186 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'HIP' -}
+hip : Color
+hip =
+    { elmui = Element.rgb255 79 58 79
+    , color = Color.rgb255 79 58 79
+    , hex = "#4F3A4F"
+    , rgb = ( 79, 58, 79 )
     , hasColor = True
     }
 
@@ -9430,6 +10547,17 @@ hosts_file =
     }
 
 
+{-| Github language color for 'Hurl' -}
+hurl : Color
+hurl =
+    { elmui = Element.rgb255 255 2 136
+    , color = Color.rgb255 255 2 136
+    , hex = "#FF0288"
+    , rgb = ( 255, 2, 136 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Hy' -}
 hy : Color
 hy =
@@ -9474,6 +10602,17 @@ igor_pro =
     }
 
 
+{-| Github language color for 'IL Assembly' -}
+il_assembly : Color
+il_assembly =
+    { elmui = Element.rgb255 81 43 212
+    , color = Color.rgb255 81 43 212
+    , hex = "#512BD4"
+    , rgb = ( 81, 43, 212 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'INI' -}
 ini : Color
 ini =
@@ -9481,6 +10620,17 @@ ini =
     , color = Color.rgb255 209 219 224
     , hex = "#d1dbe0"
     , rgb = ( 209, 219, 224 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'ISPC' -}
+ispc : Color
+ispc =
+    { elmui = Element.rgb255 45 104 177
+    , color = Color.rgb255 45 104 177
+    , hex = "#2D68B1"
+    , rgb = ( 45, 104, 177 )
     , hasColor = True
     }
 
@@ -9503,6 +10653,17 @@ ignore_list =
     , color = Color.rgb255 0 0 0
     , hex = "#000000"
     , rgb = ( 0, 0, 0 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'ImHex Pattern Language' -}
+imhex_pattern_language : Color
+imhex_pattern_language =
+    { elmui = Element.rgb255 58 107 224
+    , color = Color.rgb255 58 107 224
+    , hex = "#3a6be0"
+    , rgb = ( 58, 107, 224 )
     , hasColor = True
     }
 
@@ -9628,6 +10789,17 @@ jar_manifest =
     }
 
 
+{-| Github language color for 'JASS' -}
+jass : Color
+jass =
+    { elmui = Element.rgb255 255 3 3
+    , color = Color.rgb255 255 3 3
+    , hex = "#FF0303"
+    , rgb = ( 255, 3, 3 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'JCL' -}
 jcl : Color
 jcl =
@@ -9701,6 +10873,28 @@ jsoniq =
     , color = Color.rgb255 64 212 126
     , hex = "#40d47e"
     , rgb = ( 64, 212, 126 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Jac' -}
+jac : Color
+jac =
+    { elmui = Element.rgb255 252 121 45
+    , color = Color.rgb255 252 121 45
+    , hex = "#FC792D"
+    , rgb = ( 252, 121, 45 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Jai' -}
+jai : Color
+jai =
+    { elmui = Element.rgb255 171 139 75
+    , color = Color.rgb255 171 139 75
+    , hex = "#ab8b4b"
+    , rgb = ( 171, 139, 75 )
     , hasColor = True
     }
 
@@ -9914,6 +11108,39 @@ just =
     }
 
 
+{-| Github language color for 'KCL' -}
+kcl : Color
+kcl =
+    { elmui = Element.rgb255 122 186 191
+    , color = Color.rgb255 122 186 191
+    , hex = "#7ABABF"
+    , rgb = ( 122, 186, 191 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'KDL' -}
+kdl : Color
+kdl =
+    { elmui = Element.rgb255 255 179 179
+    , color = Color.rgb255 255 179 179
+    , hex = "#ffb3b3"
+    , rgb = ( 255, 179, 179 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'KFramework' -}
+kframework : Color
+kframework =
+    { elmui = Element.rgb255 65 149 197
+    , color = Color.rgb255 65 149 197
+    , hex = "#4195c5"
+    , rgb = ( 65, 149, 197 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'KRL' -}
 krl : Color
 krl =
@@ -9991,6 +11218,28 @@ kicad_schematic =
     }
 
 
+{-| Github language color for 'KoLmafia ASH' -}
+kolmafia_ash : Color
+kolmafia_ash =
+    { elmui = Element.rgb255 185 217 185
+    , color = Color.rgb255 185 217 185
+    , hex = "#B9D9B9"
+    , rgb = ( 185, 217, 185 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Koka' -}
+koka : Color
+koka =
+    { elmui = Element.rgb255 33 81 102
+    , color = Color.rgb255 33 81 102
+    , hex = "#215166"
+    , rgb = ( 33, 81, 102 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Kotlin' -}
 kotlin : Color
 kotlin =
@@ -10057,6 +11306,28 @@ labview =
     }
 
 
+{-| Github language color for 'Lambdapi' -}
+lambdapi : Color
+lambdapi =
+    { elmui = Element.rgb255 128 39 163
+    , color = Color.rgb255 128 39 163
+    , hex = "#8027a3"
+    , rgb = ( 128, 39, 163 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Langium' -}
+langium : Color
+langium =
+    { elmui = Element.rgb255 44 140 135
+    , color = Color.rgb255 44 140 135
+    , hex = "#2c8c87"
+    , rgb = ( 44, 140, 135 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Lark' -}
 lark : Color
 lark =
@@ -10109,6 +11380,17 @@ lean_4 =
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
     , hasColor = False
+    }
+
+
+{-| Github language color for 'Leo' -}
+leo : Color
+leo =
+    { elmui = Element.rgb255 196 255 194
+    , color = Color.rgb255 196 255 194
+    , hex = "#C4FFC2"
+    , rgb = ( 196, 255, 194 )
+    , hasColor = True
     }
 
 
@@ -10167,6 +11449,28 @@ limbo =
     }
 
 
+{-| Github language color for 'Linear Programming' -}
+linear_programming : Color
+linear_programming =
+    { elmui = Element.rgb255 204 204 204
+    , color = Color.rgb255 204 204 204
+    , hex = "#ccc"
+    , rgb = ( 204, 204, 204 )
+    , hasColor = False
+    }
+
+
+{-| Github language color for 'Linker Script' -}
+linker_script : Color
+linker_script =
+    { elmui = Element.rgb255 204 204 204
+    , color = Color.rgb255 204 204 204
+    , hex = "#ccc"
+    , rgb = ( 204, 204, 204 )
+    , hasColor = False
+    }
+
+
 {-| Github language color for 'Liquid' -}
 liquid : Color
 liquid =
@@ -10174,6 +11478,17 @@ liquid =
     , color = Color.rgb255 103 184 222
     , hex = "#67b8de"
     , rgb = ( 103, 184, 222 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Liquidsoap' -}
+liquidsoap : Color
+liquidsoap =
+    { elmui = Element.rgb255 153 0 102
+    , color = Color.rgb255 153 0 102
+    , hex = "#990066"
+    , rgb = ( 153, 0, 102 )
     , hasColor = True
     }
 
@@ -10229,6 +11544,17 @@ livescript =
     , color = Color.rgb255 73 152 134
     , hex = "#499886"
     , rgb = ( 73, 152, 134 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Lobster' -}
+lobster : Color
+lobster =
+    { elmui = Element.rgb255 249 84 40
+    , color = Color.rgb255 249 84 40
+    , hex = "#f95428"
+    , rgb = ( 249, 84, 40 )
     , hasColor = True
     }
 
@@ -10307,6 +11633,17 @@ m =
     , hex = "#ccc"
     , rgb = ( 204, 204, 204 )
     , hasColor = False
+    }
+
+
+{-| Github language color for 'M3U' -}
+m3u : Color
+m3u =
+    { elmui = Element.rgb255 23 156 125
+    , color = Color.rgb255 23 156 125
+    , hex = "#179C7D"
+    , rgb = ( 23, 156, 125 )
+    , hasColor = True
     }
 
 
@@ -10486,13 +11823,13 @@ mask =
     }
 
 
-{-| Github language color for 'Mathematica' -}
-mathematica : Color
-mathematica =
-    { elmui = Element.rgb255 221 17 0
-    , color = Color.rgb255 221 17 0
-    , hex = "#dd1100"
-    , rgb = ( 221, 17, 0 )
+{-| Github language color for 'Mathematical Programming System' -}
+mathematical_programming_system : Color
+mathematical_programming_system =
+    { elmui = Element.rgb255 5 48 173
+    , color = Color.rgb255 5 48 173
+    , hex = "#0530ad"
+    , rgb = ( 5, 48, 173 )
     , hasColor = True
     }
 
@@ -10504,6 +11841,17 @@ max =
     , color = Color.rgb255 196 167 156
     , hex = "#c4a79c"
     , rgb = ( 196, 167, 156 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'MeTTa' -}
+metta : Color
+metta =
+    { elmui = Element.rgb255 106 90 205
+    , color = Color.rgb255 106 90 205
+    , hex = "#6a5acd"
+    , rgb = ( 106, 90, 205 )
     , hasColor = True
     }
 
@@ -10563,6 +11911,17 @@ minid =
     }
 
 
+{-| Github language color for 'MiniScript' -}
+miniscript : Color
+miniscript =
+    { elmui = Element.rgb255 75 74 86
+    , color = Color.rgb255 75 74 86
+    , hex = "#4B4A56"
+    , rgb = ( 75, 74, 86 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'MiniYAML' -}
 miniyaml : Color
 miniyaml =
@@ -10570,6 +11929,17 @@ miniyaml =
     , color = Color.rgb255 255 17 17
     , hex = "#ff1111"
     , rgb = ( 255, 17, 17 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'MiniZinc' -}
+minizinc : Color
+minizinc =
+    { elmui = Element.rgb255 6 169 230
+    , color = Color.rgb255 6 169 230
+    , hex = "#06a9e6"
+    , rgb = ( 6, 169, 230 )
     , hasColor = True
     }
 
@@ -10926,6 +12296,17 @@ nginx =
     }
 
 
+{-| Github language color for 'Nickel' -}
+nickel : Color
+nickel =
+    { elmui = Element.rgb255 224 195 252
+    , color = Color.rgb255 224 195 252
+    , hex = "#E0C3FC"
+    , rgb = ( 224, 195, 252 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Nim' -}
 nim : Color
 nim =
@@ -11065,6 +12446,28 @@ ocaml =
     , color = Color.rgb255 239 122 8
     , hex = "#ef7a08"
     , rgb = ( 239, 122, 8 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'OMNeT++ MSG' -}
+omnetpp_msg : Color
+omnetpp_msg =
+    { elmui = Element.rgb255 160 224 160
+    , color = Color.rgb255 160 224 160
+    , hex = "#a0e0a0"
+    , rgb = ( 160, 224, 160 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'OMNeT++ NED' -}
+omnetpp_ned : Color
+omnetpp_ned =
+    { elmui = Element.rgb255 8 96 124
+    , color = Color.rgb255 8 96 124
+    , hex = "#08607c"
+    , rgb = ( 8, 96, 124 )
     , hasColor = True
     }
 
@@ -11274,6 +12677,28 @@ org =
     , color = Color.rgb255 119 170 153
     , hex = "#77aa99"
     , rgb = ( 119, 170, 153 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'OverPy' -}
+overpy : Color
+overpy =
+    { elmui = Element.rgb255 120 179 85
+    , color = Color.rgb255 120 179 85
+    , hex = "#78b355"
+    , rgb = ( 120, 179, 85 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'OverpassQL' -}
+overpassql : Color
+overpassql =
+    { elmui = Element.rgb255 204 226 170
+    , color = Color.rgb255 204 226 170
+    , hex = "#cce2aa"
+    , rgb = ( 204, 226, 170 )
     , hasColor = True
     }
 
@@ -11630,6 +13055,17 @@ postscript =
     }
 
 
+{-| Github language color for 'Power Query' -}
+power_query : Color
+power_query =
+    { elmui = Element.rgb255 211 142 13
+    , color = Color.rgb255 211 142 13
+    , hex = "#d38e0d"
+    , rgb = ( 211, 142, 13 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'PowerBuilder' -}
 powerbuilder : Color
 powerbuilder =
@@ -11670,6 +13106,17 @@ prisma =
     , color = Color.rgb255 12 52 75
     , hex = "#0c344b"
     , rgb = ( 12, 52, 75 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Pro*C' -}
+pro_starc : Color
+pro_starc =
+    { elmui = Element.rgb255 187 131 104
+    , color = Color.rgb255 187 131 104
+    , hex = "#bb8368"
+    , rgb = ( 187, 131, 104 )
     , hasColor = True
     }
 
@@ -11872,6 +13319,17 @@ quake =
     }
 
 
+{-| Github language color for 'QuakeC' -}
+quakec : Color
+quakec =
+    { elmui = Element.rgb255 151 87 119
+    , color = Color.rgb255 151 87 119
+    , hex = "#975777"
+    , rgb = ( 151, 87, 119 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'QuickBASIC' -}
 quickbasic : Color
 quickbasic =
@@ -11879,6 +13337,17 @@ quickbasic =
     , color = Color.rgb255 0 128 128
     , hex = "#008080"
     , rgb = ( 0, 128, 128 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Quint' -}
+quint : Color
+quint =
+    { elmui = Element.rgb255 157 108 229
+    , color = Color.rgb255 157 108 229
+    , hex = "#9d6ce5"
+    , rgb = ( 157, 108, 229 )
     , hasColor = True
     }
 
@@ -11901,6 +13370,17 @@ raml =
     , color = Color.rgb255 119 217 251
     , hex = "#77d9fb"
     , rgb = ( 119, 217, 251 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'RAScript' -}
+rascript : Color
+rascript =
+    { elmui = Element.rgb255 44 151 250
+    , color = Color.rgb255 44 151 250
+    , hex = "#2C97FA"
+    , rgb = ( 44, 151, 250 )
     , hasColor = True
     }
 
@@ -11967,6 +13447,17 @@ ron =
     , color = Color.rgb255 166 44 0
     , hex = "#a62c00"
     , rgb = ( 166, 44, 0 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'ROS Interface' -}
+ros_interface : Color
+ros_interface =
+    { elmui = Element.rgb255 34 49 78
+    , color = Color.rgb255 34 49 78
+    , hex = "#22314e"
+    , rgb = ( 34, 49, 78 )
     , hasColor = True
     }
 
@@ -12125,6 +13616,17 @@ redcode =
     }
 
 
+{-| Github language color for 'Redscript' -}
+redscript : Color
+redscript =
+    { elmui = Element.rgb255 244 67 54
+    , color = Color.rgb255 244 67 54
+    , hex = "#f44336"
+    , rgb = ( 244, 67, 54 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Regular Expression' -}
 regular_expression : Color
 regular_expression =
@@ -12209,6 +13711,17 @@ roc =
     , color = Color.rgb255 124 56 245
     , hex = "#7c38f5"
     , rgb = ( 124, 56, 245 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Rocq Prover' -}
+rocq_prover : Color
+rocq_prover =
+    { elmui = Element.rgb255 208 182 140
+    , color = Color.rgb255 208 182 140
+    , hex = "#d0b68c"
+    , rgb = ( 208, 182, 140 )
     , hasColor = True
     }
 
@@ -12411,13 +13924,24 @@ sage =
     }
 
 
-{-| Github language color for 'SaltStack' -}
-saltstack : Color
-saltstack =
-    { elmui = Element.rgb255 100 100 100
-    , color = Color.rgb255 100 100 100
-    , hex = "#646464"
-    , rgb = ( 100, 100, 100 )
+{-| Github language color for 'Sail' -}
+sail : Color
+sail =
+    { elmui = Element.rgb255 37 157 213
+    , color = Color.rgb255 37 157 213
+    , hex = "#259dd5"
+    , rgb = ( 37, 157, 213 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Salt' -}
+salt : Color
+salt =
+    { elmui = Element.rgb255 87 188 173
+    , color = Color.rgb255 87 188 173
+    , hex = "#57bcad"
+    , rgb = ( 87, 188, 173 )
     , hasColor = True
     }
 
@@ -12587,6 +14111,17 @@ singularity =
     }
 
 
+{-| Github language color for 'Slang' -}
+slang : Color
+slang =
+    { elmui = Element.rgb255 31 190 201
+    , color = Color.rgb255 31 190 201
+    , hex = "#1fbec9"
+    , rgb = ( 31, 190, 201 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Slash' -}
 slash : Color
 slash =
@@ -12719,6 +14254,17 @@ sourcepawn =
     }
 
 
+{-| Github language color for 'SpiceDB Schema' -}
+spicedb_schema : Color
+spicedb_schema =
+    { elmui = Element.rgb255 165 49 138
+    , color = Color.rgb255 165 49 138
+    , hex = "#a5318a"
+    , rgb = ( 165, 49, 138 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Squirrel' -}
 squirrel : Color
 squirrel =
@@ -12829,6 +14375,28 @@ supercollider =
     }
 
 
+{-| Github language color for 'SurrealQL' -}
+surrealql : Color
+surrealql =
+    { elmui = Element.rgb255 255 0 160
+    , color = Color.rgb255 255 0 160
+    , hex = "#ff00a0"
+    , rgb = ( 255, 0, 160 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Survex data' -}
+survex_data : Color
+survex_data =
+    { elmui = Element.rgb255 255 204 153
+    , color = Color.rgb255 255 204 153
+    , hex = "#ffcc99"
+    , rgb = ( 255, 204, 153 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Svelte' -}
 svelte : Color
 svelte =
@@ -12917,6 +14485,17 @@ tla =
     }
 
 
+{-| Github language color for 'TMDL' -}
+tmdl : Color
+tmdl =
+    { elmui = Element.rgb255 240 201 19
+    , color = Color.rgb255 240 201 19
+    , hex = "#f0c913"
+    , rgb = ( 240, 201, 19 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'TOML' -}
 toml : Color
 toml =
@@ -12994,6 +14573,17 @@ talon =
     }
 
 
+{-| Github language color for 'Tape' -}
+tape : Color
+tape =
+    { elmui = Element.rgb255 204 204 204
+    , color = Color.rgb255 204 204 204
+    , hex = "#ccc"
+    , rgb = ( 204, 204, 204 )
+    , hasColor = False
+    }
+
+
 {-| Github language color for 'Tcl' -}
 tcl : Color
 tcl =
@@ -13023,6 +14613,17 @@ tex =
     , color = Color.rgb255 61 97 23
     , hex = "#3D6117"
     , rgb = ( 61, 97, 23 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Teal' -}
+teal : Color
+teal =
+    { elmui = Element.rgb255 0 177 188
+    , color = Color.rgb255 0 177 188
+    , hex = "#00B1BC"
+    , rgb = ( 0, 177, 188 )
     , hasColor = True
     }
 
@@ -13100,6 +14701,39 @@ toit =
     , color = Color.rgb255 194 201 251
     , hex = "#c2c9fb"
     , rgb = ( 194, 201, 251 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Tolk' -}
+tolk : Color
+tolk =
+    { elmui = Element.rgb255 48 161 245
+    , color = Color.rgb255 48 161 245
+    , hex = "#30A1F5"
+    , rgb = ( 48, 161, 245 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Tor Config' -}
+tor_config : Color
+tor_config =
+    { elmui = Element.rgb255 89 49 107
+    , color = Color.rgb255 89 49 107
+    , hex = "#59316b"
+    , rgb = ( 89, 49, 107 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Tree-sitter Query' -}
+tree_sitter_query : Color
+tree_sitter_query =
+    { elmui = Element.rgb255 142 166 76
+    , color = Color.rgb255 142 166 76
+    , hex = "#8ea64c"
+    , rgb = ( 142, 166, 76 )
     , hasColor = True
     }
 
@@ -13214,6 +14848,17 @@ unrealscript =
     }
 
 
+{-| Github language color for 'Untyped Plutus Core' -}
+untyped_plutus_core : Color
+untyped_plutus_core =
+    { elmui = Element.rgb255 54 173 189
+    , color = Color.rgb255 54 173 189
+    , hex = "#36adbd"
+    , rgb = ( 54, 173, 189 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'UrWeb' -}
 urweb : Color
 urweb =
@@ -13313,6 +14958,17 @@ velocity_template_language =
     }
 
 
+{-| Github language color for 'Vento' -}
+vento : Color
+vento =
+    { elmui = Element.rgb255 255 0 128
+    , color = Color.rgb255 255 0 128
+    , hex = "#ff0080"
+    , rgb = ( 255, 0, 128 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'Verilog' -}
 verilog : Color
 verilog =
@@ -13320,6 +14976,28 @@ verilog =
     , color = Color.rgb255 178 183 248
     , hex = "#b2b7f8"
     , rgb = ( 178, 183, 248 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Verse' -}
+verse : Color
+verse =
+    { elmui = Element.rgb255 81 142 248
+    , color = Color.rgb255 81 142 248
+    , hex = "#518ef8"
+    , rgb = ( 81, 142, 248 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Vespa Schema Definition' -}
+vespa_schema_definition : Color
+vespa_schema_definition =
+    { elmui = Element.rgb255 97 215 144
+    , color = Color.rgb255 97 215 144
+    , hex = "#61D790"
+    , rgb = ( 97, 215, 144 )
     , hasColor = True
     }
 
@@ -13335,9 +15013,9 @@ vim_help_file =
     }
 
 
-{-| Github language color for 'Vim Script' -}
-vim_script : Color
-vim_script =
+{-| Github language color for 'Vim Snippet' -}
+vim_snippet : Color
+vim_snippet =
     { elmui = Element.rgb255 25 159 75
     , color = Color.rgb255 25 159 75
     , hex = "#199f4b"
@@ -13346,9 +15024,9 @@ vim_script =
     }
 
 
-{-| Github language color for 'Vim Snippet' -}
-vim_snippet : Color
-vim_snippet =
+{-| Github language color for 'Vim script' -}
+vim_script : Color
+vim_script =
     { elmui = Element.rgb255 25 159 75
     , color = Color.rgb255 25 159 75
     , hex = "#199f4b"
@@ -13404,10 +15082,10 @@ vue =
 {-| Github language color for 'Vyper' -}
 vyper : Color
 vyper =
-    { elmui = Element.rgb255 41 128 185
-    , color = Color.rgb255 41 128 185
-    , hex = "#2980b9"
-    , rgb = ( 41, 128, 185 )
+    { elmui = Element.rgb255 159 76 242
+    , color = Color.rgb255 159 76 242
+    , hex = "#9F4CF2"
+    , rgb = ( 159, 76, 242 )
     , hasColor = True
     }
 
@@ -13518,6 +15196,17 @@ witcher_script =
     , color = Color.rgb255 255 0 0
     , hex = "#ff0000"
     , rgb = ( 255, 0, 0 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Wolfram Language' -}
+wolfram_language : Color
+wolfram_language =
+    { elmui = Element.rgb255 221 17 0
+    , color = Color.rgb255 221 17 0
+    , hex = "#dd1100"
+    , rgb = ( 221, 17, 0 )
     , hasColor = True
     }
 
@@ -13639,6 +15328,17 @@ xslt =
     , color = Color.rgb255 235 140 235
     , hex = "#EB8CEB"
     , rgb = ( 235, 140, 235 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'Xmake' -}
+xmake : Color
+xmake =
+    { elmui = Element.rgb255 34 160 121
+    , color = Color.rgb255 34 160 121
+    , hex = "#22a079"
+    , rgb = ( 34, 160, 121 )
     , hasColor = True
     }
 
@@ -13808,6 +15508,17 @@ zimpl =
     }
 
 
+{-| Github language color for 'Zmodel' -}
+zmodel : Color
+zmodel =
+    { elmui = Element.rgb255 255 113 0
+    , color = Color.rgb255 255 113 0
+    , hex = "#ff7100"
+    , rgb = ( 255, 113, 0 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'crontab' -}
 crontab : Color
 crontab =
@@ -13907,6 +15618,17 @@ mcfunction =
     }
 
 
+{-| Github language color for 'mdsvex' -}
+mdsvex : Color
+mdsvex =
+    { elmui = Element.rgb255 95 158 160
+    , color = Color.rgb255 95 158 160
+    , hex = "#5f9ea0"
+    , rgb = ( 95, 158, 160 )
+    , hasColor = True
+    }
+
+
 {-| Github language color for 'mupad' -}
 mupad : Color
 mupad =
@@ -13940,28 +15662,6 @@ nesc =
     }
 
 
-{-| Github language color for 'omnetpp-msg' -}
-omnetpp_msg : Color
-omnetpp_msg =
-    { elmui = Element.rgb255 160 224 160
-    , color = Color.rgb255 160 224 160
-    , hex = "#a0e0a0"
-    , rgb = ( 160, 224, 160 )
-    , hasColor = True
-    }
-
-
-{-| Github language color for 'omnetpp-ned' -}
-omnetpp_ned : Color
-omnetpp_ned =
-    { elmui = Element.rgb255 8 96 124
-    , color = Color.rgb255 8 96 124
-    , hex = "#08607c"
-    , rgb = ( 8, 96, 124 )
-    , hasColor = True
-    }
-
-
 {-| Github language color for 'ooc' -}
 ooc : Color
 ooc =
@@ -13969,6 +15669,17 @@ ooc =
     , color = Color.rgb255 176 183 126
     , hex = "#b0b77e"
     , rgb = ( 176, 183, 126 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'pkg-config' -}
+pkg_config : Color
+pkg_config =
+    { elmui = Element.rgb255 43 94 130
+    , color = Color.rgb255 43 94 130
+    , hex = "#2b5e82"
+    , rgb = ( 43, 94, 130 )
     , hasColor = True
     }
 
@@ -14013,6 +15724,17 @@ templ =
     , color = Color.rgb255 102 208 221
     , hex = "#66D0DD"
     , rgb = ( 102, 208, 221 )
+    , hasColor = True
+    }
+
+
+{-| Github language color for 'ucode' -}
+ucode : Color
+ucode =
+    { elmui = Element.rgb255 0 184 212
+    , color = Color.rgb255 0 184 212
+    , hex = "#00b8d4"
+    , rgb = ( 0, 184, 212 )
     , hasColor = True
     }
 
