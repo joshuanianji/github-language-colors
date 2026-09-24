@@ -15911,19 +15911,19 @@ xbase =
     }
 
 
-{-| **Deprecated:** 'Coq' was renamed to 'Rocq Prover'. Use `rocq_prover` instead. -}
+{-| **@deprecated** 'Coq' was renamed to 'Rocq Prover'. Use `rocq_prover` instead. -}
 coq : Color
 coq =
     rocq_prover
 
 
-{-| **Deprecated:** 'Mathematica' was renamed to 'Wolfram Language'. Use `wolfram_language` instead. -}
+{-| **@deprecated** 'Mathematica' was renamed to 'Wolfram Language'. Use `wolfram_language` instead. -}
 mathematica : Color
 mathematica =
     wolfram_language
 
 
-{-| **Deprecated:** 'SaltStack' was renamed to 'Salt'. Use `salt` instead. -}
+{-| **@deprecated** 'SaltStack' was renamed to 'Salt'. Use `salt` instead. -}
 saltstack : Color
 saltstack =
     salt

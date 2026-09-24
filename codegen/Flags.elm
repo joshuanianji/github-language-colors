@@ -15,6 +15,9 @@ import Util
 
 type alias Flag =
     { languages : List Language
+
+    -- removed languages with a frozen color. These are not part of the `Language` type
+    , removed : List Language
     , aliases : List ProcessedAlias
     }
 
@@ -23,7 +26,7 @@ type alias Language =
     WithProcessed (WithName FlagColor)
 
 
-{-| A deprecated name that points to a current language
+{-| A deprecated name that points to another language
 -}
 type alias ProcessedAlias =
     { -- old Github name, e.g. "Coq"
@@ -32,6 +35,9 @@ type alias ProcessedAlias =
     -- old name processed into an Elm variable, e.g. "coq"
     , oldName : String
     , target : Language
+
+    -- False if the target is a removed language, which has no `Language` constructor
+    , targetIsCurrent : Bool
     }
 
 
@@ -103,17 +109,33 @@ addName ( name, data ) =
 -------------------
 
 
-{-| Resolves the aliases in `Aliases.elm` and makes sure no two exposed values end up with the same name.
+{-| Resolves the entries in `Aliases.elm` and makes sure no two exposed values end up with the same name.
 A clash would fail to compile, and silently dropping a value would be a MAJOR change, so we error out instead.
+
+Current languages always win: entries for languages that came back to Github are ignored.
+
 -}
 validate : List Language -> Result (List Error) Flag
 validate languages =
     let
+        isCurrent name =
+            List.any (\l -> l.name == name) languages
+
+        ( removed, removedErrors ) =
+            Aliases.removed
+                |> List.filter (\r -> not (isCurrent r.name))
+                |> List.map (\r -> process { name = r.name, color = r.color, url = "" })
+                |> Result.Extra.partition
+
         ( processedAliases, aliasErrors ) =
-            Result.Extra.partition (List.map (processAlias languages) Aliases.aliases)
+            Aliases.aliases
+                |> List.filter (\a -> not (isCurrent a.old))
+                |> List.map (processAlias languages removed)
+                |> Result.Extra.partition
 
         exposedNames =
             List.map (\l -> ( l.processed.name, "'" ++ l.name ++ "'" )) languages
+                ++ List.map (\r -> ( r.processed.name, "removed '" ++ r.name ++ "'" )) removed
                 ++ List.map (\a -> ( a.oldName, "the alias for '" ++ a.old ++ "'" )) processedAliases
 
         clashErrors =
@@ -126,30 +148,33 @@ validate languages =
                         Error.err <| "Name clash: " ++ String.join " and " (List.reverse sources) ++ " map to `" ++ name ++ "`"
                     )
     in
-    case aliasErrors ++ clashErrors of
+    case removedErrors ++ aliasErrors ++ clashErrors of
         [] ->
-            Ok { languages = languages, aliases = processedAliases }
+            Ok { languages = languages, removed = removed, aliases = processedAliases }
 
         errors ->
             Err errors
 
 
-processAlias : List Language -> Alias -> Result Error ProcessedAlias
-processAlias languages alias =
+processAlias : List Language -> List Language -> Alias -> Result Error ProcessedAlias
+processAlias languages removed alias =
     let
         find name =
-            List.filter (\l -> l.name == name) languages |> List.head
-    in
-    case ( find alias.old, find alias.new ) of
-        ( Just _, _ ) ->
-            Err <| Error.err <| "'" ++ alias.old ++ "' is a Github language again. Remove its alias in codegen/Aliases.elm"
+            List.filter (\l -> l.name == name) >> List.head
 
-        ( Nothing, Nothing ) ->
-            Err <| Error.err <| "Alias target '" ++ alias.new ++ "' (for '" ++ alias.old ++ "') is no longer a Github language. Point it at the new name in codegen/Aliases.elm"
+        toAlias targetIsCurrent target =
+            processName alias.old
+                |> Result.map (\oldName -> { old = alias.old, oldName = oldName, target = target, targetIsCurrent = targetIsCurrent })
+    in
+    case ( find alias.new languages, find alias.new removed ) of
+        ( Just target, _ ) ->
+            toAlias True target
 
         ( Nothing, Just target ) ->
-            processName alias.old
-                |> Result.map (\oldName -> { old = alias.old, oldName = oldName, target = target })
+            toAlias False target
+
+        ( Nothing, Nothing ) ->
+            Err <| Error.err <| "Alias target '" ++ alias.new ++ "' (for '" ++ alias.old ++ "') is no longer a Github language. Point it at the new name, or add it to `removed` in codegen/Aliases.elm"
 
 
 

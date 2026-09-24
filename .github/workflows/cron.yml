@@ -34,13 +34,13 @@ jobs:
       - name: Run `elm-review`
         run: pnpm review
 
-      # Removing a language is a MAJOR change. Renamed languages should get an alias in codegen/Aliases.elm instead
+      # Removing a language is a MAJOR change. Renamed or removed languages should get an entry in codegen/Aliases.elm instead
       - name: Check for breaking changes
         run: |
           diff=$(pnpm elm diff)
           echo "$diff"
           if echo "$diff" | grep -q "MAJOR"; then
-            echo "::error::This update is a MAJOR change. If a language was renamed, add an alias in codegen/Aliases.elm"
+            echo "::error::This update is a MAJOR change. If a language was renamed or removed, add an entry in codegen/Aliases.elm"
             exit 1
           fi
 

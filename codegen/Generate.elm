@@ -42,6 +42,9 @@ The `elmui` and `color` fields are provided for convenience, but you can also us
         colorDeclarations =
             List.map generateColorDecl flag.languages
 
+        removedDeclarations =
+            List.map generateRemovedDecl flag.removed
+
         aliasDeclarations =
             List.map generateAliasDecl flag.aliases
     in
@@ -55,6 +58,7 @@ The `elmui` and `color` fields are provided for convenience, but you can also us
             :: (generateToString flag.languages)
             :: (generateToColor flag.languages)
             :: colorDeclarations
+            ++ removedDeclarations
             ++ aliasDeclarations)
     ]
 
@@ -133,7 +137,7 @@ generateFromString flag =
 
         cases = 
             List.map (\c -> toCase c.name c) flag.languages
-                ++ List.map (\a -> toCase a.old a.target) flag.aliases
+                ++ List.map (\a -> toCase a.old a.target) (List.filter .targetIsCurrent flag.aliases)
     in 
     Elm.fn ("String", Just Type.string) 
         (\firstArg ->
@@ -173,11 +177,24 @@ generateColorDecl color =
             }
 
 
+-- Removed languages keep their last known color, and are deprecated
+
+
+generateRemovedDecl : Language -> Elm.Declaration
+generateRemovedDecl language =
+    generateColorDecl language
+        |> Elm.withDocumentation ("**@deprecated** '" ++ language.name ++ "' was removed from Github. This is its last known color.")
+        |> Elm.exposeWith
+            { exposeConstructor = False
+            , group = Just "Deprecated"
+            }
+
+
 generateAliasDecl : ProcessedAlias -> Elm.Declaration
 generateAliasDecl alias =
     Elm.declaration alias.oldName
         (Elm.val alias.target.processed.name |> Elm.withType colorType)
-        |> Elm.withDocumentation ("**Deprecated:** '" ++ alias.old ++ "' was renamed to '" ++ alias.target.name ++ "'. Use `" ++ alias.target.processed.name ++ "` instead.")
+        |> Elm.withDocumentation ("**@deprecated** '" ++ alias.old ++ "' was renamed to '" ++ alias.target.name ++ "'. Use `" ++ alias.target.processed.name ++ "` instead.")
         |> Elm.exposeWith
             { exposeConstructor = False
             , group = Just "Deprecated"

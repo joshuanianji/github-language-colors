@@ -71,9 +71,9 @@ GithubColors.fromString "Elm"
 
 `Language` is an opaque type, so new languages can be added without a breaking change.
 
-## Renamed Languages
+## Renamed and Removed Languages
 
-When Github renames a language (e.g. "Coq" became "Rocq Prover"), the old variable is kept as a deprecated alias of the new one, and `fromString` still accepts the old name. Aliases are listed in [`codegen/Aliases.elm`](https://github.com/joshuanianji/github-language-colors/blob/main/codegen/Aliases.elm).
+When Github renames a language (e.g. "Coq" became "Rocq Prover"), the old variable is kept as a deprecated alias of the new one, and `fromString` still accepts the old name. When Github removes a language, its variable is kept with its last known color. These are marked `@deprecated`, which [`NoDeprecated`](https://package.elm-lang.org/packages/jfmengels/elm-review-common/latest/NoDeprecated) from elm-review will pick up. They are listed in [`codegen/Aliases.elm`](https://github.com/joshuanianji/github-language-colors/blob/main/codegen/Aliases.elm).
 
 ## Run Locally
 
