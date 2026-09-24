@@ -59,6 +59,22 @@ E.g.
 
 If you find any issues with the language naming, please submit an issue or a PR!
 
+## Looking Up Languages by Name
+
+If you only know the language name at runtime (e.g. from the Github API), use `fromString` and `toColor`:
+
+```elm
+GithubColors.fromString "Elm"
+    |> Maybe.map (GithubColors.toColor >> .hex)
+-- Just "#60B5CC"
+```
+
+`Language` is an opaque type, so new languages can be added without a breaking change.
+
+## Renamed and Removed Languages
+
+When Github renames a language (e.g. "Coq" became "Rocq Prover"), the old variable is kept as a deprecated alias of the new one, and `fromString` still accepts the old name. When Github removes a language, its variable is kept with its last known color. These are marked `@deprecated`, which [`NoDeprecated`](https://package.elm-lang.org/packages/jfmengels/elm-review-common/latest/NoDeprecated) from elm-review will pick up. They are listed in [`codegen/Aliases.elm`](https://github.com/joshuanianji/github-language-colors/blob/main/codegen/Aliases.elm).
+
 ## Run Locally
 
 ```bash

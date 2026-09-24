@@ -5,7 +5,7 @@ module Generate exposing (main)
 
 import Elm
 import Elm.Annotation as Type
-import Flags exposing (Flag, FlagColor, WithName, WithProcessed)
+import Flags exposing (Flag, Language, ProcessedAlias)
 import Gen.CodeGen.Generate as Generate
 import Gen.Color
 import Gen.Element
@@ -40,18 +40,26 @@ generate flag =
 The `elmui` and `color` fields are provided for convenience, but you can also use the `hex` and `rgb` fields to construct your own color values."""
 
         colorDeclarations =
-            List.map generateColorDecl flag
+            List.map generateColorDecl flag.languages
+
+        removedDeclarations =
+            List.map generateRemovedDecl flag.removed
+
+        aliasDeclarations =
+            List.map generateAliasDecl flag.aliases
     in
     [ Elm.fileWith [ "GithubColors" ]
         { docs = \l -> topLevelDoc :: List.map Elm.docs l
         , aliases = []
         }
         (colorTypeDeclaration 
-            :: (generateLanguageType flag) 
+            :: (generateLanguageType flag.languages) 
             :: (generateFromString flag)
-            :: (generateToString flag)
-            :: (generateToColor flag)
-            :: colorDeclarations)
+            :: (generateToString flag.languages)
+            :: (generateToColor flag.languages)
+            :: colorDeclarations
+            ++ removedDeclarations
+            ++ aliasDeclarations)
     ]
 
 
@@ -78,18 +86,21 @@ colorTypeRecord =
         ]
 
 
-generateLanguageType : Flag -> Elm.Declaration
+-- The constructors are not exposed, so adding languages is not a breaking change
+
+
+generateLanguageType : List Language -> Elm.Declaration
 generateLanguageType colors =   
     List.map (\c -> Elm.variant c.processed.capitalizedName) colors
         |> Elm.customType "Language"
-        |> Elm.withDocumentation ("A type representing all supported languages on Github.")
+        |> Elm.withDocumentation ("A type representing all supported languages on Github. Use `fromString` to get a `Language` value.")
         |> Elm.exposeWith 
-            { exposeConstructor = True 
+            { exposeConstructor = False 
             , group = Just "Language"
             }
 
 
-generateToString : Flag -> Elm.Declaration
+generateToString : List Language -> Elm.Declaration
 generateToString colors = 
     let
         cases = 
@@ -117,16 +128,16 @@ generateToString colors =
 
 -- String -> Maybe Language
 generateFromString : Flag -> Elm.Declaration
-generateFromString colors =
+generateFromString flag =
     let
+        toCase name c =
+            ( name
+            , Elm.just (Elm.value { importFrom = [], name = c.processed.capitalizedName, annotation = Just languageType})
+            )
+
         cases = 
-            List.map 
-                (\c -> 
-                    ( c.name
-                    , Elm.just (Elm.value { importFrom = [], name = c.processed.capitalizedName, annotation = Just languageType})
-                    )
-                )
-                colors
+            List.map (\c -> toCase c.name c) flag.languages
+                ++ List.map (\a -> toCase a.old a.target) (List.filter .targetIsCurrent flag.aliases)
     in 
     Elm.fn ("String", Just Type.string) 
         (\firstArg ->
@@ -136,14 +147,14 @@ generateFromString colors =
                 } 
         )
         |> Elm.declaration "fromString"
-        |> Elm.withDocumentation ("Converts a language name to a `Maybe Language` value. For example, \"C++\" -> `Just Lang_Cpp`")
+        |> Elm.withDocumentation ("Converts a Github language name (e.g. \"C++\") to a `Language`. Returns `Nothing` if the language is not supported. Old names of renamed languages are also accepted.")
         |> Elm.exposeWith 
             { exposeConstructor = False
             , group = Just "Language Colors"
             }
 
 
-generateColorDecl : WithProcessed (WithName FlagColor) -> Elm.Declaration
+generateColorDecl : Language -> Elm.Declaration
 generateColorDecl color =
     let
         ( r, g, b ) =
@@ -166,7 +177,31 @@ generateColorDecl color =
             }
 
 
-generateToColor : Flag -> Elm.Declaration
+-- Removed languages keep their last known color, and are deprecated
+
+
+generateRemovedDecl : Language -> Elm.Declaration
+generateRemovedDecl language =
+    generateColorDecl language
+        |> Elm.withDocumentation ("**@deprecated** '" ++ language.name ++ "' was removed from Github. This is its last known color.")
+        |> Elm.exposeWith
+            { exposeConstructor = False
+            , group = Just "Deprecated"
+            }
+
+
+generateAliasDecl : ProcessedAlias -> Elm.Declaration
+generateAliasDecl alias =
+    Elm.declaration alias.oldName
+        (Elm.val alias.target.processed.name |> Elm.withType colorType)
+        |> Elm.withDocumentation ("**@deprecated** '" ++ alias.old ++ "' was renamed to '" ++ alias.target.name ++ "'. Use `" ++ alias.target.processed.name ++ "` instead.")
+        |> Elm.exposeWith
+            { exposeConstructor = False
+            , group = Just "Deprecated"
+            }
+
+
+generateToColor : List Language -> Elm.Declaration
 generateToColor colors =
     let 
         cases = 
@@ -186,7 +221,7 @@ generateToColor colors =
         )
         |> Elm.withType (Type.function [languageType] colorType)
         |> Elm.declaration "toColor"
-        |> Elm.withDocumentation ("Converts a `Language` value to its name")
+        |> Elm.withDocumentation ("Converts a `Language` value to its color")
         |> Elm.exposeWith 
             { exposeConstructor = False
             , group = Just "Language Colors"

@@ -25,3 +25,6 @@ jobs:
 
       - name: Run `elm-review`
         run: pnpm review
+
+      - name: Compile
+        run: pnpm elm make --docs=docs.json
