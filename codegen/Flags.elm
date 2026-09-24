@@ -2,6 +2,7 @@ module Flags exposing (..)
 
 -- Flags and JSON decoders for the flags
 
+import Aliases exposing (Alias)
 import Dict
 import Error exposing (Error)
 import Json.Decode as Decode exposing (Decoder)
@@ -13,7 +14,25 @@ import Util
 
 
 type alias Flag =
-    List (WithProcessed (WithName FlagColor))
+    { languages : List Language
+    , aliases : List ProcessedAlias
+    }
+
+
+type alias Language =
+    WithProcessed (WithName FlagColor)
+
+
+{-| A deprecated name that points to a current language
+-}
+type alias ProcessedAlias =
+    { -- old Github name, e.g. "Coq"
+      old : String
+
+    -- old name processed into an Elm variable, e.g. "coq"
+    , oldName : String
+    , target : Language
+    }
 
 
 type alias WithName a =
@@ -50,14 +69,24 @@ decoder =
                 in
                 case partitioned of
                     ( processed, [] ) ->
-                        Decode.succeed processed
+                        case validate processed of
+                            Ok flag ->
+                                Decode.succeed flag
+
+                            Err errors ->
+                                failWith errors
 
                     ( _, errors ) ->
-                        List.map Error.toString errors
-                            |> String.join ", "
-                            |> (\errs -> "JSON Processing failed! [" ++ errs ++ "]")
-                            |> Decode.fail
+                        failWith errors
             )
+
+
+failWith : List Error -> Decoder a
+failWith errors =
+    List.map Error.toString errors
+        |> String.join ", "
+        |> (\errs -> "JSON Processing failed! [" ++ errs ++ "]")
+        |> Decode.fail
 
 
 addName : ( String, FlagColor ) -> WithName FlagColor
@@ -70,6 +99,61 @@ addName ( name, data ) =
 
 
 -------------------
+-- Validation
+-------------------
+
+
+{-| Resolves the aliases in `Aliases.elm` and makes sure no two exposed values end up with the same name.
+A clash would fail to compile, and silently dropping a value would be a MAJOR change, so we error out instead.
+-}
+validate : List Language -> Result (List Error) Flag
+validate languages =
+    let
+        ( processedAliases, aliasErrors ) =
+            Result.Extra.partition (List.map (processAlias languages) Aliases.aliases)
+
+        exposedNames =
+            List.map (\l -> ( l.processed.name, "'" ++ l.name ++ "'" )) languages
+                ++ List.map (\a -> ( a.oldName, "the alias for '" ++ a.old ++ "'" )) processedAliases
+
+        clashErrors =
+            exposedNames
+                |> List.foldl (\( name, source ) -> Dict.update name (\sources -> Just (source :: Maybe.withDefault [] sources))) Dict.empty
+                |> Dict.toList
+                |> List.filter (\( _, sources ) -> List.length sources > 1)
+                |> List.map
+                    (\( name, sources ) ->
+                        Error.err <| "Name clash: " ++ String.join " and " (List.reverse sources) ++ " map to `" ++ name ++ "`"
+                    )
+    in
+    case aliasErrors ++ clashErrors of
+        [] ->
+            Ok { languages = languages, aliases = processedAliases }
+
+        errors ->
+            Err errors
+
+
+processAlias : List Language -> Alias -> Result Error ProcessedAlias
+processAlias languages alias =
+    let
+        find name =
+            List.filter (\l -> l.name == name) languages |> List.head
+    in
+    case ( find alias.old, find alias.new ) of
+        ( Just _, _ ) ->
+            Err <| Error.err <| "'" ++ alias.old ++ "' is a Github language again. Remove its alias in codegen/Aliases.elm"
+
+        ( Nothing, Nothing ) ->
+            Err <| Error.err <| "Alias target '" ++ alias.new ++ "' (for '" ++ alias.old ++ "') is no longer a Github language. Point it at the new name in codegen/Aliases.elm"
+
+        ( Nothing, Just target ) ->
+            processName alias.old
+                |> Result.map (\oldName -> { old = alias.old, oldName = oldName, target = target })
+
+
+
+-------------------
 -- Process Flag Data
 -------------------
 
@@ -78,7 +162,7 @@ type alias WithProcessed a =
     { a | processed : Processed }
 
 
-process : WithName FlagColor -> Result Error (WithProcessed (WithName FlagColor))
+process : WithName FlagColor -> Result Error Language
 process info =
     Result.map
         (\processed ->
