@@ -21,7 +21,7 @@ main =
         [ Html.text "Elm" ]
 ```
 
-A full list of languages can be found in the [docs](https://package.elm-lang.org/packages/joshuanianji/github-language-colors/latest/GithubColors/).
+A full list of languages can be found in the [docs](https://package.elm-lang.org/packages/joshuanianji/github-language-colors/4.0.0/GithubColors/).
 
 ## Colors
 
@@ -73,7 +73,7 @@ GithubColors.fromString "Elm"
 
 ## Renamed Languages
 
-When Github renames a language (e.g. "Coq" became "Rocq Prover"), the old variable is kept as a deprecated alias of the new one, and `fromString` still accepts the old name. Aliases are listed in [`codegen/Aliases.elm`](codegen/Aliases.elm).
+When Github renames a language (e.g. "Coq" became "Rocq Prover"), the old variable is kept as a deprecated alias of the new one, and `fromString` still accepts the old name. Aliases are listed in [`codegen/Aliases.elm`](https://github.com/joshuanianji/github-language-colors/blob/main/codegen/Aliases.elm).
 
 ## Run Locally
 
