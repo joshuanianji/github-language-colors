@@ -13,17 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.4.0
 
       - name: Install Node.js
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v6.5.0
         with:
-          node-version: 18
+          node-version: 18.20.8
 
       - name: Setup pnpm and Install
-        uses: pnpm/action-setup@v3
+        uses: pnpm/action-setup@v3.0.0
         with:
-          version: 8
+          version: 8.15.9
           run_install: true
 
       - name: Run `elm-review`
@@ -36,14 +36,14 @@ jobs:
 
       - name: Publish
         id: publish
-        uses: dillonkearns/elm-publish-action@v2
+        uses: dillonkearns/elm-publish-action@v2.1.0
         with:
           path-to-elm: ./node_modules/.bin/elm
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
       # at this point, the publish action has created a tag and pushed it to GitHub
       - name: Create Release from Tag
-        uses: ncipollo/release-action@v1
+        uses: ncipollo/release-action@v1.21.0
         if: steps.publish.outputs.is-publishable == 'true'
         with:
           tag: ${{ env.package_version }}
